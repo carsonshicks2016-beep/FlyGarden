@@ -1,0 +1,44 @@
+{
+  "status": "complete",
+  "date": "2026-10-07",
+  "scope": "Six isolated electrical units driven by saved original full-network incoming events. No reconnection to full graph; no effect on parent presynaptic trains.",
+  "sources_reverified": 14,
+  "controller_promoted": false,
+  "artifacts": {
+    "protocol.json": {
+      "sha256": "9454d1151dd1e0d232a700c7934519e56bf2e11c74054ee453551a6554896deb",
+      "bytes": 3806
+    },
+    "results.json": {
+      "sha256": "09a952bf654bde41b75c704f764e97ff01125f4b93ba43510bf31b42b8a2b5f9",
+      "bytes": 8774
+    },
+    "RESULTS.md": {
+      "sha256": "67fd61dbd99a49e9ed018fdcaacaafcdaf2f82b5fe431d77a268d3e3237e8183",
+      "bytes": 2473
+    },
+    "local-stress-reference.png": {
+      "sha256": "65d8060a0fc86cfed88ed02bffc0c69c25cd3c34d0cbd5555f1ce7d3e8ecfd5a",
+      "bytes": 172998
+    }
+  },
+  "local_package_bytes": 601957,
+  "raw_archives_retained_locally": true,
+  "disk_free_bytes_at_delivery": 216714080256,
+  "free_space_reserve_bytes": 2147483648,
+  "numerical_regression_tests": {
+    "passed": 10,
+    "tests": [
+      "tests/test_recorded_drive.py",
+      "tests/test_feedback_trace.py",
+      "tests/test_adaptive_neurons.py"
+    ],
+    "warnings": "29 existing Brian2 pyparsing deprecation warnings"
+  },
+  "runtime_environment": {
+    "python": "3.12",
+    "environment": ".venv-next",
+    "brian2": "2.10.1",
+    "numpy": "2.5.3"
+  }
+}

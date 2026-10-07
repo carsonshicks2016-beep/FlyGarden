@@ -6,6 +6,8 @@ A local 3D laboratory for one persistent connectome-based fly. Open **Open Fly G
 
 Recovery implementation is tracked in [the recovery plan](reports/brain-integration/RECOVERY_PLAN.md) and [current progress](reports/brain-integration/recovery/progress.json). The live full-model option is explicitly an **engineered hybrid**, with tonic walking support and a supplied escape override. New run manifests, checkpoints and frames identify this controller and attribute each motor command; this does not promote the separate experimental controller. [Body/decoder calibration](reports/brain-integration/recovery/body-operating-range/RESULTS.md) confirms substantial motion with adequate artificial commands, while full-brain useful choice remains unresolved.
 
+Latest diagnostic: an [eight-trial local-only adaptation screen](reports/brain-integration/recovery/local-adaptation-closed-loop-v1/RESULTS.md) restores recovery and renewed response to a repeated left-odor pulse on two fresh seeds. Directional/gradient behavior and learning are untested, and the live controller is unchanged. [The next validation decision](reports/brain-integration/recovery/LOCAL_RECOVERY_DECISION.md) preserves those limits and the failed earlier sweep.
+
 ## What is implemented
 
 - Full FlyWire v783 imported network: 138,639 neurons, 15,091,983 aggregated connection records, 54,492,922 represented anatomical synapses. No connectivity threshold or reduced-network substitution.

@@ -1,0 +1,24 @@
+[
+  {
+    "root_id": "720575940630770042",
+    "status": "cached_verified",
+    "source": "https://flyem.mrc-lmb.cam.ac.uk/flyconnectome/flywire_skeletons_783/720575940630770042",
+    "units": "nanometers",
+    "sha256": "b2e6526e014c4d2dc1da1b3be181c140344b40146e82b532a472cd55796ed819",
+    "vertices": 16810,
+    "edges": 16809,
+    "whole_skeleton_length_um": 10435.098606010259,
+    "interpretation": "Whole-cell cable length includes axon and is not dendritic surface area, input resistance, electrical compartment mapping or fitted gain. No normalization derived from it."
+  },
+  {
+    "root_id": "720575940619071005",
+    "status": "cached_verified",
+    "source": "https://flyem.mrc-lmb.cam.ac.uk/flyconnectome/flywire_skeletons_783/720575940619071005",
+    "units": "nanometers",
+    "sha256": "d15be171e4365eeec821dbf751db1c5784c85d82a984d532c6a8c0ccfad8fed0",
+    "vertices": 16922,
+    "edges": 16921,
+    "whole_skeleton_length_um": 10300.805314410549,
+    "interpretation": "Whole-cell cable length includes axon and is not dendritic surface area, input resistance, electrical compartment mapping or fitted gain. No normalization derived from it."
+  }
+]

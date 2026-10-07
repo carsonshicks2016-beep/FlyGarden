@@ -31,12 +31,17 @@ The completed sweep tested a temporary firing cooldown: each spike adds a voltag
 
 Follow-up attribution traced 24 existing recordings and reconstructed selected neural states. Under the strongest settings, local neurons supply over 99% of accepted positive input into the two monitored projection neurons after odor removal. A separate two-neuron replay removed recurrent input: recovery became quiet, but both unilateral cues still produced a positive left-minus-right readout. Persistence and the unestablished opponent readout are separate problems. No production controller changed. See POST_SWEEP_DECISION.md for limitations and the next discriminating checks.
 
+A new single-setting comparison adapts only 395 annotated nonpatchy local cells, using the earlier strongest engineering setting (450 ms decay, 13.5 mV increment). Eight full-network trials compare original and candidate with no odor/left odor on two fresh diagnostic seeds. The candidate responds, recovers to the matched no-odor baseline and responds again; all tested recovery, burst, support and continuation checks pass. Individual PN/local recovery differences and signed DNa02 recovery differences are zero. The original retains high activity. Exact-cell physiological fits remain unavailable; right/bilateral/gradient cues, embodiment and learning remain untested. The live controller is unchanged. See LOCAL_RECOVERY_DECISION.md and local-adaptation-closed-loop-v1/RESULTS.md.
+
+Separate single-input measurements refine the directional diagnosis: each selected PN favors its ipsilateral receptor population, but the left PN has a larger overall effective input scale for either receptor side. Side information therefore remains; raw PN subtraction can confound it with unequal gain. No fitted normalization or anatomical gain correction has been applied.
+
 The committed progress files are snapshots, not live feeds. Raw recordings needed to independently reproduce these checks remain excluded from the GitHub snapshot.
 
 ## What is established and what is not
 
 - The full available modeled graph runs, with individual spike recordings and persistent state.
 - Separate diagnostics verify selected checkpoint continuation and recording integrity.
+- A local-only adaptation candidate passes the registered one-sided recovery screen; full directional/controller qualification remains pending.
 - The application contains an arena, supplied locomotion, recording/replay and visualization machinery; the complete delivery workflow still has pending acceptance items.
 - Useful sensory-dependent directional choice remains unresolved.
 - Biological fidelity, successful embodied learning and a fully validated sensory-to-motor brain are not established.
@@ -55,6 +60,11 @@ The committed progress files are snapshots, not live feeds. Raw recordings neede
 - `reports/brain-integration/recovery/adaptive-feedback-trace-v1/RESULTS.md`: attribution under strong adaptation.
 - `reports/brain-integration/recovery/dm1-feedforward-diagnostic-v1/RESULTS.md`: isolated readout and native replay checks.
 - `reports/brain-integration/recovery/POST_SWEEP_DECISION.md`: evidence-based next steps.
+- `reports/brain-integration/recovery/local-source-qualification-v1/RESULTS.md`: exact-root source inventory and physiological limitations.
+- `reports/brain-integration/recovery/local-recorded-drive-reference-v1/RESULTS.md`: continuing-input versus input-off isolated checks.
+- `reports/brain-integration/recovery/dm1-unitary-reference-v1/RESULTS.md`: ipsilateral information and unequal effective PN input scale.
+- `reports/brain-integration/recovery/local-adaptation-closed-loop-v1/RESULTS.md`, `protocol.json`, and `independent-audit.json`: completed positive recovery screen and its narrow scope.
+- `reports/brain-integration/recovery/LOCAL_RECOVERY_DECISION.md`: next validation gates; no controller promotion.
 - `flygarden/brain.py`, `adaptive_neurons.py`, `adaptive_brain.py`, `adaptive_candidate.py`: baseline and adaptation implementation.
 - `scripts/sweep_adaptive_lif.py`: frozen experiment runner and acceptance evaluation.
 - `flygarden/continuous_candidate.py`, `candidate_inputs.py`, `descending.py`: sensory encoding and motor decoding.

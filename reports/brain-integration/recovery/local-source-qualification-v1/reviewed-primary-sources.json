@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-07",
+  "scope": "Supplemental access receipt. Initial literature/sources.json is pinned and unmodified. Exact-root adaptive parameters remain unavailable.",
+  "sources": [
+    {
+      "paper": "Yaksi and Wilson 2010",
+      "doi": "10.1016/j.neuron.2010.08.041",
+      "url": "https://wilson.hms.harvard.edu/sites/g/files/omnuum8421/files/wilson-lab/files/yaksiwilson2010.pdf",
+      "access": "Full14-page author PDF read through web tool; direct-download failure preserved in pinned initial receipts. No local PDF cache."
+    },
+    {
+      "paper": "Huang et al.2010",
+      "doi": "10.1016/j.neuron.2010.08.025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20869598/",
+      "access": "Primary PubMed abstract only; full text not reviewed."
+    },
+    {
+      "paper": "Gaudry et al.2013",
+      "doi": "10.1038/nature11747",
+      "url": "https://wilson.hms.harvard.edu/sites/g/files/omnuum8421/files/wilson-lab/files/gaudrywilson2013.pdf",
+      "access": "Full6-page author PDF read through web tool; direct-download failure preserved in initial receipts. No local PDF cache."
+    },
+    {
+      "paper": "Tobin et al.2017",
+      "doi": "10.7554/eLife.24838",
+      "url": "https://elifesciences.org/articles/24838",
+      "access": "Full primary XML cached from EuropePMC; body and methods reviewed. Local XML excluded from Git snapshot.",
+      "xml_sha256": "2006de7cbbf37627b43ddf263d4783da2d434f25dfd32825e65843da247740c2"
+    },
+    {
+      "paper": "Rayshubskiy et al.2025",
+      "doi": "10.7554/eLife.102230",
+      "url": "https://elifesciences.org/articles/102230",
+      "access": "Primary PMC search-extracted body passages reviewed for DNa02 turning evidence and proposed MBON route; full article not comprehensively audited."
+    }
+  ]
+}

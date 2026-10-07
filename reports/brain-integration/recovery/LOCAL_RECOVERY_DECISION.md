@@ -1,0 +1,24 @@
+# Decision after the local-only recovery screen
+
+2026-10-07. A bounded full-network comparison now succeeds on recovery and repeated response for the tested left odor. Freeze this local-only engineering candidate for directional validation. Do not promote it to the live garden or relabel the earlier failed sweep as successful.
+
+In plain language, the earlier cooldown was applied to receiving smell neurons while the local circuit kept driving them. Applying a strong cooldown only to local cells allows the recurrent activity to subside in this comparison. The modeled smell pathway still responds to the first and second pulses, and the descending recovery signal returns to its support-only baseline. This supports a local-feedback mechanism at the tested operating point; it does not establish that real fly neurons have these cooldown parameters.
+
+## Evidence chain
+
+1. **Qualification:** Exact annotations identify 44 dominant source roots in ten types, but no reviewed evidence fits intrinsic adaptation to those exact cells. Experimental local populations also use electrical and inhibitory interactions missing from the uniform chemical-jump description. The diagnostic remains explicitly engineered.
+2. **Fixed-input reference:** Strong adaptation reduces four isolated local rates to 90–120 Hz under continuing recorded input, without settling. Input-off references do settle. Holding the parent spike trains fixed prevents a feedback response, so this result cannot reject recurrent extinction.
+3. **Closed recurrent network:** At the same fixed strong setting, adaptation in 395 nonpatchy ALLNs yields zero measured PN/local/DNa02 recovery excess and a 140 Hz PN response gain for both pulses on both fresh seeds. Original persistence remains. Numerical, weights, paired inputs and continuation checks pass.
+4. **Readout refinement:** Individual DM1 unitary inputs favor the ipsilateral side within each PN, but unequal total effective scale favors the left PN for either input side. This qualifies the earlier raw-difference diagnosis: side information remains, while a raw PN subtraction can confound it with unequal gain.
+
+Packages: local-source-qualification-v1, local-recorded-drive-reference-v1, dm1-unitary-reference-v1 and local-adaptation-closed-loop-v1. Their protocols, raw local archives and failures remain preserved. POST_SWEEP_DECISION.md and the failed sweep are historical evidence, not rewritten conclusions.
+
+## Next steps in order
+
+1. **Directional validation with no new tuning.** Write a new prospective protocol that pins this exact mask, 450 ms/13.5 mV setting, source/data hashes, original decoder and learning-frozen weights. Use disjoint validation seeds and matched original/no-odor controls. Include left, right and equal bilateral pulses, repeated responses and the existing recovery/burst/support/continuation checks. Compute the true multi-trial Gate 3 unchanged. Report both PN representation and DNa02 outputs; do not subtract observed bias or pass one while silently replacing the other.
+2. **Unequal bilateral intensity.** Include registered 60/40 and 40/60 cases and their symmetric reference. Define the prospective Gate 6 decision and uncertainty before execution, including unchanged signed-output orientation and a numerical minimum contrast. Preserve failed Gate 3 results even if a representation metric contains useful information. Merely responding to both inputs does not demonstrate a gradient code.
+3. **Only revise architecture if evidence demands it.** If recovery passes while directional output fails, classify this as a recovered sensory circuit with unresolved readout. Inspect biologically supported routes and activity descriptively. A new engineered decoder or morphology-dependent gain needs a separate versioned scientific protocol, declared features and disjoint fitting/validation seeds. It is not a numerical bug fix or a retroactive pass.
+4. **Robustness after directional success.** Test another odor channel, lower stimulus levels, longer inter-pulse gaps, longer trials and unfamiliar local fields. Keep the mask/weights/decoder fixed. The current six-second, high-support operating point cannot establish those behaviors.
+5. **Embodiment before learning claims.** Rejoin the requirement ledger: verify neural changes cause physical turning using only local sensations; then test obstacles, shelters and threats with unchanged supplied escape/leg controllers. Run controlled odor conditioning and matched frozen/shuffled conditions before navigation or learning claims. Exercise recording, anatomical playback, full checkpoints, exports and actual dashboard controls on the accepted candidate.
+
+The present decision adds evidence, not a new live release. No full qualification, navigation, learning, biological fidelity or consciousness conclusion follows from this one-sided screen.

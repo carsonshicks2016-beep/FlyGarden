@@ -441356,5 +441356,19 @@
     "videos",
     "runtime state"
   ],
-  "live_sweep": "In progress; committed files are snapshots. No results inferred from partial trials."
+  "live_sweep": "In progress; committed files are snapshots. No results inferred from partial trials.",
+  "historical_inventory_note": "The files/excluded inventory and live_sweep field describe snapshot_at. They are not a live feed; see follow_up_evidence and docs/MUSE-REVIEW.md for subsequent completion evidence.",
+  "follow_up_evidence": {
+    "date": "2026-10-07",
+    "previous_sweep": "All153 initial trials complete; no18-setting candidate qualified. Original failed protocol and evidence preserved.",
+    "local_recovery_screen": "Eight full-network trials complete. Local-only engineering candidate passes the tested left-odor response/recovery/burst/support/continuation screen. Directional/gradient/body/learning untested; no promotion.",
+    "decision": "reports/brain-integration/recovery/LOCAL_RECOVERY_DECISION.md",
+    "packages": [
+      "reports/brain-integration/recovery/local-source-qualification-v1",
+      "reports/brain-integration/recovery/local-recorded-drive-reference-v1",
+      "reports/brain-integration/recovery/dm1-unitary-reference-v1",
+      "reports/brain-integration/recovery/local-adaptation-closed-loop-v1"
+    ],
+    "sharing": "Sources, protocols, results, figures and receipts only. No new raw recordings/checkpoints/morphology/literature payloads included."
+  }
 }

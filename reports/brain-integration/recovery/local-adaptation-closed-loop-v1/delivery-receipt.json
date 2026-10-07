@@ -1,0 +1,58 @@
+{
+  "status": "complete",
+  "date": "2026-10-07",
+  "scope": "Only no-odor and left-odor mechanism checks. Bilateral/gradient/navigation/learning untested.",
+  "sources_reverified": 18,
+  "controller_promoted": false,
+  "artifacts": {
+    "protocol.json": {
+      "sha256": "e9759dfb5ba798c6e265f3bc19905d7a42380f341b97253edfca59e9900c12ee",
+      "bytes": 115239
+    },
+    "results.json": {
+      "sha256": "73c06845c1ab724002b44169b8c9f16bad12d54aa0e608e4b3ad762d8e64f26f",
+      "bytes": 4759
+    },
+    "RESULTS.md": {
+      "sha256": "23d5a2691fc5ab4c2783c3b08f3fd04843755e92b0883439f43e4c9920fe3fc2",
+      "bytes": 5345
+    },
+    "independent-audit.json": {
+      "sha256": "3c242720e2ecb79eb6a20a3b75a839cb506bf152874d34a4a9327fd25a03eb08",
+      "bytes": 2658
+    },
+    "recovery-comparison.png": {
+      "sha256": "0de07a1cd3b749a0cf737849c2f51c2713443ec41bd86bfa9086a5dc22eeb911",
+      "bytes": 156375
+    }
+  },
+  "local_package_bytes": 1054280634,
+  "raw_archives_retained_locally": true,
+  "disk_free_bytes_at_delivery": 216714059776,
+  "free_space_reserve_bytes": 2147483648,
+  "numerical_regression_tests": {
+    "passed": 10,
+    "tests": [
+      "tests/test_recorded_drive.py",
+      "tests/test_feedback_trace.py",
+      "tests/test_adaptive_neurons.py"
+    ],
+    "warnings": "29 existing Brian2 pyparsing deprecation warnings"
+  },
+  "runtime_environment": {
+    "python": "3.12",
+    "environment": ".venv-next",
+    "brian2": "2.10.1",
+    "numpy": "2.5.3"
+  },
+  "peak_worker_rss_bytes": 2797010944,
+  "auditor": {
+    "file": "scripts/audit_local_recovery_diagnostic.py",
+    "sha256": "9e51095192c846313fef46d82de6a394bc4a38bd6d6320a9ca807df3dfd5acd2"
+  },
+  "plotter": {
+    "file": "scripts/plot_local_recovery_diagnostic.py",
+    "sha256": "d2f77f04de977aa380e5fe6c9feee98cabfa49f404d9caa7fec3ad72980afb0c"
+  },
+  "independent_raw_spike_audit": "1,920 chunks;8 metric records;4 fresh-process continuation receipts;exact paired inputs;unchanged effective weights."
+}

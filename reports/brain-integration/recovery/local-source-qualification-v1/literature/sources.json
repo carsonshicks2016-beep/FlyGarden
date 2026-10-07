@@ -1,0 +1,37 @@
+[
+  {
+    "name": "yaksi-2010",
+    "pmcid": "PMC2954501",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2954501/fullTextXML",
+    "status": "unavailable",
+    "error": "HTTP Error 500: "
+  },
+  {
+    "name": "gaudry-2013",
+    "pmcid": "PMC3590906",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3590906/fullTextXML",
+    "status": "unavailable",
+    "error": "HTTP Error 500: "
+  },
+  {
+    "name": "tobin-2017",
+    "pmcid": "PMC5440167",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5440167/fullTextXML",
+    "title": "Wiring variations that enable and constrain neural computation in a sensory microcircuit",
+    "sha256": "2006de7cbbf37627b43ddf263d4783da2d434f25dfd32825e65843da247740c2",
+    "bytes": 245917,
+    "status": "retrieved"
+  },
+  {
+    "name": "yaksi-2010",
+    "url": "https://wilson.hms.harvard.edu/sites/g/files/omnuum8421/files/wilson-lab/files/yaksiwilson2010.pdf",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "gaudry-2013",
+    "url": "https://wilson.hms.harvard.edu/sites/g/files/omnuum8421/files/wilson-lab/files/gaudrywilson2013.pdf",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

@@ -16,7 +16,9 @@ Restore the graph artifacts and annotation table at their original relative path
 
 Experiment protocols hash source files and input artifacts. Running a historical protocol against changed files is deliberately rejected. Do not remove those checks merely to get a run to start. Historical receipts attest to a particular local evidence package; omitted raw artifacts prevent independent verification of the entire package from Git alone.
 
-The running adaptation sweep is a committed snapshot. Its progress continues locally after publication; GitHub does not update automatically. A completed result should be published in a later commit with its audit and provenance.
+The 153-trial adaptation sweep is complete and failed full calibration. Subsequent diagnostics include a successful eight-trial local-only recovery screen, whose directional and behavioral qualification remains pending. Read `docs/MUSE-REVIEW.md` for the latest evidence pointers. Progress files on GitHub are historical snapshots, not live telemetry.
+
+The new reference and recovery scripts require omitted annotations, graph artifacts and earlier raw recordings. `scripts/audit_local_recovery_diagnostic.py` independently reconstructs the local-only screen metrics from raw spikes without importing the neural evaluator. `scripts/plot_local_recovery_diagnostic.py` creates the comparison plot without running a brain. Restore the pinned local evidence package to run either; summary JSON on GitHub alone cannot reproduce the raw-spike checks.
 
 ## Licensing and attribution
 

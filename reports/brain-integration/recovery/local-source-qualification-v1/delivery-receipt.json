@@ -1,0 +1,52 @@
+{
+  "status": "complete",
+  "date": "2026-10-07",
+  "scope": "Annotation-to-root joins are exact; experimental driver/cell-population bridges and parameters remain qualified or unavailable.",
+  "sources_reverified": 9,
+  "controller_promoted": false,
+  "artifacts": {
+    "protocol.json": {
+      "sha256": "50deefea724a50713c0a322805878a1608c42fee992117b80b07c63cc31f3b0e",
+      "bytes": 1991
+    },
+    "results.json": {
+      "sha256": "672966410fc29756239936c495e06493c7d51e1a4578728db5ae5fcf6e6b22e5",
+      "bytes": 51782
+    },
+    "RESULTS.md": {
+      "sha256": "a4bb2363ed7e3c78503d44638b0be8e3c6b48955c59b1ca4768311c5658d816b",
+      "bytes": 4703
+    },
+    "morphology-inspection.json": {
+      "sha256": "fa595117584b6c38e30b81fd475c1061b0c2a13ca43041b26ca473e042397013",
+      "bytes": 1169
+    },
+    "reviewed-primary-sources.json": {
+      "sha256": "9d99b46bdec80c6fc3126dd19c67c17c15e59420f94b695966e5126b73cf34ac",
+      "bytes": 1784
+    },
+    "literature/sources.json": {
+      "sha256": "85d3eb9c528ecbc91aa9bb61f40b271579aece9443b33c2e565bff5587c170a4",
+      "bytes": 1242
+    }
+  },
+  "local_package_bytes": 459128,
+  "raw_archives_retained_locally": true,
+  "disk_free_bytes_at_delivery": 216714088448,
+  "free_space_reserve_bytes": 2147483648,
+  "numerical_regression_tests": {
+    "passed": 10,
+    "tests": [
+      "tests/test_recorded_drive.py",
+      "tests/test_feedback_trace.py",
+      "tests/test_adaptive_neurons.py"
+    ],
+    "warnings": "29 existing Brian2 pyparsing deprecation warnings"
+  },
+  "runtime_environment": {
+    "python": "3.12",
+    "environment": ".venv-next",
+    "brian2": "2.10.1",
+    "numpy": "2.5.3"
+  }
+}

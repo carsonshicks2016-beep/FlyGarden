@@ -1,0 +1,44 @@
+{
+  "status": "complete",
+  "date": "2026-10-07",
+  "scope": "Isolated original-weight single-input response; no full network or production change.",
+  "sources_reverified": 7,
+  "controller_promoted": false,
+  "artifacts": {
+    "protocol.json": {
+      "sha256": "68d035ea760b1dcab5dda97bc3ad4c5ea9bf1ead7347d069c281d753c2ca0130",
+      "bytes": 2092
+    },
+    "results.json": {
+      "sha256": "84d688b9a86640e564f57f01dcd47f2dbb1cc7c2324d1de0ac70cf1b7d11f2ea",
+      "bytes": 36969
+    },
+    "RESULTS.md": {
+      "sha256": "71091bbf65054a23a8a9e737b9b9da3a638e88d951d03c8e617835c316755f50",
+      "bytes": 2911
+    },
+    "unitary-response-comparison.png": {
+      "sha256": "fa3935511b0c2dc6e8ba64dd6398b120fc7eaa6640649035c0bf1a53d4bf3373",
+      "bytes": 73014
+    }
+  },
+  "local_package_bytes": 872124,
+  "raw_archives_retained_locally": true,
+  "disk_free_bytes_at_delivery": 216714072064,
+  "free_space_reserve_bytes": 2147483648,
+  "numerical_regression_tests": {
+    "passed": 10,
+    "tests": [
+      "tests/test_recorded_drive.py",
+      "tests/test_feedback_trace.py",
+      "tests/test_adaptive_neurons.py"
+    ],
+    "warnings": "29 existing Brian2 pyparsing deprecation warnings"
+  },
+  "runtime_environment": {
+    "python": "3.12",
+    "environment": ".venv-next",
+    "brian2": "2.10.1",
+    "numpy": "2.5.3"
+  }
+}

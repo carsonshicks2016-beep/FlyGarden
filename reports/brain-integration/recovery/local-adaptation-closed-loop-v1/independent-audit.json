@@ -1,0 +1,110 @@
+{
+  "status": "passed",
+  "scope": "Independent metric reconstruction from raw spikes; paired delivery/weights, fresh continuation receipts and nonselected adaptation state checked. Only the preregistered one-sided screen is qualified.",
+  "chunks_audited": 1920,
+  "metric_checks": [
+    {
+      "model": "original",
+      "seed": 12201,
+      "pulse": 1,
+      "raw_spike_metric_match_exact": true
+    },
+    {
+      "model": "original",
+      "seed": 12201,
+      "pulse": 2,
+      "raw_spike_metric_match_exact": true
+    },
+    {
+      "model": "original",
+      "seed": 12202,
+      "pulse": 1,
+      "raw_spike_metric_match_exact": true
+    },
+    {
+      "model": "original",
+      "seed": 12202,
+      "pulse": 2,
+      "raw_spike_metric_match_exact": true
+    },
+    {
+      "model": "local_adaptive",
+      "seed": 12201,
+      "pulse": 1,
+      "raw_spike_metric_match_exact": true
+    },
+    {
+      "model": "local_adaptive",
+      "seed": 12201,
+      "pulse": 2,
+      "raw_spike_metric_match_exact": true
+    },
+    {
+      "model": "local_adaptive",
+      "seed": 12202,
+      "pulse": 1,
+      "raw_spike_metric_match_exact": true
+    },
+    {
+      "model": "local_adaptive",
+      "seed": 12202,
+      "pulse": 2,
+      "raw_spike_metric_match_exact": true
+    }
+  ],
+  "learning_weights_hash": "f6f6ab9f7c49e14a906d120c705e6af7814ecdeeecaaefad8b1280bdb71e7732",
+  "adaptation_outside_395_local_mask_zero": true,
+  "continuation_receipts_passed": 4,
+  "not_whole_brain_silencing": [
+    {
+      "trial": "local_adaptive-none-12201",
+      "support_mean_hz": [
+        62.833333333333336,
+        62.5
+      ],
+      "final_half_second_total_spikes": 165,
+      "odor_pulse_total_spikes": [
+        151,
+        373
+      ]
+    },
+    {
+      "trial": "local_adaptive-a_left-12201",
+      "support_mean_hz": [
+        62.833333333333336,
+        62.5
+      ],
+      "final_half_second_total_spikes": 165,
+      "odor_pulse_total_spikes": [
+        40336,
+        40612
+      ]
+    },
+    {
+      "trial": "local_adaptive-none-12202",
+      "support_mean_hz": [
+        62.333333333333336,
+        65.33333333333333
+      ],
+      "final_half_second_total_spikes": 240,
+      "odor_pulse_total_spikes": [
+        209,
+        111
+      ]
+    },
+    {
+      "trial": "local_adaptive-a_left-12202",
+      "support_mean_hz": [
+        62.333333333333336,
+        65.33333333333333
+      ],
+      "final_half_second_total_spikes": 240,
+      "odor_pulse_total_spikes": [
+        40785,
+        40610
+      ]
+    }
+  ],
+  "sources_reverified": true,
+  "audit_source_sha256": "9e51095192c846313fef46d82de6a394bc4a38bd6d6320a9ca807df3dfd5acd2"
+}
