@@ -1,0 +1,196 @@
+{
+  "derived_from": "calibration-results.json",
+  "gate_thresholds_unchanged": true,
+  "arms": [
+    {
+      "model": "original",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "projection_t50_b1p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "projection_t150_b1p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "projection_t450_b1p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "projection_t50_b4p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "projection_t150_b4p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "projection_t450_b4p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "projection_t50_b13p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "projection_t150_b13p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "projection_t450_b13p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "sensory_projection_t50_b1p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "sensory_projection_t150_b1p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "sensory_projection_t450_b1p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "sensory_projection_t50_b4p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "sensory_projection_t150_b4p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "sensory_projection_t450_b4p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "sensory_projection_t50_b13p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "sensory_projection_t150_b13p5",
+      "response": 12,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    },
+    {
+      "model": "sensory_projection_t450_b13p5",
+      "response": 8,
+      "pn_recovery": 0,
+      "local_recovery": 0,
+      "dna_recovery": 0,
+      "contrast": 0,
+      "bursts": 0,
+      "support": 2
+    }
+  ]
+}

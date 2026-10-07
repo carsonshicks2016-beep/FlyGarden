@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "authorized_change": "User authorized bounded three-worker test; scientific protocol unchanged",
+  "created_at_unix": 1791400401.060357,
+  "coordinator_sha256": "cd4b92378060b71abdac90db47b6e47b01834ca7c46497af27b5ffdf805080ac",
+  "protocol_sha256": "1754f0073b0f7e2eb8ab44e0f2fb802a9fe34102cd20be6270b540f2ee0f57c4",
+  "parity": "Repeat three completed trials; exact recorded arrays and checkpoint continuation",
+  "operational_gate": {
+    "minimum_speedup": 1.8,
+    "maximum_aggregate_child_rss_bytes": 10737418240,
+    "maximum_new_swap_out_bytes": 268435456
+  },
+  "fallback": "Two workers if three-worker gate fails",
+  "progress_endpoint_file": "parallel-progress.json",
+  "original_worker_source_unchanged": true
+}

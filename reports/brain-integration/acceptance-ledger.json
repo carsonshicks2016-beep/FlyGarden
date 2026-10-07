@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": 1791390273.216811,
+  "updated": 1791406134.498813,
   "scope": "All39 end-goal steps retained; each paragraph contains its detailed requirements. Evidence scope is explicit; pending native/browser/scientific work is not completed.",
   "requirements": [
     {
@@ -97,7 +97,7 @@
     {
       "step": 8,
       "requirement": "Select the action architecture explicitly. First attempt a justified sensory/state/descending repair within the full network. If evidence calls for additional annotated outputs or an engineered readout, version and disclose it. Readout inputs may use measured neural activity and documented local feedback; they cannot receive source coordinates, cue-side labels, predator positions or paths. An added controller must not silently replace the full brain. A larger engineered navigation adapter requires a clear scope decision.",
-      "status": "adaptive_parameter_sweep_preregistered_running",
+      "status": "adaptive_sweep_failed_persistence_and_readout_separated",
       "evidence": [
         "recovery/odor-gain-calibration-v2/DECISION.md",
         "recovery/odor-gain-calibration-v2/RESULTS.md",
@@ -153,9 +153,21 @@
         "recovery/adaptive-domain-screen-v1/zero-whole-state-regression.json",
         "recovery/adaptive-domain-screen-v1/RESULTS.md",
         "recovery/adaptive-domain-screen-v1/delivery-receipt.json",
-        "recovery/adaptive-parameter-sweep-v1/protocol.json"
+        "recovery/adaptive-parameter-sweep-v1/protocol.json",
+        "recovery/adaptive-parameter-sweep-v1/RESULTS.md",
+        "recovery/adaptive-parameter-sweep-v1/calibration-results.json",
+        "recovery/adaptive-parameter-sweep-v1/selection.json",
+        "recovery/adaptive-parameter-sweep-v1/gate-breakdown.json",
+        "recovery/adaptive-feedback-trace-v1/protocol.json",
+        "recovery/adaptive-feedback-trace-v1/RESULTS.md",
+        "recovery/adaptive-feedback-trace-v1/results.json",
+        "recovery/dm1-feedforward-diagnostic-v1/protocol.json",
+        "recovery/dm1-feedforward-diagnostic-v1/RESULTS.md",
+        "recovery/dm1-feedforward-diagnostic-v1/results.json",
+        "recovery/POST_SWEEP_DECISION.md"
       ],
-      "completion_proven": false
+      "completion_proven": false,
+      "focused_package_gate": "All153 initial trials complete; no adaptive candidate qualified. Trace24 saved trials and native replay6 selected cases verified; isolated feedforward16 trials recovered but failed opponent contrast. Biological local mechanisms and a justified action readout remain unresolved."
     },
     {
       "step": 9,

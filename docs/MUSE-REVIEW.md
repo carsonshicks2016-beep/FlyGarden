@@ -27,9 +27,11 @@ An odor pulse starts activity in the modeled smell circuit that persists after t
 
 The previous fixed-point adaptive-LIF screen completed 21 full-network trials. All 5,040 chunks passed integrity checks; disabling adaptation exactly reproduced baseline events and voltage/conductance states. Adaptation lowered firing but failed recovery and directional contrast at the tested setting. No candidate was promoted.
 
-The next sweep tests a temporary firing cooldown: each spike adds a voltage-equivalent adaptation term that decays over time. The fixed grid uses 50/150/450 ms decay and 1.5/4.5/13.5 mV increments, separately in projection neurons and in projection plus annotated olfactory receptor neurons. Two new calibration seeds yield 153 initial trials. Every acceptance gate must pass; only a qualifying candidate receives fresh held-out tests, including unequal bilateral odor intensity. These parameters are engineering hypotheses, not fitted calcium/potassium channels.
+The completed sweep tested a temporary firing cooldown: each spike adds a voltage-equivalent adaptation term that decays over time. The fixed grid used 50/150/450 ms decay and 1.5/4.5/13.5 mV increments, separately in projection neurons and in projection plus annotated olfactory receptor neurons. All 153 initial trials finished; none of the 18 adaptive settings passed every calibration gate. Held-out and unequal-intensity tests were therefore not launched. These parameters are engineering hypotheses, not fitted calcium/potassium channels.
 
-At publication, the sweep is in progress. The committed progress file is a snapshot, not a live feed. Do not interpret unfinished arms as final results or assume future completion from this document.
+Follow-up attribution traced 24 existing recordings and reconstructed selected neural states. Under the strongest settings, local neurons supply over 99% of accepted positive input into the two monitored projection neurons after odor removal. A separate two-neuron replay removed recurrent input: recovery became quiet, but both unilateral cues still produced a positive left-minus-right readout. Persistence and the unestablished opponent readout are separate problems. No production controller changed. See POST_SWEEP_DECISION.md for limitations and the next discriminating checks.
+
+The committed progress files are snapshots, not live feeds. Raw recordings needed to independently reproduce these checks remain excluded from the GitHub snapshot.
 
 ## What is established and what is not
 
@@ -49,7 +51,10 @@ At publication, the sweep is in progress. The committed progress file is a snaps
 - `reports/brain-integration/recovery/feedback-trace-v1/RESULTS.md`: persistent-activity reconstruction.
 - `reports/brain-integration/recovery/adaptive-cell-reference-v1/RESULTS.md`: isolated adaptation checks.
 - `reports/brain-integration/recovery/adaptive-domain-screen-v1/RESULTS.md`: completed failed fixed-point screen.
-- `reports/brain-integration/recovery/adaptive-parameter-sweep-v1/README.md` and `protocol.json`: running sweep.
+- `reports/brain-integration/recovery/adaptive-parameter-sweep-v1/RESULTS.md`, `gate-breakdown.json`, and `protocol.json`: completed failed sweep.
+- `reports/brain-integration/recovery/adaptive-feedback-trace-v1/RESULTS.md`: attribution under strong adaptation.
+- `reports/brain-integration/recovery/dm1-feedforward-diagnostic-v1/RESULTS.md`: isolated readout and native replay checks.
+- `reports/brain-integration/recovery/POST_SWEEP_DECISION.md`: evidence-based next steps.
 - `flygarden/brain.py`, `adaptive_neurons.py`, `adaptive_brain.py`, `adaptive_candidate.py`: baseline and adaptation implementation.
 - `scripts/sweep_adaptive_lif.py`: frozen experiment runner and acceptance evaluation.
 - `flygarden/continuous_candidate.py`, `candidate_inputs.py`, `descending.py`: sensory encoding and motor decoding.

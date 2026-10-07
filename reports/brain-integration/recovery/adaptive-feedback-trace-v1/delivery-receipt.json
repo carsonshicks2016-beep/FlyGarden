@@ -1,0 +1,167 @@
+{
+  "status": "complete",
+  "generated_unix": 1791406234.635503,
+  "files": [
+    {
+      "file": "RESULTS.md",
+      "bytes": 2741,
+      "sha256": "0a5fd3a7afb4b43005672a14294b32d0ef50efdf0a62e4b7c99451e4b95b05da"
+    },
+    {
+      "file": "activity-comparison.png",
+      "bytes": 262002,
+      "sha256": "a0608af3a61b7c9aa54e0a95146bfd7b3b2b4ce3bd382f2ecb3f32a92bbd72cb"
+    },
+    {
+      "file": "original-a_both-12001-drive.npz",
+      "bytes": 810659,
+      "sha256": "9c2cfff03fa378f3e434a34ddafcbb5413c543272e7ba8368bda73ed272c7397"
+    },
+    {
+      "file": "original-a_both-12002-drive.npz",
+      "bytes": 810822,
+      "sha256": "85c145696af8c2dcd8a5d57c1a5e12121cea09b27a7bf97278d8af15f6f2668e"
+    },
+    {
+      "file": "original-a_left-12001-drive.npz",
+      "bytes": 810881,
+      "sha256": "ea792a30f1d4ca998e2deb442146b33c8f81571590feb0dcc38a0ce03950c4e6"
+    },
+    {
+      "file": "original-a_left-12002-drive.npz",
+      "bytes": 809997,
+      "sha256": "9df9c94df246d8c0835a0798fafb91f29242e4d57117d8b438494a4380bc30d0"
+    },
+    {
+      "file": "original-a_right-12001-drive.npz",
+      "bytes": 809585,
+      "sha256": "11dd9f200015361be8496973563cf81ba9a23d0ce1b97074a8ceeec9988306b1"
+    },
+    {
+      "file": "original-a_right-12002-drive.npz",
+      "bytes": 809916,
+      "sha256": "6fcb169c382a255498ad189abcfa981ead07a3bfc4498f646bbd831e5e275638"
+    },
+    {
+      "file": "original-none-12001-drive.npz",
+      "bytes": 4534,
+      "sha256": "aecc00060cdb9be1e7122bbe672983269f30dd46d4f28b5efce33bd6b1bf59d8"
+    },
+    {
+      "file": "original-none-12002-drive.npz",
+      "bytes": 4534,
+      "sha256": "aecc00060cdb9be1e7122bbe672983269f30dd46d4f28b5efce33bd6b1bf59d8"
+    },
+    {
+      "file": "progress.json",
+      "bytes": 49,
+      "sha256": "4d92e1110b75546291b22adf48af14fca86b1f826e114e99018615a4e7922845"
+    },
+    {
+      "file": "projection_t450_b13p5-a_both-12001-drive.npz",
+      "bytes": 737125,
+      "sha256": "75b9690da239c10ef34f99adde20945a10b9dc6bfd9b302b51ce7866a1d5b420"
+    },
+    {
+      "file": "projection_t450_b13p5-a_both-12002-drive.npz",
+      "bytes": 737012,
+      "sha256": "757c42e3e99f880e37b346f0b2de68573807d7be1ccf7d0b2d8be16248d46eaa"
+    },
+    {
+      "file": "projection_t450_b13p5-a_left-12001-drive.npz",
+      "bytes": 736335,
+      "sha256": "ce5c51a8186cdf73a75ccd305f9e5df4a7ae662d62d21ffaecf1a5342d121606"
+    },
+    {
+      "file": "projection_t450_b13p5-a_left-12002-drive.npz",
+      "bytes": 735616,
+      "sha256": "dd249ce5b906b686a9f2b4d803df5e07e6240f734b56211046aabae2b8c39626"
+    },
+    {
+      "file": "projection_t450_b13p5-a_right-12001-drive.npz",
+      "bytes": 735456,
+      "sha256": "e0974768a31d5d7f519e44856488a1edbf50a197bce5ffa9caca4d07663162b6"
+    },
+    {
+      "file": "projection_t450_b13p5-a_right-12002-drive.npz",
+      "bytes": 735341,
+      "sha256": "d4d47a972babb76901e4b26cda02eb442c5e76d781573e10d11c6dbf4e490779"
+    },
+    {
+      "file": "projection_t450_b13p5-none-12001-drive.npz",
+      "bytes": 4534,
+      "sha256": "aecc00060cdb9be1e7122bbe672983269f30dd46d4f28b5efce33bd6b1bf59d8"
+    },
+    {
+      "file": "projection_t450_b13p5-none-12002-drive.npz",
+      "bytes": 4534,
+      "sha256": "aecc00060cdb9be1e7122bbe672983269f30dd46d4f28b5efce33bd6b1bf59d8"
+    },
+    {
+      "file": "protocol.json",
+      "bytes": 7396,
+      "sha256": "84e22ad415a981c47899440f1741cc11dc2f15d9e8cf8742e7c4097cc80a5030"
+    },
+    {
+      "file": "results.json",
+      "bytes": 2921070,
+      "sha256": "fddcbfc983fe4ecf958a17ef0bf91ccc7866220fcf44b344176e7a8053c71f3f"
+    },
+    {
+      "file": "sensory_projection_t450_b13p5-a_both-12001-drive.npz",
+      "bytes": 732621,
+      "sha256": "e21d8bccdb044fb1bd85e2093c73e6b59b0cb8c092f1450641625af7bc6f9d61"
+    },
+    {
+      "file": "sensory_projection_t450_b13p5-a_both-12002-drive.npz",
+      "bytes": 732214,
+      "sha256": "432a2bb7ab211950a2a5fccc61d6275d023ce53b659b70adb7766f44a9bd44c0"
+    },
+    {
+      "file": "sensory_projection_t450_b13p5-a_left-12001-drive.npz",
+      "bytes": 731741,
+      "sha256": "bc8a3a5eaa4312529da60a1ba9af5b816702880624c4983b4c433638524a3cd1"
+    },
+    {
+      "file": "sensory_projection_t450_b13p5-a_left-12002-drive.npz",
+      "bytes": 731379,
+      "sha256": "327929d8854c750db1559a3700273874a24df4ad8b408fd8fa7e43dfba2d1d6a"
+    },
+    {
+      "file": "sensory_projection_t450_b13p5-a_right-12001-drive.npz",
+      "bytes": 731342,
+      "sha256": "525ad754df6264c774e9f0acea25b80b8d3ac4bd43e9aa547a4f40a76af58a2f"
+    },
+    {
+      "file": "sensory_projection_t450_b13p5-a_right-12002-drive.npz",
+      "bytes": 731140,
+      "sha256": "81bb0c410379fbaca046543a0734bdf2c2da57bbf3431d8fa1cef777a3dc9ee2"
+    },
+    {
+      "file": "sensory_projection_t450_b13p5-none-12001-drive.npz",
+      "bytes": 4534,
+      "sha256": "aecc00060cdb9be1e7122bbe672983269f30dd46d4f28b5efce33bd6b1bf59d8"
+    },
+    {
+      "file": "sensory_projection_t450_b13p5-none-12002-drive.npz",
+      "bytes": 4534,
+      "sha256": "aecc00060cdb9be1e7122bbe672983269f30dd46d4f28b5efce33bd6b1bf59d8"
+    },
+    {
+      "file": "targets.json",
+      "bytes": 537,
+      "sha256": "d1305d1f5e2f7ce49d9f5e40dc86ce4813c1fb1f3ab15b1ea2b58ac7f3cbb88d"
+    }
+  ],
+  "output_bytes": 16890181,
+  "relevant_tests": {
+    "command": ".venv-next/bin/python -B -m pytest -q tests/test_recorded_drive.py tests/test_feedback_trace.py tests/test_adaptive_neurons.py",
+    "passed": 10,
+    "exit_code": 0
+  },
+  "figures_visually_inspected": true,
+  "live_controller_changed": false,
+  "acceptance_criteria_changed": false,
+  "new_full_brain_trials": 0,
+  "disk_free_bytes": 213327167488
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "authorized_change": "Two-worker operational scheduling, requested by user; no scientific model or acceptance changes",
+  "created_at_unix": 1791398750.32396,
+  "coordinator_sha256": "941f1f3c309f2a8fb0d5d1f9263c282208d9c397f3cc526c11404040dc8eb66c",
+  "protocol_sha256": "1754f0073b0f7e2eb8ab44e0f2fb802a9fe34102cd20be6270b540f2ee0f57c4",
+  "parity": "Repeat two completed strong-adaptation trials, compare every recorded array exactly and fresh checkpoint continuation",
+  "operational_gate": {
+    "minimum_speedup": 1.2,
+    "maximum_aggregate_child_rss_bytes": 10737418240,
+    "maximum_new_swap_out_bytes": 268435456
+  },
+  "fallback": "One worker if operational gate fails",
+  "progress_endpoint_file": "parallel-progress.json",
+  "original_worker_source_unchanged": true
+}
