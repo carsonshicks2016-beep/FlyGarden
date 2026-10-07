@@ -1,0 +1,60 @@
+{
+  "response_recovery": {
+    "original": false,
+    "il3_only": false,
+    "patchy_only": false,
+    "combined": false
+  },
+  "contrast": {
+    "original": false,
+    "il3_only": false,
+    "patchy_only": false,
+    "combined": false
+  },
+  "checkpoints": [
+    {
+      "model": "original",
+      "status": "passed",
+      "fresh_process": true,
+      "windows": 5,
+      "errors_mV": {
+        "v": 0.0,
+        "g": 0.0
+      },
+      "selected_source_spikes_pending_at_checkpoint": 12
+    },
+    {
+      "model": "il3_only",
+      "status": "passed",
+      "fresh_process": true,
+      "windows": 5,
+      "errors_mV": {
+        "v": 0.0,
+        "g": 0.0
+      },
+      "selected_source_spikes_pending_at_checkpoint": 9
+    },
+    {
+      "model": "patchy_only",
+      "status": "passed",
+      "fresh_process": true,
+      "windows": 5,
+      "errors_mV": {
+        "v": 0.0,
+        "g": 0.0
+      },
+      "selected_source_spikes_pending_at_checkpoint": 7
+    },
+    {
+      "model": "combined",
+      "status": "passed",
+      "fresh_process": true,
+      "windows": 5,
+      "errors_mV": {
+        "v": 0.0,
+        "g": 0.0
+      },
+      "selected_source_spikes_pending_at_checkpoint": 6
+    }
+  ]
+}

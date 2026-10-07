@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "status": "prospective_registration_audit_complete",
+  "anchor_sites": 138771,
+  "calibration_sites": 83479,
+  "new_probe_sites": 2451,
+  "new_probe_roots": 321,
+  "previously_tested_pair_exclusions": 3174,
+  "available_translated_regions": 48,
+  "evaluations": {
+    "published_mirror": {
+      "samples": 2451,
+      "roots": 321,
+      "unique_fraction": 0.7658098735210118,
+      "correct_unique_fraction": 0.7394778902503996,
+      "correct_sample_fraction": 0.5662994696042432
+    },
+    "local_translation": {
+      "samples": 2451,
+      "roots": 321,
+      "unique_fraction": 0.8400652794777642,
+      "correct_unique_fraction": 0.9742593491986401,
+      "correct_sample_fraction": 0.8184414524683803
+    }
+  },
+  "root_cluster_bootstrap_95_intervals": {
+    "unique_fraction": [
+      0.8173617999617564,
+      0.859902106200654
+    ],
+    "correct_unique_fraction": [
+      0.964627118533838,
+      0.9827966988200316
+    ]
+  },
+  "pooled_registration_gate_passed": true,
+  "per_glomerulus_point_gates_passed": 9,
+  "manual_boundary_validation": false,
+  "electrical_compartments_created": 0,
+  "application_changed": false,
+  "elapsed_since_original_protocol_seconds": 162.28404474258423,
+  "sources_reverified": true,
+  "archive_identity_reverified": true,
+  "software_report_repair": "report-finalization-amendment.json"
+}

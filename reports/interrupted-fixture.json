@@ -1,0 +1,7 @@
+{
+  "id": "45d1902894f54da6a64b4dbd97b46d48",
+  "original_run": "56c2316a9de74e4bb24e5c4fda5365fb",
+  "scope": "Genuine recorded samples with an intentionally truncated tail for recovery testing",
+  "passed": true,
+  "checked": "Browser played complete samples, omitted truncated tail, and disabled simulation controls"
+}

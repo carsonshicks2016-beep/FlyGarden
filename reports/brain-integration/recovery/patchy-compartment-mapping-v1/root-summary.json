@@ -1,0 +1,682 @@
+[
+  {
+    "root_id": "720575940605883569",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 532,
+    "imported_synapses": 2655,
+    "partner_label_hint_synapses": 1540,
+    "unresolved_partner_synapses": 1115
+  },
+  {
+    "root_id": "720575940605883569",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 699,
+    "imported_synapses": 2099,
+    "partner_label_hint_synapses": 1460,
+    "unresolved_partner_synapses": 639
+  },
+  {
+    "root_id": "720575940608345778",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 532,
+    "imported_synapses": 2961,
+    "partner_label_hint_synapses": 1637,
+    "unresolved_partner_synapses": 1324
+  },
+  {
+    "root_id": "720575940608345778",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 685,
+    "imported_synapses": 2122,
+    "partner_label_hint_synapses": 1406,
+    "unresolved_partner_synapses": 716
+  },
+  {
+    "root_id": "720575940610669614",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 542,
+    "imported_synapses": 3283,
+    "partner_label_hint_synapses": 1964,
+    "unresolved_partner_synapses": 1319
+  },
+  {
+    "root_id": "720575940610669614",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 710,
+    "imported_synapses": 2443,
+    "partner_label_hint_synapses": 1726,
+    "unresolved_partner_synapses": 717
+  },
+  {
+    "root_id": "720575940611944914",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 512,
+    "imported_synapses": 2930,
+    "partner_label_hint_synapses": 1562,
+    "unresolved_partner_synapses": 1368
+  },
+  {
+    "root_id": "720575940611944914",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 235,
+    "imported_synapses": 1099,
+    "partner_label_hint_synapses": 179,
+    "unresolved_partner_synapses": 920
+  },
+  {
+    "root_id": "720575940612461461",
+    "cell_type": "lLN2P_c",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 432,
+    "imported_synapses": 4030,
+    "partner_label_hint_synapses": 1776,
+    "unresolved_partner_synapses": 2254
+  },
+  {
+    "root_id": "720575940612461461",
+    "cell_type": "lLN2P_c",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 327,
+    "imported_synapses": 3183,
+    "partner_label_hint_synapses": 1479,
+    "unresolved_partner_synapses": 1704
+  },
+  {
+    "root_id": "720575940612475598",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 471,
+    "imported_synapses": 3057,
+    "partner_label_hint_synapses": 1652,
+    "unresolved_partner_synapses": 1405
+  },
+  {
+    "root_id": "720575940612475598",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 225,
+    "imported_synapses": 1118,
+    "partner_label_hint_synapses": 170,
+    "unresolved_partner_synapses": 948
+  },
+  {
+    "root_id": "720575940614429165",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 545,
+    "imported_synapses": 3079,
+    "partner_label_hint_synapses": 1633,
+    "unresolved_partner_synapses": 1446
+  },
+  {
+    "root_id": "720575940614429165",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 692,
+    "imported_synapses": 2365,
+    "partner_label_hint_synapses": 1467,
+    "unresolved_partner_synapses": 898
+  },
+  {
+    "root_id": "720575940614944977",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 462,
+    "imported_synapses": 2955,
+    "partner_label_hint_synapses": 1752,
+    "unresolved_partner_synapses": 1203
+  },
+  {
+    "root_id": "720575940614944977",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 658,
+    "imported_synapses": 2094,
+    "partner_label_hint_synapses": 1310,
+    "unresolved_partner_synapses": 784
+  },
+  {
+    "root_id": "720575940615513086",
+    "cell_type": "lLN2P_c",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 400,
+    "imported_synapses": 3055,
+    "partner_label_hint_synapses": 1232,
+    "unresolved_partner_synapses": 1823
+  },
+  {
+    "root_id": "720575940615513086",
+    "cell_type": "lLN2P_c",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 337,
+    "imported_synapses": 2431,
+    "partner_label_hint_synapses": 1201,
+    "unresolved_partner_synapses": 1230
+  },
+  {
+    "root_id": "720575940616486230",
+    "cell_type": "lLN2P_c",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 401,
+    "imported_synapses": 3047,
+    "partner_label_hint_synapses": 1217,
+    "unresolved_partner_synapses": 1830
+  },
+  {
+    "root_id": "720575940616486230",
+    "cell_type": "lLN2P_c",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 343,
+    "imported_synapses": 2323,
+    "partner_label_hint_synapses": 1072,
+    "unresolved_partner_synapses": 1251
+  },
+  {
+    "root_id": "720575940617205179",
+    "cell_type": "lLN2P_c",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 440,
+    "imported_synapses": 4092,
+    "partner_label_hint_synapses": 1835,
+    "unresolved_partner_synapses": 2257
+  },
+  {
+    "root_id": "720575940617205179",
+    "cell_type": "lLN2P_c",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 345,
+    "imported_synapses": 3548,
+    "partner_label_hint_synapses": 1899,
+    "unresolved_partner_synapses": 1649
+  },
+  {
+    "root_id": "720575940621500865",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 452,
+    "imported_synapses": 2881,
+    "partner_label_hint_synapses": 1289,
+    "unresolved_partner_synapses": 1592
+  },
+  {
+    "root_id": "720575940621500865",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 191,
+    "imported_synapses": 1007,
+    "partner_label_hint_synapses": 106,
+    "unresolved_partner_synapses": 901
+  },
+  {
+    "root_id": "720575940622054497",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 485,
+    "imported_synapses": 3539,
+    "partner_label_hint_synapses": 1857,
+    "unresolved_partner_synapses": 1682
+  },
+  {
+    "root_id": "720575940622054497",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 255,
+    "imported_synapses": 1323,
+    "partner_label_hint_synapses": 256,
+    "unresolved_partner_synapses": 1067
+  },
+  {
+    "root_id": "720575940623650823",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 619,
+    "imported_synapses": 3439,
+    "partner_label_hint_synapses": 1940,
+    "unresolved_partner_synapses": 1499
+  },
+  {
+    "root_id": "720575940623650823",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 744,
+    "imported_synapses": 2450,
+    "partner_label_hint_synapses": 1564,
+    "unresolved_partner_synapses": 886
+  },
+  {
+    "root_id": "720575940623955637",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 593,
+    "imported_synapses": 3213,
+    "partner_label_hint_synapses": 1675,
+    "unresolved_partner_synapses": 1538
+  },
+  {
+    "root_id": "720575940623955637",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 758,
+    "imported_synapses": 2516,
+    "partner_label_hint_synapses": 1635,
+    "unresolved_partner_synapses": 881
+  },
+  {
+    "root_id": "720575940624330281",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 580,
+    "imported_synapses": 3830,
+    "partner_label_hint_synapses": 2015,
+    "unresolved_partner_synapses": 1815
+  },
+  {
+    "root_id": "720575940624330281",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 241,
+    "imported_synapses": 1283,
+    "partner_label_hint_synapses": 271,
+    "unresolved_partner_synapses": 1012
+  },
+  {
+    "root_id": "720575940624450342",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 548,
+    "imported_synapses": 3113,
+    "partner_label_hint_synapses": 1854,
+    "unresolved_partner_synapses": 1259
+  },
+  {
+    "root_id": "720575940624450342",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 703,
+    "imported_synapses": 2364,
+    "partner_label_hint_synapses": 1656,
+    "unresolved_partner_synapses": 708
+  },
+  {
+    "root_id": "720575940625977802",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 614,
+    "imported_synapses": 3506,
+    "partner_label_hint_synapses": 1615,
+    "unresolved_partner_synapses": 1891
+  },
+  {
+    "root_id": "720575940625977802",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 261,
+    "imported_synapses": 1229,
+    "partner_label_hint_synapses": 198,
+    "unresolved_partner_synapses": 1031
+  },
+  {
+    "root_id": "720575940626115134",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 536,
+    "imported_synapses": 3004,
+    "partner_label_hint_synapses": 1741,
+    "unresolved_partner_synapses": 1263
+  },
+  {
+    "root_id": "720575940626115134",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 675,
+    "imported_synapses": 2153,
+    "partner_label_hint_synapses": 1382,
+    "unresolved_partner_synapses": 771
+  },
+  {
+    "root_id": "720575940626378242",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 487,
+    "imported_synapses": 3152,
+    "partner_label_hint_synapses": 1462,
+    "unresolved_partner_synapses": 1690
+  },
+  {
+    "root_id": "720575940626378242",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 214,
+    "imported_synapses": 1200,
+    "partner_label_hint_synapses": 184,
+    "unresolved_partner_synapses": 1016
+  },
+  {
+    "root_id": "720575940626624275",
+    "cell_type": "lLN2P_c",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 450,
+    "imported_synapses": 3690,
+    "partner_label_hint_synapses": 1655,
+    "unresolved_partner_synapses": 2035
+  },
+  {
+    "root_id": "720575940626624275",
+    "cell_type": "lLN2P_c",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 298,
+    "imported_synapses": 2997,
+    "partner_label_hint_synapses": 1627,
+    "unresolved_partner_synapses": 1370
+  },
+  {
+    "root_id": "720575940627605779",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 509,
+    "imported_synapses": 2740,
+    "partner_label_hint_synapses": 1509,
+    "unresolved_partner_synapses": 1231
+  },
+  {
+    "root_id": "720575940627605779",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 636,
+    "imported_synapses": 1932,
+    "partner_label_hint_synapses": 1285,
+    "unresolved_partner_synapses": 647
+  },
+  {
+    "root_id": "720575940628343634",
+    "cell_type": "lLN2P_c",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 450,
+    "imported_synapses": 3493,
+    "partner_label_hint_synapses": 1610,
+    "unresolved_partner_synapses": 1883
+  },
+  {
+    "root_id": "720575940628343634",
+    "cell_type": "lLN2P_c",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 333,
+    "imported_synapses": 2969,
+    "partner_label_hint_synapses": 1504,
+    "unresolved_partner_synapses": 1465
+  },
+  {
+    "root_id": "720575940631105580",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 519,
+    "imported_synapses": 3068,
+    "partner_label_hint_synapses": 1526,
+    "unresolved_partner_synapses": 1542
+  },
+  {
+    "root_id": "720575940631105580",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 207,
+    "imported_synapses": 1165,
+    "partner_label_hint_synapses": 140,
+    "unresolved_partner_synapses": 1025
+  },
+  {
+    "root_id": "720575940631497078",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 453,
+    "imported_synapses": 2996,
+    "partner_label_hint_synapses": 1490,
+    "unresolved_partner_synapses": 1506
+  },
+  {
+    "root_id": "720575940631497078",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 197,
+    "imported_synapses": 915,
+    "partner_label_hint_synapses": 123,
+    "unresolved_partner_synapses": 792
+  },
+  {
+    "root_id": "720575940632505359",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 632,
+    "imported_synapses": 4137,
+    "partner_label_hint_synapses": 2116,
+    "unresolved_partner_synapses": 2021
+  },
+  {
+    "root_id": "720575940632505359",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 275,
+    "imported_synapses": 1573,
+    "partner_label_hint_synapses": 310,
+    "unresolved_partner_synapses": 1263
+  },
+  {
+    "root_id": "720575940634303132",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 500,
+    "imported_synapses": 3121,
+    "partner_label_hint_synapses": 1693,
+    "unresolved_partner_synapses": 1428
+  },
+  {
+    "root_id": "720575940634303132",
+    "cell_type": "lLN2P_a",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 250,
+    "imported_synapses": 1206,
+    "partner_label_hint_synapses": 303,
+    "unresolved_partner_synapses": 903
+  },
+  {
+    "root_id": "720575940634949311",
+    "cell_type": "lLN2P_c",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 414,
+    "imported_synapses": 3074,
+    "partner_label_hint_synapses": 1304,
+    "unresolved_partner_synapses": 1770
+  },
+  {
+    "root_id": "720575940634949311",
+    "cell_type": "lLN2P_c",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 305,
+    "imported_synapses": 2541,
+    "partner_label_hint_synapses": 1307,
+    "unresolved_partner_synapses": 1234
+  },
+  {
+    "root_id": "720575940635249332",
+    "cell_type": "lLN2P_c",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 390,
+    "imported_synapses": 3185,
+    "partner_label_hint_synapses": 1308,
+    "unresolved_partner_synapses": 1877
+  },
+  {
+    "root_id": "720575940635249332",
+    "cell_type": "lLN2P_c",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 332,
+    "imported_synapses": 2643,
+    "partner_label_hint_synapses": 1342,
+    "unresolved_partner_synapses": 1301
+  },
+  {
+    "root_id": "720575940636241550",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 510,
+    "imported_synapses": 3069,
+    "partner_label_hint_synapses": 1741,
+    "unresolved_partner_synapses": 1328
+  },
+  {
+    "root_id": "720575940636241550",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 218,
+    "imported_synapses": 1060,
+    "partner_label_hint_synapses": 203,
+    "unresolved_partner_synapses": 857
+  },
+  {
+    "root_id": "720575940637666446",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 646,
+    "imported_synapses": 3282,
+    "partner_label_hint_synapses": 2034,
+    "unresolved_partner_synapses": 1248
+  },
+  {
+    "root_id": "720575940637666446",
+    "cell_type": "lLN2P_b",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 805,
+    "imported_synapses": 2605,
+    "partner_label_hint_synapses": 1862,
+    "unresolved_partner_synapses": 743
+  },
+  {
+    "root_id": "720575940640955637",
+    "cell_type": "lLN2P_c",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 400,
+    "imported_synapses": 3490,
+    "partner_label_hint_synapses": 1504,
+    "unresolved_partner_synapses": 1986
+  },
+  {
+    "root_id": "720575940640955637",
+    "cell_type": "lLN2P_c",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 323,
+    "imported_synapses": 2762,
+    "partner_label_hint_synapses": 1406,
+    "unresolved_partner_synapses": 1356
+  },
+  {
+    "root_id": "720575940644362788",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "input",
+    "imported_records": 574,
+    "imported_synapses": 3759,
+    "partner_label_hint_synapses": 1809,
+    "unresolved_partner_synapses": 1950
+  },
+  {
+    "root_id": "720575940644362788",
+    "cell_type": "lLN2P_a",
+    "side": "left",
+    "direction": "output",
+    "imported_records": 285,
+    "imported_synapses": 1315,
+    "partner_label_hint_synapses": 322,
+    "unresolved_partner_synapses": 993
+  },
+  {
+    "root_id": "720575940660217985",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "input",
+    "imported_records": 579,
+    "imported_synapses": 3169,
+    "partner_label_hint_synapses": 1764,
+    "unresolved_partner_synapses": 1405
+  },
+  {
+    "root_id": "720575940660217985",
+    "cell_type": "lLN2P_b",
+    "side": "right",
+    "direction": "output",
+    "imported_records": 728,
+    "imported_synapses": 2433,
+    "partner_label_hint_synapses": 1691,
+    "unresolved_partner_synapses": 742
+  }
+]

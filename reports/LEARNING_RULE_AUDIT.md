@@ -1,0 +1,11 @@
+# Learning rule audit against the cited computational model
+
+The published source is pinned locally at `vendor/mushroom-body-rpe`, revision `7ec52afb9bd7bb748d94d60dea9f483645a2ce8e`, with its GPL-3.0 license retained. Primary source: Bennett, Philippides and Nowotny (2021), https://doi.org/10.1038/s41467-021-22592-4; authors' source https://github.com/BrainsOnBoard/paper_RPEs_in_drosophila_mb.
+
+In `mb_vs.m`, the VSlambda variant computes appetitive dopamine from KC input plus avoidance-output feedback plus positive reward. Aversive dopamine includes KC input plus approach-output feedback plus negative reward. Each KC-to-output update depends on active KC input and `lambda - opposite dopamine`. Updates can increase or decrease weights; nonnegative bounds are applied. Choice uses an approach-minus-avoidance output difference.
+
+Fly Garden's current experimental rule differs: it accumulates a presynaptic eligibility trace, directly depresses selected compartment weights on a nonzero reinforcement event, and limits weights to 10–100% of initial magnitudes. It does not implement the published feedback/prediction-error rule, potentiation, or a validated full-brain valence/action mapping. Merely citing this paper does not establish that the implemented rule reproduces it.
+
+`check_published_learning_rule.py` checks the source's VSlambda equations in a separate reduced diagnostic with disjoint cues, diagnostic NumPy initial states and forced presentation schedules. All 20 diagnostic states acquire the rewarded cue direction and reverse it; frozen states remain unchanged. This is an equation sanity check, not a reproduction of published experimental results, full-network evaluation, biological validation, or an alternative arena brain.
+
+The full-network result remains failed and unchanged. Translating the reference into the spiking connectome requires a documented mapping between firing rates, dopamine populations, reinforcement units and the reference's normalized activity variables. The reference's abstract approach/avoidance populations cannot simply be assigned to arbitrary neurons. The next useful full-network experiment must record separate cue responses, compartment DAN activity and pre/post weight changes on independent diagnostic seeds, before a prospective revised protocol is evaluated.

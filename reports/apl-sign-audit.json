@@ -1,0 +1,21 @@
+{
+  "rows": [
+    {
+      "root_id": "720575940613583001",
+      "annotation_predicted_transmitter": "gaba",
+      "annotation_known_transmitter": "gaba; gaba",
+      "outgoing_records": 3116,
+      "positive_records": 0,
+      "negative_records": 3116
+    },
+    {
+      "root_id": "720575940624547622",
+      "annotation_predicted_transmitter": "gaba",
+      "annotation_known_transmitter": "gaba; gaba",
+      "outgoing_records": 3105,
+      "positive_records": 0,
+      "negative_records": 3105
+    }
+  ],
+  "scope": "Imported signs only; does not validate inhibitory conductances or feedback dynamics"
+}

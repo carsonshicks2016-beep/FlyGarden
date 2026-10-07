@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "status": "secondary_probe_complete",
+  "archive_rows_scanned": 130054535,
+  "probe_sites": 1492,
+  "probe_roots": 540,
+  "evaluations": {
+    "published_mirror": {
+      "samples": 1492,
+      "roots": 540,
+      "unique_fraction": 0.806970509383378,
+      "correct_unique_fraction": 0.5564784053156147,
+      "correct_sample_fraction": 0.44906166219839144
+    },
+    "local_translation": {
+      "samples": 1492,
+      "roots": 540,
+      "unique_fraction": 0.7312332439678284,
+      "correct_unique_fraction": 0.9312557286892759,
+      "correct_sample_fraction": 0.6809651474530831
+    }
+  },
+  "root_cluster_bootstrap_95_intervals": {
+    "unique_fraction": [
+      0.6957005350735611,
+      0.765106162718962
+    ],
+    "correct_unique_fraction": [
+      0.9107661794401163,
+      0.9507117153226802
+    ]
+  },
+  "pooled_gate_passed": false,
+  "per_glomerulus_point_gates_passed": 4,
+  "no_calibration_neuron_or_source_site_overlap": true,
+  "no_candidate_refit": true,
+  "application_changed": false,
+  "wall_seconds": 29.411685708037112,
+  "peak_rss_bytes": 776765440,
+  "sources_reverified": true
+}

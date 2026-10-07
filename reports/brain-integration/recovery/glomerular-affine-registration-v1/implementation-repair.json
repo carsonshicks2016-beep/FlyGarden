@@ -1,0 +1,9 @@
+{
+  "reason": "Explicit float64 spatial coordinates required before non-integer mirroring in pandas",
+  "initial_worker_sha256": "603546c4b84603cfe20f39ac10615e7e7822114fc79a720cb247da84541e05bf",
+  "corrected_worker_sha256": "da39db0e49ba6ff939c24e4ee667a696dee344594b6a3da15295177735c85bd0",
+  "neuron_ID_dtypes_changed": false,
+  "calibration_parameters_or_gates_changed": false,
+  "initial_attempt_reached_fitting": false,
+  "initial_attempt_opened_probe_positions": false
+}

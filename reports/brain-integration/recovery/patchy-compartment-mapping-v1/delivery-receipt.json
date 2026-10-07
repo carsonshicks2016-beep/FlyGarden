@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "status": "audit_complete_partial_anatomical_mapping",
+  "tests_passed": 5,
+  "plot_visually_inspected": true,
+  "exact_root_joins": 34,
+  "covered_pair_count_parity": true,
+  "all_count_conservation": true,
+  "full_unthresholded_coordinate_coverage": false,
+  "bilateral_atlas_coverage": false,
+  "full_controller_ready": false,
+  "application_changed": false,
+  "promoted": false,
+  "full_goal_complete": false,
+  "sources_reverified": true,
+  "storage_bytes": 359233297,
+  "artifacts_sha256": {
+    "RESULTS.md": "e71d62d420a8d45296482a90c3f0c372e23222716e6477901a394e9c3eb936e4",
+    "provenance.json": "bbeaeb11ba0d7e56e3172afe812e15d2f2d5edfb06906ed400b01978dd934805",
+    "protocol.json": "ef0afa64e3fa68c79e64d143827f48484ded305d7dc635734c0dc944149d8979",
+    "spatial-protocol.json": "0ca34f2207d4414be2e0db37fc14a0290cb292d2ad973a6b3941e6e5f1fb5a83",
+    "results.json": "fe3261bfe705daa47de3b7dc888ced18f0da936ff66d36aa48240e08a870afeb",
+    "spatial-results.json": "cf5953e8d168544b39d48d9972c358e53e63160ae66a7954d2d1460e4a1afba3",
+    "coverage.json": "1a7988dc05165490e8985d36ccd2b358d064738bbacbb8546e4912f18fdfe5cd",
+    "anatomical-compartment-candidates.json": "93be6f30474bb94a8f5135544f3faa1a99bac120b58d03242e741cb86dc500b7",
+    "spatial-synapses.csv": "9ab1778fac808b8cb5ae40f6234c16fb91dfd9694927c1777a9cbcf130477690",
+    "mapping-coverage.png": "b73a27bd8d93729001cb4aa079c0504d10b9a920d5b600602debb476055cd37f",
+    "per-root-coverage.csv": "6b543cf3b0b030cd4e82d9b85d29ac71b91345996f0edede4d86ffd74e7d01b7",
+    "tests.log": "46c0ec5a055e313d3aa5407cb20fe4e470f8707fe3df22ee550155d10d3057b7"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "scope": "isolated published rate mechanism, no full brain",
+  "parameters": [
+    3835.0,
+    6.0630438037361e-06,
+    1004.89493761302,
+    30.5976478828549,
+    0.103245596784364,
+    0.11,
+    0.2
+  ],
+  "parameter_source": "LN_activity_injection_dynamics.m",
+  "dt_ms": 1.0,
+  "burn_in_ms": 11000,
+  "duration_after_burn_in_ms": 6000,
+  "pulses_after_burn_in_ms": [
+    [
+      300,
+      800
+    ],
+    [
+      3300,
+      3800
+    ]
+  ],
+  "conditions": [
+    "none",
+    "channel_a",
+    "channel_b",
+    "both"
+  ],
+  "variants": [
+    "published",
+    "no_post",
+    "no_pre",
+    "neither"
+  ],
+  "synthetic_extension": "Two independent copies of the published single-glomerulus model; channels are not antenna sides or exact anatomical compartments.",
+  "gates": {
+    "finite_nonnegative": true,
+    "pulse_peak_gain": 10.0,
+    "tail_deviation_from_matched_none": 5.0,
+    "untouched_channel_max_error": 1e-12,
+    "mirror_max_error": 1e-12,
+    "literal_translation_max_error": 1e-12,
+    "fresh_process_continuation_max_error": 0.0,
+    "continuous_limit_error_must_decrease": true
+  },
+  "claims_excluded": [
+    "experimental data fit",
+    "electrical cable compartments",
+    "graded GABA release kinetics",
+    "exact FlyWire root mapping",
+    "full-network recovery",
+    "navigation",
+    "learning"
+  ],
+  "frozen_sources": {
+    "flygarden/graded_gain_reference.py": "1d1e91faa18483a794512bff63279829c08937a6a2e84e1c8d2a19e20df4f4ce",
+    "scripts/validate_graded_gain_reference.py": "69f2c100adb4389065cbf1b8f3d2469b9a6376b88e5600cfea077bac9e4bf94f",
+    "reports/brain-integration/recovery/graded-compartment-reference-v1/literature/published-source/dynamical_model/run_AL_model.m": "6255eddeac181a96e30972f8a916456e265492af809fb4a79222f03b8709b156",
+    "reports/brain-integration/recovery/graded-compartment-reference-v1/literature/published-source/dynamical_model/LN_activity_injection_dynamics.m": "1ef7758ef98168ca1026f3f10a02606200bfc151cad43b7fec2f94cbebe2e662",
+    "tests/test_graded_gain_reference.py": "0f6589ffbeb02c7d8285eeb08dc20745ec08b20fa54cd962e12a357800192186",
+    "flygarden/brain.py": "3f3a0aa6aae99c38ad01532957232efdfffb92ab654b0f1be3d4230e87561875"
+  }
+}

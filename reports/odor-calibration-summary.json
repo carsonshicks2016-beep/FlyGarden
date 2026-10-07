@@ -1,0 +1,44 @@
+{
+  "id": "ff07b3153f914434a0d472947d6afc3b",
+  "status": "completed",
+  "protocol": "independent-odor-gain-calibration",
+  "promoted": false,
+  "summary": [
+    {
+      "gain": 0.05,
+      "active_fraction_mean": 0.8054774340431231,
+      "jaccard_mean": 0.9781224949996572,
+      "cosine_mean": 0.9936863656818652
+    },
+    {
+      "gain": 0.1,
+      "active_fraction_mean": 0.8129101379402704,
+      "jaccard_mean": 0.993759775880619,
+      "cosine_mean": 0.9981018551755948
+    },
+    {
+      "gain": 0.25,
+      "active_fraction_mean": 0.8131779831257533,
+      "jaccard_mean": 0.9937605840495444,
+      "cosine_mean": 0.9982058573624832
+    },
+    {
+      "gain": 0.5,
+      "active_fraction_mean": 0.8140484799785724,
+      "jaccard_mean": 0.9936081357103447,
+      "cosine_mean": 0.9980741544897541
+    },
+    {
+      "gain": 1.0,
+      "active_fraction_mean": 0.8141154412749431,
+      "jaccard_mean": 0.9947502505734622,
+      "cosine_mean": 0.9979051703144003
+    }
+  ],
+  "files": {
+    "provenance.json": "65e3009efdf2916219ffb8b4d523a70069fb03f7e8b11771fb5ee65e4839740a",
+    "result.json": "bd2433d87f62c241acd73a27a1858d11a13a2c288d9be3bea707e7bf34f37c06",
+    "brain.py": "edd532aa4ba37c4016cd2416d0d1524fef3878659f4cb9210d25e22fb83617c2",
+    "source.py": "e9d1a7169b582c130d5e8595feba6670bc2d93ba7ebb3bf31f59b9f2f240c25f"
+  }
+}

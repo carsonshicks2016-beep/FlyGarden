@@ -1,0 +1,12 @@
+{
+  "command": ".venv-next/bin/python -m pytest tests/test_causal_metrics.py tests/test_synchronized.py -q",
+  "observed_result": "7 passed in 7.23s",
+  "executed_before_protocol_commit": true,
+  "tested_source_hashes": {
+    "tests/test_causal_metrics.py": "73bef7e10fb338022cd74abf152ec1bc5af9cb7e9e191a536aa59f97f53885cb",
+    "tests/test_synchronized.py": "846e1bf268148c76984fe36ff2588b38aee39f2b2bf129bea210d65754b3d705",
+    "flygarden/causal_metrics.py": "a545202c2ce2a786bcb3921e96d2016b3fe2a07794d95f922bed7f2ff86edbc3",
+    "flygarden/synchronized.py": "85ec855dd5325b12face79ec9f9df9ecfd1c5478dc4e3a254a19709e32e86245",
+    "flygarden/body_feedback.py": "6d36ea0d25e5ad1163efe2fc081b240351a83cba24f65c67f882cc4992a92ced"
+  }
+}

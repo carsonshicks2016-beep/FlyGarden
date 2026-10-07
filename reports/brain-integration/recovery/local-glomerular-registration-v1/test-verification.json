@@ -1,0 +1,9 @@
+{
+  "tests_passed": 6,
+  "tests": [
+    "tests/test_local_atlas_registration.py",
+    "tests/test_skeleton_site_audit.py"
+  ],
+  "observed_output": "6 passed in 0.55s",
+  "geometry_compared_to_exhaustive_projection": true
+}

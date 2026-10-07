@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "status": "bounded_reference_complete",
+  "tests_passed": 4,
+  "figure_visually_inspected": true,
+  "native_brain_runs": 0,
+  "application_changed": false,
+  "full_goal_complete": false,
+  "artifacts_sha256": {
+    "traces.npz": "da862bb0980dde1295af09865276f3acd9438877a49a6927c083a2c537e86052",
+    "validation.log": "e1a9ec6151efbbd1a1a6f77af4fe647b39644758f0a61c02201cde594a578ea4",
+    "tests-initial-unit-error.log": "70d60c0045c9711ff6cf5c0aeb37383ce676f2cd2e4f3027f1619f44a83d045f",
+    "response-curves.png": "b88862d8cd71a8e1cff33895baa7f38c686fb2b84e7fa6d40ad2d771b1de412e",
+    "tests-initial.py": "296feaa9ef6ea3fd057db02c5e8c058b97f714fe29ac9f3cc4fd7c66f33c3ddd",
+    "results.json": "2f830e6a525abf7877fd09fbccb541a6e45c0461aa3cb0ebb1873d88ff261b4d",
+    "RESULTS.md": "94c6b614beb2cd9dbf63e81b4f043c1acb934a63c5cda9168de207c1eb64b1f8",
+    "protocol.json": "1038b50e44e110156c9b002f60f630dc7e8f1515bcd03d981aed5787d50562b3",
+    "tests.log": "31f73f2d52db0cd280bed2fef643425ffb0bdd4c33e8f3f460c082f4c83e4c3b",
+    "factory-before-shared-tau.py": "66417e33572430e93c9d0d328a2aa3323ee5de6cd967e0e5500520cc0fd15bf0"
+  }
+}

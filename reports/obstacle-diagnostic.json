@@ -1,0 +1,4048 @@
+{
+  "status": "completed",
+  "protocol": "Fixed straight supplied gait, physical wall versus shallow step; independent seeds 101/102; 10 seconds each",
+  "runs": [
+    {
+      "height_mm": 0.15,
+      "seed": 101,
+      "first_contact_seconds": 0.5,
+      "first_flip_seconds": null,
+      "frames": [
+        {
+          "time": 0.1,
+          "position": [
+            1.3472601347433197,
+            0.1343668312254889,
+            1.0028769702599925
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.2,
+          "position": [
+            2.744280983514847,
+            0.40852199536815115,
+            1.0311822442423162
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.30000000000000004,
+          "position": [
+            4.035774887095508,
+            0.7629736498272632,
+            1.016178485225194
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.4,
+          "position": [
+            5.248391120482786,
+            0.7239417434096681,
+            1.0915254014852724
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.5,
+          "position": [
+            6.801775141234697,
+            0.6402120356913914,
+            1.126389042358814
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 0.6000000000000001,
+          "position": [
+            8.027173998863248,
+            1.1422035078857606,
+            1.2711928867609468
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 0.7000000000000001,
+          "position": [
+            9.582825512017912,
+            1.4334818885887153,
+            1.1243034104559564
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 0.8,
+          "position": [
+            10.95094080162189,
+            1.6246735189325945,
+            1.1049574720588127
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 0.9,
+          "position": [
+            12.168660452116768,
+            1.5727060261941366,
+            1.093911256826629
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.0,
+          "position": [
+            13.744925753006134,
+            1.5709467436143985,
+            1.0813740978188426
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.1,
+          "position": [
+            15.035552920876086,
+            1.9174038387917234,
+            1.1596909876537012
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.2000000000000002,
+          "position": [
+            16.432753248811995,
+            2.2841205848388,
+            1.1066747855099945
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.3,
+          "position": [
+            17.87272285641106,
+            2.419105915006822,
+            1.1566841054475745
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.4000000000000001,
+          "position": [
+            19.16559735379603,
+            2.3901626570004106,
+            1.1028275926809477
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.5,
+          "position": [
+            20.749097445081812,
+            2.3898043046997275,
+            1.0779474785725902
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.6,
+          "position": [
+            22.03656018630394,
+            2.744177945696706,
+            1.1602146956402364
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.7000000000000002,
+          "position": [
+            23.437988855420805,
+            3.1085109322601925,
+            1.1073942201862628
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.8,
+          "position": [
+            24.877111182168377,
+            3.2417255364435196,
+            1.1572657061115312
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.9000000000000001,
+          "position": [
+            26.16939336163766,
+            3.21878493965466,
+            1.0980706219363554
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.0,
+          "position": [
+            27.75158058196835,
+            3.2132234711763976,
+            1.0813277445863407
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.1,
+          "position": [
+            29.03828878951288,
+            3.5677083563912073,
+            1.1576916889593796
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.2,
+          "position": [
+            30.435341739367612,
+            3.9320288939653305,
+            1.1064246080669833
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.3000000000000003,
+          "position": [
+            31.874240271377285,
+            4.071667813683792,
+            1.1557628884521287
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.4000000000000004,
+          "position": [
+            33.16564075386153,
+            4.042422176726897,
+            1.1034980896021551
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.5,
+          "position": [
+            34.75218241660361,
+            4.056631097248286,
+            1.0821012939959738
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.6,
+          "position": [
+            36.03539734815939,
+            4.428285416396737,
+            1.1602699506624254
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.7,
+          "position": [
+            37.432838232171015,
+            4.806733297166048,
+            1.104807486986388
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.8000000000000003,
+          "position": [
+            38.86998425261541,
+            4.966521395649173,
+            1.156877455240405
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.9000000000000004,
+          "position": [
+            40.16041059971713,
+            4.952251168718217,
+            1.101181139904421
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.0,
+          "position": [
+            41.74739549751645,
+            4.973225256785061,
+            1.0794483826923131
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.1,
+          "position": [
+            43.02543224048294,
+            5.349723264068407,
+            1.1620019907873342
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.2,
+          "position": [
+            44.41531618227538,
+            5.741641106079193,
+            1.1022083392899187
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.3000000000000003,
+          "position": [
+            45.85011389831709,
+            5.90711245590939,
+            1.1615702946337976
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.4000000000000004,
+          "position": [
+            47.14481823786104,
+            5.911735969822952,
+            1.099352592420441
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.5,
+          "position": [
+            48.726421103475644,
+            5.948245887775855,
+            1.077028069492143
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.6,
+          "position": [
+            50.00487241886201,
+            6.328893438931447,
+            1.1629283665467707
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.7,
+          "position": [
+            51.393855553318076,
+            6.727897680223536,
+            1.1058470899331627
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.8000000000000003,
+          "position": [
+            52.831124047558106,
+            6.899435500887045,
+            1.154169467469774
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.9000000000000004,
+          "position": [
+            54.12435459790135,
+            6.9049388190591845,
+            1.1023938902369885
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.0,
+          "position": [
+            55.71302594116772,
+            6.941928662410813,
+            1.0847276033105824
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.1000000000000005,
+          "position": [
+            56.99459729066608,
+            7.328540861170811,
+            1.1615106081427808
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.2,
+          "position": [
+            58.38288809613843,
+            7.7307568392136945,
+            1.1062981162388468
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.3,
+          "position": [
+            59.82063235118164,
+            7.899774134601732,
+            1.1600667272376823
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.4,
+          "position": [
+            61.1141974000814,
+            7.908938787252864,
+            1.0991204942700084
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.5,
+          "position": [
+            62.69789837818659,
+            7.945552848058624,
+            1.078725484059864
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.6000000000000005,
+          "position": [
+            63.975272100931306,
+            8.33319682794545,
+            1.16049492830308
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.7,
+          "position": [
+            65.36259394308655,
+            8.740781759311767,
+            1.1054756756308275
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.800000000000001,
+          "position": [
+            66.7985726713763,
+            8.916143265687177,
+            1.1585101622240466
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.9,
+          "position": [
+            68.09387076173881,
+            8.931088478647965,
+            1.1023736390959862
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.0,
+          "position": [
+            69.67759776099348,
+            8.978101089522488,
+            1.0776072005209287
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.1000000000000005,
+          "position": [
+            70.94991779444871,
+            9.367349251081752,
+            1.159757281455767
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.2,
+          "position": [
+            72.33394447744027,
+            9.770902779231147,
+            1.10170417924898
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.300000000000001,
+          "position": [
+            73.76837870048989,
+            9.942704671892814,
+            1.1582820801598404
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.4,
+          "position": [
+            75.06223619938034,
+            9.947287017762854,
+            1.101328813848356
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.5,
+          "position": [
+            76.6473184251431,
+            9.989571323275987,
+            1.0792136157408085
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.6000000000000005,
+          "position": [
+            77.92832791783306,
+            10.372717781415636,
+            1.161666327640622
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.7,
+          "position": [
+            79.31238787167219,
+            10.779610560636229,
+            1.099238755249308
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.800000000000001,
+          "position": [
+            80.74240072118268,
+            10.963872533923515,
+            1.1549449698319332
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.9,
+          "position": [
+            82.03516355246023,
+            10.982603745702871,
+            1.0996829282084328
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.0,
+          "position": [
+            83.62121822688559,
+            11.03247858300816,
+            1.0809949708877276
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.1000000000000005,
+          "position": [
+            84.89479779740573,
+            11.432694076694002,
+            1.1629909145241193
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.2,
+          "position": [
+            86.2774989045064,
+            11.850043573176134,
+            1.1031945224388076
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.300000000000001,
+          "position": [
+            87.71331188171054,
+            12.029853470350258,
+            1.1571069570950463
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.4,
+          "position": [
+            89.00940219773385,
+            12.051281349783824,
+            1.1029258648648506
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.5,
+          "position": [
+            90.59734554107355,
+            12.112466014963655,
+            1.0785569106376214
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.6000000000000005,
+          "position": [
+            91.87102782952108,
+            12.512375019238045,
+            1.1618567157074564
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.7,
+          "position": [
+            93.25147538739867,
+            12.93661740408748,
+            1.1051561932203002
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.800000000000001,
+          "position": [
+            94.68813156399524,
+            13.12868053597148,
+            1.1582794739961166
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.9,
+          "position": [
+            95.98363443824368,
+            13.155448700662847,
+            1.1020712280409974
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.0,
+          "position": [
+            97.57451170809328,
+            13.211933227731235,
+            1.081235028676366
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.1000000000000005,
+          "position": [
+            98.84424012810925,
+            13.625831838972529,
+            1.1604436098524444
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.2,
+          "position": [
+            100.22972240166717,
+            14.038522273481865,
+            1.1040306608542607
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.300000000000001,
+          "position": [
+            101.66536055998377,
+            14.232253698715477,
+            1.1558556248261325
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.4,
+          "position": [
+            102.95902424837722,
+            14.258371894916797,
+            1.0996892653421084
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.5,
+          "position": [
+            104.5438440372992,
+            14.317210680896785,
+            1.078221862437589
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.6000000000000005,
+          "position": [
+            105.8166003998637,
+            14.715319638652266,
+            1.1597772778978908
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.7,
+          "position": [
+            107.19904019994486,
+            15.136126958712975,
+            1.1062459335861505
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.800000000000001,
+          "position": [
+            108.63547764756463,
+            15.329690161143098,
+            1.1575660295274572
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.9,
+          "position": [
+            109.92901652420905,
+            15.358084201860143,
+            1.099571118570768
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.0,
+          "position": [
+            111.51620144202535,
+            15.425201222388786,
+            1.082707453686297
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.1,
+          "position": [
+            112.78714643782021,
+            15.836893751720968,
+            1.1597139072324774
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.200000000000001,
+          "position": [
+            114.165714637307,
+            16.263869469002575,
+            1.104185201967387
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.3,
+          "position": [
+            115.59711732680111,
+            16.467886363970486,
+            1.1538665915891957
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.4,
+          "position": [
+            116.89003637264871,
+            16.49669119648125,
+            1.098860750385169
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.5,
+          "position": [
+            118.47584903393481,
+            16.57227642360212,
+            1.0813502398114319
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.6,
+          "position": [
+            119.74615546761626,
+            16.994945691977108,
+            1.1617062106654694
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.700000000000001,
+          "position": [
+            121.12240007941983,
+            17.436785273481348,
+            1.1076603106591527
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.8,
+          "position": [
+            122.55449962317569,
+            17.64756941734153,
+            1.1563446721936692
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.9,
+          "position": [
+            123.85028283812618,
+            17.689609114365236,
+            1.098707524320095
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.0,
+          "position": [
+            125.4341428352011,
+            17.775712158153798,
+            1.0763605701955639
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.1,
+          "position": [
+            126.70062421188089,
+            18.187854697325584,
+            1.1582058416879355
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.200000000000001,
+          "position": [
+            128.07746106489006,
+            18.62596675626844,
+            1.1061238254700312
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.3,
+          "position": [
+            129.50951512126096,
+            18.84091305422854,
+            1.1558657601822016
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.4,
+          "position": [
+            130.80351570331504,
+            18.881097564046655,
+            1.0983220408489005
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.5,
+          "position": [
+            132.3883341001201,
+            18.959113485065203,
+            1.077388683881619
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.600000000000001,
+          "position": [
+            133.65645007153992,
+            19.375468177513454,
+            1.1628308744038893
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.700000000000001,
+          "position": [
+            135.031284364564,
+            19.814216766101882,
+            1.0997790240958836
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.8,
+          "position": [
+            136.46155206201774,
+            20.03314484506596,
+            1.1554665288279724
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.9,
+          "position": [
+            137.75507549672483,
+            20.082941048655762,
+            1.0990433026302109
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 10.0,
+          "position": [
+            139.34045917883512,
+            20.162443301755864,
+            1.0791257627612019
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        }
+      ],
+      "finite": true,
+      "passed_obstacle": true
+    },
+    {
+      "height_mm": 0.15,
+      "seed": 102,
+      "first_contact_seconds": 0.5,
+      "first_flip_seconds": null,
+      "frames": [
+        {
+          "time": 0.1,
+          "position": [
+            1.517603776647139,
+            0.03913485413490668,
+            0.9380093293193268
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.2,
+          "position": [
+            2.896828425854778,
+            -0.04719405522743396,
+            1.0851590721152644
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.30000000000000004,
+          "position": [
+            4.168060594025495,
+            0.1259475810415608,
+            1.1227318936486301
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.4,
+          "position": [
+            5.629987816489613,
+            0.3827082872815251,
+            1.0963229825852685
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.5,
+          "position": [
+            6.94370259719158,
+            0.3411830117112252,
+            1.224276411308855
+          ],
+          "flipped": false,
+          "obstacle_contacts": 1
+        },
+        {
+          "time": 0.6000000000000001,
+          "position": [
+            8.29328047610774,
+            0.09353797044542544,
+            1.2046555295109382
+          ],
+          "flipped": false,
+          "obstacle_contacts": 1
+        },
+        {
+          "time": 0.7000000000000001,
+          "position": [
+            9.919832292281187,
+            0.008039162163069737,
+            1.1715696031531209
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 0.8,
+          "position": [
+            11.184013766012573,
+            0.058932096652904296,
+            1.0623990933161234
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 0.9,
+          "position": [
+            12.59419912095195,
+            0.22408235449831743,
+            1.0851775793653287
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.0,
+          "position": [
+            13.945222865556147,
+            -0.012574532699733805,
+            1.1776899053531915
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.1,
+          "position": [
+            15.314470207231684,
+            -0.2517237404524991,
+            1.085142540120823
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.2000000000000002,
+          "position": [
+            16.84507876471685,
+            -0.435718804681949,
+            1.1139580498298416
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.3,
+          "position": [
+            18.14260460223255,
+            -0.3359581587405748,
+            1.1296578657627474
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.4000000000000001,
+          "position": [
+            19.630273897753696,
+            -0.18959056563447985,
+            1.0954529778800846
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.5,
+          "position": [
+            20.984750848075823,
+            -0.43676826441754174,
+            1.179480761614475
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.6,
+          "position": [
+            22.351930971966006,
+            -0.6876263522008109,
+            1.0862314785072003
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.7000000000000002,
+          "position": [
+            23.88085632237775,
+            -0.8733883911589922,
+            1.1156419257112913
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.8,
+          "position": [
+            25.18247815105532,
+            -0.777942244676266,
+            1.1236372823136738
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 1.9000000000000001,
+          "position": [
+            26.667628608377633,
+            -0.6349908105299065,
+            1.0956253405921401
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.0,
+          "position": [
+            28.02035007473951,
+            -0.8878086604560895,
+            1.1795561659265248
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.1,
+          "position": [
+            29.385595946832524,
+            -1.1492021046562835,
+            1.085065499430456
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.2,
+          "position": [
+            30.911559661769612,
+            -1.353291313835606,
+            1.1120882382671597
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.3000000000000003,
+          "position": [
+            32.21419638271366,
+            -1.273654215558956,
+            1.127343604203399
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.4000000000000004,
+          "position": [
+            33.702074661221715,
+            -1.1437579478237971,
+            1.0928111071810418
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.5,
+          "position": [
+            35.04996931268426,
+            -1.407398228074945,
+            1.1775736968022235
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.6,
+          "position": [
+            36.41615251583596,
+            -1.6682706269036962,
+            1.080718998845596
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.7,
+          "position": [
+            37.938282142503034,
+            -1.877368502185823,
+            1.1198003057132686
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.8000000000000003,
+          "position": [
+            39.244822002340285,
+            -1.793993026685317,
+            1.1320887994744475
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 2.9000000000000004,
+          "position": [
+            40.73558931835788,
+            -1.6583141431420396,
+            1.0938951014310738
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.0,
+          "position": [
+            42.08552377169933,
+            -1.9146155722835407,
+            1.178938731548173
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.1,
+          "position": [
+            43.45107320110629,
+            -2.171763152217479,
+            1.0812951313626284
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.2,
+          "position": [
+            44.97409397842864,
+            -2.3706379125310955,
+            1.1197274545290756
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.3000000000000003,
+          "position": [
+            46.27632879147997,
+            -2.2848136643747767,
+            1.1302497230203141
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.4000000000000004,
+          "position": [
+            47.76666355274116,
+            -2.1455936315063497,
+            1.0966336626312378
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.5,
+          "position": [
+            49.1152340745689,
+            -2.408154565170725,
+            1.1790532887795309
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.6,
+          "position": [
+            50.482889694336215,
+            -2.669526183656558,
+            1.0818591050260158
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.7,
+          "position": [
+            52.00877453455012,
+            -2.8773231756932525,
+            1.1176835101414635
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.8000000000000003,
+          "position": [
+            53.31435482895878,
+            -2.806475422107916,
+            1.1290438755049579
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 3.9000000000000004,
+          "position": [
+            54.80303672481479,
+            -2.6774513957755235,
+            1.094610281485051
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.0,
+          "position": [
+            56.15036389081294,
+            -2.9431834462797997,
+            1.1829266573097583
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.1000000000000005,
+          "position": [
+            57.515825898149494,
+            -3.2079316719445155,
+            1.0790264524846267
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.2,
+          "position": [
+            59.03661437331397,
+            -3.422628067673685,
+            1.1144443941094317
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.3,
+          "position": [
+            60.340426896218425,
+            -3.3560526010220646,
+            1.1290627031604707
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.4,
+          "position": [
+            61.83198811021023,
+            -3.2263598347570204,
+            1.0955801016883642
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.5,
+          "position": [
+            63.18008290459997,
+            -3.500416190122865,
+            1.1823030856476529
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.6000000000000005,
+          "position": [
+            64.5450798987336,
+            -3.7733373033517803,
+            1.082932179216994
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.7,
+          "position": [
+            66.0688240818984,
+            -3.99468551001088,
+            1.1117197723324466
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.800000000000001,
+          "position": [
+            67.36981551308406,
+            -3.929725179263124,
+            1.124495622567606
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.9,
+          "position": [
+            68.86024094952992,
+            -3.8158017093720544,
+            1.0984182320043352
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.0,
+          "position": [
+            70.20915011968167,
+            -4.10197731517193,
+            1.1791228323849883
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.1000000000000005,
+          "position": [
+            71.5746098727391,
+            -4.386240349681306,
+            1.0838296168218036
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.2,
+          "position": [
+            73.0979506484862,
+            -4.610680018510362,
+            1.1157223760708777
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.300000000000001,
+          "position": [
+            74.40074914017059,
+            -4.546183998107838,
+            1.1282412949389793
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.4,
+          "position": [
+            75.89447617320897,
+            -4.444660297220536,
+            1.0931303243017796
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.5,
+          "position": [
+            77.23639801524202,
+            -4.73309953422952,
+            1.1781409079227156
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.6000000000000005,
+          "position": [
+            78.60008677924523,
+            -5.013650659115559,
+            1.0814586841875549
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.7,
+          "position": [
+            80.12034633829863,
+            -5.248169219419279,
+            1.112020597290164
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.800000000000001,
+          "position": [
+            81.42262346684149,
+            -5.1951104812343925,
+            1.1265963488389672
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.9,
+          "position": [
+            82.91739669200267,
+            -5.094885134122478,
+            1.0949819049171774
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.0,
+          "position": [
+            84.25991914642648,
+            -5.386286345988128,
+            1.1820006543758592
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.1000000000000005,
+          "position": [
+            85.62045153431585,
+            -5.680559334803853,
+            1.0818335110266037
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.2,
+          "position": [
+            87.1383525491685,
+            -5.9327024083016955,
+            1.1134129314484515
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.300000000000001,
+          "position": [
+            88.44700881070145,
+            -5.886866252145931,
+            1.1295407716391386
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.4,
+          "position": [
+            89.94221473507145,
+            -5.790181530535982,
+            1.094671333798512
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.5,
+          "position": [
+            91.28569830852781,
+            -6.083223375265734,
+            1.1793480121910498
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.6000000000000005,
+          "position": [
+            92.6460384416118,
+            -6.379829832492437,
+            1.085114419784104
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.7,
+          "position": [
+            94.16840161488133,
+            -6.61265859167953,
+            1.115423692941095
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.800000000000001,
+          "position": [
+            95.47487862815109,
+            -6.558154389330797,
+            1.128358745238617
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.9,
+          "position": [
+            96.96914103215062,
+            -6.45922168761944,
+            1.0965891134376036
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.0,
+          "position": [
+            98.30858641252021,
+            -6.75207213884762,
+            1.1793570864673095
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.1000000000000005,
+          "position": [
+            99.67085285068111,
+            -7.049387180516253,
+            1.0817804503739605
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.2,
+          "position": [
+            101.18809556322313,
+            -7.292120008782832,
+            1.115347169768665
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.300000000000001,
+          "position": [
+            102.49505530289234,
+            -7.242978706934298,
+            1.1282041365121023
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.4,
+          "position": [
+            103.99207631359063,
+            -7.147343030081875,
+            1.099196000549879
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.5,
+          "position": [
+            105.33292839599308,
+            -7.461336922995044,
+            1.1773405231393457
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.6000000000000005,
+          "position": [
+            106.68872940625296,
+            -7.769531928690479,
+            1.0832309983641555
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.7,
+          "position": [
+            108.20673655592465,
+            -8.027820578126835,
+            1.109521667143508
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.800000000000001,
+          "position": [
+            109.51194542106717,
+            -7.990557515979973,
+            1.125917858483946
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.9,
+          "position": [
+            111.01033817023372,
+            -7.904473622474152,
+            1.0983960577146668
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.0,
+          "position": [
+            112.3483416964829,
+            -8.231724881203489,
+            1.17933113126311
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.1,
+          "position": [
+            113.70529761993913,
+            -8.539389426220103,
+            1.082990096002597
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.200000000000001,
+          "position": [
+            115.22128182309375,
+            -8.801568255486584,
+            1.1137499603961554
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.3,
+          "position": [
+            116.53177573781105,
+            -8.768135832303539,
+            1.1301013273677145
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.4,
+          "position": [
+            118.02918559148341,
+            -8.689545720388528,
+            1.094893745217574
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.5,
+          "position": [
+            119.3685152162595,
+            -8.992903653574142,
+            1.179367228799775
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.6,
+          "position": [
+            120.7279995806929,
+            -9.303606954882968,
+            1.0819899671500854
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.700000000000001,
+          "position": [
+            122.24338450367905,
+            -9.561112875649078,
+            1.1208553272175437
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.8,
+          "position": [
+            123.5552824824549,
+            -9.527862177171754,
+            1.130872634253555
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.9,
+          "position": [
+            125.04911837972759,
+            -9.450219450766804,
+            1.096709565058532
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.0,
+          "position": [
+            126.38644036879609,
+            -9.772378562925182,
+            1.1790600562574418
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.1,
+          "position": [
+            127.74469056424445,
+            -10.08717693962934,
+            1.0812206417139307
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.200000000000001,
+          "position": [
+            129.25703446908668,
+            -10.36011440783633,
+            1.1099200567126555
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.3,
+          "position": [
+            130.5637946947191,
+            -10.32965848238708,
+            1.1281971106404056
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.4,
+          "position": [
+            132.06277084458486,
+            -10.258816357033986,
+            1.0956880904730493
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.5,
+          "position": [
+            133.40086235873216,
+            -10.578034683004036,
+            1.1790414088977683
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.600000000000001,
+          "position": [
+            134.75441628497296,
+            -10.897640943366254,
+            1.0824069574615993
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.700000000000001,
+          "position": [
+            136.26987997744166,
+            -11.163229203495458,
+            1.1171777461978851
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.8,
+          "position": [
+            137.5778387737246,
+            -11.133180211077098,
+            1.1255192372202052
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.9,
+          "position": [
+            139.0744157723805,
+            -11.06194798154942,
+            1.0923453723202268
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 10.0,
+          "position": [
+            140.4082785777285,
+            -11.378149412880486,
+            1.1809076297840186
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        }
+      ],
+      "finite": true,
+      "passed_obstacle": true
+    },
+    {
+      "height_mm": 3.0,
+      "seed": 101,
+      "first_contact_seconds": 0.5,
+      "first_flip_seconds": 3.8000000000000003,
+      "frames": [
+        {
+          "time": 0.1,
+          "position": [
+            1.3472601347433197,
+            0.1343668312254889,
+            1.0028769702599925
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.2,
+          "position": [
+            2.744280983514847,
+            0.40852199536815115,
+            1.0311822442423162
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.30000000000000004,
+          "position": [
+            4.035774887095508,
+            0.7629736498272632,
+            1.016178485225194
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.4,
+          "position": [
+            5.248391120482786,
+            0.7239417434096681,
+            1.0915254014852724
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.5,
+          "position": [
+            6.335629632153749,
+            0.6287155974949383,
+            1.4405685878976549
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 0.6000000000000001,
+          "position": [
+            6.475835417805157,
+            1.7349740429717078,
+            1.3164336425917977
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 0.7000000000000001,
+          "position": [
+            6.30449731983643,
+            1.7478044356331448,
+            1.1972560536249053
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 0.8,
+          "position": [
+            6.261015014436581,
+            1.0618949962003534,
+            1.548522933037251
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 0.9,
+          "position": [
+            6.284111060753731,
+            1.5945091554420265,
+            1.75045849315156
+          ],
+          "flipped": false,
+          "obstacle_contacts": 1
+        },
+        {
+          "time": 1.0,
+          "position": [
+            6.019107994397377,
+            1.8121650509830851,
+            1.3476508970471732
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 1.1,
+          "position": [
+            6.42909592938596,
+            1.4673334934255926,
+            1.30938555001936
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 1.2000000000000002,
+          "position": [
+            6.2333856554182825,
+            1.7387911634254225,
+            1.214535556652222
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 1.3,
+          "position": [
+            6.473419480673816,
+            1.4291503640803958,
+            1.3269062453985827
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 1.4000000000000001,
+          "position": [
+            6.202818592652343,
+            0.6845212685641928,
+            1.5823763154989614
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 1.5,
+          "position": [
+            6.040156142129741,
+            1.271724843887006,
+            1.3306321425285803
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 1.6,
+          "position": [
+            6.1939124310459635,
+            1.3535491133571924,
+            1.4774552930424492
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 1.7000000000000002,
+          "position": [
+            6.071311750834998,
+            1.6454103728054006,
+            1.3898475634006575
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 1.8,
+          "position": [
+            6.062768481377595,
+            1.3969264718624876,
+            1.4447393821231698
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 1.9000000000000001,
+          "position": [
+            6.31997790205399,
+            1.4636012214744625,
+            1.4102466500687294
+          ],
+          "flipped": false,
+          "obstacle_contacts": 1
+        },
+        {
+          "time": 2.0,
+          "position": [
+            6.066142514270281,
+            1.3566291029674307,
+            1.2784729376829487
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 2.1,
+          "position": [
+            6.22226926760274,
+            1.4475345432441864,
+            1.4118796771434328
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 2.2,
+          "position": [
+            6.104142337310536,
+            1.7673839108901572,
+            1.3181913047599876
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 2.3000000000000003,
+          "position": [
+            6.113162132755903,
+            1.5273149431084072,
+            1.3751355537522867
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 2.4000000000000004,
+          "position": [
+            6.367725095512591,
+            1.5882484750882335,
+            1.3356791086696445
+          ],
+          "flipped": false,
+          "obstacle_contacts": 1
+        },
+        {
+          "time": 2.5,
+          "position": [
+            6.11036451791413,
+            1.4315904332189437,
+            1.1996241191539991
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 2.6,
+          "position": [
+            6.293122298889692,
+            1.4809512393462243,
+            1.3151571108300952
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 2.7,
+          "position": [
+            6.159349505529455,
+            1.793046368049799,
+            1.227839961653069
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 2.8000000000000003,
+          "position": [
+            6.187212201350092,
+            1.5341470809886757,
+            1.2549939947750783
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 2.9000000000000004,
+          "position": [
+            6.429483674359438,
+            1.523696226657434,
+            1.2066498271296138
+          ],
+          "flipped": false,
+          "obstacle_contacts": 1
+        },
+        {
+          "time": 3.0,
+          "position": [
+            6.178529294553713,
+            1.4689844328399182,
+            1.0354420516441305
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 3.1,
+          "position": [
+            6.328278259635882,
+            1.521008549650608,
+            1.212783568253437
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 3.2,
+          "position": [
+            6.474606879444815,
+            1.6119858175224129,
+            1.2910230190123142
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 3.3000000000000003,
+          "position": [
+            5.8136627947671045,
+            1.9164467106776824,
+            1.7542178495926075
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 3.4000000000000004,
+          "position": [
+            6.2470781532549955,
+            1.8651390507335608,
+            1.5722803397167233
+          ],
+          "flipped": false,
+          "obstacle_contacts": 1
+        },
+        {
+          "time": 3.5,
+          "position": [
+            6.0515681588934145,
+            1.5876235905154414,
+            1.3564611767553132
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 3.6,
+          "position": [
+            6.094241304962583,
+            1.7769864791970897,
+            1.5473370869742498
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 3.7,
+          "position": [
+            6.045762465294608,
+            1.8236128739279702,
+            1.5463853093431366
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 3.8000000000000003,
+          "position": [
+            5.966393946734231,
+            -2.343526584642204,
+            0.45100025731882426
+          ],
+          "flipped": true,
+          "obstacle_contacts": 1
+        },
+        {
+          "time": 3.9000000000000004,
+          "position": [
+            5.675081178714835,
+            -1.400458486891879,
+            0.5387195861023549
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.0,
+          "position": [
+            5.5810156694878525,
+            -1.2085487577949268,
+            0.5342850743853287
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.1000000000000005,
+          "position": [
+            5.290942397372896,
+            -0.9310115619618571,
+            0.5169283036931333
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.2,
+          "position": [
+            5.184118088678108,
+            -0.885345128056953,
+            0.5222954605108312
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.3,
+          "position": [
+            4.9576491631922375,
+            -0.8367719245021145,
+            0.523739083337198
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.4,
+          "position": [
+            4.902671481698156,
+            -0.8298192521578549,
+            0.515501680288261
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.5,
+          "position": [
+            4.861019777155855,
+            -0.8215556449562196,
+            0.5022233299979801
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.6000000000000005,
+          "position": [
+            4.901131257811213,
+            -0.837332803482307,
+            0.5306089086231034
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.7,
+          "position": [
+            4.783536638812631,
+            -0.8425426572895458,
+            0.5278906103022277
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.800000000000001,
+          "position": [
+            4.613823155422658,
+            -0.8790407703623624,
+            0.5193035500437134
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 4.9,
+          "position": [
+            4.586597329348785,
+            -0.8937474316049187,
+            0.5257661070188163
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.0,
+          "position": [
+            4.531528300167947,
+            -0.9087712916943992,
+            0.5177685664581008
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.1000000000000005,
+          "position": [
+            4.533580332231007,
+            -0.9151972231465276,
+            0.5255862075903631
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.2,
+          "position": [
+            4.448202930932301,
+            -0.9617672271667599,
+            0.5259715783889541
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.300000000000001,
+          "position": [
+            4.515908050306717,
+            -0.9083487100862018,
+            0.5054436373923546
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.4,
+          "position": [
+            4.569188198736637,
+            -0.893040639116057,
+            0.5254207916660724
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.5,
+          "position": [
+            4.6194969490867805,
+            -0.8605955654665448,
+            0.508802608466016
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.6000000000000005,
+          "position": [
+            4.56784258942059,
+            -0.8737402569727959,
+            0.5000060518095442
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.7,
+          "position": [
+            4.5844721063659435,
+            -0.8802661491416123,
+            0.5251979356010171
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.800000000000001,
+          "position": [
+            4.6165556948578645,
+            -0.8670321959250913,
+            0.5222855963135763
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 5.9,
+          "position": [
+            4.456396927202936,
+            -0.9378827508527707,
+            0.5127142729378578
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.0,
+          "position": [
+            4.57679480820695,
+            -0.8762168205716124,
+            0.5163674106844001
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.1000000000000005,
+          "position": [
+            4.623029521350676,
+            -0.8630314593995504,
+            0.5264323494104962
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.2,
+          "position": [
+            4.538197335623627,
+            -0.899782753051181,
+            0.5282958563112732
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.300000000000001,
+          "position": [
+            4.41706794021156,
+            -0.972127912875556,
+            0.5290281538302994
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.4,
+          "position": [
+            4.429694662336742,
+            -0.9563092476512006,
+            0.5239095821386233
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.5,
+          "position": [
+            4.33633967310988,
+            -1.0194417498494568,
+            0.51058233733965
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.6000000000000005,
+          "position": [
+            4.284007518896256,
+            -1.0702369744115272,
+            0.5144785164803095
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.7,
+          "position": [
+            4.2847975431475485,
+            -1.077024027805434,
+            0.5267355133100283
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.800000000000001,
+          "position": [
+            4.337857384428666,
+            -1.0114867852383609,
+            0.509290151868606
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 6.9,
+          "position": [
+            4.4036565509779155,
+            -0.9544907452391477,
+            0.5034209848926944
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.0,
+          "position": [
+            4.462015997718813,
+            -0.9205181628736255,
+            0.5130101732749356
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.1000000000000005,
+          "position": [
+            4.449805586692401,
+            -0.9314041008047256,
+            0.5171263804433044
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.2,
+          "position": [
+            4.430720339401976,
+            -0.9392045687847366,
+            0.5130530659728144
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.300000000000001,
+          "position": [
+            4.396783017950167,
+            -0.973580993730115,
+            0.5284577961465052
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.4,
+          "position": [
+            4.480979751633217,
+            -0.9184467412914951,
+            0.5313259103411105
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.5,
+          "position": [
+            4.5641049356496834,
+            -0.8561508541837503,
+            0.4984720383406171
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.6000000000000005,
+          "position": [
+            4.6976502082189375,
+            -0.830115445106933,
+            0.529887132684039
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.7,
+          "position": [
+            4.722946267872359,
+            -0.8075904699043177,
+            0.5061990147233322
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.800000000000001,
+          "position": [
+            4.781913450842279,
+            -0.8045040384069023,
+            0.5193960304916115
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 7.9,
+          "position": [
+            4.88075252385706,
+            -0.795998580693012,
+            0.5182605504774632
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.0,
+          "position": [
+            4.871852173225864,
+            -0.7963281142885064,
+            0.5169446576543586
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.1,
+          "position": [
+            4.705079249497487,
+            -0.8054493740477142,
+            0.5010599134047893
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.200000000000001,
+          "position": [
+            4.682785989686248,
+            -0.8244188916853523,
+            0.5263120956237471
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.3,
+          "position": [
+            4.691350133913197,
+            -0.8075776416150199,
+            0.5055561006738718
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.4,
+          "position": [
+            4.668377967869635,
+            -0.827793369901454,
+            0.5344479623036857
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.5,
+          "position": [
+            4.75362127092657,
+            -0.7858715668126486,
+            0.49969160540268187
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.6,
+          "position": [
+            4.804978287668665,
+            -0.791744967218904,
+            0.5199164145970521
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.700000000000001,
+          "position": [
+            4.827321507028394,
+            -0.7832405450409619,
+            0.5136330327085599
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.8,
+          "position": [
+            4.81850272011443,
+            -0.7749661507495959,
+            0.5002463903835065
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 8.9,
+          "position": [
+            4.800371563736291,
+            -0.7775138648172547,
+            0.5050534014175216
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.0,
+          "position": [
+            4.751513608354008,
+            -0.7809830376821698,
+            0.5029541858377155
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.1,
+          "position": [
+            4.753465574116031,
+            -0.7835228517791178,
+            0.5116260006102843
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.200000000000001,
+          "position": [
+            4.804449465500724,
+            -0.7843579973870293,
+            0.5231056126720379
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.3,
+          "position": [
+            4.950572251399883,
+            -0.7674895802412136,
+            0.500838570324819
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.4,
+          "position": [
+            4.988854211519665,
+            -0.7695969227260382,
+            0.5010019328104366
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.5,
+          "position": [
+            4.992364055730054,
+            -0.7791763773481672,
+            0.5184481208031243
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.600000000000001,
+          "position": [
+            4.815722327473798,
+            -0.7737182020739448,
+            0.5151855759484589
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.700000000000001,
+          "position": [
+            4.790202291649545,
+            -0.7732369490577357,
+            0.5225975382126617
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.8,
+          "position": [
+            5.023711038941094,
+            -0.7804677507998125,
+            0.5564340653746861
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 9.9,
+          "position": [
+            5.458580606899946,
+            -2.197690985199322,
+            0.597752809736251
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 10.0,
+          "position": [
+            4.596536049116237,
+            -2.7027495143273765,
+            0.5449775441564199
+          ],
+          "flipped": true,
+          "obstacle_contacts": 0
+        }
+      ],
+      "finite": true,
+      "passed_obstacle": false
+    },
+    {
+      "height_mm": 3.0,
+      "seed": 102,
+      "first_contact_seconds": 0.5,
+      "first_flip_seconds": null,
+      "frames": [
+        {
+          "time": 0.1,
+          "position": [
+            1.517603776647139,
+            0.03913485413490668,
+            0.9380093293193268
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.2,
+          "position": [
+            2.896828425854778,
+            -0.04719405522743396,
+            1.0851590721152644
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.30000000000000004,
+          "position": [
+            4.168060594025495,
+            0.1259475810415608,
+            1.1227318936486301
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.4,
+          "position": [
+            5.629987816489613,
+            0.3827082872815251,
+            1.0963229825852685
+          ],
+          "flipped": false,
+          "obstacle_contacts": 0
+        },
+        {
+          "time": 0.5,
+          "position": [
+            6.328093367784122,
+            0.18228061795810593,
+            1.5118130696880057
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 0.6000000000000001,
+          "position": [
+            6.390458746009383,
+            -0.3585021125721106,
+            1.1485012339873248
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 0.7000000000000001,
+          "position": [
+            6.477027478642223,
+            -0.18276190871710318,
+            1.2311028347793416
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 0.8,
+          "position": [
+            6.47572907109393,
+            -0.04739733466546426,
+            1.217056806928421
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 0.9,
+          "position": [
+            6.472489972313551,
+            -0.13098744866605896,
+            1.1776592622187667
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 1.0,
+          "position": [
+            6.475890278822204,
+            -0.286489361262831,
+            1.2413842270866113
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 1.1,
+          "position": [
+            6.475559708175463,
+            -0.2565958492520894,
+            1.247485672974225
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 1.2000000000000002,
+          "position": [
+            6.476251830515745,
+            -0.10873605601567106,
+            1.1865216352188372
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 1.3,
+          "position": [
+            6.473604391798146,
+            0.005050914649996527,
+            1.1782545725018017
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 1.4000000000000001,
+          "position": [
+            6.474089443594244,
+            -0.10842814458239473,
+            1.1781257357400416
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 1.5,
+          "position": [
+            6.476575289734833,
+            -0.39743825496104823,
+            1.2561547285076589
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 1.6,
+          "position": [
+            6.475422900091199,
+            -0.4284080232996446,
+            1.2424562448705334
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 1.7000000000000002,
+          "position": [
+            6.476934414490035,
+            -0.31730200371135286,
+            1.1836455082038522
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 1.8,
+          "position": [
+            6.474490419015456,
+            -0.20563034570309016,
+            1.2017557199902302
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 1.9000000000000001,
+          "position": [
+            6.474510958588446,
+            -0.2503996164929027,
+            1.1882598897558183
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 2.0,
+          "position": [
+            6.476696324691767,
+            -0.4905199768139551,
+            1.250719646050456
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 2.1,
+          "position": [
+            6.475393146422121,
+            -0.4883210004042297,
+            1.252483642723733
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 2.2,
+          "position": [
+            6.477333086388864,
+            -0.4001587428568106,
+            1.1851542964439872
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 2.3000000000000003,
+          "position": [
+            6.4749051696222395,
+            -0.26855353970631024,
+            1.2122989081041742
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 2.4000000000000004,
+          "position": [
+            6.473882129417159,
+            -0.2408956747475093,
+            1.208884996368315
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 2.5,
+          "position": [
+            6.4740554499836245,
+            -0.28010122728702375,
+            1.2226587611917465
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 2.6,
+          "position": [
+            6.475443326931179,
+            -0.20065826668637965,
+            1.2399523447250242
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 2.7,
+          "position": [
+            6.476480110462027,
+            0.01265160743354626,
+            1.175145641776732
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 2.8000000000000003,
+          "position": [
+            6.474726870772109,
+            0.2050029309625731,
+            1.2054823744206409
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 2.9000000000000004,
+          "position": [
+            6.474817985411131,
+            0.23039793239722878,
+            1.189536970050296
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 3.0,
+          "position": [
+            6.476157398049662,
+            0.025555405899496494,
+            1.2234714911011728
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 3.1,
+          "position": [
+            6.475565857044776,
+            -0.0021180517259037496,
+            1.2558031603089954
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 3.2,
+          "position": [
+            6.477174734499027,
+            0.09104694195254621,
+            1.1911399670156382
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 3.3000000000000003,
+          "position": [
+            6.475093049538363,
+            0.23779923796032384,
+            1.2045577347516307
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 3.4000000000000004,
+          "position": [
+            6.474856240767014,
+            0.24114209826730532,
+            1.2044028387034895
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 3.5,
+          "position": [
+            6.475971354552332,
+            0.06691314851892176,
+            1.25719834378582
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 3.6,
+          "position": [
+            6.475297928416387,
+            0.10089047103432873,
+            1.2637696792160045
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 3.7,
+          "position": [
+            6.477301242268965,
+            0.21525104160719224,
+            1.1896890754310956
+          ],
+          "flipped": false,
+          "obstacle_contacts": 5
+        },
+        {
+          "time": 3.8000000000000003,
+          "position": [
+            6.4752963192924256,
+            0.2645769772924497,
+            1.2026637134745932
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 3.9000000000000004,
+          "position": [
+            6.473239780562373,
+            0.19529571459562647,
+            1.1815098068853642
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 4.0,
+          "position": [
+            6.476155293862317,
+            0.059731242340761014,
+            1.2238997608696334
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 4.1000000000000005,
+          "position": [
+            6.475593855253635,
+            0.11213272947826163,
+            1.2598549795958613
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 4.2,
+          "position": [
+            6.476270093352804,
+            0.23742849090291124,
+            1.180409642823109
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 4.3,
+          "position": [
+            6.475726633930831,
+            0.34346170617288974,
+            1.2144969345028425
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 4.4,
+          "position": [
+            6.473832063070009,
+            0.29028500437968857,
+            1.187184038032822
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 4.5,
+          "position": [
+            6.476107466991795,
+            0.08972333619963506,
+            1.22220307781019
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 4.6000000000000005,
+          "position": [
+            6.4753092850127505,
+            0.1274621639756321,
+            1.2494417280676702
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 4.7,
+          "position": [
+            6.4773392928168985,
+            0.2571983086092224,
+            1.178927727627197
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 4.800000000000001,
+          "position": [
+            6.475498683362304,
+            0.35299134229986107,
+            1.216240839047792
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 4.9,
+          "position": [
+            6.473112449041518,
+            0.32446524228569645,
+            1.1940371891453505
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 5.0,
+          "position": [
+            6.4754164828848335,
+            0.17689590088283913,
+            1.2464027748758302
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 5.1000000000000005,
+          "position": [
+            6.475768666915012,
+            0.13788695823424438,
+            1.2671549039078904
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 5.2,
+          "position": [
+            6.478078696199699,
+            0.20661169981427546,
+            1.179870458519973
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 5.300000000000001,
+          "position": [
+            6.474032778259442,
+            0.3829693736666886,
+            1.2244726414174907
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 5.4,
+          "position": [
+            6.474369124423972,
+            0.3960942764289065,
+            1.1948981808054528
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 5.5,
+          "position": [
+            6.476624387059647,
+            0.17830405953172115,
+            1.248124886877148
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 5.6000000000000005,
+          "position": [
+            6.475691763437722,
+            0.13206732075675218,
+            1.2608443912296639
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 5.7,
+          "position": [
+            6.477442863062865,
+            0.19981755114144736,
+            1.1910777519743667
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 5.800000000000001,
+          "position": [
+            6.474818983399539,
+            0.27071915356753495,
+            1.2005861726718363
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 5.9,
+          "position": [
+            6.4740792019307545,
+            0.23166317646788154,
+            1.1882859695107646
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 6.0,
+          "position": [
+            6.476150921109206,
+            0.04579822775223244,
+            1.2235916769124238
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 6.1000000000000005,
+          "position": [
+            6.475410763970709,
+            0.10484484116325443,
+            1.2547258911106882
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 6.2,
+          "position": [
+            6.476528288852688,
+            0.151743337105498,
+            1.1875864076402511
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 6.300000000000001,
+          "position": [
+            6.474682887616612,
+            0.28594397577306974,
+            1.209931624521156
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 6.4,
+          "position": [
+            6.4746042334590435,
+            0.2948635599085752,
+            1.1990597541200378
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 6.5,
+          "position": [
+            6.475446055157707,
+            0.14284586774045546,
+            1.2525094952425908
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 6.6000000000000005,
+          "position": [
+            6.475490896598022,
+            0.16717184474703947,
+            1.2526215924374624
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 6.7,
+          "position": [
+            6.477321411959375,
+            0.2813272816101762,
+            1.181341634564688
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 6.800000000000001,
+          "position": [
+            6.475444252922848,
+            0.4221246666299122,
+            1.2175459403897746
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 6.9,
+          "position": [
+            6.474234033606733,
+            0.39781633517326276,
+            1.1939026810785422
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 7.0,
+          "position": [
+            6.475646411295241,
+            0.27429233638535416,
+            1.2404972654079391
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 7.1000000000000005,
+          "position": [
+            6.47543127015373,
+            0.3477440163970374,
+            1.2451925136353912
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 7.2,
+          "position": [
+            6.476306146505203,
+            0.505415219346768,
+            1.1791609503490819
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 7.300000000000001,
+          "position": [
+            6.473851839722229,
+            0.5786529635481968,
+            1.1919287287718905
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 7.4,
+          "position": [
+            6.4748738022902925,
+            0.49005417838211485,
+            1.175831008035948
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 7.5,
+          "position": [
+            6.476284322394972,
+            0.25035113851423096,
+            1.2344770519689612
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 7.6000000000000005,
+          "position": [
+            6.475339997307526,
+            0.24937251468213012,
+            1.2256434925041146
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 7.7,
+          "position": [
+            6.477142690656224,
+            0.3805437323883428,
+            1.1790523568568492
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 7.800000000000001,
+          "position": [
+            6.474311080396983,
+            0.5351967251203574,
+            1.1621335000871271
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 7.9,
+          "position": [
+            6.4740058396549545,
+            0.44478987045646345,
+            1.1809627394728965
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 8.0,
+          "position": [
+            6.475952760178961,
+            0.2815199932884363,
+            1.2502778467190665
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 8.1,
+          "position": [
+            6.4754791227864805,
+            0.3184264434806865,
+            1.2475627095090347
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 8.200000000000001,
+          "position": [
+            6.477521522080992,
+            0.411657204711247,
+            1.1818073697064604
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 8.3,
+          "position": [
+            6.474747583329645,
+            0.4235323485163085,
+            1.2121283566399432
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 8.4,
+          "position": [
+            6.475051049119992,
+            0.35505585377769217,
+            1.1773145699123513
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 8.5,
+          "position": [
+            6.475849569182909,
+            0.18896283254574,
+            1.2437306402660846
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 8.6,
+          "position": [
+            6.4756492629485605,
+            0.18986476873380376,
+            1.2368760509606622
+          ],
+          "flipped": false,
+          "obstacle_contacts": 6
+        },
+        {
+          "time": 8.700000000000001,
+          "position": [
+            6.476992345946035,
+            0.3043983250149072,
+            1.1738545282382309
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 8.8,
+          "position": [
+            6.474733460628456,
+            0.4753796097653799,
+            1.211197132049493
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 8.9,
+          "position": [
+            6.473947568442064,
+            0.47153850869787395,
+            1.1995941429280663
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 9.0,
+          "position": [
+            6.476294067809969,
+            0.32334570137782914,
+            1.2310731616651782
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 9.1,
+          "position": [
+            6.475467296190907,
+            0.3327159181310001,
+            1.2264284395747909
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 9.200000000000001,
+          "position": [
+            6.476889309433854,
+            0.420703212173782,
+            1.1768456550431259
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 9.3,
+          "position": [
+            6.473028487646627,
+            0.45468941392351775,
+            1.236246652504602
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 9.4,
+          "position": [
+            6.4741391523028895,
+            0.40778240579955144,
+            1.1864081205214825
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 9.5,
+          "position": [
+            6.476404108962376,
+            0.2769111558274494,
+            1.220865441394923
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 9.600000000000001,
+          "position": [
+            6.47537836819084,
+            0.3158792425345908,
+            1.2280572591570205
+          ],
+          "flipped": false,
+          "obstacle_contacts": 3
+        },
+        {
+          "time": 9.700000000000001,
+          "position": [
+            6.477043542408025,
+            0.4382154380693048,
+            1.184489073033777
+          ],
+          "flipped": false,
+          "obstacle_contacts": 2
+        },
+        {
+          "time": 9.8,
+          "position": [
+            6.475610894434113,
+            0.5469048555292076,
+            1.2215584112502764
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 9.9,
+          "position": [
+            6.474845323968477,
+            0.5526475168279413,
+            1.2054732362573184
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        },
+        {
+          "time": 10.0,
+          "position": [
+            6.476628478848722,
+            0.3586723961190751,
+            1.2459599824790568
+          ],
+          "flipped": false,
+          "obstacle_contacts": 4
+        }
+      ],
+      "finite": true,
+      "passed_obstacle": false
+    }
+  ],
+  "controller_changed": false,
+  "scope": "Physical exposure diagnostic only; does not establish navigation or arbitrary terrain stability"
+}

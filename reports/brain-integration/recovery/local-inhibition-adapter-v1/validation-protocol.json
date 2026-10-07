@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "source_hashes": {
+    "reports/brain-integration/recovery/local-inhibition-adapter-v1/protocol.json": "1730825bb5b949918e62301f2c6f7b0bd7deb32c3dafd0086fad698632e5050c",
+    "reports/brain-integration/recovery/local-inhibition-adapter-v1/routes.json": "c44735a2bfb9dc670235431ae29c004d0a5141a7643ce610356ed7d6f4234c48",
+    "flygarden/local_inhibition_adapter.py": "10beef00fc7bbd012a41e2f1cc49038d037bf2a65844dde5c3c81dcb1da78fdd",
+    "flygarden/graded_gain_reference.py": "1d1e91faa18483a794512bff63279829c08937a6a2e84e1c8d2a19e20df4f4ce",
+    "tests/test_local_inhibition_adapter.py": "af63723a0e8c34624a1fa0bd47ac3939305edbe64fda9cda18bd8ff08ccd35a7",
+    "scripts/validate_local_inhibition_adapter.py": "8bee7294e3cd14eceb1bb1594b3e9a8208e055f517860d5ba1833eed34a37520"
+  },
+  "gates": {
+    "isolated_analytic_max_error": 1e-05,
+    "offset_release_hz_at_150ms": 0.01,
+    "checkpoint_max_error": 0,
+    "observer_max_error": 0,
+    "timestep_errors_strictly_decreasing": true,
+    "reference_local_activity_relative_error": 0.005,
+    "all_pair_counts_preserved": true
+  },
+  "reference_scope": "Only continuous local-state equation replay at rate_scale_hz=1000 to avoid clipping; does not validate default scale=100, upstream feedback, DM1 physiology, or full brain",
+  "mapped_scope": "Actual anatomical coupling driven by a synthetic local step, not an odor or behavioral experiment",
+  "test_seed": 20261007,
+  "full_network_acceptance": false
+}

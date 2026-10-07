@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "run": "5bdfe87759c7425b9617aca8a52e9472",
+  "time": 38.00000000000027,
+  "frames": 4,
+  "spikes": 48739,
+  "controller": "full",
+  "parent": "45c6927ab98749f6b5c1094b3c633501",
+  "throughput_includes_recording_io": 0.006849205625705292
+}

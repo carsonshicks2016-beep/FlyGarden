@@ -1,0 +1,98 @@
+[
+  {
+    "name": "README.md",
+    "path": "supplemental_files/README.md",
+    "sha": "49e63fc9162353d25ec151711b4b93b7b3326f52",
+    "size": 7525,
+    "url": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/README.md?ref=main",
+    "html_url": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/README.md",
+    "git_url": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/49e63fc9162353d25ec151711b4b93b7b3326f52",
+    "download_url": "https://raw.githubusercontent.com/flyconnectome/flywire_annotations/main/supplemental_files/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/README.md?ref=main",
+      "git": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/49e63fc9162353d25ec151711b4b93b7b3326f52",
+      "html": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/README.md"
+    }
+  },
+  {
+    "name": "Supplemental_file1_neuron_annotations.tsv",
+    "path": "supplemental_files/Supplemental_file1_neuron_annotations.tsv",
+    "sha": "02e72f6c8161d3465f77fec0edf96c5d98027a9e",
+    "size": 31720298,
+    "url": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/Supplemental_file1_neuron_annotations.tsv?ref=main",
+    "html_url": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/Supplemental_file1_neuron_annotations.tsv",
+    "git_url": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/02e72f6c8161d3465f77fec0edf96c5d98027a9e",
+    "download_url": "https://raw.githubusercontent.com/flyconnectome/flywire_annotations/main/supplemental_files/Supplemental_file1_neuron_annotations.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/Supplemental_file1_neuron_annotations.tsv?ref=main",
+      "git": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/02e72f6c8161d3465f77fec0edf96c5d98027a9e",
+      "html": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/Supplemental_file1_neuron_annotations.tsv"
+    }
+  },
+  {
+    "name": "Supplemental_file2_non_neuron_annotations.tsv",
+    "path": "supplemental_files/Supplemental_file2_non_neuron_annotations.tsv",
+    "sha": "d4e225839f7d0dedbeba1dfca7a8dcf753554c48",
+    "size": 127761,
+    "url": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/Supplemental_file2_non_neuron_annotations.tsv?ref=main",
+    "html_url": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/Supplemental_file2_non_neuron_annotations.tsv",
+    "git_url": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/d4e225839f7d0dedbeba1dfca7a8dcf753554c48",
+    "download_url": "https://raw.githubusercontent.com/flyconnectome/flywire_annotations/main/supplemental_files/Supplemental_file2_non_neuron_annotations.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/Supplemental_file2_non_neuron_annotations.tsv?ref=main",
+      "git": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/d4e225839f7d0dedbeba1dfca7a8dcf753554c48",
+      "html": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/Supplemental_file2_non_neuron_annotations.tsv"
+    }
+  },
+  {
+    "name": "Supplemental_file3_summary_with_ngl_links.csv",
+    "path": "supplemental_files/Supplemental_file3_summary_with_ngl_links.csv",
+    "sha": "9d2b24034c0cb833db32bfdd0d1b4ce48f326102",
+    "size": 758670,
+    "url": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/Supplemental_file3_summary_with_ngl_links.csv?ref=main",
+    "html_url": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/Supplemental_file3_summary_with_ngl_links.csv",
+    "git_url": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/9d2b24034c0cb833db32bfdd0d1b4ce48f326102",
+    "download_url": "https://raw.githubusercontent.com/flyconnectome/flywire_annotations/main/supplemental_files/Supplemental_file3_summary_with_ngl_links.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/Supplemental_file3_summary_with_ngl_links.csv?ref=main",
+      "git": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/9d2b24034c0cb833db32bfdd0d1b4ce48f326102",
+      "html": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/Supplemental_file3_summary_with_ngl_links.csv"
+    }
+  },
+  {
+    "name": "Supplemental_file4_hemilineages_clustering.csv",
+    "path": "supplemental_files/Supplemental_file4_hemilineages_clustering.csv",
+    "sha": "7e787818277427b9b6a9d8300a91fd32eb6f8a43",
+    "size": 2315552,
+    "url": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/Supplemental_file4_hemilineages_clustering.csv?ref=main",
+    "html_url": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/Supplemental_file4_hemilineages_clustering.csv",
+    "git_url": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/7e787818277427b9b6a9d8300a91fd32eb6f8a43",
+    "download_url": "https://raw.githubusercontent.com/flyconnectome/flywire_annotations/main/supplemental_files/Supplemental_file4_hemilineages_clustering.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/Supplemental_file4_hemilineages_clustering.csv?ref=main",
+      "git": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/7e787818277427b9b6a9d8300a91fd32eb6f8a43",
+      "html": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/Supplemental_file4_hemilineages_clustering.csv"
+    }
+  },
+  {
+    "name": "Supplemental_file5_hemibrain_meta.csv",
+    "path": "supplemental_files/Supplemental_file5_hemibrain_meta.csv",
+    "sha": "11d21b7e8cc2b4b8b0d910150bc836e2c4e9ebd3",
+    "size": 2634367,
+    "url": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/Supplemental_file5_hemibrain_meta.csv?ref=main",
+    "html_url": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/Supplemental_file5_hemibrain_meta.csv",
+    "git_url": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/11d21b7e8cc2b4b8b0d910150bc836e2c4e9ebd3",
+    "download_url": "https://raw.githubusercontent.com/flyconnectome/flywire_annotations/main/supplemental_files/Supplemental_file5_hemibrain_meta.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/flyconnectome/flywire_annotations/contents/supplemental_files/Supplemental_file5_hemibrain_meta.csv?ref=main",
+      "git": "https://api.github.com/repos/flyconnectome/flywire_annotations/git/blobs/11d21b7e8cc2b4b8b0d910150bc836e2c4e9ebd3",
+      "html": "https://github.com/flyconnectome/flywire_annotations/blob/main/supplemental_files/Supplemental_file5_hemibrain_meta.csv"
+    }
+  }
+]

@@ -1,0 +1,1620 @@
+{
+  "status": "closed",
+  "created": 1791301078.841698,
+  "protected_gemini": [
+    64848,
+    64856,
+    64859,
+    64862
+  ],
+  "protected_current_chat": [
+    0,
+    1,
+    49488,
+    49544,
+    64848,
+    64856,
+    64859,
+    64862,
+    69798
+  ],
+  "processes": [
+    {
+      "pid": 1641,
+      "created": 1790691658.457344,
+      "exe": "/Applications/OneDrive.app/Contents/OneDrive Sync Service.app/Contents/MacOS/OneDrive Sync Service",
+      "name": "OneDrive Sync Service",
+      "root_pid": 1641,
+      "previous_status": "running"
+    },
+    {
+      "pid": 6496,
+      "created": 1790919409.820966,
+      "exe": "/Applications/Antigravity.app/Contents/MacOS/Antigravity",
+      "name": "Antigravity",
+      "root_pid": 6496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 6500,
+      "created": 1790919411.767096,
+      "exe": "/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper.app/Contents/MacOS/Antigravity Helper",
+      "name": "Antigravity Helper",
+      "root_pid": 6496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 6501,
+      "created": 1790919411.771405,
+      "exe": "/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper.app/Contents/MacOS/Antigravity Helper",
+      "name": "Antigravity Helper",
+      "root_pid": 6496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 6503,
+      "created": 1790919411.877908,
+      "exe": "/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper (Renderer).app/Contents/MacOS/Antigravity Helper (Renderer)",
+      "name": "Antigravity Helper (Renderer)",
+      "root_pid": 6496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 6510,
+      "created": 1790919413.00912,
+      "exe": "/Applications/Antigravity.app/Contents/Resources/bin/language_server",
+      "name": "language_server",
+      "root_pid": 6496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 6518,
+      "created": 1790919417.10562,
+      "exe": "/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper.app/Contents/MacOS/Antigravity Helper",
+      "name": "Antigravity Helper",
+      "root_pid": 6496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 6520,
+      "created": 1790919417.349067,
+      "exe": "/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper.app/Contents/MacOS/Antigravity Helper",
+      "name": "Antigravity Helper",
+      "root_pid": 6496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 57550,
+      "created": 1791259926.56437,
+      "exe": "/opt/homebrew/Cellar/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/Resources/Python.app/Contents/MacOS/Python",
+      "name": "Python",
+      "root_pid": 6496,
+      "previous_status": "sleeping"
+    },
+    {
+      "pid": 57638,
+      "created": 1791260064.089272,
+      "exe": "/opt/homebrew/Cellar/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/Resources/Python.app/Contents/MacOS/Python",
+      "name": "Python",
+      "root_pid": 6496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 16496,
+      "created": 1790719883.644378,
+      "exe": "/Applications/Spotify.app/Contents/MacOS/Spotify",
+      "name": "Spotify",
+      "root_pid": 16496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 16501,
+      "created": 1790719884.208538,
+      "exe": "/Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper",
+      "name": "Spotify Helper",
+      "root_pid": 16496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 16502,
+      "created": 1790719884.223691,
+      "exe": "/Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper",
+      "name": "Spotify Helper",
+      "root_pid": 16496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 16504,
+      "created": 1790719884.314934,
+      "exe": "/Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper",
+      "name": "Spotify Helper",
+      "root_pid": 16496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 16506,
+      "created": 1790719884.910586,
+      "exe": "/Applications/Spotify.app/Contents/Frameworks/Spotify Helper (Renderer).app/Contents/MacOS/Spotify Helper (Renderer)",
+      "name": "Spotify Helper (Renderer)",
+      "root_pid": 16496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 16510,
+      "created": 1790719886.518105,
+      "exe": "/Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper",
+      "name": "Spotify Helper",
+      "root_pid": 16496,
+      "previous_status": "running"
+    },
+    {
+      "pid": 16498,
+      "created": 1790719883.973124,
+      "exe": "/Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper",
+      "name": "Spotify Helper",
+      "root_pid": 16498,
+      "previous_status": "running"
+    },
+    {
+      "pid": 31813,
+      "created": 1790725310.002038,
+      "exe": "/System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal",
+      "name": "Terminal",
+      "root_pid": 31813,
+      "previous_status": "running"
+    },
+    {
+      "pid": 32872,
+      "created": 1790727302.350228,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/firefox",
+      "name": "firefox",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 20484,
+      "created": 1791170455.484215,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 20485,
+      "created": 1791170457.485289,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 32875,
+      "created": 1790727302.75598,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/gpu-helper.app/Contents/MacOS/Firefox GPU Helper",
+      "name": "Firefox GPU Helper",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 32876,
+      "created": 1790727302.801067,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 32877,
+      "created": 1790727303.11271,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 32878,
+      "created": 1790727303.135071,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 32881,
+      "created": 1790727303.346864,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 32882,
+      "created": 1790727303.572564,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 32893,
+      "created": 1790727309.115817,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 34928,
+      "created": 1790889890.180683,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 35574,
+      "created": 1791060864.364403,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 57233,
+      "created": 1790894940.67334,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 59207,
+      "created": 1791288538.635669,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 59907,
+      "created": 1791290466.304602,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60502,
+      "created": 1791290789.326247,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60528,
+      "created": 1791290807.207688,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60552,
+      "created": 1791290813.142458,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60894,
+      "created": 1791291065.483819,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60928,
+      "created": 1791291126.268608,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60929,
+      "created": 1791291127.426904,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60930,
+      "created": 1791291127.451563,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60932,
+      "created": 1791291129.049592,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60935,
+      "created": 1791291129.352137,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60936,
+      "created": 1791291129.42462,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60937,
+      "created": 1791291129.453535,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60938,
+      "created": 1791291129.468473,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60939,
+      "created": 1791291129.498292,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60940,
+      "created": 1791291129.516676,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60941,
+      "created": 1791291129.518621,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60942,
+      "created": 1791291129.562406,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60943,
+      "created": 1791291129.584226,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60944,
+      "created": 1791291129.586016,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60945,
+      "created": 1791291129.611684,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60946,
+      "created": 1791291129.818799,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60947,
+      "created": 1791291129.832965,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60948,
+      "created": 1791291129.876152,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60949,
+      "created": 1791291129.912237,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60952,
+      "created": 1791291130.107598,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60953,
+      "created": 1791291130.26632,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60954,
+      "created": 1791291130.334632,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60955,
+      "created": 1791291130.441726,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60957,
+      "created": 1791291130.602755,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60958,
+      "created": 1791291130.63222,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60959,
+      "created": 1791291130.833612,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60960,
+      "created": 1791291130.869731,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60961,
+      "created": 1791291131.225316,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60962,
+      "created": 1791291131.325908,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60963,
+      "created": 1791291131.449592,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60964,
+      "created": 1791291131.466579,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60965,
+      "created": 1791291131.46803,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60966,
+      "created": 1791291131.824446,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60968,
+      "created": 1791291131.908943,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60969,
+      "created": 1791291131.941442,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60970,
+      "created": 1791291131.970882,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60972,
+      "created": 1791291133.942988,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60973,
+      "created": 1791291134.312643,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60974,
+      "created": 1791291134.354031,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60975,
+      "created": 1791291134.398789,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60976,
+      "created": 1791291135.177382,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60978,
+      "created": 1791291135.657049,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60979,
+      "created": 1791291135.686333,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 60983,
+      "created": 1791291137.560343,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 63376,
+      "created": 1791293076.747557,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64412,
+      "created": 1791294675.228157,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64413,
+      "created": 1791294675.452414,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64457,
+      "created": 1791294696.714978,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 65335,
+      "created": 1791295736.331937,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 66034,
+      "created": 1791296171.21795,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 66147,
+      "created": 1791296354.526548,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 66171,
+      "created": 1791296380.048551,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 66849,
+      "created": 1791297122.607269,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 67183,
+      "created": 1791297720.190134,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 67191,
+      "created": 1791297734.923738,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68198,
+      "created": 1791298604.929579,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68199,
+      "created": 1791298605.558221,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68531,
+      "created": 1791299044.682214,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 75601,
+      "created": 1790967251.162125,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 75633,
+      "created": 1790967310.162494,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 80455,
+      "created": 1791137730.971197,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container",
+      "name": "plugin-container",
+      "root_pid": 32872,
+      "previous_status": "running"
+    },
+    {
+      "pid": 32874,
+      "created": 1790727302.440116,
+      "exe": "/Applications/Firefox.app/Contents/MacOS/crashhelper",
+      "name": "crashhelper",
+      "root_pid": 32874,
+      "previous_status": "running"
+    },
+    {
+      "pid": 43503,
+      "created": 1791245831.370448,
+      "exe": "/System/Applications/Mail.app/Contents/MacOS/Mail",
+      "name": "Mail",
+      "root_pid": 43503,
+      "previous_status": "running"
+    },
+    {
+      "pid": 44286,
+      "created": 1791246605.057651,
+      "exe": "/Users/carsonhicks/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/ipcserver",
+      "name": "ipcserver",
+      "root_pid": 44286,
+      "previous_status": "running"
+    },
+    {
+      "pid": 44382,
+      "created": 1791246684.83693,
+      "exe": "/Users/carsonhicks/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx",
+      "name": "steam_osx",
+      "root_pid": 44382,
+      "previous_status": "running"
+    },
+    {
+      "pid": 44393,
+      "created": 1791246686.486615,
+      "exe": "/Users/carsonhicks/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper",
+      "name": "Steam Helper",
+      "root_pid": 44382,
+      "previous_status": "running"
+    },
+    {
+      "pid": 44399,
+      "created": 1791246686.986195,
+      "exe": "/Users/carsonhicks/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper",
+      "name": "Steam Helper",
+      "root_pid": 44382,
+      "previous_status": "running"
+    },
+    {
+      "pid": 44400,
+      "created": 1791246687.14065,
+      "exe": "/Users/carsonhicks/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper",
+      "name": "Steam Helper",
+      "root_pid": 44382,
+      "previous_status": "running"
+    },
+    {
+      "pid": 44401,
+      "created": 1791246687.254343,
+      "exe": "/Users/carsonhicks/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper",
+      "name": "Steam Helper",
+      "root_pid": 44382,
+      "previous_status": "running"
+    },
+    {
+      "pid": 44403,
+      "created": 1791246687.488535,
+      "exe": "/Users/carsonhicks/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper",
+      "name": "Steam Helper",
+      "root_pid": 44382,
+      "previous_status": "running"
+    },
+    {
+      "pid": 45742,
+      "created": 1791247963.994371,
+      "exe": "/Users/carsonhicks/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper",
+      "name": "Steam Helper",
+      "root_pid": 44382,
+      "previous_status": "running"
+    },
+    {
+      "pid": 54441,
+      "created": 1791257327.814015,
+      "exe": "/Users/carsonhicks/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper",
+      "name": "Steam Helper",
+      "root_pid": 44382,
+      "previous_status": "running"
+    },
+    {
+      "pid": 44396,
+      "created": 1791246686.71267,
+      "exe": "/Users/carsonhicks/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper",
+      "name": "Steam Helper",
+      "root_pid": 44396,
+      "previous_status": "running"
+    },
+    {
+      "pid": 47602,
+      "created": 1791252529.350828,
+      "exe": "/System/Applications/Messages.app/Contents/PlugIns/Messages Assistant Extension.appex/Contents/MacOS/Messages Assistant Extension",
+      "name": "Messages Assistant Extension",
+      "root_pid": 47602,
+      "previous_status": "sleeping"
+    },
+    {
+      "pid": 49065,
+      "created": 1791253533.870142,
+      "exe": "/opt/homebrew/Cellar/python@3.12/3.12.13_2/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python",
+      "name": "Python",
+      "root_pid": 49065,
+      "previous_status": "sleeping"
+    },
+    {
+      "pid": 49066,
+      "created": 1791253534.264825,
+      "exe": "/opt/homebrew/Cellar/python@3.12/3.12.13_2/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python",
+      "name": "Python",
+      "root_pid": 49065,
+      "previous_status": "running"
+    },
+    {
+      "pid": 49067,
+      "created": 1791253534.26734,
+      "exe": "/opt/homebrew/Cellar/python@3.12/3.12.13_2/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python",
+      "name": "Python",
+      "root_pid": 49065,
+      "previous_status": "running"
+    },
+    {
+      "pid": 49068,
+      "created": 1791253534.317346,
+      "exe": "/opt/homebrew/Cellar/python@3.12/3.12.13_2/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python",
+      "name": "Python",
+      "root_pid": 49065,
+      "previous_status": "running"
+    },
+    {
+      "pid": 51930,
+      "created": 1790763759.202465,
+      "exe": "/Applications/Microsoft Word.app/Contents/PlugIns/WordWidget_mac.appex/Contents/MacOS/WordWidget_mac",
+      "name": "WordWidget_mac",
+      "root_pid": 51930,
+      "previous_status": "sleeping"
+    },
+    {
+      "pid": 59286,
+      "created": 1791290048.723431,
+      "exe": "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex",
+      "name": "codex",
+      "root_pid": 59286,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64185,
+      "created": 1791294616.899714,
+      "exe": "/Applications/Claude.app/Contents/MacOS/Claude",
+      "name": "Claude",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64193,
+      "created": 1791294624.399975,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Claude Helper.app/Contents/MacOS/Claude Helper",
+      "name": "Claude Helper",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64195,
+      "created": 1791294624.407848,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Claude Helper.app/Contents/MacOS/Claude Helper",
+      "name": "Claude Helper",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64206,
+      "created": 1791294624.879806,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Claude Helper (Renderer).app/Contents/MacOS/Claude Helper (Renderer)",
+      "name": "Claude Helper (Renderer)",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64210,
+      "created": 1791294625.062434,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Claude Helper (Renderer).app/Contents/MacOS/Claude Helper (Renderer)",
+      "name": "Claude Helper (Renderer)",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64233,
+      "created": 1791294627.80057,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Claude Helper.app/Contents/MacOS/Claude Helper",
+      "name": "Claude Helper",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64234,
+      "created": 1791294627.802274,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Claude Helper.app/Contents/MacOS/Claude Helper",
+      "name": "Claude Helper",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64296,
+      "created": 1791294628.890661,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Claude Helper (Plugin).app/Contents/MacOS/Claude Helper (Plugin)",
+      "name": "Claude Helper (Plugin)",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64297,
+      "created": 1791294629.189879,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Claude Helper (Plugin).app/Contents/MacOS/Claude Helper (Plugin)",
+      "name": "Claude Helper (Plugin)",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64299,
+      "created": 1791294629.191028,
+      "exe": "/Applications/Claude.app/Contents/Helpers/disclaimer",
+      "name": "disclaimer",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64305,
+      "created": 1791294629.204641,
+      "exe": "/Applications/Claude.app/Contents/Helpers/disclaimer",
+      "name": "disclaimer",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64311,
+      "created": 1791294629.457151,
+      "exe": "/Applications/Claude.app/Contents/Helpers/disclaimer",
+      "name": "disclaimer",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64320,
+      "created": 1791294631.090932,
+      "exe": "/Applications/Claude.app/Contents/Helpers/disclaimer",
+      "name": "disclaimer",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64322,
+      "created": 1791294631.602899,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Claude Helper.app/Contents/MacOS/Claude Helper",
+      "name": "Claude Helper",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64323,
+      "created": 1791294631.603669,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Claude Helper.app/Contents/MacOS/Claude Helper",
+      "name": "Claude Helper",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64376,
+      "created": 1791294655.30822,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Claude Helper (Renderer).app/Contents/MacOS/Claude Helper (Renderer)",
+      "name": "Claude Helper (Renderer)",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64321,
+      "created": 1791294631.106505,
+      "exe": "/opt/homebrew/Cellar/uv/0.11.21/bin/uv",
+      "name": "uv",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64329,
+      "created": 1791294632.805047,
+      "exe": "/Users/carsonhicks/.local/share/uv/python/cpython-3.14.0-macos-aarch64-none/bin/python3.14",
+      "name": "python3.14",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64312,
+      "created": 1791294629.45921,
+      "exe": "/opt/homebrew/Cellar/uv/0.11.21/bin/uv",
+      "name": "uv",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64313,
+      "created": 1791294629.480225,
+      "exe": "/Users/carsonhicks/.local/share/uv/python/cpython-3.14.0-macos-aarch64-none/bin/python3.14",
+      "name": "python3.14",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64306,
+      "created": 1791294629.20643,
+      "exe": "/opt/homebrew/Cellar/uv/0.11.21/bin/uv",
+      "name": "uv",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64307,
+      "created": 1791294629.252136,
+      "exe": "/Users/carsonhicks/.local/share/uv/python/cpython-3.14.0-macos-aarch64-none/bin/python3.14",
+      "name": "python3.14",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64302,
+      "created": 1791294629.192883,
+      "exe": "/opt/homebrew/Cellar/uv/0.11.21/bin/uv",
+      "name": "uv",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64330,
+      "created": 1791294632.819592,
+      "exe": "/Users/carsonhicks/.local/share/uv/python/cpython-3.14.0-macos-aarch64-none/bin/python3.14",
+      "name": "python3.14",
+      "root_pid": 64185,
+      "previous_status": "running"
+    },
+    {
+      "pid": 64190,
+      "created": 1791294624.100213,
+      "exe": "/Applications/Claude.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/chrome_crashpad_handler",
+      "name": "chrome_crashpad_handler",
+      "root_pid": 64190,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68623,
+      "created": 1791299308.930773,
+      "exe": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+      "name": "Google Chrome",
+      "root_pid": 68623,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68635,
+      "created": 1791299314.365358,
+      "exe": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/154.0.8037.98/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper",
+      "name": "Google Chrome Helper",
+      "root_pid": 68623,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68636,
+      "created": 1791299314.380843,
+      "exe": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/154.0.8037.98/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper",
+      "name": "Google Chrome Helper",
+      "root_pid": 68623,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68638,
+      "created": 1791299314.423116,
+      "exe": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/154.0.8037.98/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper",
+      "name": "Google Chrome Helper",
+      "root_pid": 68623,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68647,
+      "created": 1791299314.84195,
+      "exe": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/154.0.8037.98/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer)",
+      "name": "Google Chrome Helper (Renderer)",
+      "root_pid": 68623,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68649,
+      "created": 1791299314.842444,
+      "exe": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/154.0.8037.98/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer)",
+      "name": "Google Chrome Helper (Renderer)",
+      "root_pid": 68623,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68659,
+      "created": 1791299315.681426,
+      "exe": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/154.0.8037.98/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer)",
+      "name": "Google Chrome Helper (Renderer)",
+      "root_pid": 68623,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68668,
+      "created": 1791299316.199551,
+      "exe": "/Applications/Claude.app/Contents/Helpers/chrome-native-host",
+      "name": "chrome-native-host",
+      "root_pid": 68623,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68682,
+      "created": 1791299319.565183,
+      "exe": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/154.0.8037.98/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper",
+      "name": "Google Chrome Helper",
+      "root_pid": 68623,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68683,
+      "created": 1791299319.566016,
+      "exe": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/154.0.8037.98/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper",
+      "name": "Google Chrome Helper",
+      "root_pid": 68623,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68824,
+      "created": 1791299377.812545,
+      "exe": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/154.0.8037.98/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer)",
+      "name": "Google Chrome Helper (Renderer)",
+      "root_pid": 68623,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68628,
+      "created": 1791299313.906574,
+      "exe": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/154.0.8037.98/Helpers/chrome_crashpad_handler",
+      "name": "chrome_crashpad_handler",
+      "root_pid": 68628,
+      "previous_status": "running"
+    },
+    {
+      "pid": 68734,
+      "created": 1791299340.993237,
+      "exe": "/System/Applications/Messages.app/Contents/MacOS/Messages",
+      "name": "Messages",
+      "root_pid": 68734,
+      "previous_status": "running"
+    },
+    {
+      "pid": 81461,
+      "created": 1791140903.419909,
+      "exe": "/Applications/Microsoft Word.app/Contents/MacOS/Microsoft Word",
+      "name": "Microsoft Word",
+      "root_pid": 81461,
+      "previous_status": "running"
+    },
+    {
+      "pid": 96550,
+      "created": 1790819313.442499,
+      "exe": "/System/Applications/Mail.app/Contents/PlugIns/com.apple.mail.SpotlightIndexExtension.appex/Contents/MacOS/com.apple.mail.SpotlightIndexExtension",
+      "name": "com.apple.mail.SpotlightIndexExtension",
+      "root_pid": 96550,
+      "previous_status": "sleeping"
+    }
+  ],
+  "failures": [
+    {
+      "pid": 54632,
+      "error": "ZombieProcess"
+    }
+  ],
+  "flygarden_compute_remains_separately_suspended": true,
+  "verified_stopped": [
+    1641,
+    6496,
+    6500,
+    6501,
+    6503,
+    6510,
+    6518,
+    6520,
+    57550,
+    57638,
+    16496,
+    16501,
+    16502,
+    16504,
+    16506,
+    16510,
+    16498,
+    31813,
+    32872,
+    20484,
+    20485,
+    32875,
+    32876,
+    32877,
+    32878,
+    32881,
+    32882,
+    32893,
+    34928,
+    35574,
+    57233,
+    59207,
+    59907,
+    60502,
+    60528,
+    60552,
+    60894,
+    60928,
+    60929,
+    60930,
+    60932,
+    60935,
+    60936,
+    60937,
+    60938,
+    60939,
+    60940,
+    60941,
+    60942,
+    60943,
+    60944,
+    60945,
+    60946,
+    60947,
+    60948,
+    60949,
+    60952,
+    60953,
+    60954,
+    60955,
+    60957,
+    60958,
+    60959,
+    60960,
+    60961,
+    60962,
+    60963,
+    60964,
+    60965,
+    60966,
+    60968,
+    60969,
+    60970,
+    60972,
+    60973,
+    60974,
+    60975,
+    60976,
+    60978,
+    60979,
+    60983,
+    63376,
+    64412,
+    64413,
+    64457,
+    65335,
+    66034,
+    66147,
+    66171,
+    66849,
+    67183,
+    67191,
+    68198,
+    68199,
+    68531,
+    75601,
+    75633,
+    80455,
+    32874,
+    43503,
+    44286,
+    44382,
+    44393,
+    44399,
+    44400,
+    44401,
+    44403,
+    45742,
+    54441,
+    44396,
+    47602,
+    49065,
+    49066,
+    49067,
+    49068,
+    51930,
+    59286,
+    64185,
+    64193,
+    64195,
+    64206,
+    64210,
+    64233,
+    64234,
+    64296,
+    64297,
+    64299,
+    64305,
+    64311,
+    64320,
+    64322,
+    64323,
+    64376,
+    64321,
+    64329,
+    64312,
+    64313,
+    64306,
+    64307,
+    64302,
+    64330,
+    64190,
+    68623,
+    68635,
+    68636,
+    68638,
+    68647,
+    68649,
+    68659,
+    68668,
+    68682,
+    68683,
+    68824,
+    68628,
+    68734,
+    81461,
+    96550
+  ],
+  "terminated_workloads": [
+    57550,
+    57638,
+    49065,
+    49066,
+    49067,
+    49068,
+    59286,
+    69616,
+    68786
+  ],
+  "apps_resumed_for_normal_quit": [
+    1641,
+    6496,
+    6500,
+    6501,
+    6503,
+    6510,
+    6518,
+    6520,
+    16496,
+    16501,
+    16502,
+    16504,
+    16506,
+    16510,
+    16498,
+    31813,
+    32872,
+    20484,
+    20485,
+    32875,
+    32876,
+    32877,
+    32878,
+    32881,
+    32882,
+    32893,
+    34928,
+    35574,
+    57233,
+    59207,
+    59907,
+    60502,
+    60528,
+    60552,
+    60894,
+    60928,
+    60929,
+    60930,
+    60932,
+    60935,
+    60936,
+    60937,
+    60938,
+    60939,
+    60940,
+    60941,
+    60942,
+    60943,
+    60944,
+    60945,
+    60946,
+    60947,
+    60948,
+    60949,
+    60952,
+    60953,
+    60954,
+    60955,
+    60957,
+    60958,
+    60959,
+    60960,
+    60961,
+    60962,
+    60963,
+    60964,
+    60965,
+    60966,
+    60968,
+    60969,
+    60970,
+    60972,
+    60973,
+    60974,
+    60975,
+    60976,
+    60978,
+    60979,
+    60983,
+    63376,
+    64412,
+    64413,
+    64457,
+    65335,
+    66034,
+    66147,
+    66171,
+    66849,
+    67183,
+    67191,
+    68198,
+    68199,
+    68531,
+    75601,
+    75633,
+    80455,
+    32874,
+    43503,
+    44286,
+    44382,
+    44393,
+    44399,
+    44400,
+    44401,
+    44403,
+    45742,
+    54441,
+    44396,
+    47602,
+    51930,
+    64185,
+    64193,
+    64195,
+    64206,
+    64210,
+    64233,
+    64234,
+    64296,
+    64297,
+    64299,
+    64305,
+    64311,
+    64320,
+    64322,
+    64323,
+    64376,
+    64321,
+    64329,
+    64312,
+    64313,
+    64306,
+    64307,
+    64302,
+    64330,
+    64190,
+    68623,
+    68635,
+    68636,
+    68638,
+    68647,
+    68649,
+    68659,
+    68668,
+    68682,
+    68683,
+    68824,
+    68628,
+    68734,
+    81461,
+    96550
+  ],
+  "closed_at": 1791301723.348309,
+  "terminated_remaining_helpers": [
+    1641,
+    47602,
+    51930,
+    96550,
+    1641,
+    70051,
+    70058,
+    70069
+  ],
+  "restore_behavior": "Apps were quit. Reopen them normally; in-memory suspension is no longer available."
+}

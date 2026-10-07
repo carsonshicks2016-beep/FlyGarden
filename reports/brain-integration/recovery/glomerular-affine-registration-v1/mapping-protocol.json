@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "source_hashes": {
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/mapped-endpoints.parquet": "ad2c0b30b23f95cb1029afaa6fba8496366bba80217243ae67a9b6e9a84831e0",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/source/flywire_al.surf.rda": "1c4a305302b2756c21ce76588c8ac0b603a065d799c32c08a3864c3612f9e389",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/mirrored-atlas-vertices.npz": "6d047ef30406b2cfeb92d3ed2bf8615756f4dda5e0ca6db023c2d67af6ea90a7",
+    "reports/brain-integration/recovery/glomerular-affine-registration-v1/affine-atlas.npz": "8c4e14d13f5844351ce0bae478de8a78375ee4741ec18242e880510218fa3fcd",
+    "reports/brain-integration/recovery/glomerular-affine-registration-v1/per-glomerulus-results.json": "e7c26a64b6b29376b3da16f7278f05380c12a54aa8a9e31ef1c5e91b5e791432",
+    "flygarden/compartment_mapping.py": "9429504b4062603f5b1d265bfe1240da8c8362ef8d6d9a92f649ad9640403dad",
+    "scripts/map_affine_patchy_sites.py": "b393d6b5a9f2bf62251bf80d5f911eb51c905a3127b68f0f227788543b6d5f96"
+  },
+  "left": "Previously validated native atlas; original grouping candidates only",
+  "right_eligible": [
+    "DM1",
+    "DP1m"
+  ],
+  "right_unvalidated_regions": "Remain in geometry membership tests but are not eligible grouping candidates",
+  "ambiguity": "Require exactly one membership among all native and fitted meshes, including unvalidated neighbors",
+  "input_coordinates": "Source post positions",
+  "output_coordinates": "Source pre positions",
+  "no_count_or_graph_change": true,
+  "physiological_compartments_assigned": false
+}

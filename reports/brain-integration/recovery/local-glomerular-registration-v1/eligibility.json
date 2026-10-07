@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "primary_point_gates_passed": [
+    "DA1",
+    "DA2",
+    "DA3",
+    "DL3",
+    "VA1d",
+    "VA1v",
+    "VL2a",
+    "VM4",
+    "VM5d"
+  ],
+  "secondary_point_gates_passed": [
+    "DA1",
+    "DM3",
+    "DM6",
+    "DP1l"
+  ],
+  "both_source_class_point_gates_passed": [
+    "DA1"
+  ],
+  "DM1_primary": "No untouched root-pair probe available",
+  "DM1_secondary": "Coverage 68.99%, below the frozen 70% requirement",
+  "complete_bilateral_atlas_accepted": false,
+  "full_network_adapter_ready": false,
+  "electrical_compartments_created": 0
+}

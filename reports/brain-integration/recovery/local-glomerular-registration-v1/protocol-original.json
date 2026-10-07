@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "source_hashes": {
+    "data/annotations.tsv": "b214970b55d2fbe0853bba536fdcb9e28730f4eb7ab06f600491df795da683cd",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/anchor-synapses.csv": "916c94d57ff2efc659b0d9d16d26974c4ddead4ae0cdd39f49c5f49f811318e0",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/source/flywire_al.surf.rda": "1c4a305302b2756c21ce76588c8ac0b603a065d799c32c08a3864c3612f9e389",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/FLYWIRE_mirror_landmarks.csv": "076f39860c405c276425b571fdbf00ae2e9561395aeba4df8757ad965b6a57ed",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/template_brain_meta.json": "5c4699eea9ab1fd6b6cd8233bec4ce53543df48bdec437cc50c3c1b44c7b6111",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/mirrored-atlas-vertices.npz": "6d047ef30406b2cfeb92d3ed2bf8615756f4dda5e0ca6db023c2d67af6ea90a7",
+    "flygarden/compartment_mapping.py": "9429504b4062603f5b1d265bfe1240da8c8362ef8d6d9a92f649ad9640403dad",
+    "flygarden/anatomical_mirror.py": "ced690f28bf08af4194d58e9a2083a1d0440bc978865c888dc42c275982f9a51",
+    "flygarden/local_atlas_registration.py": "aab88201fc54f3bb2b2230c89f2614296435354bc5bd23960bdee256747c23aa",
+    "scripts/validate_local_glomerular_registration.py": "287e45f20422614fab7a2cb0bcaf9b1c55dd9504bf06468618ae1149cc09ad04"
+  },
+  "archive_identity": {
+    "version": 1,
+    "url": "https://zenodo.org/records/10676866/files/flywire_synapses_783.feather?download=1",
+    "bytes": 9492998242,
+    "md5": "f8f1b97c9d4b0ea9b4c8b287f6b99091",
+    "sha256": "b597601805b31a04f3a90730ae3b6319f89e9f1c2795dd132e4c3f87fb32f44c",
+    "published_checksum_verified": true,
+    "ranges_preserved": true,
+    "elapsed_seconds": 1331.3259573330288
+  },
+  "candidate": "Published mirrored glomerular meshes plus one translation vector per glomerulus. No scale/rotation/shape fit.",
+  "split": "SHA256 salt flygarden-local-registration-v1-783 + exact ORN root; 3/5 calibration, 2/5 probe; all sites of a root share one role",
+  "probe_exclusions": "Exclude every pre/post root pair represented in the previously inspected v1 right-side anchor reservoir",
+  "anchor_definition": "Explicit cognate ORN -> annotated uniglomerular PN, exact labels only; PN soma side; postsynaptic location in native nm",
+  "fit": "Right neuron-balanced median minus published mirror of left neuron-balanced median; calibration roots only",
+  "translation_limit": "Reject shift longer than the source mirrored mesh bounding-box diagonal; never clamp it",
+  "min_calibration_roots_per_side": 5,
+  "min_calibration_sites_per_side": 50,
+  "min_probe_roots_per_glomerulus": 5,
+  "min_probe_sites_per_glomerulus": 50,
+  "gates": {
+    "unique_enclosure_min": 0.7,
+    "correct_among_unique_min": 0.8,
+    "root_cluster_bootstrap_95_lower_bounds_must_pass": true
+  },
+  "bootstrap": {
+    "seed": 17003,
+    "iterations": 2000,
+    "unit": "ORN root"
+  },
+  "no_controller_change": true,
+  "electrical_compartments_created": 0,
+  "not_independent_manual_boundary_validation": true,
+  "no_threshold_or_transform_retuning_after_probe": true
+}

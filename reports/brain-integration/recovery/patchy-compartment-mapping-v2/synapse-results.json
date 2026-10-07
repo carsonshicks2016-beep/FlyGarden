@@ -1,0 +1,22 @@
+{
+  "status": "audit_complete",
+  "archive_rows_scanned": 130054535,
+  "selected_rows": 261895,
+  "selected_ids_unique": true,
+  "selected_min_cleft_score": 51,
+  "imported_pairs": 31308,
+  "imported_synapses": 174669,
+  "observed_imported_synapses": 174669,
+  "exact_imported_pairs": 31308,
+  "every_imported_pair_exact": true,
+  "deficient_pairs": 0,
+  "excess_pairs": 0,
+  "unmodeled_partner_pairs": 74307,
+  "unmodeled_partner_sites": 87226,
+  "missing_imported_sites": 0,
+  "extra_sites_on_imported_pairs": 0,
+  "peak_rss_bytes": 302759936,
+  "wall_seconds": 13.191447750024963,
+  "application_changed": false,
+  "sources_reverified": true
+}

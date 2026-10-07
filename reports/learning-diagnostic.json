@@ -1,0 +1,41 @@
+{
+  "source": "learning-evaluation.json",
+  "protocol_unchanged": true,
+  "conditions": {
+    "plasticity": {
+      "states": 20,
+      "mean_before": -13.5,
+      "mean_acquisition": -2.75,
+      "mean_reversal": 0.75,
+      "mean_changed_connections": 1768.65,
+      "changed_states": 20,
+      "mean_updates": 6.0
+    },
+    "frozen": {
+      "states": 20,
+      "mean_before": -13.5,
+      "mean_acquisition": 1.625,
+      "mean_reversal": -0.875,
+      "mean_changed_connections": 0.0,
+      "changed_states": 0,
+      "mean_updates": 0.0
+    },
+    "shuffled": {
+      "states": 20,
+      "mean_before": -13.5,
+      "mean_acquisition": 0.0,
+      "mean_reversal": 1.5,
+      "mean_changed_connections": 1768.7,
+      "changed_states": 20,
+      "mean_updates": 5.95
+    }
+  },
+  "conclusion": "Plasticity activation and neural cue preference are separate checks. A changed weight does not establish a useful choice.",
+  "next_experiment_requirements": [
+    "Determine valence/readout direction from independent published evidence, not the observed failed test.",
+    "Measure cue-separated KC and MBON response before and after isolated reward pairings.",
+    "Use separate diagnostic seeds; retain this completed 20-seed evaluation as failed.",
+    "Establish a documented MBON-to-descending action pathway before claiming behavioral learning."
+  ],
+  "behavioral_learning_demonstrated": false
+}

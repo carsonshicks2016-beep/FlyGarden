@@ -1,0 +1,16 @@
+{
+  "status": "completed",
+  "frame_shape": [
+    2,
+    512,
+    450,
+    3
+  ],
+  "readout_shape": [
+    2,
+    721,
+    2
+  ],
+  "mean": 0.2727801203727722,
+  "mapping_to_brain": "not validated; diagnostic retinal sampling only"
+}

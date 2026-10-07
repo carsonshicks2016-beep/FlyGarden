@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "passed": true,
+  "checks": {
+    "actual_food_contact": true,
+    "weights_changed": true,
+    "weights_retained_exactly": true,
+    "transient_reset": true
+  },
+  "saved": "2bda412f45ef4505b8a9f8e63ff87fe1",
+  "scope": "Engineered plastic weights retained; not evidence of learned behavioral preference"
+}

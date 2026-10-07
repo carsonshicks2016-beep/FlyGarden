@@ -1,0 +1,15 @@
+{
+  "status": "mapping_complete_native_atlas_only",
+  "modeled_synapse_sites": 174669,
+  "directional_endpoints": 179560,
+  "unique_endpoint_coordinates": 179557,
+  "unique_enclosed_endpoints": 86045,
+  "outside_endpoints": 93513,
+  "overlap_endpoints": 2,
+  "unmodeled_partner_sites_preserved": 87226,
+  "opposite_hemisphere_atlas_accepted": false,
+  "physiological_compartments_created": 0,
+  "application_changed": false,
+  "wall_seconds": 78.58395145903341,
+  "sources_reverified": true
+}

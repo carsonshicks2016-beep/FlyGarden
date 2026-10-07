@@ -1,0 +1,13 @@
+{
+  "status": "provisional",
+  "evidence_file": "analysis-snapshot-7aa609134199.json",
+  "evidence_sha256": "7aa60913419938ebb20323f90ffed08e4e2a4a80ec23b705ff7718f47131c40b",
+  "audited_trials": 14,
+  "findings": [
+    "Quiet trials have no delivered input,spikes or motor drive.",
+    "Explicit DNp09 state support produces forward drive with left/right imbalance.",
+    "Direct left/right DNa02 stimulation produces opposite command biases.",
+    "Both unilateral odor conditions activate olfactory relay and predominantly left DNa02 under this protocol; mirrored odor-directed choice is not established."
+  ],
+  "next": "Finish all28 conditions, audit physical replay,then choose documented architecture; no production promotion."
+}

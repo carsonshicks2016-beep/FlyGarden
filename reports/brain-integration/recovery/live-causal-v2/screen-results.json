@@ -1,0 +1,23 @@
+{
+  "status": "failed_screen",
+  "results": [
+    {
+      "seed": 9751,
+      "cue": "loom_left",
+      "duration": 3.0,
+      "visual_peak_hz": 0.0,
+      "passed": false,
+      "wall_seconds": 43.74723370798165
+    },
+    {
+      "seed": 9752,
+      "cue": "loom_right",
+      "duration": 3.0,
+      "visual_peak_hz": 48.0902777777778,
+      "passed": true,
+      "wall_seconds": 43.975490665994585
+    }
+  ],
+  "held_out_evaluation_started": false,
+  "reason": "Left live moving-body cue did not produce visual rates. Preserve protocol thresholds; inspect actual eye frames via exact body replay before rerunning neural evaluation."
+}

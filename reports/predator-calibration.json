@@ -1,0 +1,54 @@
+{
+  "status": "completed",
+  "runs": [
+    {
+      "seed": 0,
+      "status": "running",
+      "time": 20.000000000000014,
+      "food": 0,
+      "escape_events": 1,
+      "threat_exposed": true,
+      "travel": 85.08842909583107
+    },
+    {
+      "seed": 1,
+      "status": "running",
+      "time": 20.000000000000014,
+      "food": 0,
+      "escape_events": 1,
+      "threat_exposed": true,
+      "travel": 84.87624904963484
+    },
+    {
+      "seed": 2,
+      "status": "running",
+      "time": 20.000000000000014,
+      "food": 0,
+      "escape_events": 1,
+      "threat_exposed": true,
+      "travel": 89.6732703897681
+    },
+    {
+      "seed": 3,
+      "status": "running",
+      "time": 20.000000000000014,
+      "food": 0,
+      "escape_events": 1,
+      "threat_exposed": true,
+      "travel": 85.23529231824097
+    },
+    {
+      "seed": 4,
+      "status": "running",
+      "time": 20.000000000000014,
+      "food": 0,
+      "escape_events": 1,
+      "threat_exposed": true,
+      "travel": 89.8103633432118
+    }
+  ],
+  "scope": "Five embodied baseline trials with fixed engineered speed5; provisional calibration only, not biological avoidance",
+  "captures": 0,
+  "falls": 0,
+  "survived_20s": 5
+}

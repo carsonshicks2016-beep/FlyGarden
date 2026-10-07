@@ -1,0 +1,102 @@
+[
+  {
+    "case": "quiet",
+    "seed": 1101,
+    "spikes": 0,
+    "input_events": 0,
+    "active_neurons": 0,
+    "finite_state": true,
+    "file": "production-quiet-1101.npz",
+    "sha256": "2c77f669dc6becb55d41c5c937f6d90544733b388d09461ad85bcf3120c0c7c6"
+  },
+  {
+    "case": "odor_a",
+    "seed": 1101,
+    "spikes": 87488,
+    "input_events": 668,
+    "active_neurons": 8125,
+    "finite_state": true,
+    "file": "production-odor_a-1101.npz",
+    "sha256": "9eda2a11609b83cd82861ce0b371f61777b765f7a748ac214fb718aeda73345e"
+  },
+  {
+    "case": "walking",
+    "seed": 1101,
+    "spikes": 69,
+    "input_events": 16,
+    "active_neurons": 24,
+    "finite_state": true,
+    "file": "production-walking-1101.npz",
+    "sha256": "2dc61d38d20ef2c29923b3799e6815b552bbd5ac0b719cbac83db058c25cdd51"
+  },
+  {
+    "case": "loom_left",
+    "seed": 1101,
+    "spikes": 2354,
+    "input_events": 1047,
+    "active_neurons": 493,
+    "finite_state": true,
+    "file": "production-loom_left-1101.npz",
+    "sha256": "892a1cc456059a8e58f26dd5372f161d1528df7f9a4e18f2aecc9a3d198ad202"
+  },
+  {
+    "case": "combined",
+    "seed": 1101,
+    "spikes": 87010,
+    "input_events": 912,
+    "active_neurons": 8392,
+    "finite_state": true,
+    "file": "production-combined-1101.npz",
+    "sha256": "79ab76450559a9a7c0a624dcfaea19a0c19cbc2e9bce0b92f81832637b160dd6"
+  },
+  {
+    "case": "quiet",
+    "seed": 1102,
+    "spikes": 0,
+    "input_events": 0,
+    "active_neurons": 0,
+    "finite_state": true,
+    "file": "production-quiet-1102.npz",
+    "sha256": "2c77f669dc6becb55d41c5c937f6d90544733b388d09461ad85bcf3120c0c7c6"
+  },
+  {
+    "case": "odor_a",
+    "seed": 1102,
+    "spikes": 87467,
+    "input_events": 698,
+    "active_neurons": 8194,
+    "finite_state": true,
+    "file": "production-odor_a-1102.npz",
+    "sha256": "98a7e3655dfee88cf7e4b4ff781812792c58ed47e8ef2653f48de2bf2de75f32"
+  },
+  {
+    "case": "walking",
+    "seed": 1102,
+    "spikes": 45,
+    "input_events": 15,
+    "active_neurons": 18,
+    "finite_state": true,
+    "file": "production-walking-1102.npz",
+    "sha256": "a343a641bbbf5f426d7631110a319e9aecddf1a9ff722821483abdc88664f627"
+  },
+  {
+    "case": "loom_left",
+    "seed": 1102,
+    "spikes": 2336,
+    "input_events": 1043,
+    "active_neurons": 463,
+    "finite_state": true,
+    "file": "production-loom_left-1102.npz",
+    "sha256": "62df27c57b35135676aaed53c601cbd05064c7c32bbdb562138a5e4da11525d2"
+  },
+  {
+    "case": "combined",
+    "seed": 1102,
+    "spikes": 86666,
+    "input_events": 888,
+    "active_neurons": 8455,
+    "finite_state": true,
+    "file": "production-combined-1102.npz",
+    "sha256": "b653d3752b9a7f2f23c9547025f8260e47cc8e0fc89f93c587c2aa40c82a69f1"
+  }
+]

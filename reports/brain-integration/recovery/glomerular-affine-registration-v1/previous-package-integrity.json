@@ -1,0 +1,9 @@
+{
+  "all_match": true,
+  "verified_artifact_counts": {
+    "patchy-compartment-mapping-v1": 12,
+    "patchy-compartment-mapping-v2": 19,
+    "local-glomerular-registration-v1": 21,
+    "patchy-skeleton-site-audit-v1": 5
+  }
+}

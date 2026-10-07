@@ -1,0 +1,18 @@
+{
+  "command": ".venv-next/bin/python -m pytest -q tests/test_causal_metrics.py tests/test_synchronized.py tests/test_behavioral_readiness.py",
+  "result": "9 passed in 24.89s",
+  "sources": {
+    "scripts/check_behavioral_readiness.py": "9f4883eb10ba8a387e67a70e076bca67e425094f1aeca29ab78bbc87db83b67a",
+    "tests/test_behavioral_readiness.py": "811346902121faf6e4d0b4d139ab91e2e581c7638dc84c3db8a748bf0e371091",
+    "tests/test_causal_metrics.py": "73bef7e10fb338022cd74abf152ec1bc5af9cb7e9e191a536aa59f97f53885cb",
+    "tests/test_synchronized.py": "846e1bf268148c76984fe36ff2588b38aee39f2b2bf129bea210d65754b3d705"
+  },
+  "final_readiness_verification": {
+    "command": ".venv-next/bin/python -m pytest -q tests/test_behavioral_readiness.py",
+    "result": "2 passed in 0.04s",
+    "sources": {
+      "scripts/check_behavioral_readiness.py": "9a029b976af82ecef75670ad53574bf071c6c51171b2a1228b566207bbbfb87f",
+      "tests/test_behavioral_readiness.py": "811346902121faf6e4d0b4d139ab91e2e581c7638dc84c3db8a748bf0e371091"
+    }
+  }
+}

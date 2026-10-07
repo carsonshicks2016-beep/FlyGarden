@@ -1,0 +1,2210 @@
+[
+  {
+    "sites": 12,
+    "receiving_ORNs": 8,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.16666666666666666,
+    "correct_all_fraction": 0.16666666666666666,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.4
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "D",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 12,
+    "receiving_ORNs": 8,
+    "unique_fraction": 0.5833333333333334,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.5833333333333334,
+    "outside_sites": 5,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.3333333333333333,
+        0.8343749999999943
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "D",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 21,
+    "receiving_ORNs": 18,
+    "unique_fraction": 0.6666666666666666,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.6666666666666666,
+    "outside_sites": 7,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.45,
+        0.8571428571428571
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DA1",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 21,
+    "receiving_ORNs": 18,
+    "unique_fraction": 0.9523809523809523,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.9523809523809523,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.8636363636363636,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DA1",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 2,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.6666666666666666,
+    "correct_all_fraction": 0.6666666666666666,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DA2",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 2,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DA2",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 1,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DA4l",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 1,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DA4l",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 20,
+    "receiving_ORNs": 9,
+    "unique_fraction": 0.9,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.9,
+    "outside_sites": 2,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.7727272727272727,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DA4m",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 20,
+    "receiving_ORNs": 9,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DA4m",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 14,
+    "receiving_ORNs": 7,
+    "unique_fraction": 0.42857142857142855,
+    "correct_unique_fraction": 0.5,
+    "correct_all_fraction": 0.21428571428571427,
+    "outside_sites": 8,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.21250000000000008,
+        0.7178571428571234
+      ],
+      "correct_unique_fraction": [
+        0.1,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DC1",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 14,
+    "receiving_ORNs": 7,
+    "unique_fraction": 0.9285714285714286,
+    "correct_unique_fraction": 0.9230769230769231,
+    "correct_all_fraction": 0.8571428571428571,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.5714285714285714,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.5,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DC1",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 3,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.6666666666666666,
+    "correct_all_fraction": 0.6666666666666666,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DC2",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 3,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DC2",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 12,
+    "receiving_ORNs": 6,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DC3",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 12,
+    "receiving_ORNs": 6,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DC3",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 31,
+    "receiving_ORNs": 17,
+    "unique_fraction": 0.7741935483870968,
+    "correct_unique_fraction": 0.375,
+    "correct_all_fraction": 0.2903225806451613,
+    "outside_sites": 7,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.5714285714285714,
+        0.8918918918918919
+      ],
+      "correct_unique_fraction": [
+        0.14705882352941177,
+        0.7142857142857143
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL1",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 31,
+    "receiving_ORNs": 17,
+    "unique_fraction": 0.9032258064516129,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.9032258064516129,
+    "outside_sites": 2,
+    "overlapping_sites": 1,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.7727272727272727,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL1",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 5,
+    "receiving_ORNs": 4,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.6,
+    "correct_all_fraction": 0.6,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.25,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL2d",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 5,
+    "receiving_ORNs": 4,
+    "unique_fraction": 0.8,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.8,
+    "outside_sites": 0,
+    "overlapping_sites": 1,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.5714285714285714,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL2d",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 4,
+    "receiving_ORNs": 3,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.25,
+    "correct_all_fraction": 0.25,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL2v",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 4,
+    "receiving_ORNs": 3,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL2v",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 4,
+    "receiving_ORNs": 4,
+    "unique_fraction": 0.75,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.25,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL3",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 4,
+    "receiving_ORNs": 4,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL3",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 3,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL4",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 3,
+    "unique_fraction": 0.0,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 3,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.0,
+        0.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL4",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 5,
+    "receiving_ORNs": 4,
+    "unique_fraction": 0.8,
+    "correct_unique_fraction": 0.5,
+    "correct_all_fraction": 0.4,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.5714285714285714,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL5",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 5,
+    "receiving_ORNs": 4,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DL5",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 51,
+    "receiving_ORNs": 18,
+    "unique_fraction": 0.9019607843137255,
+    "correct_unique_fraction": 0.6086956521739131,
+    "correct_all_fraction": 0.5490196078431373,
+    "outside_sites": 5,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.8333333333333334,
+        0.9622816212438853
+      ],
+      "correct_unique_fraction": [
+        0.4323359073359074,
+        0.7647058823529411
+      ]
+    },
+    "adequate_probe": true,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DM1",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 51,
+    "receiving_ORNs": 18,
+    "unique_fraction": 0.9215686274509803,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.9215686274509803,
+    "outside_sites": 4,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.8222222222222222,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": true,
+    "point_gate_passed": true,
+    "confidence_gate_passed": true,
+    "glomerulus": "DM1",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 31,
+    "receiving_ORNs": 16,
+    "unique_fraction": 0.967741935483871,
+    "correct_unique_fraction": 0.03333333333333333,
+    "correct_all_fraction": 0.03225806451612903,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.896551724137931,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.125
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DM2",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 31,
+    "receiving_ORNs": 16,
+    "unique_fraction": 0.8387096774193549,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.8387096774193549,
+    "outside_sites": 5,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.6922413793103448,
+        0.9459459459459459
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DM2",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 23,
+    "receiving_ORNs": 16,
+    "unique_fraction": 0.8260869565217391,
+    "correct_unique_fraction": 0.10526315789473684,
+    "correct_all_fraction": 0.08695652173913043,
+    "outside_sites": 4,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.6666666666666666,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.2857142857142857
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DM3",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 23,
+    "receiving_ORNs": 16,
+    "unique_fraction": 0.9130434782608695,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.9130434782608695,
+    "outside_sites": 2,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.8214285714285714,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DM3",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 14,
+    "receiving_ORNs": 10,
+    "unique_fraction": 0.9285714285714286,
+    "correct_unique_fraction": 0.7692307692307693,
+    "correct_all_fraction": 0.7142857142857143,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.7857142857142857,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.5625,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DM4",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 14,
+    "receiving_ORNs": 10,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DM4",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 2,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DM5",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 2,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DM5",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 17,
+    "receiving_ORNs": 10,
+    "unique_fraction": 0.8235294117647058,
+    "correct_unique_fraction": 0.2857142857142857,
+    "correct_all_fraction": 0.23529411764705882,
+    "outside_sites": 3,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.6363636363636364,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.6876201923076917
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DM6",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 17,
+    "receiving_ORNs": 10,
+    "unique_fraction": 0.9411764705882353,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.9411764705882353,
+    "outside_sites": 0,
+    "overlapping_sites": 1,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.8333333333333334,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DM6",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 23,
+    "receiving_ORNs": 9,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.9565217391304348,
+    "correct_all_fraction": 0.9565217391304348,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.8461538461538461,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DP1l",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 23,
+    "receiving_ORNs": 9,
+    "unique_fraction": 0.8695652173913043,
+    "correct_unique_fraction": 0.95,
+    "correct_all_fraction": 0.8260869565217391,
+    "outside_sites": 2,
+    "overlapping_sites": 1,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.6153846153846154,
+        0.972972972972973
+      ],
+      "correct_unique_fraction": [
+        0.8421052631578947,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "DP1l",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 50,
+    "receiving_ORNs": 13,
+    "unique_fraction": 0.84,
+    "correct_unique_fraction": 0.8095238095238095,
+    "correct_all_fraction": 0.68,
+    "outside_sites": 8,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.6875,
+        0.9491525423728814
+      ],
+      "correct_unique_fraction": [
+        0.6363636363636364,
+        0.9193709677419354
+      ]
+    },
+    "adequate_probe": true,
+    "point_gate_passed": true,
+    "confidence_gate_passed": false,
+    "glomerulus": "DP1m",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 50,
+    "receiving_ORNs": 13,
+    "unique_fraction": 0.9,
+    "correct_unique_fraction": 0.9333333333333333,
+    "correct_all_fraction": 0.84,
+    "outside_sites": 5,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.7631578947368421,
+        0.9772727272727273
+      ],
+      "correct_unique_fraction": [
+        0.8245356037151703,
+        1.0
+      ]
+    },
+    "adequate_probe": true,
+    "point_gate_passed": true,
+    "confidence_gate_passed": true,
+    "glomerulus": "DP1m",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 9,
+    "receiving_ORNs": 5,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "V",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 9,
+    "receiving_ORNs": 5,
+    "unique_fraction": 0.8888888888888888,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.8888888888888888,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.7331818181818182,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "V",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 4,
+    "receiving_ORNs": 3,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA1d",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 4,
+    "receiving_ORNs": 3,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA1d",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 2,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA1v",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 2,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA1v",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 10,
+    "receiving_ORNs": 8,
+    "unique_fraction": 0.9,
+    "correct_unique_fraction": 0.6666666666666666,
+    "correct_all_fraction": 0.6,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.625,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.2,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA2",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 10,
+    "receiving_ORNs": 8,
+    "unique_fraction": 0.9,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.9,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.625,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA2",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 2,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA3",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 2,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA3",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA4",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA4",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 6,
+    "receiving_ORNs": 5,
+    "unique_fraction": 0.5,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.5,
+    "outside_sites": 3,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.16666666666666666,
+        0.8333333333333334
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA6",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 6,
+    "receiving_ORNs": 5,
+    "unique_fraction": 0.8333333333333334,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.8333333333333334,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.49750000000000016,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA6",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 2,
+    "unique_fraction": 0.6666666666666666,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA7l",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 2,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA7l",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 14,
+    "receiving_ORNs": 6,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA7m",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 14,
+    "receiving_ORNs": 6,
+    "unique_fraction": 0.7142857142857143,
+    "correct_unique_fraction": 0.9,
+    "correct_all_fraction": 0.6428571428571429,
+    "outside_sites": 0,
+    "overlapping_sites": 4,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.46153846153846156,
+        0.9090909090909091
+      ],
+      "correct_unique_fraction": [
+        0.5,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VA7m",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VC1",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 1,
+    "unique_fraction": 0.5,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 0,
+    "overlapping_sites": 1,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.5,
+        0.5
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VC1",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 2,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VC2",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 2,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VC2",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 8,
+    "receiving_ORNs": 7,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.875,
+    "correct_all_fraction": 0.875,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.5714285714285714,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VC3",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 8,
+    "receiving_ORNs": 7,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VC3",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 1,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VC4",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 1,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VC4",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 1,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VC5",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 1,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VC5",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 6,
+    "receiving_ORNs": 6,
+    "unique_fraction": 0.8333333333333334,
+    "correct_unique_fraction": 0.6,
+    "correct_all_fraction": 0.5,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.5,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.16666666666666666,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VL2a",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 6,
+    "receiving_ORNs": 6,
+    "unique_fraction": 0.8333333333333334,
+    "correct_unique_fraction": 0.8,
+    "correct_all_fraction": 0.6666666666666666,
+    "outside_sites": 0,
+    "overlapping_sites": 1,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.5,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.4,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VL2a",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 2,
+    "unique_fraction": 0.5,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.5,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VL2p",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 2,
+    "receiving_ORNs": 2,
+    "unique_fraction": 0.5,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.5,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VL2p",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 5,
+    "receiving_ORNs": 4,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.8,
+    "correct_all_fraction": 0.8,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.25,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM1",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 5,
+    "receiving_ORNs": 4,
+    "unique_fraction": 0.8,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.8,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.25,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM1",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 1,
+    "receiving_ORNs": 1,
+    "unique_fraction": 0.0,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.0,
+        0.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM2",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 1,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM2",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 1,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM3",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 1,
+    "receiving_ORNs": 1,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM3",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 3,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.6666666666666666,
+    "correct_all_fraction": 0.6666666666666666,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM4",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 3,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 1.0,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM4",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 27,
+    "receiving_ORNs": 17,
+    "unique_fraction": 0.8518518518518519,
+    "correct_unique_fraction": 0.8260869565217391,
+    "correct_all_fraction": 0.7037037037037037,
+    "outside_sites": 4,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.72,
+        0.9629629629629629
+      ],
+      "correct_unique_fraction": [
+        0.6111111111111112,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM5d",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 27,
+    "receiving_ORNs": 17,
+    "unique_fraction": 0.8518518518518519,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.8518518518518519,
+    "outside_sites": 4,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.6956521739130435,
+        0.967741935483871
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM5d",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 23,
+    "receiving_ORNs": 8,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.9130434782608695,
+    "correct_all_fraction": 0.9130434782608695,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.782608695652174,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM5v",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 23,
+    "receiving_ORNs": 8,
+    "unique_fraction": 0.9565217391304348,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.9565217391304348,
+    "outside_sites": 0,
+    "overlapping_sites": 1,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.8235294117647058,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM5v",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 38,
+    "receiving_ORNs": 12,
+    "unique_fraction": 0.8421052631578947,
+    "correct_unique_fraction": 0.65625,
+    "correct_all_fraction": 0.5526315789473685,
+    "outside_sites": 6,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.7209302325581395,
+        0.96875
+      ],
+      "correct_unique_fraction": [
+        0.43474637681159417,
+        0.8205882352941172
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM7d",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 38,
+    "receiving_ORNs": 12,
+    "unique_fraction": 0.9736842105263158,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.9736842105263158,
+    "outside_sites": 1,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.9090380549682875,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM7d",
+    "candidate": "affine_candidate"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 3,
+    "unique_fraction": 1.0,
+    "correct_unique_fraction": 0.6666666666666666,
+    "correct_all_fraction": 0.6666666666666666,
+    "outside_sites": 0,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        1.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        1.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM7v",
+    "candidate": "published_mirror"
+  },
+  {
+    "sites": 3,
+    "receiving_ORNs": 3,
+    "unique_fraction": 0.3333333333333333,
+    "correct_unique_fraction": 0.0,
+    "correct_all_fraction": 0.0,
+    "outside_sites": 2,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.0,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        0.0,
+        0.0
+      ]
+    },
+    "adequate_probe": false,
+    "point_gate_passed": false,
+    "confidence_gate_passed": false,
+    "glomerulus": "VM7v",
+    "candidate": "affine_candidate"
+  }
+]

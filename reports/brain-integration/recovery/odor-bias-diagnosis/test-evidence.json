@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "tests": 8,
+  "command": ".venv-next/bin/python -m pytest tests/test_candidate_inputs.py tests/test_descending.py tests/test_neural_probe.py tests/test_local_senses.py -q",
+  "scope": "Existing focused adapter/decoder/probe/local-sense checks; native raw-event auditors provide separate experiment evidence.",
+  "time": 1791331600.0414588
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "source_hashes": {
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/selected-synapses.parquet": "a2e3b1de3b7f29e818169852a1a74510ec29995e832a77515f96e8110d0f85cc",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/pair-count-audit.csv": "45e69c3cae0462481f1b6df41e325e248c96c68e18779c48b9544b88b5332a82",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/source/flywire_al.surf.rda": "1c4a305302b2756c21ce76588c8ac0b603a065d799c32c08a3864c3612f9e389",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/spatial-results.json": "cf5953e8d168544b39d48d9972c358e53e63160ae66a7954d2d1460e4a1afba3",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/mirror-results.json": "b234b51a4412dec42f47fdae38873528325a2c3236936ed3e50800d15086954c",
+    "flygarden/compartment_mapping.py": "9429504b4062603f5b1d265bfe1240da8c8362ef8d6d9a92f649ad9640403dad",
+    "flygarden/synapse_archive.py": "0f577c19447f6d5c42787d9034739e6dc51d32d5826203481043c5644822a673",
+    "scripts/map_verified_783_sites.py": "669c7126f5f41045e91cb1d8d36d1ea526c4554075fc3feb3e62376bd974df03"
+  },
+  "accepted_transform": "Identity only, validated native-side atlas",
+  "mirror": "Excluded because pooled opposite-side registration gate failed",
+  "coordinate_selection": "input uses post_pt_position; output uses pre_pt_position; nanometers",
+  "site_filter": "Keep all sites on exact-reconciled imported pairs; preserve other source rows separately",
+  "assignment": "Unique closed-mesh enclosure is an anatomical candidate only",
+  "electrical_parameters_assigned": false,
+  "no_glomerular_aliases": true,
+  "no_controller_changes": true
+}

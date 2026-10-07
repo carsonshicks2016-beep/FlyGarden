@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "source_hashes": {
+    "reports/brain-integration/recovery/glomerular-affine-registration-v1/calibration.parquet": "3e80409a22b6744d98c4b85df44f9c16a790761ee38560729e25fbe79c32e4cb",
+    "reports/brain-integration/recovery/glomerular-affine-registration-v1/sealed_probe.parquet": "d5c933fc67da512bf9f0661ca4afce0cf828fa94db301f5fe6850c8942f74c9f",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/source/flywire_al.surf.rda": "1c4a305302b2756c21ce76588c8ac0b603a065d799c32c08a3864c3612f9e389",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/FLYWIRE_mirror_landmarks.csv": "076f39860c405c276425b571fdbf00ae2e9561395aeba4df8757ad965b6a57ed",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/template_brain_meta.json": "5c4699eea9ab1fd6b6cd8233bec4ce53543df48bdec437cc50c3c1b44c7b6111",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/mirrored-atlas-vertices.npz": "6d047ef30406b2cfeb92d3ed2bf8615756f4dda5e0ca6db023c2d67af6ea90a7",
+    "flygarden/glomerular_affine.py": "2e68afb8cfc0661a21740a1fedb8390d38721c7588a09227b6b1dcea15bf764d",
+    "flygarden/anatomical_mirror.py": "ced690f28bf08af4194d58e9a2083a1d0440bc978865c888dc42c275982f9a51",
+    "scripts/validate_glomerular_affine.py": "da39db0e49ba6ff939c24e4ee667a696dee344594b6a3da15295177735c85bd0"
+  },
+  "candidate": "Published mirrored mesh plus positive-definite neuron-balanced covariance transport and center correction",
+  "calibration_only": true,
+  "means_and_covariances": "Each presynaptic calibration ORN contributes equal total weight; source AL_L/AL_R sites only",
+  "min_calibration_roots_per_side": 5,
+  "min_calibration_sites_per_side": 50,
+  "scale_bounds": [
+    0.5,
+    2.0
+  ],
+  "extreme_or_degenerate_fit": "Reject; never clamp, regularize, substitute identity or tune on probe",
+  "translation_bound": "Source mirrored mesh bounding-box diagonal; reject larger center shifts",
+  "fresh_validation": "Sealed PN -> cognate held-out ORN sites; neither these source synapses nor these receiving ORNs entered fitting",
+  "previous_tested_cohorts": "Historical only; not evaluated for acceptance here",
+  "gates": {
+    "unique_min": 0.7,
+    "correct_among_unique_min": 0.8,
+    "both_neuron_cluster_95_lower_bounds_required": true,
+    "min_probe_sites": 50,
+    "min_receiving_ORNs": 5,
+    "DM1_requires_its_own_confidence_gate": true
+  },
+  "bootstrap": {
+    "iterations": 2000,
+    "pooled_seed": 17005,
+    "per_glomerulus_seed": 17006,
+    "unit": "receiving ORN root"
+  },
+  "coordinate_units": "nanometers",
+  "not_manually_traced_right_boundaries": true,
+  "electrical_parameters_assigned": false,
+  "application_changed": false,
+  "no_probe_retuning": true
+}

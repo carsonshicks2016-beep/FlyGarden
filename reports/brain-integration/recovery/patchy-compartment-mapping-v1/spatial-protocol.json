@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "source_hashes": {
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/source/flywire_al.surf.rda": "1c4a305302b2756c21ce76588c8ac0b603a065d799c32c08a3864c3612f9e389",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/selected-synapses.csv": "442274fd03b91ab5343cf145b60998fd84219bca1a7ab0c4b72fb5e5ce6f5a6a",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/anchor-synapses.csv": "916c94d57ff2efc659b0d9d16d26974c4ddead4ae0cdd39f49c5f49f811318e0",
+    "scripts/map_patchy_synapse_sites.py": "a221e4e4310ee30b8692ff2acf15988856ff89e40dbf154e54a49f890cb53b3a",
+    "flygarden/compartment_mapping.py": "9429504b4062603f5b1d265bfe1240da8c8362ef8d6d9a92f649ad9640403dad"
+  },
+  "transform": "identity only; no fitted scale, translation, mirroring or aliasing",
+  "mesh_source_commit": "9d31eb21e3ff5127152debc978f0ee5c8751b750",
+  "coordinate_location": "Source synapse coordinate point, not distinct pre/post release and reception locations",
+  "criteria": {
+    "all_meshes_closed": true,
+    "all_meshes_consistent_winding": true,
+    "unique_membership_required": true,
+    "dominant_side_anchor_unique_coverage_min": 0.7,
+    "dominant_side_anchor_correct_label_fraction_min": 0.8
+  },
+  "no_controller_assignment": true,
+  "uncovered_edges": "Keep every imported count; leave missing positions unavailable."
+}

@@ -1,0 +1,390 @@
+{
+  "status": "completed",
+  "source": "https://flyem.mrc-lmb.cam.ac.uk/flyconnectome/flywire_skeletons_783",
+  "dataset": 783,
+  "samples": [
+    {
+      "index": 1574,
+      "id": "720575940605328230",
+      "cell_type": "ORN_DM1",
+      "cell_class": "olfactory",
+      "side": "left",
+      "status": "available",
+      "bytes": 20928,
+      "sha256": "725af68880e413e0c7e8c824b38a028412b501b38f3ac309bd41e53c6dc3e740",
+      "nodes": 872,
+      "bounds_um": [
+        [
+          441.78619384765625,
+          206.4534149169922,
+          16.43743896484375
+        ],
+        [
+          559.4182739257812,
+          267.0785217285156,
+          77.81934356689453
+        ]
+      ]
+    },
+    {
+      "index": 2617,
+      "id": "720575940606001074",
+      "cell_type": "ORN_DM1",
+      "cell_class": "olfactory",
+      "side": "left",
+      "status": "available",
+      "bytes": 21840,
+      "sha256": "6d48f9bae38c099306628fd27218d991e65ea9b8fca63bfbfbd6c3f8b279639d",
+      "nodes": 910,
+      "bounds_um": [
+        [
+          418.9124755859375,
+          207.3690643310547,
+          29.139312744140625
+        ],
+        [
+          547.9368896484375,
+          262.6806335449219,
+          77.74629974365234
+        ]
+      ]
+    },
+    {
+      "index": 164,
+      "id": "720575940603356128",
+      "cell_type": "ORN_DM2",
+      "cell_class": "olfactory",
+      "side": "right",
+      "status": "available",
+      "bytes": 20664,
+      "sha256": "6c873db921c315eb7e39f39c5a826c242b5f104fa30b6abbe45a838669e5a8d1",
+      "nodes": 861,
+      "bounds_um": [
+        [
+          502.774658203125,
+          208.59805297851562,
+          4.107570648193359
+        ],
+        [
+          617.1673583984375,
+          271.3905944824219,
+          73.8367919921875
+        ]
+      ]
+    },
+    {
+      "index": 2480,
+      "id": "720575940605915872",
+      "cell_type": "ORN_DM2",
+      "cell_class": "olfactory",
+      "side": "right",
+      "status": "available",
+      "bytes": 21168,
+      "sha256": "fe3b974530de28a695fc8b5bd2859e6684dc90b44412edda17a9071a7ea9d4d9",
+      "nodes": 882,
+      "bounds_um": [
+        [
+          505.1944885253906,
+          212.9380645751953,
+          7.258879661560059
+        ],
+        [
+          619.5687866210938,
+          284.00994873046875,
+          75.35263061523438
+        ]
+      ]
+    },
+    {
+      "index": 83620,
+      "id": "720575940627652358",
+      "cell_type": "DNp09",
+      "cell_class": "",
+      "side": "right",
+      "status": "available",
+      "bytes": 484560,
+      "sha256": "ebd860733a029c901035378f1702c82d5af96c384ad491afd4bab7596192b66f",
+      "nodes": 20190,
+      "bounds_um": [
+        [
+          483.9297790527344,
+          167.39193725585938,
+          53.669681549072266
+        ],
+        [
+          670.3829345703125,
+          418.0950012207031,
+          267.72003173828125
+        ]
+      ]
+    },
+    {
+      "index": 119032,
+      "id": "720575940635872101",
+      "cell_type": "DNp09",
+      "cell_class": "",
+      "side": "left",
+      "status": "available",
+      "bytes": 360792,
+      "sha256": "dc7689dca401a84de6f46015c05f43fb71806b6048af8f4b81e9c1d97395a96a",
+      "nodes": 15033,
+      "bounds_um": [
+        [
+          386.8056335449219,
+          144.14190673828125,
+          73.12674713134766
+        ],
+        [
+          520.1490478515625,
+          346.43212890625,
+          251.55224609375
+        ]
+      ]
+    },
+    {
+      "index": 64506,
+      "id": "720575940624117245",
+      "cell_type": "MBON01",
+      "cell_class": "MBON",
+      "side": "right",
+      "status": "available",
+      "bytes": 517296,
+      "sha256": "739bebae33873e58e010c47598fb57dc023ff19dade7309f8cbaeeeb355fa02e",
+      "nodes": 21554,
+      "bounds_um": [
+        [
+          452.8929443359375,
+          103.73087310791016,
+          25.997177124023438
+        ],
+        [
+          588.9115600585938,
+          191.74136352539062,
+          95.91497802734375
+        ]
+      ]
+    },
+    {
+      "index": 132236,
+      "id": "720575940643309197",
+      "cell_type": "MBON01",
+      "cell_class": "MBON",
+      "side": "left",
+      "status": "available",
+      "bytes": 376560,
+      "sha256": "8437ce52ba62b5bbd206e1f0d794bd1bbbe3c105a6555139fd5747fe0f2f143d",
+      "nodes": 15690,
+      "bounds_um": [
+        [
+          480.4744567871094,
+          106.83808898925781,
+          19.36888885498047
+        ],
+        [
+          593.14306640625,
+          192.01080322265625,
+          86.79070281982422
+        ]
+      ]
+    },
+    {
+      "index": 32109,
+      "id": "720575940617749538",
+      "cell_type": "MBON11",
+      "cell_class": "MBON",
+      "side": "right",
+      "status": "available",
+      "bytes": 506184,
+      "sha256": "53e4818c097015e4aba8fc9a686dd5a11f9b467832a41fc646342e28600cb38b",
+      "nodes": 21091,
+      "bounds_um": [
+        [
+          427.0694580078125,
+          94.69173431396484,
+          16.75348663330078
+        ],
+        [
+          643.2452392578125,
+          198.85369873046875,
+          119.29785919189453
+        ]
+      ]
+    },
+    {
+      "index": 59405,
+      "id": "720575940623201833",
+      "cell_type": "MBON11",
+      "cell_class": "MBON",
+      "side": "left",
+      "status": "available",
+      "bytes": 461448,
+      "sha256": "fda95abaa9e5f52cba2b09a26fcfcac0c61715e4810473027cfc22b84d16349b",
+      "nodes": 19227,
+      "bounds_um": [
+        [
+          406.1900634765625,
+          84.0880126953125,
+          29.330650329589844
+        ],
+        [
+          626.7744140625,
+          197.23516845703125,
+          136.8878631591797
+        ]
+      ]
+    },
+    {
+      "index": 427,
+      "id": "720575940603989420",
+      "cell_type": "LPLC2",
+      "cell_class": "",
+      "side": "left",
+      "status": "available",
+      "bytes": 65040,
+      "sha256": "d90e178c2a60c4b87df756b83df497990bb3e68cd2adb4af5cdfaaa5756ed89b",
+      "nodes": 2710,
+      "bounds_um": [
+        [
+          274.4810485839844,
+          179.81004333496094,
+          143.8919219970703
+        ],
+        [
+          414.80426025390625,
+          246.095947265625,
+          258.01446533203125
+        ]
+      ]
+    },
+    {
+      "index": 2306,
+      "id": "720575940605825666",
+      "cell_type": "LPLC2",
+      "cell_class": "",
+      "side": "right",
+      "status": "available",
+      "bytes": 50472,
+      "sha256": "7459ea86ad026e67a188cf3c999362c65795689596c368d62267b56a686aa8fe",
+      "nodes": 2103,
+      "bounds_um": [
+        [
+          635.6557006835938,
+          193.6986541748047,
+          117.79785919189453
+        ],
+        [
+          709.5870971679688,
+          303.957763671875,
+          226.51341247558594
+        ]
+      ]
+    },
+    {
+      "index": 17837,
+      "id": "720575940613583001",
+      "cell_type": "APL",
+      "cell_class": "MBIN",
+      "side": "right",
+      "status": "available",
+      "bytes": 3402720,
+      "sha256": "7c4257602da0b3cda3c23192ffb26f70623bb5a84dd3919ec44dc10e9fb7bcfc",
+      "nodes": 141780,
+      "bounds_um": [
+        [
+          506.834716796875,
+          90.6385726928711,
+          17.340299606323242
+        ],
+        [
+          725.1142578125,
+          209.87420654296875,
+          204.95143127441406
+        ]
+      ]
+    },
+    {
+      "index": 66912,
+      "id": "720575940624547622",
+      "cell_type": "APL",
+      "cell_class": "MBIN",
+      "side": "left",
+      "status": "available",
+      "bytes": 3284352,
+      "sha256": "8d7822018308ffa96361171d2eab49909f9611142197712d5a23da1925e82399",
+      "nodes": 136848,
+      "bounds_um": [
+        [
+          325.5307922363281,
+          83.71917724609375,
+          25.048789978027344
+        ],
+        [
+          544.83740234375,
+          196.9666290283203,
+          224.66575622558594
+        ]
+      ]
+    },
+    {
+      "index": 68,
+      "id": "720575940602553568",
+      "cell_type": "KCapbp-ap2",
+      "cell_class": "Kenyon_Cell",
+      "side": "right",
+      "status": "available",
+      "bytes": 28848,
+      "sha256": "ebf89de20c2a2d98e8053413fb4eea460f270a4bc6e5a9281e8b6c92f1d0ba8b",
+      "nodes": 1202,
+      "bounds_um": [
+        [
+          532.4061279296875,
+          110.84408569335938,
+          51.451820373535156
+        ],
+        [
+          690.9943237304688,
+          179.89633178710938,
+          193.83209228515625
+        ]
+      ]
+    },
+    {
+      "index": 69,
+      "id": "720575940602564320",
+      "cell_type": "KCg-m",
+      "cell_class": "Kenyon_Cell",
+      "side": "right",
+      "status": "available",
+      "bytes": 27648,
+      "sha256": "37e572f2b9175f82f3bd4ab515f807dbe6ff76bfc6999df28e82b6346088a642",
+      "nodes": 1152,
+      "bounds_um": [
+        [
+          543.5953979492188,
+          125.8702392578125,
+          29.00438117980957
+        ],
+        [
+          661.247314453125,
+          183.0846405029297,
+          197.20802307128906
+        ]
+      ]
+    }
+  ],
+  "wall_seconds": 20.411544542002957,
+  "coverage": {
+    "modeled_neurons": 138639,
+    "cached_neurons": 16,
+    "unavailable_ids": [],
+    "cache_bytes": 9650520,
+    "source": "https://flyem.mrc-lmb.cam.ac.uk/flyconnectome/flywire_skeletons_783",
+    "units": "nanometers",
+    "license": "Local-only cache; standalone redistribution license unverified"
+  },
+  "estimated_raw_full_cache_bytes": 83621152642,
+  "estimate_scope": "Small targeted anatomical sample, not a representative full-network size estimate; no bulk download",
+  "alignment": "Native FlyWire nanometer coordinates converted to micrometers uniformly; no mixed-template registration",
+  "license": "Standalone skeleton redistribution license not established; local cache only",
+  "documentation": "https://fafbseg-py.readthedocs.io/en/latest/source/generated/fafbseg.flywire.get_skeletons.html"
+}

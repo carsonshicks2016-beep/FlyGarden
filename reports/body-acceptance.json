@@ -1,0 +1,123 @@
+{
+  "status": "completed",
+  "protocol": "10 independent seeds, 60 simulated seconds; walking, turning, stopping, collision exposure",
+  "runs": [
+    {
+      "seed": 0,
+      "status": "completed",
+      "simulated_seconds": 60,
+      "wall_seconds": 90.58946895797271,
+      "finite": true,
+      "fall_frames": 0,
+      "stall_frames": 96,
+      "displacement": 362.4341627329271,
+      "collision_arena": false
+    },
+    {
+      "seed": 1,
+      "status": "completed",
+      "simulated_seconds": 60,
+      "wall_seconds": 72.17408141703345,
+      "finite": true,
+      "fall_frames": 574,
+      "stall_frames": 29,
+      "displacement": 30.418514656672375,
+      "collision_arena": true
+    },
+    {
+      "seed": 2,
+      "status": "completed",
+      "simulated_seconds": 60,
+      "wall_seconds": 91.21528883301653,
+      "finite": true,
+      "fall_frames": 0,
+      "stall_frames": 97,
+      "displacement": 362.72809637612465,
+      "collision_arena": false
+    },
+    {
+      "seed": 3,
+      "status": "completed",
+      "simulated_seconds": 60,
+      "wall_seconds": 89.43393737502629,
+      "finite": true,
+      "fall_frames": 534,
+      "stall_frames": 187,
+      "displacement": 31.47316313956872,
+      "collision_arena": true
+    },
+    {
+      "seed": 4,
+      "status": "completed",
+      "simulated_seconds": 60,
+      "wall_seconds": 89.80057145794854,
+      "finite": true,
+      "fall_frames": 0,
+      "stall_frames": 96,
+      "displacement": 361.4459140785462,
+      "collision_arena": false
+    },
+    {
+      "seed": 5,
+      "status": "completed",
+      "simulated_seconds": 60,
+      "wall_seconds": 85.97137291700346,
+      "finite": true,
+      "fall_frames": 572,
+      "stall_frames": 138,
+      "displacement": 28.08502255017933,
+      "collision_arena": true
+    },
+    {
+      "seed": 6,
+      "status": "completed",
+      "simulated_seconds": 60,
+      "wall_seconds": 89.3539659170201,
+      "finite": true,
+      "fall_frames": 0,
+      "stall_frames": 96,
+      "displacement": 361.5850476194404,
+      "collision_arena": false
+    },
+    {
+      "seed": 7,
+      "status": "completed",
+      "simulated_seconds": 60,
+      "wall_seconds": 85.87620733299991,
+      "finite": true,
+      "fall_frames": 566,
+      "stall_frames": 34,
+      "displacement": 27.82682000060012,
+      "collision_arena": true
+    },
+    {
+      "seed": 8,
+      "status": "completed",
+      "simulated_seconds": 60,
+      "wall_seconds": 87.90313925000373,
+      "finite": true,
+      "fall_frames": 0,
+      "stall_frames": 96,
+      "displacement": 361.97359750820016,
+      "collision_arena": false
+    },
+    {
+      "seed": 9,
+      "status": "completed",
+      "simulated_seconds": 60,
+      "wall_seconds": 83.36859595798887,
+      "finite": true,
+      "fall_frames": 575,
+      "stall_frames": 189,
+      "displacement": 27.990032238656696,
+      "collision_arena": true
+    }
+  ],
+  "physics_dt": 0.0001,
+  "walking_control_dt": 0.0005,
+  "wall_seconds": 867.5223688330152,
+  "passed": true,
+  "peak_rss_bytes": 307691520,
+  "stationary_frame_definition": "Historical stall_frames counts displacement under 0.005 mm per 0.1s, including intentional stops; not a validated stall assay",
+  "stable_obstacle_navigation": false
+}

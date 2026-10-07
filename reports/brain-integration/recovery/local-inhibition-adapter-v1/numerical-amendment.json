@@ -1,0 +1,6 @@
+{
+  "reason": "Heun max analytic error exceeded the frozen 1e-5 Hz gate; upgraded to RK4, kept time constants, normalization, anatomical routing and every gate unchanged",
+  "prior_attempt": "initial-heun-attempt",
+  "observer_checks": "Every step activity/step equality; full checkpoint continuation and configuration integrity retained; output observer checked every 100 steps",
+  "validation_observer_overhead_removed": true
+}

@@ -1,0 +1,802 @@
+[
+  {
+    "glomerulus": "D",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.954,
+    "correct_sample_fraction": 0.902
+  },
+  {
+    "glomerulus": "D",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DA1",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.928,
+    "correct_sample_fraction": 0.918
+  },
+  {
+    "glomerulus": "DA1",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DA2",
+    "PN_side": "left",
+    "samples": 117,
+    "atlas_name_present": true,
+    "unique_fraction": 0.9743589743589743,
+    "correct_sample_fraction": 0.9743589743589743
+  },
+  {
+    "glomerulus": "DA2",
+    "PN_side": "right",
+    "samples": 423,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DA3",
+    "PN_side": "left",
+    "samples": 54,
+    "atlas_name_present": true,
+    "unique_fraction": 1.0,
+    "correct_sample_fraction": 1.0
+  },
+  {
+    "glomerulus": "DA3",
+    "PN_side": "right",
+    "samples": 26,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DA4l",
+    "PN_side": "left",
+    "samples": 379,
+    "atlas_name_present": true,
+    "unique_fraction": 0.978891820580475,
+    "correct_sample_fraction": 0.9630606860158312
+  },
+  {
+    "glomerulus": "DA4l",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DA4m",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.938,
+    "correct_sample_fraction": 0.852
+  },
+  {
+    "glomerulus": "DA4m",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DC1",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.89,
+    "correct_sample_fraction": 0.856
+  },
+  {
+    "glomerulus": "DC1",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DC2",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.98,
+    "correct_sample_fraction": 0.958
+  },
+  {
+    "glomerulus": "DC2",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DC3",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.996,
+    "correct_sample_fraction": 0.994
+  },
+  {
+    "glomerulus": "DC3",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DC4",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.972,
+    "correct_sample_fraction": 0.932
+  },
+  {
+    "glomerulus": "DC4",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DL1",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.972,
+    "correct_sample_fraction": 0.946
+  },
+  {
+    "glomerulus": "DL1",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DL2d",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.992,
+    "correct_sample_fraction": 0.982
+  },
+  {
+    "glomerulus": "DL2d",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DL2v",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.972,
+    "correct_sample_fraction": 0.956
+  },
+  {
+    "glomerulus": "DL2v",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DL3",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.996,
+    "correct_sample_fraction": 0.996
+  },
+  {
+    "glomerulus": "DL3",
+    "PN_side": "right",
+    "samples": 463,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DL4",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.938,
+    "correct_sample_fraction": 0.876
+  },
+  {
+    "glomerulus": "DL4",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DL5",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.978,
+    "correct_sample_fraction": 0.972
+  },
+  {
+    "glomerulus": "DL5",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DM1",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.97,
+    "correct_sample_fraction": 0.952
+  },
+  {
+    "glomerulus": "DM1",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DM2",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.964,
+    "correct_sample_fraction": 0.962
+  },
+  {
+    "glomerulus": "DM2",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DM3",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.97,
+    "correct_sample_fraction": 0.962
+  },
+  {
+    "glomerulus": "DM3",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DM4",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.956,
+    "correct_sample_fraction": 0.956
+  },
+  {
+    "glomerulus": "DM4",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DM5",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.998,
+    "correct_sample_fraction": 0.996
+  },
+  {
+    "glomerulus": "DM5",
+    "PN_side": "right",
+    "samples": 325,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DM6",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.988,
+    "correct_sample_fraction": 0.986
+  },
+  {
+    "glomerulus": "DM6",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DP1l",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.97,
+    "correct_sample_fraction": 0.956
+  },
+  {
+    "glomerulus": "DP1l",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "DP1m",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.934,
+    "correct_sample_fraction": 0.888
+  },
+  {
+    "glomerulus": "DP1m",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "V",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.63,
+    "correct_sample_fraction": 0.622
+  },
+  {
+    "glomerulus": "V",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.6,
+    "correct_sample_fraction": 0.588
+  },
+  {
+    "glomerulus": "VA1d",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.906,
+    "correct_sample_fraction": 0.904
+  },
+  {
+    "glomerulus": "VA1d",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VA1v",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.866,
+    "correct_sample_fraction": 0.834
+  },
+  {
+    "glomerulus": "VA1v",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VA2",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.928,
+    "correct_sample_fraction": 0.9
+  },
+  {
+    "glomerulus": "VA2",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VA3",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.922,
+    "correct_sample_fraction": 0.906
+  },
+  {
+    "glomerulus": "VA3",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VA4",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.988,
+    "correct_sample_fraction": 0.96
+  },
+  {
+    "glomerulus": "VA4",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VA5",
+    "PN_side": "left",
+    "samples": 370,
+    "atlas_name_present": true,
+    "unique_fraction": 0.9972972972972973,
+    "correct_sample_fraction": 0.9972972972972973
+  },
+  {
+    "glomerulus": "VA5",
+    "PN_side": "right",
+    "samples": 222,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VA6",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.95,
+    "correct_sample_fraction": 0.942
+  },
+  {
+    "glomerulus": "VA6",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VA7l",
+    "PN_side": "left",
+    "samples": 422,
+    "atlas_name_present": true,
+    "unique_fraction": 0.9715639810426541,
+    "correct_sample_fraction": 0.9691943127962085
+  },
+  {
+    "glomerulus": "VA7l",
+    "PN_side": "right",
+    "samples": 380,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VA7m",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.972,
+    "correct_sample_fraction": 0.966
+  },
+  {
+    "glomerulus": "VA7m",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VC1",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.986,
+    "correct_sample_fraction": 0.986
+  },
+  {
+    "glomerulus": "VC1",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VC2",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.962,
+    "correct_sample_fraction": 0.9
+  },
+  {
+    "glomerulus": "VC2",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VC3",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.978,
+    "correct_sample_fraction": 0.97
+  },
+  {
+    "glomerulus": "VC3",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VC4",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.996,
+    "correct_sample_fraction": 0.996
+  },
+  {
+    "glomerulus": "VC4",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VC5",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.96,
+    "correct_sample_fraction": 0.946
+  },
+  {
+    "glomerulus": "VC5",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VL1",
+    "PN_side": "left",
+    "samples": 332,
+    "atlas_name_present": true,
+    "unique_fraction": 0.5783132530120482,
+    "correct_sample_fraction": 0.5481927710843374
+  },
+  {
+    "glomerulus": "VL1",
+    "PN_side": "right",
+    "samples": 339,
+    "atlas_name_present": true,
+    "unique_fraction": 0.5545722713864307,
+    "correct_sample_fraction": 0.5162241887905604
+  },
+  {
+    "glomerulus": "VL2a",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.998,
+    "correct_sample_fraction": 0.998
+  },
+  {
+    "glomerulus": "VL2a",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VL2p",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.97,
+    "correct_sample_fraction": 0.97
+  },
+  {
+    "glomerulus": "VL2p",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VM1",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.982,
+    "correct_sample_fraction": 0.982
+  },
+  {
+    "glomerulus": "VM1",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VM2",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.992,
+    "correct_sample_fraction": 0.992
+  },
+  {
+    "glomerulus": "VM2",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VM3",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.938,
+    "correct_sample_fraction": 0.9
+  },
+  {
+    "glomerulus": "VM3",
+    "PN_side": "right",
+    "samples": 466,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VM4",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.972,
+    "correct_sample_fraction": 0.968
+  },
+  {
+    "glomerulus": "VM4",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VM5d",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.892,
+    "correct_sample_fraction": 0.84
+  },
+  {
+    "glomerulus": "VM5d",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VM5v",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 1.0,
+    "correct_sample_fraction": 0.998
+  },
+  {
+    "glomerulus": "VM5v",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VM7d",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.978,
+    "correct_sample_fraction": 0.964
+  },
+  {
+    "glomerulus": "VM7d",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  },
+  {
+    "glomerulus": "VM7v",
+    "PN_side": "left",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.974,
+    "correct_sample_fraction": 0.968
+  },
+  {
+    "glomerulus": "VM7v",
+    "PN_side": "right",
+    "samples": 500,
+    "atlas_name_present": true,
+    "unique_fraction": 0.0,
+    "correct_sample_fraction": 0.0
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "neurons": 138639,
+  "aggregated_connections": 15091983,
+  "anatomical_synapses": 54492922,
+  "simulated_seconds": 10,
+  "wall_seconds": 29.747291125007905,
+  "throughput": 0.3361650631641285,
+  "setup_seconds": 3.4813827499747276,
+  "warmup_seconds": 0.3523396250093356,
+  "peak_rss_bytes": 1334132736,
+  "rates": {
+    "odor_a": 0.0,
+    "odor_b": 0.0,
+    "kc": 0.0,
+    "mbon": 0.0,
+    "mbon_reward": 0.0,
+    "mbon_aversive": 0.0,
+    "kcg": 0.0,
+    "pam_gamma5": 0.0,
+    "ppl_gamma1": 0.0,
+    "loom_left": 0.0,
+    "loom_right": 0.0,
+    "p9_left": 106.0,
+    "p9_right": 101.0
+  },
+  "alterations": [
+    "Undefined upstream neuron reset variable w removed",
+    "Annotated ORN_DM1/DM2 and DNp09 Poisson inputs",
+    "Spike counts only; no complete spike-train storage"
+  ],
+  "learning": "blocked_pending_mapping_validation"
+}

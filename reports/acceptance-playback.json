@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "recording": "d19f4f9607bf4afb80ba744429733a46",
+  "sample_interval_seconds": 0.5,
+  "browser_native_fly_visible": true,
+  "timestamp_regression_checks": 2,
+  "food_observed_in_playback": 2,
+  "scope": "Actual partial acceptance recording; does not imply completed ten-trial acceptance"
+}

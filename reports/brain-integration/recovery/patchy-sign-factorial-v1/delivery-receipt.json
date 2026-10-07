@@ -1,0 +1,25 @@
+{
+  "status": "complete",
+  "trials": 33,
+  "chunks_audited": 7920,
+  "frozen_sources_reverified": true,
+  "plot_visually_inspected": true,
+  "promoted": false,
+  "application_changed": false,
+  "full_goal_complete": false,
+  "qualifying_new_candidates": [],
+  "wall_seconds_trials": 1655.2908547879779,
+  "peak_rss_bytes": 2767536128,
+  "storage_bytes": 1379413406,
+  "artifacts_sha256": {
+    "protocol.json": "148e97dc6c8e76074adc4e12bea7fa75662173023f952967c90486f0d6a1c4c1",
+    "results.json": "964e3ae8c9c9e050bfe88bb0e7d20a0209a955bc87e40e44b29ed21669e11521",
+    "RESULTS.md": "4dbe9b66cf53a974a7ccd0eac4b8d4323e452ad29b8bcfb975925e5db7593ed0",
+    "DECISION.md": "1961eec84acd78946a57bbdf61bd3449f7988128aec66419925315dc7d26d469",
+    "comparison.png": "78303f40fb5f9338588ddd21ac35168d54d61262136ed72add7b55f0b923a255",
+    "model-variants.json": "00599b5339a94f475a3d6be8e3cb139f56223acea16d311f0ac94ce98fa32aaf"
+  },
+  "report_sha256": "17649fa185ef6cf15fad28ecac1ddd22c2d2a8c5aee57d11878123aa8265b06c",
+  "visual_review_pending": false,
+  "visual_reviewed_at": 1791347533.674315
+}

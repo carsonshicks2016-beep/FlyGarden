@@ -1,0 +1,29 @@
+{
+  "status": "diagnostic_complete_specificity_failed",
+  "records": [
+    {
+      "seed": 9751,
+      "exact_body_world_and_rgb_replay": true,
+      "peaks_hz": [
+        24.30555555555555,
+        100.0
+      ],
+      "post_cue_false_positive_peak_hz": 100.0,
+      "specificity_passed": false
+    },
+    {
+      "seed": 9752,
+      "exact_body_world_and_rgb_replay": true,
+      "peaks_hz": [
+        92.36111111111111,
+        100.0
+      ],
+      "post_cue_false_positive_peak_hz": 100.0,
+      "specificity_passed": false
+    }
+  ],
+  "brain_recomputed": false,
+  "not_promoted": true,
+  "finding": "V2 largest-component baseline subtraction follows self-leg changes. Own-body ray mask and multi-component tracking restore left cue sensitivity but uncorrected background/self-motion still emits after cue removal.",
+  "next": "Image-only background-motion compensation plus prospectively frozen native confounds"
+}

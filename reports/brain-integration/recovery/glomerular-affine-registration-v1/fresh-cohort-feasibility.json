@@ -1,0 +1,238 @@
+{
+  "cohort": "PN -> cognate held-out ORN, source AL_R",
+  "positions_or_outcomes_inspected": false,
+  "rows_scanned": 130054535,
+  "sites": 525,
+  "by_glomerulus": [
+    {
+      "glomerulus": "D",
+      "sites": 12,
+      "receiving_ORNs": 8
+    },
+    {
+      "glomerulus": "DA1",
+      "sites": 21,
+      "receiving_ORNs": 18
+    },
+    {
+      "glomerulus": "DA2",
+      "sites": 3,
+      "receiving_ORNs": 2
+    },
+    {
+      "glomerulus": "DA4l",
+      "sites": 1,
+      "receiving_ORNs": 1
+    },
+    {
+      "glomerulus": "DA4m",
+      "sites": 20,
+      "receiving_ORNs": 9
+    },
+    {
+      "glomerulus": "DC1",
+      "sites": 14,
+      "receiving_ORNs": 7
+    },
+    {
+      "glomerulus": "DC2",
+      "sites": 3,
+      "receiving_ORNs": 3
+    },
+    {
+      "glomerulus": "DC3",
+      "sites": 12,
+      "receiving_ORNs": 6
+    },
+    {
+      "glomerulus": "DL1",
+      "sites": 31,
+      "receiving_ORNs": 17
+    },
+    {
+      "glomerulus": "DL2d",
+      "sites": 5,
+      "receiving_ORNs": 4
+    },
+    {
+      "glomerulus": "DL2v",
+      "sites": 4,
+      "receiving_ORNs": 3
+    },
+    {
+      "glomerulus": "DL3",
+      "sites": 4,
+      "receiving_ORNs": 4
+    },
+    {
+      "glomerulus": "DL4",
+      "sites": 3,
+      "receiving_ORNs": 3
+    },
+    {
+      "glomerulus": "DL5",
+      "sites": 5,
+      "receiving_ORNs": 4
+    },
+    {
+      "glomerulus": "DM1",
+      "sites": 51,
+      "receiving_ORNs": 18
+    },
+    {
+      "glomerulus": "DM2",
+      "sites": 31,
+      "receiving_ORNs": 16
+    },
+    {
+      "glomerulus": "DM3",
+      "sites": 23,
+      "receiving_ORNs": 16
+    },
+    {
+      "glomerulus": "DM4",
+      "sites": 14,
+      "receiving_ORNs": 10
+    },
+    {
+      "glomerulus": "DM5",
+      "sites": 2,
+      "receiving_ORNs": 2
+    },
+    {
+      "glomerulus": "DM6",
+      "sites": 17,
+      "receiving_ORNs": 10
+    },
+    {
+      "glomerulus": "DP1l",
+      "sites": 23,
+      "receiving_ORNs": 9
+    },
+    {
+      "glomerulus": "DP1m",
+      "sites": 50,
+      "receiving_ORNs": 13
+    },
+    {
+      "glomerulus": "V",
+      "sites": 9,
+      "receiving_ORNs": 5
+    },
+    {
+      "glomerulus": "VA1d",
+      "sites": 4,
+      "receiving_ORNs": 3
+    },
+    {
+      "glomerulus": "VA1v",
+      "sites": 2,
+      "receiving_ORNs": 2
+    },
+    {
+      "glomerulus": "VA2",
+      "sites": 10,
+      "receiving_ORNs": 8
+    },
+    {
+      "glomerulus": "VA3",
+      "sites": 3,
+      "receiving_ORNs": 2
+    },
+    {
+      "glomerulus": "VA4",
+      "sites": 2,
+      "receiving_ORNs": 1
+    },
+    {
+      "glomerulus": "VA6",
+      "sites": 6,
+      "receiving_ORNs": 5
+    },
+    {
+      "glomerulus": "VA7l",
+      "sites": 3,
+      "receiving_ORNs": 2
+    },
+    {
+      "glomerulus": "VA7m",
+      "sites": 14,
+      "receiving_ORNs": 6
+    },
+    {
+      "glomerulus": "VC1",
+      "sites": 2,
+      "receiving_ORNs": 1
+    },
+    {
+      "glomerulus": "VC2",
+      "sites": 2,
+      "receiving_ORNs": 2
+    },
+    {
+      "glomerulus": "VC3",
+      "sites": 8,
+      "receiving_ORNs": 7
+    },
+    {
+      "glomerulus": "VC4",
+      "sites": 1,
+      "receiving_ORNs": 1
+    },
+    {
+      "glomerulus": "VC5",
+      "sites": 1,
+      "receiving_ORNs": 1
+    },
+    {
+      "glomerulus": "VL2a",
+      "sites": 6,
+      "receiving_ORNs": 6
+    },
+    {
+      "glomerulus": "VL2p",
+      "sites": 2,
+      "receiving_ORNs": 2
+    },
+    {
+      "glomerulus": "VM1",
+      "sites": 5,
+      "receiving_ORNs": 4
+    },
+    {
+      "glomerulus": "VM2",
+      "sites": 1,
+      "receiving_ORNs": 1
+    },
+    {
+      "glomerulus": "VM3",
+      "sites": 1,
+      "receiving_ORNs": 1
+    },
+    {
+      "glomerulus": "VM4",
+      "sites": 3,
+      "receiving_ORNs": 3
+    },
+    {
+      "glomerulus": "VM5d",
+      "sites": 27,
+      "receiving_ORNs": 17
+    },
+    {
+      "glomerulus": "VM5v",
+      "sites": 23,
+      "receiving_ORNs": 8
+    },
+    {
+      "glomerulus": "VM7d",
+      "sites": 38,
+      "receiving_ORNs": 12
+    },
+    {
+      "glomerulus": "VM7v",
+      "sites": 3,
+      "receiving_ORNs": 3
+    }
+  ]
+}

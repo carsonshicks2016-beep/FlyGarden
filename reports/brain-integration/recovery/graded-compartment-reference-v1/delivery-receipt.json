@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "status": "complete_with_explicit_integration_limits",
+  "scope": "evidence_review_and_isolated_reference",
+  "tests_passed": 7,
+  "source_checksum_verified": true,
+  "plot_visually_inspected": true,
+  "application_changed": false,
+  "promoted": false,
+  "full_goal_complete": false,
+  "physiology_validated": false,
+  "full_brain_recovery_passed": false,
+  "prior_frozen_sources_unchanged": true,
+  "storage_bytes": 273714659,
+  "artifacts_sha256": {
+    "protocol.json": "681422c411f1d0006e4c074b5dab341dfdeffe04d62ea7beb0d6ba040e026a82",
+    "results.json": "18c261d662c84b8e1de8374786c04f35411c30b878001de8acbda3f2e5019591",
+    "RESULTS.md": "d30114d726b77071fdd2dc38de940d7755765f74d73a3b42e76bdede52bd8314",
+    "EVIDENCE.md": "1d2ecfaf3963a669c940bd9ece9bcf9b438661e6c815b1bc61f065e50b4ce6fd",
+    "comparison.png": "96e263d6c3ccd1c03ebf984213edac0f5c55e1bf4c7ed4700363e5047fb3d4f5",
+    "provenance.json": "65314fc1e38d25e8a7b67102e721225bae70757c2b4ec67db8c45f65755068d7",
+    "traces.npz": "b67ee3cd76ac917984054d16ff8472995eea3186c74bfe4aa9d9b95345aa48c1",
+    "candidate-annotations.json": "f8ca2977a5a79491b6ed8a951dedc3de92bdc44171911803d676538bc88e25ea",
+    "patchy-type-inventory.json": "dc32fb2361c5f6c48b126af46d98cb17abcf7b3979834b221cf58bcab767fc08"
+  }
+}

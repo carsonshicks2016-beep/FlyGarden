@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "metrics": {
+    "published": {
+      "pulse_peak_gains": [
+        63.89046907817724,
+        59.61314008003478
+      ],
+      "tail_max_deviations": [
+        0.8821709850968933,
+        1.180921337841128
+      ],
+      "untouched_channel_max_error": 0.0,
+      "mirror_max_error": 0.0,
+      "finite_nonnegative": true,
+      "pulse_response_passed": true,
+      "tail_recovery_passed": true,
+      "note": "Recovery is relative to a time-matched baseline with spontaneous input; resource recovery may be slower than the local activity time constant."
+    },
+    "no_post": {
+      "pulse_peak_gains": [
+        69.58774265973715,
+        64.87861643274466
+      ],
+      "tail_max_deviations": [
+        1.0603789756812176,
+        1.4195132269130255
+      ],
+      "untouched_channel_max_error": 0.0,
+      "mirror_max_error": 0.0,
+      "finite_nonnegative": true,
+      "pulse_response_passed": true,
+      "tail_recovery_passed": true,
+      "note": "Recovery is relative to a time-matched baseline with spontaneous input; resource recovery may be slower than the local activity time constant."
+    },
+    "no_pre": {
+      "pulse_peak_gains": [
+        420.032239147619,
+        293.8164607766216
+      ],
+      "tail_max_deviations": [
+        6.27812292818108,
+        6.3591650979403145
+      ],
+      "untouched_channel_max_error": 0.0,
+      "mirror_max_error": 0.0,
+      "finite_nonnegative": true,
+      "pulse_response_passed": true,
+      "tail_recovery_passed": false,
+      "note": "Recovery is relative to a time-matched baseline with spontaneous input; resource recovery may be slower than the local activity time constant."
+    },
+    "neither": {
+      "pulse_peak_gains": [
+        462.9944179301755,
+        323.80175675013095
+      ],
+      "tail_max_deviations": [
+        7.550728296581612,
+        7.648198099485697
+      ],
+      "untouched_channel_max_error": 0.0,
+      "mirror_max_error": 0.0,
+      "finite_nonnegative": true,
+      "pulse_response_passed": true,
+      "tail_recovery_passed": false,
+      "note": "Recovery is relative to a time-matched baseline with spontaneous input; resource recovery may be slower than the local activity time constant."
+    }
+  },
+  "fresh_process_checkpoints": {
+    "published": {
+      "samples": 500,
+      "exact": true,
+      "max_error": 0.0
+    },
+    "no_post": {
+      "samples": 500,
+      "exact": true,
+      "max_error": 0.0
+    },
+    "no_pre": {
+      "samples": 500,
+      "exact": true,
+      "max_error": 0.0
+    },
+    "neither": {
+      "samples": 500,
+      "exact": true,
+      "max_error": 0.0
+    }
+  },
+  "convergence": {
+    "dt_ms": [
+      1.0,
+      0.5,
+      0.25
+    ],
+    "max_final_state_error": [
+      0.005147340509580545,
+      0.0021050349994666817,
+      0.0009584178093504647
+    ],
+    "decreases": true,
+    "note": "Continuous ODE convergence, not native MATLAB execution or experimental validation."
+  },
+  "variants": 4,
+  "synthetic_conditions": 4,
+  "application_changed": false,
+  "promoted": false,
+  "full_brain_run": false,
+  "experimental_validation": false,
+  "wall_seconds": 5.739614750025794,
+  "peak_rss_bytes": 156762112,
+  "versions": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1"
+  },
+  "frozen_sources_reverified": true
+}

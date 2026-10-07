@@ -1,0 +1,14 @@
+{
+  "python": "3.12.13",
+  "platform": "macOS-26.5.1-arm64-arm-64bit",
+  "packages": {
+    "brian2": "2.10.1",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "mujoco": "3.9.0",
+    "matplotlib": "3.11.2",
+    "flygym": "2.1.0"
+  },
+  "production_controller_modified": false
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source_hashes": {
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/FLYWIRE_mirror_landmarks.csv": "076f39860c405c276425b571fdbf00ae2e9561395aeba4df8757ad965b6a57ed",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/template_brain_meta.json": "5c4699eea9ab1fd6b6cd8233bec4ce53543df48bdec437cc50c3c1b44c7b6111",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/source/flywire_al.surf.rda": "1c4a305302b2756c21ce76588c8ac0b603a065d799c32c08a3864c3612f9e389",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/anchor-synapses.csv": "916c94d57ff2efc659b0d9d16d26974c4ddead4ae0cdd39f49c5f49f811318e0",
+    "flygarden/anatomical_mirror.py": "ced690f28bf08af4194d58e9a2083a1d0440bc978865c888dc42c275982f9a51",
+    "scripts/validate_anatomical_mirror.py": "410a866016a2f16c9e247f39adea61eba339739b7b6480ea0952f3ffb3fda0f3"
+  },
+  "flybrains_revision": "273333c8d8bf5adeebebd274e554621462e388bd",
+  "navis_revision": "cb9a5915b6b3587cb81154f4f77ffc62fe12b03a",
+  "registration": "native x -> bbox x_min+x_max-x -> published TPS",
+  "landmark_fit": "published source/target only; no sensory-anchor fit",
+  "units": "nanometers",
+  "criteria": {
+    "right_unique_fraction_min": 0.7,
+    "right_correct_unique_fraction_min": 0.8
+  },
+  "anchors": "v1 fixed ORN-to-cognate-uniglomerular-PN reservoir, stratified by PN soma side",
+  "limitations": [
+    "Soma side is not a direct branch label",
+    "Mirror is an approximate registration, not new traced anatomy",
+    "No physiological or electrical compartment claim"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "mirror_sources": [
+    {
+      "file": "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/FLYWIRE_mirror_landmarks.csv",
+      "url": "https://raw.githubusercontent.com/navis-org/navis-flybrains/273333c8d8bf5adeebebd274e554621462e388bd/flybrains/data/FLYWIRE_mirror_landmarks.csv",
+      "revision": "273333c8d8bf5adeebebd274e554621462e388bd",
+      "sha256": "076f39860c405c276425b571fdbf00ae2e9561395aeba4df8757ad965b6a57ed",
+      "upstream_license": "GPL-3.0-or-later (package/code; local anatomical analysis)"
+    },
+    {
+      "file": "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/template_brain_meta.json",
+      "url": "https://raw.githubusercontent.com/navis-org/navis-flybrains/273333c8d8bf5adeebebd274e554621462e388bd/flybrains/data/template_meta.json",
+      "revision": "273333c8d8bf5adeebebd274e554621462e388bd",
+      "sha256": "5c4699eea9ab1fd6b6cd8233bec4ce53543df48bdec437cc50c3c1b44c7b6111",
+      "upstream_license": "GPL-3.0-or-later (package/code; local anatomical analysis)"
+    },
+    {
+      "file": "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/flybrains-core.py",
+      "url": "https://raw.githubusercontent.com/navis-org/navis-flybrains/273333c8d8bf5adeebebd274e554621462e388bd/flybrains/core.py",
+      "revision": "273333c8d8bf5adeebebd274e554621462e388bd",
+      "sha256": "0ce8519250f50540ece9d7eb1d9389ea01f700342ea8de83b8ef81a4b0ef0f47",
+      "upstream_license": "GPL-3.0-or-later (package/code; local anatomical analysis)"
+    },
+    {
+      "file": "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/navis-thinplate.py",
+      "url": "https://raw.githubusercontent.com/navis-org/navis/cb9a5915b6b3587cb81154f4f77ffc62fe12b03a/navis/transforms/thinplate.py",
+      "revision": "cb9a5915b6b3587cb81154f4f77ffc62fe12b03a",
+      "sha256": "f8ad84d86d6b2039b881dae02bd51c5bb443c359fb306901ecfa77b1c33a7eab",
+      "upstream_license": "GPL-3.0-or-later (package/code; local anatomical analysis)"
+    },
+    {
+      "file": "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/navis-templates.py",
+      "url": "https://raw.githubusercontent.com/navis-org/navis/cb9a5915b6b3587cb81154f4f77ffc62fe12b03a/navis/transforms/templates.py",
+      "revision": "cb9a5915b6b3587cb81154f4f77ffc62fe12b03a",
+      "sha256": "06955454ee0348afefbc94383b8af19051192f783129c367dacfe759254c870c",
+      "upstream_license": "GPL-3.0-or-later (package/code; local anatomical analysis)"
+    },
+    {
+      "file": "reports/brain-integration/recovery/patchy-compartment-mapping-v2/source/navis-xfm-funcs.py",
+      "url": "https://raw.githubusercontent.com/navis-org/navis/cb9a5915b6b3587cb81154f4f77ffc62fe12b03a/navis/transforms/xfm_funcs.py",
+      "revision": "cb9a5915b6b3587cb81154f4f77ffc62fe12b03a",
+      "sha256": "c341567a805e542121ad541b4a651c5bb68e2adb9ef7fe451ad2128bbe62d422",
+      "upstream_license": "GPL-3.0-or-later (package/code; local anatomical analysis)"
+    }
+  ],
+  "synapse_archive": {
+    "doi": "10.5281/zenodo.10676866",
+    "version": "783.0",
+    "license": "CC-BY-4.0",
+    "coordinates": "distinct pre/post points in nanometers",
+    "published_md5": "f8f1b97c9d4b0ea9b4c8b287f6b99091"
+  },
+  "dependencies": {
+    "morphops": "0.1.13",
+    "rdata": "1.0.0",
+    "trimesh": "4.11.2",
+    "rtree": "1.4.1"
+  },
+  "no_physiological_parameter_transfer": true
+}

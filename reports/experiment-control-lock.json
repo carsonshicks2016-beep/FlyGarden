@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": {
+    "play": true,
+    "step": true,
+    "reset": true,
+    "edit": true,
+    "load": true,
+    "branch": true,
+    "save": true,
+    "mode": true,
+    "retina": true,
+    "learning": true,
+    "difficulty": true,
+    "pause_available": true,
+    "recordings_available": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "decoded": true,
+  "export": "f60a2db888554028b4992625f002901e",
+  "coverage": {
+    "modeled_neurons": 138639,
+    "cached_neurons": 365,
+    "unavailable_ids": [],
+    "cache_bytes": 136626312,
+    "source": "https://flyem.mrc-lmb.cam.ac.uk/flyconnectome/flywire_skeletons_783",
+    "units": "nanometers",
+    "license": "Local-only cache; standalone redistribution license unverified"
+  },
+  "free_gib": 11.798213958740234
+}

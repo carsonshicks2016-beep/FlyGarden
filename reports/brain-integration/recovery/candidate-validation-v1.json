@@ -1,0 +1,13 @@
+{
+  "status": "checkpoint_and_local_sampling_verified_navigation_unvalidated",
+  "frozen_candidate_sha256": "082c72c956bad012a2c5814868aef99773efef8bf8a522eb091e34d3fa811c26",
+  "full_state_proof_sha256": "ae9c39649f36f63bb3cef667331b9afb71a6f91ab2518c5ffd6cdfad4c0a3a11",
+  "calibration_source_identity_matched": true,
+  "local_senses_smoke_sha256": "ef6b5ade8b47e82eb2c0805ba3944a3baf9a85f88c6afe4ceafea9204ba3f070",
+  "local_senses_source_sha256": "31b4361948253ffa55ff5d3724d840e6b26982a6b2e8206301c4a24dd4c94ce9",
+  "limitations": [
+    "Local sensing smoke is one native observation,not a closed-loop arena test",
+    "Existing eye expansion proxy has known onset/translation confounds",
+    "Navigation and behavioral learning remain unvalidated"
+  ]
+}

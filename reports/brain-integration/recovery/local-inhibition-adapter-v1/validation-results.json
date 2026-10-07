@@ -1,0 +1,37 @@
+{
+  "status": "isolated_adapter_checks_complete",
+  "checks": {
+    "isolated_analytic": true,
+    "offset_recovery": true,
+    "timestep_convergence": true,
+    "published_local_equation_replay": true,
+    "checkpoint_exact": true,
+    "observer_pure": true,
+    "mapped_state_finite_bounded": true,
+    "mapped_offset_recovery": true,
+    "all_pair_counts_preserved": true
+  },
+  "all_isolated_checks_passed": true,
+  "timestep_dt_s": [
+    0.0002,
+    0.0001,
+    5e-05
+  ],
+  "analytic_max_release_errors_hz": [
+    6.368217952967825e-09,
+    3.95857568946667e-10,
+    2.474465077284549e-11
+  ],
+  "isolated_offset_release_hz": 0.0029509906556272445,
+  "reference_local_relative_error": 0.0010216287389038011,
+  "checkpoint_max_error": 0.0,
+  "observer_max_error": 0.0,
+  "mapped_nodes": 212,
+  "stimulated_right_DM1_nodes": 6,
+  "mapped_offset_max_hz_at_450ms": 0.002723991374425133,
+  "wall_seconds": 2.4871158330352046,
+  "sources_reverified": true,
+  "application_changed": false,
+  "full_network_test_run": false,
+  "full_brain_recovery_demonstrated": false
+}

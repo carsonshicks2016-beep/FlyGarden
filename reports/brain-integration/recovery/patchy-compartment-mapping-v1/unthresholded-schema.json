@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "schema": "id: int64\npre_pt_root_id: int64\npost_pt_root_id: int64\nconnection_score: double\ncleft_score: int64\ngaba: double\nach: double\nglut: double\noct: double\nser: double\nda: double\nneuropil: string\npost_pt_position_x: int64\npost_pt_position_y: int64\npost_pt_position_z: int64\npre_pt_position_x: int64\npre_pt_position_y: int64\npre_pt_position_z: int64\n-- schema metadata --\npandas: '{\"index_columns\": [{\"kind\": \"range\", \"name\": null, \"start\": 0, \"' + 2424",
+  "preview_only": true,
+  "archive_bytes": 9492998242,
+  "materialization": 783,
+  "full_archive_not_downloaded": true
+}

@@ -1,0 +1,1988 @@
+{
+  "version": 1,
+  "populations": {
+    "odor_a": {
+      "cell_type": "ORN_DM1",
+      "neurons": [
+        {
+          "root_id": "720575940619419757",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940629918762",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940629728732",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940620028788",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940632224031",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628800277",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940631217782",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940635146926",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940620071872",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940626779644",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940635757936",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940626976522",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940628429056",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940622651389",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940643977070",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940607927817",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940642284704",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940619844534",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940633471839",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940631240296",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940624045155",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940645824035",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940623942119",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940614102930",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940633509407",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940615723350",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940636093541",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940627253865",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940639427416",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940622262593",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940605328230",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940625821758",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940620574305",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940637472053",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940624689336",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940630496975",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940647088004",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628621316",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940619451233",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940616546333",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940617577797",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940622281399",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940618539422",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940622891923",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940639080526",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940627996315",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940622276791",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940630664273",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940627316303",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940629350782",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940606001074",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940635562096",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940624223888",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940617825563",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940627163560",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940619702337",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628749111",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940643980910",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940610059726",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940617351990",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940618696920",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940619789248",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940614522847",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940636187054",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940627526735",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940614559163",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940622564621",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940626868818",
+          "side": "left",
+          "transmitter": "serotonin"
+        }
+      ]
+    },
+    "odor_b": {
+      "cell_type": "ORN_DM2",
+      "neurons": [
+        {
+          "root_id": "720575940619725844",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940617645652",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940609586645",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940624500519",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940603356128",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940614735372",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940615747259",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940619277733",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940617234077",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940614427055",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940639024462",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940631925132",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940644237591",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940622685367",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940616398898",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940647097732",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940629384953",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940620679233",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940633311328",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940623085495",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940625360784",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940613539478",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940622039551",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940633203225",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940616713473",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940611696370",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940623062749",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940635094426",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940636741488",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940620932717",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940638576829",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940613437359",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940631295116",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940630612280",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940622099294",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940616203067",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940655010209",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940628677626",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940622440840",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940654194337",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940621325338",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940641039067",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940631228719",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940635184485",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940626147971",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940624951020",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940649134969",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940606698882",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940622880588",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940620577217",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940625825820",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940631923816",
+          "side": "left",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940605915872",
+          "side": "right",
+          "transmitter": "serotonin"
+        },
+        {
+          "root_id": "720575940616886228",
+          "side": "right",
+          "transmitter": "serotonin"
+        }
+      ]
+    },
+    "p9": {
+      "cell_type": "DNp09",
+      "neurons": [
+        {
+          "root_id": "720575940635872101",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940627652358",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        }
+      ]
+    },
+    "reward_mbon": {
+      "cell_type": "MBON01",
+      "neurons": [
+        {
+          "root_id": "720575940624117245",
+          "side": "right",
+          "transmitter": "glutamate"
+        },
+        {
+          "root_id": "720575940643309197",
+          "side": "left",
+          "transmitter": "glutamate"
+        }
+      ]
+    },
+    "aversive_mbon": {
+      "cell_type": "MBON11",
+      "neurons": [
+        {
+          "root_id": "720575940617749538",
+          "side": "right",
+          "transmitter": "gaba"
+        },
+        {
+          "root_id": "720575940623201833",
+          "side": "left",
+          "transmitter": "gaba"
+        }
+      ]
+    },
+    "reward_dan": {
+      "cell_type": "PAM01",
+      "neurons": [
+        {
+          "root_id": "720575940613529770",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940625683716",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940625525265",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940615607975",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940645932579",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940606909826",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940633832628",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940619785492",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940625352456",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940623442173",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940622495092",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940639684696",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940631095087",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940633733401",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940636309093",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940628687207",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940633142498",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940618744118",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940641062901",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940631688808",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940613647007",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940639566406",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940654661281",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940621462512",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940637391582",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940633145996",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940630722956",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940628615683",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940637390302",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940634655851",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940617145561",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940625338249",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940631443304",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940629188507",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940630498811",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940605221065",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940621245124",
+          "side": "left",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940649649785",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940626555800",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940630650063",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940630691159",
+          "side": "right",
+          "transmitter": "dopamine"
+        }
+      ]
+    },
+    "aversive_dan": {
+      "cell_type": "PPL101",
+      "neurons": [
+        {
+          "root_id": "720575940617691170",
+          "side": "right",
+          "transmitter": "dopamine"
+        },
+        {
+          "root_id": "720575940621040737",
+          "side": "left",
+          "transmitter": "dopamine"
+        }
+      ]
+    },
+    "looming": {
+      "cell_type": "LPLC2",
+      "neurons": [
+        {
+          "root_id": "720575940626745392",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940626447848",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940631380695",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940625835278",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940639109795",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940612045352",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940635307639",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940605825666",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940626735016",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940626414279",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940618172509",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940635040357",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940623262461",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940641552347",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940613145258",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940641704656",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940613804906",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940638626118",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940620575476",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940632129848",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940612462307",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940623652083",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940635516084",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940639884878",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940610226645",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940619263937",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940625216202",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940623925774",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940633552685",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940615332502",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624014524",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940615920453",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940627685765",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940638835288",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940616116697",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940629967703",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940622992205",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940606217138",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940618538641",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624919077",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940620306904",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940640302389",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940623047629",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940613763759",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940615967377",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940610116757",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940625001735",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940612254701",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940640510427",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940625695269",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940635572592",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940633588320",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940609592674",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940603989420",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624016778",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940626161930",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628847164",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940616735489",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940620001718",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628039034",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940612944382",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940629384271",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940615953302",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940616166685",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940627902078",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940606855554",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940632512226",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624611002",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940612560680",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940642414837",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940622680088",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940620783180",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940622769159",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940623551684",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940626236041",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940614067167",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940647358243",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940618927892",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940614526974",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940648418425",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940645699124",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940613821290",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940619197318",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624931530",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940612766691",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940631397549",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940645407268",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940645180196",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940643740964",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940636295019",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940615116731",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940614738444",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628552247",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624208824",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940626617084",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940630650936",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940635234478",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940616008854",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940610953651",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940613219474",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940611740569",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940653742753",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940615288203",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940637958709",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940629368015",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940622425271",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940638857048",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940629292785",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628990214",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940655750305",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628395797",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940625700739",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940637088602",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940625697772",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940607854531",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940635004271",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940622174463",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940636529520",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940618450496",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940661316993",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940627553923",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628778058",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940618608177",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940636878682",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940613470947",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624755504",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940634700980",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940622009284",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940612874536",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940639878352",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940631582751",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940619981494",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940630831185",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940614631079",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940615907723",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940639895003",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624244922",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940626873000",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940614373279",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940632080146",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940630209603",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940618307046",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940618711535",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940632779932",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940611821334",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940653666465",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940626384200",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940632711052",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628603842",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940632777124",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624903064",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940611567638",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940617997241",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940616377817",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940607845250",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940637702222",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940612096462",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940607683011",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940612994929",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940619654149",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940631095158",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940619627934",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940608875531",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940642397128",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940634146967",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940645328436",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940631312428",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624417584",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940617294219",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940636539102",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940617289782",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940615055989",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940636950505",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940638922624",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624359093",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628197892",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940631742405",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940617480094",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940627902979",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940621634913",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940610536290",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940647369507",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628849668",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940623769783",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940630731847",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940620139678",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940625477721",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940630719831",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940627368254",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940610681829",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940626375172",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940639177449",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940622312072",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628921303",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940620887834",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940606126438",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940623333770",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940623827348",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940611352234",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940616083345",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940619750822",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940608088259",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940619900993",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940628976956",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940621914904",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940622156799",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940636999401",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940624531652",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940616491993",
+          "side": "right",
+          "transmitter": "acetylcholine"
+        },
+        {
+          "root_id": "720575940632009167",
+          "side": "left",
+          "transmitter": "acetylcholine"
+        }
+      ]
+    }
+  },
+  "source": "FlyWire annotation table pinned by hash in provenance.json",
+  "sensory_encoding": "Synthetic independent odor channels stimulate ORN_DM1/DM2; geometric looming proxy stimulates side-matched LPLC2",
+  "motor_decoding": "Smoothed DNp09 left/right firing rates, /100Hz into supplied leg controller; tonic 65Hz engineered exploration",
+  "learning": {
+    "reward": {
+      "compartment": "gamma5",
+      "kc": "KCg*",
+      "mbon": "MBON01",
+      "dan": "PAM01",
+      "update": "Activity eligibility followed by depression of excitatory KCg -> MBON01 magnitude"
+    },
+    "aversive": {
+      "compartment": "gamma1pedc",
+      "kc": "KCg*",
+      "mbon": "MBON11",
+      "dan": "PPL101",
+      "update": "Activity eligibility followed by depression of excitatory KCg -> MBON11 magnitude"
+    },
+    "learning_rate": 0.08,
+    "eligibility_tau_seconds": 2.0,
+    "weight_bounds_relative": [
+      0.1,
+      1.0
+    ],
+    "validation": "Engineered rule; not fitted or biologically validated"
+  },
+  "sources": [
+    "https://elifesciences.org/articles/62576",
+    "https://www.nature.com/articles/s41586-024-07819-w",
+    "https://www.nature.com/articles/s41467-021-22592-4"
+  ],
+  "limitations": [
+    "No inferred molecular dynamics",
+    "KCg -> MBON01 selects gamma contributions, omits beta-prime contributions",
+    "PAM01 has subtypes; stimulation groups them without inferred subtype specificity",
+    "LPLC2 stimulation is an engineered feature encoding, not retinal pathway simulation",
+    "Poisson-driven input populations use zero refractory period as released stimulation convention"
+  ]
+}

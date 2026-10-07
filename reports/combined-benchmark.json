@@ -1,0 +1,15 @@
+{
+  "status": "completed",
+  "simulated_seconds": 10.0,
+  "wall_seconds": 62.190926583018154,
+  "throughput": 0.1607951601533237,
+  "peak_rss_bytes": 1932886016,
+  "neurons": 138639,
+  "connections": 15091983,
+  "body": "NeuroMechFly 2.1",
+  "physics_dt": 0.0001,
+  "walking_control_dt": 0.0005,
+  "world_status": "running",
+  "initial_stimulus": "Engineered tonic P9 exploration at 65 Hz",
+  "learned": false
+}

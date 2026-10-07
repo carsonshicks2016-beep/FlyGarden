@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "created_at": 1791348171.799305,
+  "license": "CC BY 4.0 for archived authors model code; attribution in EVIDENCE.md",
+  "archive_doi": "10.5281/zenodo.10028674",
+  "parameters_exactly_match_published_source": true,
+  "sources": {
+    "reports/brain-integration/recovery/graded-compartment-reference-v1/literature/published-source/dynamical_model/run_AL_model.m": "6255eddeac181a96e30972f8a916456e265492af809fb4a79222f03b8709b156",
+    "reports/brain-integration/recovery/graded-compartment-reference-v1/literature/published-source/dynamical_model/LN_activity_injection_dynamics.m": "1ef7758ef98168ca1026f3f10a02606200bfc151cad43b7fec2f94cbebe2e662",
+    "reports/brain-integration/recovery/graded-compartment-reference-v1/literature/published-source/dynamical_model/fit_AL_model.m": "eb797f703e719d24529c61ee5e901687f94a7a7ed149f22c78ac6a8a82eedad6",
+    "reports/brain-integration/recovery/graded-compartment-reference-v1/literature/zenodo-record.json": "d5772cdf605e7971207f6fa6f3126bb9f25759f69fba7bf3b947bd43e08f620c",
+    "reports/brain-integration/recovery/graded-compartment-reference-v1/literature/dynamical_model.zip": "beb3f9b175aa6371b72002ce688d981318dc018cc180ea6258bb5490aaaac379",
+    "reports/brain-integration/recovery/graded-compartment-reference-v1/literature/population_model.zip": "1c133b240ad8bbcdc15e1d7b2ec015a10cd7531783c57347383e221c9582535c",
+    "data/annotations.tsv": "b214970b55d2fbe0853bba536fdcb9e28730f4eb7ab06f600491df795da683cd",
+    "reports/brain-integration/recovery/patchy-sign-factorial-v1/literature/nonspiking-2023.xml": "56a8aead69c238f8f952093700946a69d521de5d83a32a1f2cb7361e53e9e16c",
+    "reports/brain-integration/recovery/projection-cut-factorial-v1/literature/sizemore-2023.xml": "8bb1b8f4910e291fdaaea7ae14e3ed9cca259755206c9cbf921cc378318edca3"
+  },
+  "retrieval_notes": [
+    "Search result PMC11026096 resolved to an unrelated grooming article. Its cached XML is quarantined by filename and excluded from model evidence.",
+    "Publisher/lab PDF downloads returned 403. Model equations were retrieved from the authors DOI-linked archive and validated by checksum.",
+    "The 9.9 GB population-results archive was not needed or downloaded."
+  ],
+  "root_inventory": {
+    "lLN2P_a": 13,
+    "lLN2P_b": 12,
+    "lLN2P_c": 9
+  },
+  "candidate_exact_root_join_count": 12,
+  "aggregate_graph_has_synapse_positions": false,
+  "prior_frozen_sources_unchanged": true,
+  "free_disk_bytes": 224389632000
+}

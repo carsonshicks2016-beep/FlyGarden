@@ -1,0 +1,12 @@
+{
+  "reason": "Worker used np.array_equal on decimal external-event timestamps, although adapter start+local*dt and native monitor tick*dt have equivalent integer ticks with possible floating-point ULP differences. Replace only this recording assertion with exact integer ticks and absolute decimal tolerance1e-12s.",
+  "scientific_model_changed": false,
+  "acceptance_gates_changed": false,
+  "seed_schedule_changed": false,
+  "prior_protocol_sha256": "9f79ff6640426a63ccdde1992171418e90fe748a1cf2a450a6cbbb212227abc7",
+  "prior_script_sha256": "96002e9a350ddf97e396fadb33b8657847bbb19da94a6bbc2ddb8ea93deb1d1b",
+  "interrupted_manifest_sha256": "dab11a607e6e1b5d2d70920b24f0962d1d90929aaf28009c82ab8a16b814bb35",
+  "complete_prior_chunks": 1,
+  "prior_recording_preserved": true,
+  "validation": "Independent reader will reconstruct owned RNG events and verify exact integer clock ticks plus decimal tolerance, not mask an input timing difference."
+}

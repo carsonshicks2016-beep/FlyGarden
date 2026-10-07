@@ -1,0 +1,1 @@
+{"passed":true,"condition":"a_left","seed":3199,"windows":30,"scope":"Exact full-network per-neuron 100ms counts, external event counts, annotated rates and motor commands on reconstruction. Raw spike timing and internal state were not recorded and are not claimed identical."}

@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "placed_via_browser": {
+    "id": "92602101",
+    "x": 10.874820044831528,
+    "y": -7.4267064179239375,
+    "w": 2.0,
+    "h": 12.0,
+    "z": 0.15,
+    "kind": "terrain"
+  },
+  "paused": true,
+  "unscored": true
+}

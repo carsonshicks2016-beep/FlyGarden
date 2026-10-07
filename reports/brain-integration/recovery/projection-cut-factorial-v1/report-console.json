@@ -1,0 +1,143 @@
+{
+  "strong": [
+    "joint_off"
+  ],
+  "summary": [
+    {
+      "case": "intact",
+      "seed": 11601,
+      "tail_pn_hz": 227.0,
+      "tail_dna_left_hz": 52.0,
+      "tail_dna_right_hz": 4.0,
+      "tail_alln_mean_hz": 131.19813519813522,
+      "tail_orn_dm1_hz": 0.0,
+      "tail_local_mean_hz": 295.5,
+      "tail_alpn_mean_hz": 84.23649635036497,
+      "tail_local_individual_hz": {
+        "720575940614956072": 302.0,
+        "720575940622920074": 298.0,
+        "720575940630945335": 298.0,
+        "720575940632416298": 284.0
+      }
+    },
+    {
+      "case": "intact",
+      "seed": 11602,
+      "tail_pn_hz": 226.0,
+      "tail_dna_left_hz": 64.0,
+      "tail_dna_right_hz": 0.0,
+      "tail_alln_mean_hz": 130.997668997669,
+      "tail_orn_dm1_hz": 0.0,
+      "tail_local_mean_hz": 295.5,
+      "tail_alpn_mean_hz": 84.17518248175182,
+      "tail_local_individual_hz": {
+        "720575940614956072": 300.0,
+        "720575940622920074": 298.0,
+        "720575940630945335": 296.0,
+        "720575940632416298": 288.0
+      }
+    },
+    {
+      "case": "alpn_to_alln_off",
+      "seed": 11601,
+      "tail_pn_hz": 212.0,
+      "tail_dna_left_hz": 54.0,
+      "tail_dna_right_hz": 2.0,
+      "tail_alln_mean_hz": 100.88578088578087,
+      "tail_orn_dm1_hz": 0.0,
+      "tail_local_mean_hz": 249.0,
+      "tail_alpn_mean_hz": 80.15766423357663,
+      "tail_local_individual_hz": {
+        "720575940614956072": 266.0,
+        "720575940622920074": 266.0,
+        "720575940630945335": 266.0,
+        "720575940632416298": 198.0
+      }
+    },
+    {
+      "case": "alpn_to_alln_off",
+      "seed": 11602,
+      "tail_pn_hz": 211.0,
+      "tail_dna_left_hz": 56.0,
+      "tail_dna_right_hz": 0.0,
+      "tail_alln_mean_hz": 100.72727272727272,
+      "tail_orn_dm1_hz": 0.0,
+      "tail_local_mean_hz": 246.5,
+      "tail_alpn_mean_hz": 80.24525547445255,
+      "tail_local_individual_hz": {
+        "720575940614956072": 260.0,
+        "720575940622920074": 264.0,
+        "720575940630945335": 264.0,
+        "720575940632416298": 198.0
+      }
+    },
+    {
+      "case": "alln_recurrence_off",
+      "seed": 11601,
+      "tail_pn_hz": 202.0,
+      "tail_dna_left_hz": 44.0,
+      "tail_dna_right_hz": 6.0,
+      "tail_alln_mean_hz": 72.08857808857809,
+      "tail_orn_dm1_hz": 0.24242424242424243,
+      "tail_local_mean_hz": 202.0,
+      "tail_alpn_mean_hz": 73.14452554744526,
+      "tail_local_individual_hz": {
+        "720575940614956072": 202.0,
+        "720575940622920074": 202.0,
+        "720575940630945335": 202.0,
+        "720575940632416298": 202.0
+      }
+    },
+    {
+      "case": "alln_recurrence_off",
+      "seed": 11602,
+      "tail_pn_hz": 204.0,
+      "tail_dna_left_hz": 54.0,
+      "tail_dna_right_hz": 0.0,
+      "tail_alln_mean_hz": 72.69463869463868,
+      "tail_orn_dm1_hz": 0.3939393939393939,
+      "tail_local_mean_hz": 204.0,
+      "tail_alpn_mean_hz": 73.4832116788321,
+      "tail_local_individual_hz": {
+        "720575940614956072": 204.0,
+        "720575940622920074": 204.0,
+        "720575940630945335": 204.0,
+        "720575940632416298": 204.0
+      }
+    },
+    {
+      "case": "joint_off",
+      "seed": 11601,
+      "tail_pn_hz": 0.0,
+      "tail_dna_left_hz": 6.0,
+      "tail_dna_right_hz": 8.0,
+      "tail_alln_mean_hz": 0.0,
+      "tail_orn_dm1_hz": 0.0,
+      "tail_local_mean_hz": 0.0,
+      "tail_alpn_mean_hz": 0.0,
+      "tail_local_individual_hz": {
+        "720575940614956072": 0.0,
+        "720575940622920074": 0.0,
+        "720575940630945335": 0.0,
+        "720575940632416298": 0.0
+      }
+    },
+    {
+      "case": "joint_off",
+      "seed": 11602,
+      "tail_pn_hz": 0.0,
+      "tail_dna_left_hz": 2.0,
+      "tail_dna_right_hz": 14.0,
+      "tail_alln_mean_hz": 0.0,
+      "tail_orn_dm1_hz": 0.0,
+      "tail_local_mean_hz": 0.0,
+      "tail_alpn_mean_hz": 0.0,
+      "tail_local_individual_hz": {
+        "720575940614956072": 0.0,
+        "720575940622920074": 0.0,
+        "720575940630945335": 0.0,
+        "720575940632416298": 0.0
+      }
+    }
+  ]
+}

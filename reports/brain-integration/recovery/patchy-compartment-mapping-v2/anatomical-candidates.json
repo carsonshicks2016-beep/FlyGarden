@@ -1,0 +1,2636 @@
+{
+  "version": 2,
+  "materialization": 783,
+  "status": "complete_modeled_site_coordinates_partial_native_atlas_candidates",
+  "roots": [
+    {
+      "root_id": "720575940605883569",
+      "model_index": 2419,
+      "cell_type": "lLN2P_b",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940605883569",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 2655,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2655
+          },
+          "source_neuropils": {
+            "AL_R": 2655
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940605883569",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 2099,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2099
+          },
+          "source_neuropils": {
+            "AL_R": 2099
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940615513086",
+      "model_index": 24094,
+      "cell_type": "lLN2P_c",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940615513086",
+          "cell_type": "lLN2P_c",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3055,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3055
+          },
+          "source_neuropils": {
+            "AL_R": 3052,
+            "LAL_R": 3
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940615513086",
+          "cell_type": "lLN2P_c",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 2431,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2431
+          },
+          "source_neuropils": {
+            "AL_R": 2431
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940623650823",
+      "model_index": 61929,
+      "cell_type": "lLN2P_b",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940623650823",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3439,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3439
+          },
+          "source_neuropils": {
+            "AL_R": 3439
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940623650823",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 2450,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2450
+          },
+          "source_neuropils": {
+            "AL_R": 2450
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940636241550",
+      "model_index": 119879,
+      "cell_type": "lLN2P_a",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940636241550",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 3069,
+          "unique_atlas_candidates": 2953,
+          "atlas_labels": {
+            "DL2v": 156,
+            "DM3": 279,
+            "VL2p": 419,
+            "VC2": 90,
+            "VA3": 168,
+            "VL2a": 205,
+            "DA1": 174,
+            "DM2": 113,
+            "unavailable_outside": 116,
+            "VP1m": 189,
+            "VM4": 348,
+            "DM4": 281,
+            "VC5": 177,
+            "DA2": 112,
+            "VA6": 115,
+            "VP1d": 4,
+            "VA7m": 4,
+            "VM1": 11,
+            "VC3": 29,
+            "DP1l": 29,
+            "VC1": 1,
+            "VA7l": 24,
+            "VM7d": 8,
+            "DM1": 1,
+            "DM6": 4,
+            "DL5": 1,
+            "DL2d": 1,
+            "VC4": 2,
+            "DA4l": 5,
+            "DC4": 1,
+            "DP1m": 1,
+            "VM5v": 1
+          },
+          "source_neuropils": {
+            "AL_L": 3069
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940636241550",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 1060,
+          "unique_atlas_candidates": 1024,
+          "atlas_labels": {
+            "VA3": 92,
+            "VP1m": 57,
+            "VM4": 97,
+            "DM3": 118,
+            "VL2p": 184,
+            "DA4l": 3,
+            "DA1": 42,
+            "DM2": 45,
+            "VA6": 35,
+            "VL2a": 40,
+            "DM4": 138,
+            "VA7l": 6,
+            "VC5": 49,
+            "VM1": 9,
+            "DL2v": 39,
+            "DA2": 36,
+            "VC2": 17,
+            "unavailable_outside": 36,
+            "VC3": 2,
+            "DP1l": 5,
+            "VM5v": 2,
+            "VM7d": 3,
+            "VA7m": 3,
+            "DM6": 2
+          },
+          "source_neuropils": {
+            "AL_L": 1060
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940628343634",
+      "model_index": 87673,
+      "cell_type": "lLN2P_c",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940628343634",
+          "cell_type": "lLN2P_c",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 3493,
+          "unique_atlas_candidates": 3366,
+          "atlas_labels": {
+            "DC2": 172,
+            "DM2": 332,
+            "VM5v": 64,
+            "VL2a": 90,
+            "VM6": 256,
+            "DM1": 112,
+            "VA2": 254,
+            "VA1d": 52,
+            "DL5": 334,
+            "DA1": 106,
+            "VM1": 51,
+            "VP4": 88,
+            "DP1m": 190,
+            "VC1": 62,
+            "VA5": 101,
+            "VA4": 138,
+            "unavailable_outside": 127,
+            "V": 48,
+            "DM3": 136,
+            "VM7v": 76,
+            "DA3": 53,
+            "DA4l": 110,
+            "VP1d": 102,
+            "VA3": 93,
+            "DA4m": 41,
+            "VM5d": 51,
+            "VA1v": 80,
+            "VM3": 33,
+            "VL1": 20,
+            "D": 6,
+            "VM4": 55,
+            "DM6": 8,
+            "DL4": 6,
+            "VM7d": 6,
+            "VP1l": 3,
+            "VC5": 8,
+            "VP1m": 5,
+            "DC4": 4,
+            "VC4": 4,
+            "DC3": 4,
+            "VA6": 1,
+            "VM2": 2,
+            "VA7m": 6,
+            "DM4": 3
+          },
+          "source_neuropils": {
+            "AL_L": 3482,
+            "LAL_L": 4,
+            "CRE_L": 7
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940628343634",
+          "cell_type": "lLN2P_c",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 2969,
+          "unique_atlas_candidates": 2867,
+          "atlas_labels": {
+            "DP1m": 126,
+            "DL5": 235,
+            "VA4": 111,
+            "DA3": 29,
+            "DC2": 160,
+            "DA1": 109,
+            "VA1v": 91,
+            "unavailable_outside": 102,
+            "VP1d": 56,
+            "VA2": 228,
+            "VM6": 239,
+            "VM7v": 63,
+            "VL2a": 82,
+            "DM2": 286,
+            "VA5": 89,
+            "DM1": 83,
+            "DA4l": 82,
+            "VM4": 66,
+            "VA3": 131,
+            "VA1d": 68,
+            "VM5v": 66,
+            "VP4": 54,
+            "VM5d": 29,
+            "DM3": 118,
+            "V": 25,
+            "VC5": 8,
+            "DA4m": 50,
+            "VC4": 5,
+            "VM7d": 11,
+            "VM1": 52,
+            "DM6": 6,
+            "VC1": 41,
+            "VL1": 20,
+            "VM3": 31,
+            "D": 8,
+            "VA7m": 6,
+            "DL4": 2,
+            "VP1m": 1
+          },
+          "source_neuropils": {
+            "AL_L": 2957,
+            "CRE_L": 12
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940626624275",
+      "model_index": 77396,
+      "cell_type": "lLN2P_c",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940626624275",
+          "cell_type": "lLN2P_c",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 3690,
+          "unique_atlas_candidates": 3486,
+          "atlas_labels": {
+            "DM5": 82,
+            "DA2": 97,
+            "unavailable_outside": 204,
+            "VM5d": 110,
+            "DC2": 178,
+            "DC4": 287,
+            "DL5": 138,
+            "DC3": 176,
+            "VC5": 176,
+            "DM6": 111,
+            "VC2": 124,
+            "VA1v": 18,
+            "VM7v": 85,
+            "VM5v": 68,
+            "VC4": 112,
+            "VA7m": 120,
+            "DL4": 16,
+            "VA3": 68,
+            "DC1": 143,
+            "VP2": 161,
+            "VC3": 272,
+            "VL2a": 11,
+            "D": 274,
+            "DM1": 201,
+            "DM4": 89,
+            "VC1": 30,
+            "VP1d": 52,
+            "DA1": 3,
+            "VP1m": 27,
+            "VP4": 78,
+            "DL1": 44,
+            "VM3": 12,
+            "VM7d": 6,
+            "DM2": 4,
+            "VL1": 27,
+            "VP1l": 25,
+            "DM3": 4,
+            "VA6": 33,
+            "VA1d": 8,
+            "VM2": 2,
+            "VA7l": 1,
+            "DA4m": 9,
+            "VP5": 1,
+            "VM1": 1,
+            "DA4l": 2
+          },
+          "source_neuropils": {
+            "AL_L": 3690
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940626624275",
+          "cell_type": "lLN2P_c",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 2997,
+          "unique_atlas_candidates": 2860,
+          "atlas_labels": {
+            "VC2": 115,
+            "DM4": 48,
+            "VA3": 87,
+            "VM5d": 67,
+            "unavailable_outside": 137,
+            "DL5": 49,
+            "VP5": 11,
+            "DA2": 70,
+            "DC2": 163,
+            "VA6": 26,
+            "VC4": 117,
+            "VC3": 217,
+            "DC3": 200,
+            "DC4": 243,
+            "VM5v": 67,
+            "VA7m": 101,
+            "D": 205,
+            "DL1": 39,
+            "VP2": 130,
+            "VP4": 56,
+            "DC1": 107,
+            "DM5": 101,
+            "DM1": 142,
+            "VP1d": 23,
+            "VC5": 91,
+            "VL1": 11,
+            "DL4": 3,
+            "VA1v": 18,
+            "DM6": 127,
+            "VM7v": 104,
+            "VM7d": 14,
+            "VC1": 22,
+            "VM3": 15,
+            "VP1m": 14,
+            "VP1l": 14,
+            "DA4m": 15,
+            "VL2a": 11,
+            "VA1d": 5,
+            "DA1": 5,
+            "DM2": 1,
+            "DM3": 6
+          },
+          "source_neuropils": {
+            "AL_L": 2997
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940625977802",
+      "model_index": 74222,
+      "cell_type": "lLN2P_a",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940625977802",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3506,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3506
+          },
+          "source_neuropils": {
+            "AL_R": 3505,
+            "LAL_R": 1
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940625977802",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 1229,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 1229
+          },
+          "source_neuropils": {
+            "AL_R": 1229
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940617205179",
+      "model_index": 29999,
+      "cell_type": "lLN2P_c",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940617205179",
+          "cell_type": "lLN2P_c",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 4092,
+          "unique_atlas_candidates": 3895,
+          "atlas_labels": {
+            "VM7d": 135,
+            "VC4": 61,
+            "VM3": 166,
+            "VP1l": 95,
+            "VA2": 59,
+            "DL2v": 395,
+            "DL4": 97,
+            "VL2p": 166,
+            "DL1": 189,
+            "VM2": 209,
+            "DL2d": 210,
+            "unavailable_outside": 197,
+            "DM6": 130,
+            "VC1": 85,
+            "DM3": 92,
+            "VC3": 81,
+            "VA4": 46,
+            "VP1d": 81,
+            "DA1": 78,
+            "VM5v": 87,
+            "VA6": 43,
+            "DC1": 65,
+            "DM1": 63,
+            "DC2": 35,
+            "DP1m": 65,
+            "DP1l": 276,
+            "VM7v": 31,
+            "VA7l": 91,
+            "DM4": 80,
+            "VM5d": 13,
+            "DM2": 31,
+            "VP1m": 125,
+            "VM1": 143,
+            "VL1": 36,
+            "VP5": 41,
+            "VP2": 91,
+            "VA1d": 80,
+            "VP3": 18,
+            "VL2a": 73,
+            "DC3": 1,
+            "DA4l": 5,
+            "VC5": 5,
+            "VA1v": 1,
+            "DL3": 8,
+            "DA4m": 4,
+            "VA7m": 1,
+            "DC4": 5,
+            "VA3": 3
+          },
+          "source_neuropils": {
+            "AL_L": 4092
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940617205179",
+          "cell_type": "lLN2P_c",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 3548,
+          "unique_atlas_candidates": 3342,
+          "atlas_labels": {
+            "DL2v": 422,
+            "VA2": 35,
+            "unavailable_outside": 206,
+            "DL2d": 208,
+            "VA4": 51,
+            "VM3": 153,
+            "DM1": 47,
+            "VP5": 56,
+            "VM1": 139,
+            "DM6": 108,
+            "DC2": 29,
+            "VC3": 98,
+            "DP1l": 246,
+            "VC1": 49,
+            "VL2p": 136,
+            "VM2": 196,
+            "VP1m": 69,
+            "VM7d": 89,
+            "DA1": 73,
+            "VP1l": 46,
+            "DM3": 97,
+            "VA7l": 89,
+            "VC4": 42,
+            "VA1d": 79,
+            "DC1": 60,
+            "DL1": 156,
+            "VP3": 19,
+            "VP2": 80,
+            "VP1d": 52,
+            "DP1m": 32,
+            "VM7v": 28,
+            "VL2a": 32,
+            "VL1": 29,
+            "VM5v": 75,
+            "DL4": 71,
+            "VA6": 20,
+            "DL3": 8,
+            "DM2": 46,
+            "DA4m": 6,
+            "DM4": 52,
+            "VA3": 6,
+            "VM5d": 7,
+            "DA4l": 2,
+            "VM6": 4
+          },
+          "source_neuropils": {
+            "AL_L": 3548
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940631497078",
+      "model_index": 104262,
+      "cell_type": "lLN2P_a",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940631497078",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 2996,
+          "unique_atlas_candidates": 2806,
+          "atlas_labels": {
+            "VA4": 164,
+            "VC3": 140,
+            "VC1": 142,
+            "DC4": 139,
+            "DL2v": 74,
+            "D": 155,
+            "DC1": 163,
+            "VA1v": 44,
+            "VP1l": 137,
+            "DC2": 208,
+            "VC4": 160,
+            "VM7d": 238,
+            "VA6": 170,
+            "VC2": 106,
+            "DP1l": 178,
+            "DM6": 4,
+            "DP1m": 92,
+            "unavailable_outside": 190,
+            "VM7v": 67,
+            "VM5v": 149,
+            "DL4": 40,
+            "VA3": 12,
+            "VP1d": 68,
+            "DM2": 55,
+            "VP3": 13,
+            "DC3": 66,
+            "VA7m": 10,
+            "DL1": 2,
+            "VP1m": 5,
+            "VM1": 2,
+            "VL2a": 2,
+            "VM5d": 1
+          },
+          "source_neuropils": {
+            "AL_L": 2996
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940631497078",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 915,
+          "unique_atlas_candidates": 873,
+          "atlas_labels": {
+            "VC2": 33,
+            "VA4": 67,
+            "VP1l": 65,
+            "VC4": 39,
+            "VC1": 26,
+            "DP1l": 70,
+            "VA6": 39,
+            "unavailable_outside": 42,
+            "VC3": 38,
+            "VM5v": 52,
+            "VM7d": 66,
+            "DM2": 22,
+            "D": 74,
+            "DC1": 57,
+            "DL2v": 34,
+            "DC2": 42,
+            "DC3": 12,
+            "DL4": 20,
+            "VM7v": 23,
+            "VP1d": 16,
+            "VA1v": 10,
+            "VA7m": 7,
+            "DC4": 25,
+            "VA3": 10,
+            "DP1m": 22,
+            "VP3": 3,
+            "DA1": 1
+          },
+          "source_neuropils": {
+            "AL_L": 915
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940634303132",
+      "model_index": 114898,
+      "cell_type": "lLN2P_a",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940634303132",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3121,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3121
+          },
+          "source_neuropils": {
+            "AL_R": 3121
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940634303132",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 1206,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 1206
+          },
+          "source_neuropils": {
+            "AL_R": 1206
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940632505359",
+      "model_index": 108777,
+      "cell_type": "lLN2P_a",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940632505359",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 4137,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 4137
+          },
+          "source_neuropils": {
+            "AL_R": 4137
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940632505359",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 1573,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 1573
+          },
+          "source_neuropils": {
+            "AL_R": 1573
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940660217985",
+      "model_index": 138331,
+      "cell_type": "lLN2P_b",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940660217985",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3169,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3169
+          },
+          "source_neuropils": {
+            "AL_R": 3169
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940660217985",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 2433,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2433
+          },
+          "source_neuropils": {
+            "AL_R": 2433
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940644362788",
+      "model_index": 133078,
+      "cell_type": "lLN2P_a",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940644362788",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 3759,
+          "unique_atlas_candidates": 3438,
+          "atlas_labels": {
+            "VM3": 269,
+            "DL2d": 169,
+            "DL3": 328,
+            "VM6": 259,
+            "VM5d": 317,
+            "VP1m": 256,
+            "DA4l": 90,
+            "VM7v": 124,
+            "unavailable_outside": 321,
+            "DM6": 7,
+            "VM5v": 21,
+            "VP4": 301,
+            "DC1": 276,
+            "DA4m": 164,
+            "VL2a": 90,
+            "VP2": 33,
+            "VC4": 89,
+            "VL1": 104,
+            "DL4": 45,
+            "VA1v": 131,
+            "DC4": 14,
+            "VM7d": 53,
+            "DP1l": 24,
+            "DA1": 4,
+            "VM1": 133,
+            "VM2": 8,
+            "VL2p": 11,
+            "VA2": 36,
+            "D": 4,
+            "VP1d": 28,
+            "VP1l": 2,
+            "DM4": 9,
+            "DA2": 7,
+            "DM5": 1,
+            "VC3": 4,
+            "DL2v": 7,
+            "DM3": 3,
+            "VC5": 5,
+            "VA4": 3,
+            "DA3": 6,
+            "DC2": 2,
+            "VP5": 1
+          },
+          "source_neuropils": {
+            "AL_L": 3759
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940644362788",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 1315,
+          "unique_atlas_candidates": 1214,
+          "atlas_labels": {
+            "VM6": 238,
+            "VM5d": 116,
+            "VC4": 22,
+            "VM3": 142,
+            "VP4": 89,
+            "DA4m": 48,
+            "DL2d": 54,
+            "VP1m": 75,
+            "VM1": 58,
+            "unavailable_outside": 101,
+            "DC1": 39,
+            "DM3": 8,
+            "VA1v": 36,
+            "DL3": 136,
+            "DM6": 1,
+            "VC5": 1,
+            "DA4l": 41,
+            "DP1l": 11,
+            "VL1": 34,
+            "VM7v": 18,
+            "VP2": 11,
+            "DC4": 5,
+            "DA3": 1,
+            "DA2": 6,
+            "VL2a": 8,
+            "DM5": 2,
+            "VP1d": 5,
+            "DM4": 2,
+            "DL4": 4,
+            "VM7d": 1,
+            "VL2p": 1,
+            "VA2": 1
+          },
+          "source_neuropils": {
+            "AL_L": 1315
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940622054497",
+      "model_index": 52763,
+      "cell_type": "lLN2P_a",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940622054497",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 3539,
+          "unique_atlas_candidates": 3422,
+          "atlas_labels": {
+            "VC2": 106,
+            "VL2a": 182,
+            "VA2": 359,
+            "VA3": 112,
+            "DC4": 50,
+            "DM4": 447,
+            "VC1": 177,
+            "VP1d": 78,
+            "DM2": 356,
+            "DA4l": 42,
+            "DP1l": 113,
+            "DM1": 139,
+            "VP1m": 105,
+            "V": 281,
+            "DL2d": 105,
+            "VM1": 151,
+            "DP1m": 149,
+            "unavailable_outside": 117,
+            "VM3": 60,
+            "DC3": 22,
+            "VA1d": 77,
+            "DC2": 15,
+            "VP2": 133,
+            "VM5d": 23,
+            "VM5v": 60,
+            "DL2v": 33,
+            "VM7d": 6,
+            "VA1v": 2,
+            "VP5": 12,
+            "VM4": 14,
+            "VL1": 1,
+            "VA4": 1,
+            "VM2": 1,
+            "VC4": 2,
+            "VA7m": 4,
+            "DM5": 2,
+            "VC5": 1,
+            "VP1l": 1
+          },
+          "source_neuropils": {
+            "AL_L": 3538,
+            "LAL_L": 1
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940622054497",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 1323,
+          "unique_atlas_candidates": 1269,
+          "atlas_labels": {
+            "VM1": 90,
+            "VA2": 163,
+            "VA3": 32,
+            "unavailable_outside": 54,
+            "V": 127,
+            "VP2": 35,
+            "DM4": 159,
+            "DP1m": 65,
+            "DM2": 151,
+            "DP1l": 45,
+            "DM1": 41,
+            "VL2a": 65,
+            "VM3": 48,
+            "VC1": 35,
+            "VA1d": 29,
+            "DL2d": 24,
+            "VC2": 25,
+            "DA4l": 24,
+            "VP1m": 28,
+            "VP1d": 39,
+            "VM5v": 9,
+            "DC3": 8,
+            "VM5d": 4,
+            "DC2": 9,
+            "VA7m": 6,
+            "DL2v": 4,
+            "VP5": 3,
+            "DC4": 1
+          },
+          "source_neuropils": {
+            "AL_L": 1321,
+            "LAL_L": 2
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940616486230",
+      "model_index": 27456,
+      "cell_type": "lLN2P_c",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940616486230",
+          "cell_type": "lLN2P_c",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3047,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3047
+          },
+          "source_neuropils": {
+            "AL_R": 3047
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940616486230",
+          "cell_type": "lLN2P_c",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 2323,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2323
+          },
+          "source_neuropils": {
+            "AL_R": 2316,
+            "LAL_R": 5,
+            "ICL_R": 2
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940631105580",
+      "model_index": 102272,
+      "cell_type": "lLN2P_a",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940631105580",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 3068,
+          "unique_atlas_candidates": 2863,
+          "atlas_labels": {
+            "DL2v": 22,
+            "VP1d": 76,
+            "DL5": 213,
+            "unavailable_outside": 205,
+            "DL1": 145,
+            "DM1": 190,
+            "DL4": 148,
+            "DL3": 42,
+            "DM4": 23,
+            "VA5": 228,
+            "DP1m": 281,
+            "VC4": 137,
+            "DC3": 71,
+            "DP1l": 216,
+            "DC1": 272,
+            "DA1": 181,
+            "VL2a": 56,
+            "VA6": 46,
+            "VA4": 14,
+            "VM5d": 47,
+            "VM7v": 24,
+            "VC2": 126,
+            "VP4": 66,
+            "VA1d": 68,
+            "VP1m": 17,
+            "VA7l": 13,
+            "DA3": 8,
+            "DA4l": 48,
+            "VM3": 8,
+            "DA4m": 12,
+            "VP1l": 33,
+            "VA1v": 3,
+            "VA3": 7,
+            "VM7d": 3,
+            "DA2": 9,
+            "VL1": 5,
+            "VA2": 2,
+            "D": 2,
+            "VL2p": 1
+          },
+          "source_neuropils": {
+            "AL_L": 3055,
+            "CRE_L": 13
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940631105580",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 1165,
+          "unique_atlas_candidates": 1060,
+          "atlas_labels": {
+            "VA5": 83,
+            "DP1m": 111,
+            "DL4": 50,
+            "DP1l": 116,
+            "VC2": 48,
+            "DC1": 95,
+            "VP4": 34,
+            "VP1m": 4,
+            "VL2a": 15,
+            "DM1": 76,
+            "DL1": 70,
+            "VA6": 18,
+            "VA1d": 34,
+            "DL5": 64,
+            "unavailable_outside": 105,
+            "VM7v": 4,
+            "VM5d": 5,
+            "DL3": 20,
+            "DA1": 60,
+            "VP1d": 22,
+            "VP1l": 9,
+            "DA4l": 24,
+            "VC4": 48,
+            "VA4": 14,
+            "DC3": 27,
+            "VA7l": 2,
+            "DL2v": 4,
+            "VM3": 1,
+            "DA2": 1,
+            "VA1v": 1
+          },
+          "source_neuropils": {
+            "AL_L": 1164,
+            "CRE_L": 1
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940626378242",
+      "model_index": 76188,
+      "cell_type": "lLN2P_a",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940626378242",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3152,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3152
+          },
+          "source_neuropils": {
+            "AL_R": 3152
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940626378242",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 1200,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 1200
+          },
+          "source_neuropils": {
+            "AL_R": 1200
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940634949311",
+      "model_index": 116461,
+      "cell_type": "lLN2P_c",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940634949311",
+          "cell_type": "lLN2P_c",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3074,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3074
+          },
+          "source_neuropils": {
+            "AL_R": 3074
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940634949311",
+          "cell_type": "lLN2P_c",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 2541,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2541
+          },
+          "source_neuropils": {
+            "AL_R": 2541
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940608345778",
+      "model_index": 5882,
+      "cell_type": "lLN2P_b",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940608345778",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 2961,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2961
+          },
+          "source_neuropils": {
+            "AL_R": 2961
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940608345778",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 2122,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2122
+          },
+          "source_neuropils": {
+            "AL_R": 2122
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940611944914",
+      "model_index": 12678,
+      "cell_type": "lLN2P_a",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940611944914",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 2930,
+          "unique_atlas_candidates": 2804,
+          "atlas_labels": {
+            "DA3": 132,
+            "VA7m": 166,
+            "VA1v": 153,
+            "VM6": 307,
+            "VM3": 17,
+            "VA2": 19,
+            "VP1d": 79,
+            "DM6": 329,
+            "DA1": 205,
+            "DC4": 237,
+            "DA4m": 104,
+            "VM4": 115,
+            "VC3": 12,
+            "V": 83,
+            "VM2": 249,
+            "VA1d": 118,
+            "DM2": 111,
+            "VA7l": 139,
+            "unavailable_outside": 126,
+            "VC5": 121,
+            "DM3": 16,
+            "VM1": 31,
+            "VM5d": 4,
+            "VC4": 11,
+            "VP1m": 19,
+            "VM5v": 14,
+            "DL4": 1,
+            "DL5": 1,
+            "VA5": 2,
+            "VA6": 2,
+            "DM1": 3,
+            "VC1": 1,
+            "DC3": 3
+          },
+          "source_neuropils": {
+            "AL_L": 2930
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940611944914",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 1099,
+          "unique_atlas_candidates": 1041,
+          "atlas_labels": {
+            "VM6": 108,
+            "DA1": 82,
+            "DA4m": 44,
+            "VA7m": 84,
+            "DM6": 134,
+            "DC4": 68,
+            "VA1v": 60,
+            "unavailable_outside": 58,
+            "VA1d": 64,
+            "VA7l": 72,
+            "DA3": 54,
+            "VM2": 118,
+            "DM2": 30,
+            "VM1": 17,
+            "VA2": 3,
+            "V": 38,
+            "VM4": 35,
+            "DM1": 5,
+            "VC5": 14,
+            "VP1d": 9,
+            "VC4": 1,
+            "VP1m": 1
+          },
+          "source_neuropils": {
+            "AL_L": 1099
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940612475598",
+      "model_index": 14213,
+      "cell_type": "lLN2P_a",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940612475598",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 3057,
+          "unique_atlas_candidates": 2909,
+          "atlas_labels": {
+            "DL1": 161,
+            "DC1": 133,
+            "VC3": 194,
+            "VM5d": 102,
+            "DL2d": 49,
+            "DP1m": 482,
+            "VA1d": 69,
+            "DC2": 135,
+            "unavailable_outside": 148,
+            "DC3": 125,
+            "VL1": 182,
+            "DM1": 318,
+            "VC1": 159,
+            "VL2p": 70,
+            "DM6": 61,
+            "DA4m": 59,
+            "VC5": 30,
+            "VA6": 122,
+            "D": 152,
+            "VM3": 8,
+            "VP1d": 101,
+            "DA2": 37,
+            "DA1": 14,
+            "DM3": 82,
+            "DC4": 2,
+            "VM7v": 9,
+            "DL5": 14,
+            "DL2v": 10,
+            "DL4": 13,
+            "VC2": 1,
+            "VM5v": 2,
+            "DP1l": 3,
+            "VP1l": 4,
+            "VA5": 4,
+            "VC4": 1,
+            "DA4l": 1
+          },
+          "source_neuropils": {
+            "AL_L": 3057
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940612475598",
+          "cell_type": "lLN2P_a",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 1118,
+          "unique_atlas_candidates": 1061,
+          "atlas_labels": {
+            "DC2": 39,
+            "D": 70,
+            "VC3": 43,
+            "DL1": 64,
+            "DP1m": 152,
+            "DM1": 137,
+            "DL2d": 30,
+            "VP1d": 28,
+            "VA1d": 30,
+            "unavailable_outside": 57,
+            "DA4m": 27,
+            "VL2p": 25,
+            "DC3": 26,
+            "VA6": 51,
+            "DM6": 32,
+            "VL1": 120,
+            "VM3": 7,
+            "VC1": 58,
+            "DC1": 30,
+            "VC5": 15,
+            "VM5d": 23,
+            "DM3": 20,
+            "DA1": 13,
+            "VA5": 3,
+            "DA2": 6,
+            "VM7v": 8,
+            "DL4": 2,
+            "VC2": 1,
+            "DL5": 1
+          },
+          "source_neuropils": {
+            "AL_L": 1118
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940623955637",
+      "model_index": 63526,
+      "cell_type": "lLN2P_b",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940623955637",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3213,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3213
+          },
+          "source_neuropils": {
+            "AL_R": 3213
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940623955637",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 2516,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2516
+          },
+          "source_neuropils": {
+            "AL_R": 2516
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940627605779",
+      "model_index": 83390,
+      "cell_type": "lLN2P_b",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940627605779",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 2740,
+          "unique_atlas_candidates": 2531,
+          "atlas_labels": {
+            "DA1": 129,
+            "unavailable_outside": 209,
+            "VC3": 109,
+            "DC4": 175,
+            "VA6": 148,
+            "DM2": 59,
+            "V": 108,
+            "DL2v": 80,
+            "VA1d": 128,
+            "VM3": 38,
+            "VC5": 117,
+            "VM5d": 104,
+            "VA2": 44,
+            "VM7d": 255,
+            "DL3": 106,
+            "VA4": 109,
+            "DA3": 46,
+            "DP1m": 236,
+            "DM3": 129,
+            "VA5": 25,
+            "VL2a": 76,
+            "DC3": 19,
+            "VL1": 28,
+            "VP2": 105,
+            "VP4": 15,
+            "VP1l": 40,
+            "VM7v": 12,
+            "VP1d": 60,
+            "VC1": 4,
+            "VA7l": 7,
+            "VL2p": 3,
+            "VP1m": 2,
+            "VM1": 3,
+            "DL5": 3,
+            "VM5v": 2,
+            "DC2": 1,
+            "D": 1,
+            "VC4": 2,
+            "VA1v": 1,
+            "DL4": 1,
+            "VM2": 1
+          },
+          "source_neuropils": {
+            "AL_L": 2740
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940627605779",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 1932,
+          "unique_atlas_candidates": 1785,
+          "atlas_labels": {
+            "VM5d": 85,
+            "DL2v": 74,
+            "VP1l": 41,
+            "DM2": 69,
+            "VC5": 28,
+            "VA1d": 89,
+            "VA5": 29,
+            "V": 103,
+            "DL3": 66,
+            "VA4": 66,
+            "DP1m": 178,
+            "DM3": 152,
+            "VA6": 115,
+            "unavailable_outside": 147,
+            "DA1": 85,
+            "VP1d": 30,
+            "VM7d": 148,
+            "VL1": 24,
+            "VP2": 63,
+            "VP4": 10,
+            "VL2a": 47,
+            "VC3": 61,
+            "VA7l": 6,
+            "VA2": 23,
+            "DA3": 36,
+            "DC4": 78,
+            "DC3": 36,
+            "VM3": 20,
+            "VM7v": 12,
+            "VL2p": 5,
+            "DL5": 4,
+            "VM5v": 1,
+            "VP1m": 1
+          },
+          "source_neuropils": {
+            "AL_L": 1932
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940621500865",
+      "model_index": 49574,
+      "cell_type": "lLN2P_a",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940621500865",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 2881,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2881
+          },
+          "source_neuropils": {
+            "AL_R": 2881
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940621500865",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 1007,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 1007
+          },
+          "source_neuropils": {
+            "AL_R": 1007
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940614944977",
+      "model_index": 22104,
+      "cell_type": "lLN2P_b",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940614944977",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 2955,
+          "unique_atlas_candidates": 2797,
+          "atlas_labels": {
+            "DL5": 163,
+            "DC4": 456,
+            "DP1l": 55,
+            "VL2a": 35,
+            "V": 265,
+            "VM4": 116,
+            "VP1m": 94,
+            "DL3": 87,
+            "VA2": 172,
+            "DL2v": 67,
+            "VA1v": 227,
+            "VL1": 110,
+            "VM5d": 92,
+            "DM4": 92,
+            "DA1": 2,
+            "DP1m": 108,
+            "unavailable_outside": 158,
+            "VA7m": 33,
+            "VC5": 152,
+            "VP2": 50,
+            "VM5v": 73,
+            "DL1": 59,
+            "VP1d": 61,
+            "VM1": 8,
+            "D": 86,
+            "VM2": 80,
+            "VM6": 2,
+            "VM3": 21,
+            "DL4": 17,
+            "DM3": 8,
+            "VC3": 1,
+            "DA4l": 1,
+            "VA1d": 1,
+            "DA2": 2,
+            "VC2": 1
+          },
+          "source_neuropils": {
+            "AL_L": 2944,
+            "CRE_L": 7,
+            "LAL_L": 4
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940614944977",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 2094,
+          "unique_atlas_candidates": 1965,
+          "atlas_labels": {
+            "VP2": 27,
+            "unavailable_outside": 129,
+            "VM2": 54,
+            "DL5": 146,
+            "DC4": 165,
+            "DL3": 83,
+            "V": 196,
+            "VM5v": 60,
+            "D": 98,
+            "VC5": 98,
+            "VA1v": 205,
+            "VP1m": 70,
+            "VP1d": 46,
+            "VA2": 133,
+            "DP1l": 33,
+            "VM4": 66,
+            "VL1": 99,
+            "DP1m": 73,
+            "DM4": 77,
+            "DL2v": 53,
+            "VM3": 21,
+            "VM5d": 46,
+            "VA3": 1,
+            "VA7m": 26,
+            "DL1": 40,
+            "DM3": 4,
+            "VA1d": 5,
+            "DL4": 7,
+            "VM1": 12,
+            "VL2a": 15,
+            "DC2": 1,
+            "VM6": 2,
+            "VA5": 3
+          },
+          "source_neuropils": {
+            "AL_L": 2069,
+            "LAL_L": 11,
+            "CRE_L": 14
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940612461461",
+      "model_index": 14158,
+      "cell_type": "lLN2P_c",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940612461461",
+          "cell_type": "lLN2P_c",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 4030,
+          "unique_atlas_candidates": 3794,
+          "atlas_labels": {
+            "VP1m": 253,
+            "VA6": 142,
+            "DM5": 28,
+            "VC5": 190,
+            "DP1m": 497,
+            "DL3": 71,
+            "DM2": 37,
+            "VC1": 204,
+            "VM7d": 416,
+            "unavailable_outside": 236,
+            "DC1": 138,
+            "DC4": 33,
+            "DM4": 288,
+            "DA1": 134,
+            "V": 208,
+            "VL1": 54,
+            "VL2p": 53,
+            "VC2": 70,
+            "DC3": 26,
+            "VM4": 64,
+            "VM5d": 179,
+            "DA4m": 61,
+            "D": 2,
+            "VM7v": 18,
+            "VP1d": 139,
+            "VA1d": 61,
+            "DA2": 48,
+            "VA5": 2,
+            "VC4": 63,
+            "VP1l": 35,
+            "DM1": 114,
+            "VA1v": 37,
+            "VP3": 58,
+            "VP5": 16,
+            "DL2v": 11,
+            "VA7l": 9,
+            "DA3": 7,
+            "DL5": 5,
+            "VA7m": 2,
+            "VC3": 6,
+            "DM3": 6,
+            "DC2": 3,
+            "VM1": 2,
+            "DL4": 3,
+            "DP1l": 1
+          },
+          "source_neuropils": {
+            "AL_L": 4030
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940612461461",
+          "cell_type": "lLN2P_c",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 3183,
+          "unique_atlas_candidates": 3035,
+          "atlas_labels": {
+            "DM1": 75,
+            "VM7d": 264,
+            "V": 198,
+            "VC1": 160,
+            "VM4": 60,
+            "DC4": 35,
+            "DP1m": 362,
+            "VA1d": 64,
+            "DA2": 33,
+            "VP1l": 20,
+            "unavailable_outside": 148,
+            "DM4": 207,
+            "DC1": 136,
+            "VM5d": 166,
+            "DM5": 41,
+            "DA1": 148,
+            "VC5": 141,
+            "VL2p": 42,
+            "DC3": 28,
+            "VP1m": 170,
+            "VA6": 114,
+            "DA4m": 54,
+            "VA1v": 46,
+            "VC4": 70,
+            "VC2": 72,
+            "VL1": 28,
+            "VP1d": 80,
+            "DL3": 68,
+            "VP3": 64,
+            "VM7v": 11,
+            "VC3": 7,
+            "DM2": 17,
+            "VP5": 28,
+            "DA3": 4,
+            "DL5": 6,
+            "VA7l": 4,
+            "VA5": 1,
+            "DM3": 4,
+            "VA7m": 2,
+            "VM1": 3,
+            "D": 2
+          },
+          "source_neuropils": {
+            "AL_L": 3183
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940637666446",
+      "model_index": 123067,
+      "cell_type": "lLN2P_b",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940637666446",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 3282,
+          "unique_atlas_candidates": 3190,
+          "atlas_labels": {
+            "DL2d": 177,
+            "DL4": 91,
+            "DM2": 69,
+            "DA2": 82,
+            "VC3": 216,
+            "DM4": 285,
+            "VM7d": 85,
+            "DC3": 90,
+            "VM7v": 189,
+            "VM4": 87,
+            "unavailable_outside": 92,
+            "DC4": 100,
+            "DP1m": 146,
+            "VM5d": 30,
+            "DM3": 108,
+            "VA7m": 90,
+            "VC1": 185,
+            "D": 172,
+            "V": 83,
+            "DM1": 115,
+            "VP4": 62,
+            "DL1": 55,
+            "VL2a": 194,
+            "DL5": 161,
+            "DA4m": 50,
+            "DA1": 19,
+            "VA5": 78,
+            "VA7l": 4,
+            "VL2p": 26,
+            "DA4l": 36,
+            "DC1": 22,
+            "VM6": 27,
+            "DM5": 3,
+            "VA3": 31,
+            "DL3": 2,
+            "DL2v": 5,
+            "DP1l": 7,
+            "DA3": 5,
+            "VP1d": 1,
+            "VP1m": 1,
+            "VC2": 1
+          },
+          "source_neuropils": {
+            "AL_L": 3282
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940637666446",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 2605,
+          "unique_atlas_candidates": 2534,
+          "atlas_labels": {
+            "DA2": 77,
+            "unavailable_outside": 69,
+            "VC3": 119,
+            "DL2d": 116,
+            "DL4": 102,
+            "DM1": 84,
+            "DL1": 39,
+            "DC1": 10,
+            "VC1": 143,
+            "DL5": 176,
+            "VL2a": 176,
+            "VM7v": 123,
+            "DM3": 141,
+            "DC4": 28,
+            "DP1l": 2,
+            "DC3": 72,
+            "VA7l": 4,
+            "V": 66,
+            "DL3": 4,
+            "DA4l": 43,
+            "D": 115,
+            "DP1m": 144,
+            "VL2p": 46,
+            "VA7m": 95,
+            "VM7d": 76,
+            "DM4": 214,
+            "VA3": 23,
+            "VM4": 37,
+            "DM2": 42,
+            "VM6": 6,
+            "VA5": 47,
+            "VP4": 63,
+            "DA4m": 51,
+            "DA1": 11,
+            "VM5d": 31,
+            "DA3": 6,
+            "DM5": 2,
+            "unavailable_overlap": 2
+          },
+          "source_neuropils": {
+            "AL_L": 2603,
+            "CRE_L": 2
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940635249332",
+      "model_index": 117378,
+      "cell_type": "lLN2P_c",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940635249332",
+          "cell_type": "lLN2P_c",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3185,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3185
+          },
+          "source_neuropils": {
+            "AL_R": 3185
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940635249332",
+          "cell_type": "lLN2P_c",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 2643,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2643
+          },
+          "source_neuropils": {
+            "AL_R": 2643
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940624330281",
+      "model_index": 65784,
+      "cell_type": "lLN2P_a",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940624330281",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3830,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3830
+          },
+          "source_neuropils": {
+            "AL_R": 3830
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940624330281",
+          "cell_type": "lLN2P_a",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 1283,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 1283
+          },
+          "source_neuropils": {
+            "AL_R": 1283
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940614429165",
+      "model_index": 20363,
+      "cell_type": "lLN2P_b",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940614429165",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 3079,
+          "unique_atlas_candidates": 2815,
+          "atlas_labels": {
+            "VA2": 273,
+            "VA3": 104,
+            "D": 77,
+            "unavailable_outside": 264,
+            "DP1m": 280,
+            "VM6": 146,
+            "VC5": 97,
+            "DC1": 230,
+            "VM2": 6,
+            "VP4": 127,
+            "VM5d": 49,
+            "VM5v": 133,
+            "DM1": 183,
+            "VP1d": 46,
+            "DP1l": 128,
+            "DL5": 22,
+            "VM4": 107,
+            "VA4": 62,
+            "VP1l": 90,
+            "VP3": 6,
+            "VL1": 23,
+            "VC3": 109,
+            "VM7d": 84,
+            "DA2": 61,
+            "VA1d": 31,
+            "VP1m": 26,
+            "DC2": 187,
+            "DM4": 11,
+            "DM6": 28,
+            "DA4l": 5,
+            "VA7m": 5,
+            "DC4": 10,
+            "DA4m": 14,
+            "VA1v": 23,
+            "DM3": 7,
+            "VC4": 1,
+            "VM3": 5,
+            "DM2": 4,
+            "DA1": 3,
+            "VM1": 3,
+            "DC3": 2,
+            "DM5": 2,
+            "VM7v": 1,
+            "DL2v": 2,
+            "VP5": 1,
+            "VC1": 1
+          },
+          "source_neuropils": {
+            "AL_L": 3079
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940614429165",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 2365,
+          "unique_atlas_candidates": 2195,
+          "atlas_labels": {
+            "DC2": 149,
+            "unavailable_outside": 170,
+            "VP4": 117,
+            "DA2": 69,
+            "DP1m": 206,
+            "DP1l": 138,
+            "VC3": 92,
+            "DC1": 149,
+            "VM5v": 93,
+            "DM6": 16,
+            "VM6": 96,
+            "VP1l": 35,
+            "VM7d": 42,
+            "VM5d": 39,
+            "VA4": 51,
+            "VA3": 110,
+            "VA2": 183,
+            "DM1": 193,
+            "VM4": 87,
+            "DL5": 23,
+            "DA4m": 25,
+            "D": 86,
+            "VA1v": 12,
+            "VP3": 2,
+            "VC5": 44,
+            "VM1": 12,
+            "VA7m": 10,
+            "VP1m": 23,
+            "VL1": 10,
+            "DM5": 3,
+            "VM2": 12,
+            "VA1d": 29,
+            "DM3": 4,
+            "VP1d": 12,
+            "DM4": 5,
+            "DL2v": 8,
+            "DA1": 9,
+            "DM2": 1
+          },
+          "source_neuropils": {
+            "AL_L": 2365
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940610669614",
+      "model_index": 9632,
+      "cell_type": "lLN2P_b",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940610669614",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 3283,
+          "unique_atlas_candidates": 3190,
+          "atlas_labels": {
+            "DM6": 208,
+            "VC4": 329,
+            "D": 153,
+            "DC1": 111,
+            "VL2p": 168,
+            "unavailable_outside": 93,
+            "VP1m": 112,
+            "VC1": 132,
+            "DP1l": 295,
+            "DM2": 144,
+            "DL2d": 1,
+            "VA7l": 59,
+            "DM1": 267,
+            "VP2": 48,
+            "V": 148,
+            "DL1": 80,
+            "DC2": 109,
+            "DC3": 59,
+            "VP1l": 3,
+            "DA4m": 88,
+            "VA6": 64,
+            "VM2": 39,
+            "DL5": 91,
+            "VC2": 74,
+            "VP1d": 83,
+            "DA1": 86,
+            "DA4l": 55,
+            "DL2v": 89,
+            "DL3": 18,
+            "DA2": 6,
+            "VA7m": 18,
+            "DM4": 29,
+            "VM5d": 1,
+            "DL4": 16,
+            "VL2a": 2,
+            "VM3": 1,
+            "VP5": 3,
+            "VA1d": 1
+          },
+          "source_neuropils": {
+            "AL_L": 3283
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940610669614",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 2443,
+          "unique_atlas_candidates": 2385,
+          "atlas_labels": {
+            "DM1": 275,
+            "DP1l": 209,
+            "DM2": 122,
+            "DM6": 123,
+            "V": 108,
+            "VC1": 76,
+            "DM4": 31,
+            "DA1": 87,
+            "D": 104,
+            "unavailable_outside": 58,
+            "DA4m": 70,
+            "VP1d": 30,
+            "VC4": 262,
+            "DC1": 80,
+            "VA7l": 40,
+            "VL2p": 122,
+            "DA4l": 61,
+            "DL2v": 53,
+            "DL3": 20,
+            "DC2": 92,
+            "DL1": 89,
+            "VP2": 14,
+            "VP1m": 73,
+            "DC3": 63,
+            "DL5": 54,
+            "DL4": 9,
+            "VA6": 33,
+            "VC2": 35,
+            "VL2a": 1,
+            "VM2": 29,
+            "VA7m": 4,
+            "DA2": 4,
+            "VP1l": 3,
+            "VM5d": 3,
+            "VP5": 5,
+            "DL2d": 1
+          },
+          "source_neuropils": {
+            "AL_L": 2443
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940626115134",
+      "model_index": 74954,
+      "cell_type": "lLN2P_b",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940626115134",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3004,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3004
+          },
+          "source_neuropils": {
+            "AL_R": 3003,
+            "LAL_R": 1
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940626115134",
+          "cell_type": "lLN2P_b",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 2153,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2153
+          },
+          "source_neuropils": {
+            "AL_R": 2153
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940640955637",
+      "model_index": 130270,
+      "cell_type": "lLN2P_c",
+      "soma_side": "right",
+      "directions": [
+        {
+          "root_id": "720575940640955637",
+          "cell_type": "lLN2P_c",
+          "side": "right",
+          "direction": "input",
+          "imported_endpoint_sites": 3490,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 3490
+          },
+          "source_neuropils": {
+            "AL_R": 3490
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940640955637",
+          "cell_type": "lLN2P_c",
+          "side": "right",
+          "direction": "output",
+          "imported_endpoint_sites": 2762,
+          "unique_atlas_candidates": 0,
+          "atlas_labels": {
+            "unavailable_outside": 2762
+          },
+          "source_neuropils": {
+            "AL_R": 2762
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    },
+    {
+      "root_id": "720575940624450342",
+      "model_index": 66474,
+      "cell_type": "lLN2P_b",
+      "soma_side": "left",
+      "directions": [
+        {
+          "root_id": "720575940624450342",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "input",
+          "imported_endpoint_sites": 3113,
+          "unique_atlas_candidates": 3000,
+          "atlas_labels": {
+            "VP1m": 131,
+            "DP1m": 327,
+            "DC1": 99,
+            "DM5": 138,
+            "DA1": 232,
+            "VM3": 251,
+            "DL2v": 153,
+            "unavailable_outside": 113,
+            "VA6": 202,
+            "VM1": 228,
+            "VP2": 49,
+            "DM4": 144,
+            "DM6": 92,
+            "VL1": 28,
+            "DC2": 14,
+            "VA7l": 65,
+            "VM7d": 25,
+            "DM2": 145,
+            "VM2": 110,
+            "VM6": 165,
+            "DA3": 52,
+            "VC2": 8,
+            "VM5d": 72,
+            "VC1": 1,
+            "VL2p": 98,
+            "DL2d": 14,
+            "VM5v": 7,
+            "VA1d": 55,
+            "VC5": 23,
+            "VM7v": 1,
+            "DC4": 5,
+            "VP1d": 7,
+            "DA4m": 6,
+            "D": 4,
+            "DL4": 4,
+            "VL2a": 24,
+            "VA7m": 5,
+            "DL3": 8,
+            "VC4": 1,
+            "VP5": 5,
+            "VA1v": 2
+          },
+          "source_neuropils": {
+            "AL_L": 3110,
+            "LAL_L": 3
+          },
+          "physiological_compartment_assignment": false
+        },
+        {
+          "root_id": "720575940624450342",
+          "cell_type": "lLN2P_b",
+          "side": "left",
+          "direction": "output",
+          "imported_endpoint_sites": 2364,
+          "unique_atlas_candidates": 2276,
+          "atlas_labels": {
+            "unavailable_outside": 88,
+            "VA6": 151,
+            "VM1": 183,
+            "DP1m": 211,
+            "VA7l": 70,
+            "DM5": 114,
+            "VP2": 31,
+            "DC1": 73,
+            "VL1": 42,
+            "DM6": 94,
+            "VM3": 222,
+            "VL2p": 107,
+            "DA1": 163,
+            "DM4": 109,
+            "DM2": 130,
+            "VM6": 78,
+            "VM2": 86,
+            "VA1d": 45,
+            "VP1m": 103,
+            "VM5d": 49,
+            "DC2": 10,
+            "DA3": 45,
+            "DL2v": 86,
+            "VC5": 5,
+            "DA4m": 13,
+            "VL2a": 13,
+            "VM5v": 2,
+            "D": 11,
+            "VM7d": 10,
+            "DL2d": 3,
+            "DL3": 3,
+            "DL4": 2,
+            "VP5": 7,
+            "VA7m": 5
+          },
+          "source_neuropils": {
+            "AL_L": 2349,
+            "LAL_L": 15
+          },
+          "physiological_compartment_assignment": false
+        }
+      ],
+      "electrical_compartments": null,
+      "coupling": null,
+      "release_parameters": null
+    }
+  ],
+  "synapse_source": "selected-synapses.parquet",
+  "endpoint_source": "mapped-endpoints.parquet",
+  "bilateral_glomerular_atlas_validated": false,
+  "physiological_compartments_created": 0,
+  "controller_ready": false,
+  "application_changed": false
+}

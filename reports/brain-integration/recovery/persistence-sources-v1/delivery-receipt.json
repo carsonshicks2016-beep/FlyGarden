@@ -1,0 +1,30 @@
+{
+  "status": "complete",
+  "trials": 15,
+  "chunks_audited": 2400,
+  "all_audits_passed": true,
+  "plot_visually_inspected": true,
+  "frozen_sources_verified_by_report": true,
+  "application_controller_changed": false,
+  "promoted": false,
+  "full_goal_complete": false,
+  "biological_cause_proven": false,
+  "storage_bytes": 126291311,
+  "trial_wall_seconds": 774.715303833189,
+  "peak_rss_bytes": 3000385536,
+  "accepted_alpn_fraction_local_targets": [
+    0.9811854779699715,
+    0.9807302769028454
+  ],
+  "artifacts_sha256": {
+    "protocol.json": "a8fdcb81f83f5e68af0b3bcf807f41cbd821b54c78600fed55fec51e1e11014d",
+    "progress.json": "4df8865634afef3f4544c79650f69707a4da012a756fc53ff9ba1c1b76fce5fd",
+    "results.json": "db02ddcb8cf42a53058fafdca39d719c8acc01491555865d8916097394f547eb",
+    "RESULTS.md": "e54cda63feed4655dd85d1f5bdd8564e1e17ff1a27c0c6109f6d6531945faf7e",
+    "CIRCUIT_FINDINGS.md": "792047126bf277ff2100238725aa56334e007c5012cdee5a3de8e0fd6e87c8af",
+    "comparison.png": "e2ebbe461957ef31da90d75cab42ce37af61776b61639213c26806513bd9f9c5",
+    "model-variants.json": "c4cc5ce5372a21b3d15c6aea6ae2840d1f01f40fcbd0f44b70daa598576bbf33",
+    "lesion-map.json": "002e55805091e51fd40283ab938100e5247d6630ba517e4f4b5c872e5fe00bd8"
+  },
+  "report_sha256": "0e24593f5a7297b5543da4e2ab79e5523cda66fe311ccbd8fe41b487b2b2da9a"
+}

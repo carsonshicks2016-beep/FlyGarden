@@ -1,0 +1,27 @@
+{
+  "status": "validation_complete",
+  "alignment_gate_passed": false,
+  "anchor_side_statistics": {
+    "left": {
+      "samples": 23674,
+      "unique_fraction": 0.010898031595843542,
+      "correct_unique_fraction": 0.9224806201550387,
+      "correct_sample_fraction": 0.010053222945002957
+    },
+    "right": {
+      "samples": 23644,
+      "unique_fraction": 0.8106496362713584,
+      "correct_unique_fraction": 0.5988939322794387,
+      "correct_sample_fraction": 0.4854931483674505
+    }
+  },
+  "landmarks": 3390,
+  "landmark_max_error_nm": 1.055744207758374e-08,
+  "regions": 58,
+  "all_meshes_closed_consistent": true,
+  "self_intersections_tested": false,
+  "physiological_compartments_created": 0,
+  "application_changed": false,
+  "sources_reverified": true,
+  "wall_seconds": 23.941429291968234
+}

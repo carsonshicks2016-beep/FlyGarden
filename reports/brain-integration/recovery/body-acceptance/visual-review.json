@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "completed_trials_plotted": 10,
+  "image": "physical-review.png",
+  "image_sha256": "f89cd1fa8580fa22c4a2d01be9d1945d5815d2d26c12cf9f0d530160b83064f0",
+  "review": "Consistent straight paths, mirrored turning, motion settles after stop. Contact tangential-speed spikes retained; adhesion loads excluded, no slip-free claim.",
+  "acceptance_decision": "All committed physical acceptance gates passed; no neural navigation or learning claim"
+}

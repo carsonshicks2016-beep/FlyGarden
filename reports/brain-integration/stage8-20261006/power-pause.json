@@ -1,0 +1,16 @@
+{
+  "status": "terminated",
+  "reason": "User requested closing applications and stopping workloads to preserve battery.",
+  "parent_pid": 68786,
+  "parent_created": 1791299359.768879,
+  "children": [
+    {
+      "pid": 69616,
+      "created": 1791300863.301676
+    }
+  ],
+  "time": 1791300901.9694169,
+  "mechanism": "SIGSTOP preserves current in-memory computation; SIGCONT resumes it. No recordings deleted.",
+  "terminated_at": 1791301602.20146,
+  "memory_resume_available": false
+}

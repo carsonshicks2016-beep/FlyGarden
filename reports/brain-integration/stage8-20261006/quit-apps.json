@@ -1,0 +1,66 @@
+[
+  {
+    "app": "Firefox",
+    "returncode": 0,
+    "result": ""
+  },
+  {
+    "app": "Google Chrome",
+    "returncode": 0,
+    "result": ""
+  },
+  {
+    "app": "Antigravity",
+    "returncode": 0,
+    "result": ""
+  },
+  {
+    "app": "Claude",
+    "returncode": 0,
+    "result": ""
+  },
+  {
+    "app": "Microsoft Word",
+    "returncode": 0,
+    "result": ""
+  },
+  {
+    "app": "Spotify",
+    "returncode": 0,
+    "result": ""
+  },
+  {
+    "app": "Steam",
+    "returncode": 1,
+    "result": "95:110: execution error: Steam got an error: User canceled. (-128)"
+  },
+  {
+    "app": "OneDrive",
+    "result": "Quit may be waiting for a dialog; no unsaved work discarded."
+  },
+  {
+    "app": "Mail",
+    "returncode": 0,
+    "result": ""
+  },
+  {
+    "app": "Messages",
+    "returncode": 0,
+    "result": ""
+  },
+  {
+    "app": "Preview",
+    "returncode": 1,
+    "result": "99:114: execution error: Preview got an error: Application isn\u2019t running. (-600)"
+  },
+  {
+    "app": "QuickTime Player",
+    "returncode": 1,
+    "result": "117:132: execution error: QuickTime Player got an error: Application isn\u2019t running. (-600)"
+  },
+  {
+    "app": "Terminal",
+    "returncode": 0,
+    "result": ""
+  }
+]

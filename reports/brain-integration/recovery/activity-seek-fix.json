@@ -1,0 +1,11 @@
+{
+  "status": "automated_checks_passed_browser_acceptance_pending",
+  "checks": 9,
+  "files": {
+    "static/neural-activity.js": "aa7f72086c905bb78166186c720a9840b0d74d8891ac9d138c6877a2cfbcc20f",
+    "static/recordings.js": "4636db53ca1362369eb18c251e0aff32ac43fb9aabbe2bb6be0ecfbe08ff8091",
+    "tests/browser/activity-loading.test.mjs": "d5a4bdfdfacaa529048c43a32f8d29d0f43844c843ec8744d4f965293d60fc0e"
+  },
+  "time": 1791322541.204712,
+  "scope": "Current-timestamp cache reconstruction, delayed retrieval and backward-seek regression; actual browser still requires verification."
+}

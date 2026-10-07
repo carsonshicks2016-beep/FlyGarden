@@ -1,0 +1,41 @@
+{
+  "status": "failed_signal_and_specificity_tradeoff",
+  "registration": [
+    {
+      "seed": 9751,
+      "registration_outcomes": {
+        "near_static": 2,
+        "unreliable_fit": 114,
+        "homography": 8,
+        "insufficient_tracks": 116
+      },
+      "inlier_fraction_range": [
+        0.3333333333333333,
+        0.9038461538461539
+      ],
+      "feature_span_range": [
+        0.0053385416977107525,
+        0.5335069298744202
+      ]
+    },
+    {
+      "seed": 9752,
+      "registration_outcomes": {
+        "near_static": 2,
+        "unreliable_fit": 96,
+        "homography": 3,
+        "insufficient_tracks": 139
+      },
+      "inlier_fraction_range": [
+        0.39285714285714285,
+        0.8666666666666667
+      ],
+      "feature_span_range": [
+        0.008320312947034836,
+        0.5293142199516296
+      ]
+    }
+  ],
+  "neural_batch_started": false,
+  "next": "Test registration on actual rectilinear eye-camera pixels; current fitted model is applied to fisheye-corrected images and frequently fails quality gates."
+}

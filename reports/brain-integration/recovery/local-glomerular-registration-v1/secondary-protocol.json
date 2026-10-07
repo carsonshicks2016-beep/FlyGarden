@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "source_hashes": {
+    "data/annotations.tsv": "b214970b55d2fbe0853bba536fdcb9e28730f4eb7ab06f600491df795da683cd",
+    "reports/brain-integration/recovery/local-glomerular-registration-v1/translated-atlas.npz": "939180f5c00a6ff9ab5f6a17665635ea354fb39d38a514fb72f139753ec5a2b1",
+    "reports/brain-integration/recovery/local-glomerular-registration-v1/frozen-fit.json": "3040dd5eb2e5496cfc9b630fd0c9686a4eb96cb4b7d97333605452e188da676a",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/source/flywire_al.surf.rda": "1c4a305302b2756c21ce76588c8ac0b603a065d799c32c08a3864c3612f9e389",
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v2/mirrored-atlas-vertices.npz": "6d047ef30406b2cfeb92d3ed2bf8615756f4dda5e0ca6db023c2d67af6ea90a7",
+    "flygarden/local_atlas_registration.py": "aab88201fc54f3bb2b2230c89f2614296435354bc5bd23960bdee256747c23aa",
+    "scripts/validate_local_glomerular_registration.py": "3448d09f92679f8d29cfffdfb6d3bcd93f68a0c9d444e7f85fa6fe07c539ed1a",
+    "scripts/validate_secondary_glomerular_anchors.py": "14318e35850198ec1910281bb6765de9f9ae1401429e7d05b18dcf7e511bcfe4"
+  },
+  "archive_identity": {
+    "version": 1,
+    "url": "https://zenodo.org/records/10676866/files/flywire_synapses_783.feather?download=1",
+    "bytes": 9492998242,
+    "md5": "f8f1b97c9d4b0ea9b4c8b287f6b99091",
+    "sha256": "b597601805b31a04f3a90730ae3b6319f89e9f1c2795dd132e4c3f87fb32f44c",
+    "published_checksum_verified": true,
+    "ranges_preserved": true,
+    "elapsed_seconds": 1331.3259573330288
+  },
+  "probe": "ORN -> cognate ORN, both exact roots in the frozen probe group; no autapses; source neuropil AL_R",
+  "source_class_independent": "No ORN -> ORN site was used in the fit or primary probe",
+  "coordinate": "post_pt_position in native nanometers",
+  "candidate_fit_repeated": false,
+  "min_glomerulus_sites": 50,
+  "min_glomerulus_roots": 5,
+  "gates": {
+    "unique_fraction_min": 0.7,
+    "correct_unique_fraction_min": 0.8
+  },
+  "bootstrap": {
+    "unit": "presynaptic ORN root",
+    "iterations": 2000,
+    "seed": 17004
+  },
+  "limits": "Grouped anatomical consistency test, not independently traced boundaries or physiology",
+  "controller_changed": false
+}

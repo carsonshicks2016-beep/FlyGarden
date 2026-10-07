@@ -1,0 +1,29 @@
+[
+  {
+    "name": "taisz-2023",
+    "pmc": "PMC10403364",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10403364/fullTextXML",
+    "sha256": "af39e96ebee3d36faf747b72dd7a9752b4dc660e9c95652087375e42e0c694ef",
+    "doi": [
+      "10.1016/j.cell.2023.04.038"
+    ],
+    "bytes": 291140
+  },
+  {
+    "name": "chou-2022",
+    "pmc": "PMC8856614",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8856614/fullTextXML",
+    "sha256": "767d103ffac6dec510eea77bc0f89d1e7490f1db65154a33837cc1d8ff266e66",
+    "doi": [
+      "10.1126/sciadv.abm7723"
+    ],
+    "bytes": 204627
+  },
+  {
+    "name": "sizemore-2023",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10465596/fullTextXML",
+    "doi": "10.1038/s41467-023-41012-3",
+    "sha256": "8bb1b8f4910e291fdaaea7ae14e3ed9cca259755206c9cbf921cc378318edca3",
+    "bytes": 265038
+  }
+]

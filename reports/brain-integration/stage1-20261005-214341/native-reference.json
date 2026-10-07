@@ -1,0 +1,33 @@
+{
+  "results": [
+    {
+      "cell_type": "ORN_DM1",
+      "rate_hz": 100,
+      "seed": 1101,
+      "duration_seconds": 0.2,
+      "spikes": 87932,
+      "active_neurons": 8166,
+      "wall_seconds": 93.35977891698712,
+      "finite_timestamps": true,
+      "file": "native-reference-ORN_DM1.npz",
+      "sha256": "a4bbca6f48d32e27b206230d7bbc1143d3beb735e0c2726df4218981aa1d7007"
+    },
+    {
+      "cell_type": "DNp09",
+      "rate_hz": 65,
+      "seed": 1101,
+      "duration_seconds": 0.2,
+      "spikes": 85,
+      "active_neurons": 30,
+      "wall_seconds": 5.3786091660149395,
+      "finite_timestamps": true,
+      "file": "native-reference-DNp09.npz",
+      "sha256": "631949e123a55f0fd9b851b45a6c9305af6c176687a31eeb74f6877a57c23421"
+    }
+  ],
+  "alterations": [
+    "Original equations/reset/stimulation unchanged; explicit clock 0.1ms, experiment rate/duration and seed 1101.",
+    "Original upstream CPU function executed using AST extraction to avoid GPU orchestration imports."
+  ],
+  "scope": "Two full-network upstream stimulation execution checks. Not matched-RNG or statistical equivalence; no body or learning."
+}

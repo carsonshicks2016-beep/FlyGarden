@@ -1,0 +1,59 @@
+{
+  "export": {
+    "id": "fd0d4f4acb384666aa18e5e6ba70ea66",
+    "run": "b79f73f89f94480aa4caa0253b5a5111",
+    "status": "complete",
+    "created": 1791252946.333963,
+    "automatic": false,
+    "settings": {
+      "camera": "free",
+      "camera_view": {
+        "position": [
+          -32.169898410436275,
+          -2.8698523331227594,
+          11.68430305559077
+        ],
+        "target": [
+          -21.447180912988102,
+          -2.684327745329503e-05,
+          1.1587422093601436
+        ]
+      },
+      "population": "all",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    },
+    "progress": 1.0,
+    "pid": 48152,
+    "process_created": 1791252946.335889,
+    "started": 1791252946.598662,
+    "phase": "Complete",
+    "morphology_loaded": 256,
+    "morphology_requested": 256,
+    "anatomy": {
+      "visible": 256,
+      "modeled": 138639,
+      "unavailable": []
+    },
+    "rendered_frames": 91,
+    "total_frames": 91,
+    "video": "video.mp4",
+    "render_wall_seconds": 35.63563366699964,
+    "simulated_duration": 3.0,
+    "bytes": 321596,
+    "renderer": "Three.js offline Chromium / H.264",
+    "frame_count": 91,
+    "finished": 1791252989.8125582,
+    "error": null
+  },
+  "decoded": true,
+  "browser_checks": [
+    "orbit",
+    "zoom",
+    "save viewpoint",
+    "restore after reload",
+    "scrub keeps free viewpoint"
+  ],
+  "tests": "33 full Python tests and 5 JS tests passed before final additions; 14 recording tests including new free-camera validation passed afterward"
+}

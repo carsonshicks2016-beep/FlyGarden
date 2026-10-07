@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "browser_population_switch": "DM1_lPN",
+  "browser_seed_switch": 303,
+  "source_report": "olfactory-pathway-summary.json",
+  "population_options": 6,
+  "seed_options": 3,
+  "comparison_curves": 2
+}

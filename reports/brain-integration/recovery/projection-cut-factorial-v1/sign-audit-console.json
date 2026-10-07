@@ -1,0 +1,231 @@
+{
+  "status": "complete",
+  "ordering_ids_match_both_graph_endpoints": true,
+  "signed_equals_count_times_sign": true,
+  "mixed_outgoing_sign_roots": [],
+  "ALLN": {
+    "neurons": 429,
+    "model_positive": 166,
+    "model_negative": 263,
+    "no_outgoing": 0,
+    "annotation_top_nt": {
+      "gaba": 147,
+      "acetylcholine": 80,
+      "glutamate": 148,
+      "dopamine": 12,
+      "serotonin": 40,
+      "octopamine": 2
+    },
+    "low_top_confidence_below_half": 270,
+    "top_label_rule_disagreements": 48,
+    "known_nt_labels": {
+      "": 367,
+      "gaba, MIP; acetylcholine-negative": 12,
+      "acetylcholine": 44,
+      "glutamate": 2,
+      "gaba": 2,
+      "octopamine": 2
+    },
+    "known_nt_resolved_rule_comparisons": 62,
+    "known_nt_rule_disagreements": 16
+  },
+  "ALPN": {
+    "neurons": 685,
+    "model_positive": 474,
+    "model_negative": 211,
+    "no_outgoing": 0,
+    "annotation_top_nt": {
+      "acetylcholine": 474,
+      "gaba": 203,
+      "glutamate": 8
+    },
+    "low_top_confidence_below_half": 0,
+    "top_label_rule_disagreements": 0,
+    "known_nt_labels": {
+      "acetylcholine": 155,
+      "acetylcholine; gaba-negative": 256,
+      "gaba": 193,
+      "": 75,
+      "gaba-negative": 4,
+      "acetylcholine, gaba-negative, dopamine-negative, serotonin-negative": 2
+    },
+    "known_nt_resolved_rule_comparisons": 606,
+    "known_nt_rule_disagreements": 0
+  },
+  "selected_local_targets": [
+    {
+      "root_id": "720575940614956072",
+      "index": 22143,
+      "cell_type": "v2LN30",
+      "cell_class": "ALLN",
+      "side": "right",
+      "model_outgoing_sign": 1,
+      "outgoing_positive_records": 565,
+      "outgoing_negative_records": 0,
+      "annotation_top_nt": "serotonin",
+      "annotation_confidence": 0.2858302336584355,
+      "known_nt": "",
+      "known_nt_source": "",
+      "top_label_rule_disagreement": false,
+      "known_nt_rule_disagreement": false
+    },
+    {
+      "root_id": "720575940622920074",
+      "index": 57679,
+      "cell_type": "lLN1_bc",
+      "cell_class": "ALLN",
+      "side": "left",
+      "model_outgoing_sign": 1,
+      "outgoing_positive_records": 396,
+      "outgoing_negative_records": 0,
+      "annotation_top_nt": "dopamine",
+      "annotation_confidence": 0.298814884504176,
+      "known_nt": "acetylcholine",
+      "known_nt_source": "Shang et al., 2007 (immuno)",
+      "top_label_rule_disagreement": false,
+      "known_nt_rule_disagreement": false
+    },
+    {
+      "root_id": "720575940630945335",
+      "index": 101393,
+      "cell_type": "lLN1_bc",
+      "cell_class": "ALLN",
+      "side": "left",
+      "model_outgoing_sign": 1,
+      "outgoing_positive_records": 386,
+      "outgoing_negative_records": 0,
+      "annotation_top_nt": "serotonin",
+      "annotation_confidence": 0.3215111980712848,
+      "known_nt": "acetylcholine",
+      "known_nt_source": "Shang et al., 2007 (immuno)",
+      "top_label_rule_disagreement": false,
+      "known_nt_rule_disagreement": false
+    },
+    {
+      "root_id": "720575940632416298",
+      "index": 108376,
+      "cell_type": "lLN2T_e",
+      "cell_class": "ALLN",
+      "side": "left",
+      "model_outgoing_sign": 1,
+      "outgoing_positive_records": 1384,
+      "outgoing_negative_records": 0,
+      "annotation_top_nt": "serotonin",
+      "annotation_confidence": 0.3228665434031093,
+      "known_nt": "",
+      "known_nt_source": "",
+      "top_label_rule_disagreement": false,
+      "known_nt_rule_disagreement": false
+    }
+  ],
+  "edge_groups": {
+    "ALPN_to_ALLN": {
+      "positive": {
+        "aggregated_records": 21877,
+        "anatomical_synapses": 191186,
+        "source_roots": 456,
+        "target_roots": 429
+      },
+      "negative": {
+        "aggregated_records": 749,
+        "anatomical_synapses": 1676,
+        "source_roots": 134,
+        "target_roots": 241
+      }
+    },
+    "ALLN_to_ALLN": {
+      "positive": {
+        "aggregated_records": 16820,
+        "anatomical_synapses": 240510,
+        "source_roots": 166,
+        "target_roots": 429
+      },
+      "negative": {
+        "aggregated_records": 12398,
+        "anatomical_synapses": 85312,
+        "source_roots": 263,
+        "target_roots": 429
+      }
+    },
+    "ALLN_to_ALPN": {
+      "positive": {
+        "aggregated_records": 21068,
+        "anatomical_synapses": 160980,
+        "source_roots": 166,
+        "target_roots": 683
+      },
+      "negative": {
+        "aggregated_records": 14011,
+        "anatomical_synapses": 98864,
+        "source_roots": 263,
+        "target_roots": 680
+      }
+    }
+  },
+  "interpretation": "A top-label comparison of a later annotation table is not the original cleft-filtered synapse-site-majority sign algorithm. Disagreements are audit leads, not sign corrections. known_nt entries are source annotations, not experimental measurements of these exact roots. No receptor-specific evidence or exact-root parameter fits supplied. No model mutation.",
+  "source_hashes": {
+    "flygarden/brain.py": "3f3a0aa6aae99c38ad01532957232efdfffb92ab654b0f1be3d4230e87561875",
+    "data/annotations.tsv": "b214970b55d2fbe0853bba536fdcb9e28730f4eb7ab06f600491df795da683cd",
+    "vendor/fly-brain/data/2025_Completeness_783.csv": "52b0ac6094cd32c546f8d4c341e094376f48f4e791f8db9b166de5dff8199ea4",
+    "vendor/fly-brain/data/2025_Connectivity_783.parquet": "efeb23fb99098e9c390f6869969b2a121a2ee92c833cfc45ecb2c1d8e1af0347",
+    "vendor/fly-brain/code/paper-phil-drosophila/model.py": "6e2cb5aab4ddf08cde2ca05cc49e87dd252c0358afe0dad17314211837b1f539"
+  },
+  "sources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11446845/",
+      "doi": "10.1038/s41586-024-07763-9",
+      "local_xml_sha256": "c768deaabdca930274b4a4aa5fa4c6d082b827522839c9ed1889a6d6339369a4"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20869598/",
+      "doi": "10.1016/j.neuron.2010.08.025",
+      "scope": "Reciprocal excitatory eLN/PN pathways; no exact FlyWire-root mapping."
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20505124/",
+      "scope": "Local-neuron diversity; cannot assign all local neurons inhibitory."
+    }
+  ],
+  "audit_script_sha256": "2f6c66b51e1097502150618a9269d29760a094bd090d39738d0e981b16b72e8f",
+  "parameter_source_checks": {
+    "rest_reset_minus52": true,
+    "threshold_minus45": true,
+    "membrane20ms": true,
+    "synaptic5ms": true,
+    "refractory2_2ms": true,
+    "delay1_8ms": true,
+    "weight0_275mV": true,
+    "both_derivatives_refractory_gated": true
+  },
+  "parameter_scope": "Uniform released-model constants/equations preserved for local/projection cells; no measured cell-specific parameter fit. Source undefined w reset removed; input refractory exceptions and owned Bernoulli generator are disclosed engineered adapter deviations. No adaptation, compartments or receptor-specific kinetics represented.",
+  "additional_literature": [
+    {
+      "name": "taisz-2023",
+      "pmc": "PMC10403364",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10403364/fullTextXML",
+      "sha256": "af39e96ebee3d36faf747b72dd7a9752b4dc660e9c95652087375e42e0c694ef",
+      "doi": [
+        "10.1016/j.cell.2023.04.038"
+      ],
+      "bytes": 291140
+    },
+    {
+      "name": "chou-2022",
+      "pmc": "PMC8856614",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8856614/fullTextXML",
+      "sha256": "767d103ffac6dec510eea77bc0f89d1e7490f1db65154a33837cc1d8ff266e66",
+      "doi": [
+        "10.1126/sciadv.abm7723"
+      ],
+      "bytes": 204627
+    },
+    {
+      "name": "sizemore-2023",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10465596/fullTextXML",
+      "doi": "10.1038/s41467-023-41012-3",
+      "sha256": "8bb1b8f4910e291fdaaea7ae14e3ed9cca259755206c9cbf921cc378318edca3",
+      "bytes": 265038
+    }
+  ],
+  "known_nt_disagreement_scope": "Compound markers parsed explicitly; negative staining excluded. Twelve lLN2P_b GABA/MIP annotations additionally conflict with positive model signs; annotation-to-physiology mapping remains qualified. The two il3LN6 GABA annotations conflict with modeled positive sign and have primary cell-type inhibitory evidence. For the two v2LN36 glutamate annotations, the disagreement is against the published-model inhibitory-glutamate assumption; transmitter identity alone does not prove every target receptor sign."
+}

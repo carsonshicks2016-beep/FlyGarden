@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "baseline_sources_unchanged": {
+    "data/annotations.tsv": true,
+    "vendor/fly-brain/data/2025_Connectivity_783.parquet": true,
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/source/synapse_coordinates.csv.gz": true,
+    "flygarden/brain.py": true,
+    "flygarden/compartment_mapping.py": true,
+    "scripts/audit_patchy_compartments.py": true,
+    "reports/brain-integration/recovery/patchy-compartment-mapping-v1/source/flywire_al.surf.rda": true
+  },
+  "prior_v1_artifacts_unchanged": {
+    "RESULTS.md": true,
+    "provenance.json": true,
+    "protocol.json": true,
+    "spatial-protocol.json": true,
+    "results.json": true,
+    "spatial-results.json": true,
+    "coverage.json": true,
+    "anatomical-compartment-candidates.json": true,
+    "spatial-synapses.csv": true,
+    "mapping-coverage.png": true,
+    "per-root-coverage.csv": true,
+    "tests.log": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "recording_manifest_hashes": {
+    "reports/brain-integration/recovery/projection-cut-factorial-v1/protocol.json": "c6cc84d765ecd4cc5a1ab23e59251d311d27f979c8019aa43f906e5dc63d21ff",
+    "reports/brain-integration/recovery/projection-cut-factorial-v1/trials/joint_off-11601/manifest.json": "e193cec00fc11c607744dede7d8636de17452f1ac2264150b525579d3a5f752b",
+    "reports/brain-integration/recovery/projection-cut-factorial-v1/trials/intact-11601/manifest.json": "3b480a837375920c13266422395c66a442abd02f636577169ec6f1eed5ed398e",
+    "reports/brain-integration/recovery/projection-cut-factorial-v1/trials/alpn_to_alln_off-11601/manifest.json": "2f041c2b54b86faba95e925fe13006e340befc1f6eb63828c01485720a2ac5c0",
+    "reports/brain-integration/recovery/projection-cut-factorial-v1/trials/alln_recurrence_off-11601/manifest.json": "7d7ccdfb32c3cdab3fffaa8217fface0de17e1cba3a41c27d40eba21f0f57723",
+    "reports/brain-integration/recovery/projection-cut-factorial-v1/trials/intact-11602/manifest.json": "cbb160e17f5975a7a9c77822d0f9a201120b958cc553136253df28058e4c930d",
+    "reports/brain-integration/recovery/projection-cut-factorial-v1/trials/alpn_to_alln_off-11602/manifest.json": "924e715bdd88e4440e9bf5ae90e9c5039474609d24d477393009146f5c4a3554",
+    "reports/brain-integration/recovery/projection-cut-factorial-v1/trials/joint_off-11602/manifest.json": "2ff1d174814113d31b765e27ae69f6de1b97683eae2d214f750990be02bb18d3",
+    "reports/brain-integration/recovery/projection-cut-factorial-v1/trials/intact-11601-observer-off/manifest.json": "933fb6305b3338c8dd336efe6e4519594a57d999a5caf9a4d1db6bb97b0237ee",
+    "reports/brain-integration/recovery/projection-cut-factorial-v1/trials/alln_recurrence_off-11602/manifest.json": "0e15acf86fb45738309ced3e537b1bcf3334a2e7139769e7007ee6e9b7b22687",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/protocol.json": "36f2560fe5171d08e738478b5ac3e9efa99d0dc4a482f487eecd4525b76d461b",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/local-a_right-11801/manifest.json": "01867dec457e39cd819f461a80259b3d6ebbdada429f5ca880dc1ba23fac1a00",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/original-a_both-11802/manifest.json": "ab8c691bfe470c80f69f139272293b56c3f3f3e039f4d2af554f5def79dcea9c",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/original-a_left-11801/manifest.json": "d83b3e715efdb52f632a6f121562b13775bad85c5db270087ed7f3725a1ac665",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/local-a_left-11801-observer-off/manifest.json": "cebe2d17ae0d3b6a922eb6a5e453f001ea1b6399dce38b6a516f7a9d955a4cf7",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/original-none-11802/manifest.json": "039b713dd3478ef6774659a665b4417acf842ef5d304d353855f1d29fc08ef37",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/local-a_both-11802/manifest.json": "8f74ff3b26dd4fb913c753608e3930f240d4ef290a8a58e11d985253b3acc83a",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/local-a_left-11801/manifest.json": "65a066d10cf49d1a3db8496144690eaeee67baf4eaa3a0272f3fbc387157372b",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/original-a_right-11801/manifest.json": "2aaeb361a74f71d464581f4062c7248ad4a9f362095ca8e8e156cc9ab988692a",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/local-none-11801/manifest.json": "0913e914ca8543c1c403ca292602a4c89d71952c0351b3916462475c53c80034",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/local-a_right-11802/manifest.json": "74612a58e07ec2dde6e9542498cd54b88dadb4e7b7c591da5f3e0602fc2c132c",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/original-a_both-11801/manifest.json": "0a3b100d294758b6c6b335933cfa698bf4d70fed2e3b19366b2a418343acad47",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/original-a_left-11802/manifest.json": "d31785b61db41205b395a26d1dadabb17c98744ae91034a2b961f4623152a829",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/original-none-11801/manifest.json": "dfb0731e9c1ed5cd7007c9a0ec6a6028cc91c894f3b326c0d38632d69c537d60",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/local-a_both-11801/manifest.json": "2ce633c0c76595ae8a6f790edc2813ac46bcbddcbde7d14b212211259d3c4f5a",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/local-a_left-11802/manifest.json": "452db7212d23835389253026e8379e4b9af253a94f9e5b21026ecc37581f0c67",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/local-none-11802/manifest.json": "998125ca4f562a8f96d88e01cf6e2973ba136cebabd3aacbddd3170bbc8bc78b",
+    "reports/brain-integration/recovery/local-inhibition-full-network-v1/trials/original-a_right-11802/manifest.json": "5fd93ef5a2e55264c30f6924f4af599a48161c8e50fcd8fca1a92bf20c082f21"
+  },
+  "raw_chunks_verified_by_trace": true
+}

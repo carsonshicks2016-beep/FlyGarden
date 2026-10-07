@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "status": "spatial_audit_complete",
+  "regions": 58,
+  "all_meshes_closed_consistent": true,
+  "anchor_side_statistics": {
+    "left": {
+      "sampled_coordinates": 23674,
+      "unique_enclosed": 22508,
+      "unique_fraction": 0.950747655655994,
+      "correct_unique_fraction": 0.9817842544872935,
+      "correct_sample_fraction": 0.933429078313762
+    },
+    "right": {
+      "sampled_coordinates": 23644,
+      "unique_enclosed": 488,
+      "unique_fraction": 0.02063948570461851,
+      "correct_unique_fraction": 0.9610655737704918,
+      "correct_sample_fraction": 0.01983589917103705
+    }
+  },
+  "atlas_hemisphere_inferred_from_anchors": "left",
+  "alignment_gate_passed": true,
+  "selected_sites": 132024,
+  "unique_enclosed_sites": 63700,
+  "outside_sites": 68324,
+  "overlapping_sites": 0,
+  "application_changed": false,
+  "controller_compartments_created": 0,
+  "wall_seconds": 76.8192892500083,
+  "versions": {
+    "rdata": "1.0.0",
+    "trimesh": "4.11.2"
+  },
+  "sources_reverified": true
+}

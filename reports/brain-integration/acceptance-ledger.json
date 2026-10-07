@@ -1,0 +1,408 @@
+{
+  "schema_version": 1,
+  "updated": 1791390273.216811,
+  "scope": "All39 end-goal steps retained; each paragraph contains its detailed requirements. Evidence scope is explicit; pending native/browser/scientific work is not completed.",
+  "requirements": [
+    {
+      "step": 1,
+      "requirement": "Create a requirement-to-evidence ledger. Include every original garden, research, recording, viewer and delivery requirement, its prerequisite, objective pass criterion, evidence path and working/limited/failed/pending status. Completion requires direct evidence; a unit test cannot substitute for native dynamics or browser interaction.",
+      "status": "ledger_created",
+      "evidence": [
+        "END_GOAL_PLAN.md",
+        "acceptance-ledger.json"
+      ],
+      "completion_proven": false,
+      "focused_package_gate": "All39 requirement rows retain scope, status and direct evidence; detailed release gates remain pending."
+    },
+    {
+      "step": 2,
+      "requirement": "Preserve the current release and experiments. Retain immutable source/dependency/data receipts, prior trials, checkpoints and failure recordings. Store code under version control going forward without adding huge data archives. Do not overwrite source-pinned historical candidates. Preserve a rollback launcher and separate runtime identities.",
+      "status": "evidence_preserved",
+      "evidence": [
+        "recovery/odor-bias-diagnosis/preservation.json",
+        "recovery/odor-bias-diagnosis/checkpoint-preservation.json"
+      ],
+      "completion_proven": false,
+      "focused_package_gate": "Current source and completed experiment independently copied/hash-verified; preserved full checkpoint payloads reverified."
+    },
+    {
+      "step": 3,
+      "requirement": "Audit the released full-brain reference. Reproduce selected documented stimulus-response cases using its original conditions, then compare the garden variant. Check imported cell/edge counts, transmitter signs, time constants, units, delays, reset rules, input jumps and refractory changes. List every deviation rather than claiming equivalence from matching neuron counts.",
+      "status": "bounded_reference_checks_verified",
+      "evidence": [
+        "recovery/odor-bias-diagnosis/conventions.json",
+        "recovery/odor-bias-diagnosis/reference-parameters.json",
+        "recovery/MODEL_INTERFACE_REVIEW.md",
+        "recovery/model-interface-review.json",
+        "recovery/olfactory-dynamics-reference-v1/RESULTS.md",
+        "recovery/olfactory-dynamics-reference-v1/acceptance.json"
+      ],
+      "completion_proven": false,
+      "focused_package_gate": "Pinned source/data/equations, native Poisson execution and shared-input replay verified; published biological accuracy and long-run equivalence remain unproven."
+    },
+    {
+      "step": 4,
+      "requirement": "Build a complete odor-bias diagnosis from existing recordings first. Plot physical antenna concentrations, requested/delivered ORN stimulation, population sizes, intermediate activity, both DNa02 outputs, support activity, decoded drive and measured yaw against the shared clock. Separate rest, onset, cue exposure, cue removal and recovery. Distinguish unilateral firing from symmetric firing decoded asymmetrically.",
+      "status": "existing_trials_analyzed",
+      "evidence": [
+        "recovery/odor-bias-diagnosis/recorded-analysis.json",
+        "recovery/odor-bias-diagnosis/recorded-chain.png",
+        "recovery/MODEL_INTERFACE_REVIEW.md",
+        "recovery/model-interface-review.json"
+      ],
+      "completion_proven": false,
+      "focused_package_gate": "All60 saved neural/body trials traced by phase from physical antenna exposure to inputs, rates, commands and yaw; retrospective only."
+    },
+    {
+      "step": 5,
+      "requirement": "Check the spatial and identity conventions. Verify antenna names, left/right neuron roots, stimulus column order, neuron ordering, world/body coordinates, yaw sign and decoder turning direction. Mirror a source and compare actual local exposures. Test both odor identities, both sides, equal bilateral exposure and no odor. Do not assume changing odor location must reverse a biologically unspecified preference.",
+      "status": "conventions_audit_passed",
+      "evidence": [
+        "recovery/odor-bias-diagnosis/conventions.json",
+        "recovery/odor-bias-diagnosis/body-turn-conventions.json"
+      ],
+      "completion_proven": false,
+      "focused_package_gate": "Exact annotation/root/index joins, actual local-field reconstruction, sensor clock and eight physical turning conventions pass."
+    },
+    {
+      "step": 6,
+      "requirement": "Separate sensory encoding from circuit responsiveness with small new diagnostics. Use disjoint diagnostic seeds and matched support. Compare delivered unilateral/bilateral stimulation and naturally sampled local fields; measure target voltage, inhibition/excitation, intermediate and descending responses. Keep direct descending stimulation as a capability diagnostic, never as evidence of odor navigation.",
+      "status": "bounded_diagnostics_complete_directional_failure_retained",
+      "evidence": [
+        "recovery/odor-bias-diagnosis/diagnostic-protocol.json",
+        "recovery/odor-bias-diagnosis/RESULTS.md",
+        "recovery/odor-bias-diagnosis/package-results.json",
+        "recovery/odor-bias-diagnosis/observer-parity.json",
+        "recovery/MODEL_INTERFACE_REVIEW.md",
+        "recovery/model-interface-review.json"
+      ],
+      "completion_proven": false,
+      "focused_package_gate": "Registered40 diagnostic trials on two fresh seeds audit delivery, target and downstream response, voltage/g, timing and decoding without fitting."
+    },
+    {
+      "step": 7,
+      "requirement": "Test the locomotor operating state as a possible cause. Examine support-only turning, bilateral support recruitment and onset/recovery. Reassess the physiological interpretation of P9 support. Only use a prospectively bounded, evidence-justified support revision; record all cells it stimulates and apply it identically in matched comparisons. No blanket inhibitory lesion or cue-driven walking override.",
+      "status": "bounded_diagnostics_complete_directional_failure_retained",
+      "evidence": [
+        "recovery/odor-bias-diagnosis/diagnostic-protocol.json",
+        "recovery/odor-bias-diagnosis/RESULTS.md",
+        "recovery/odor-bias-diagnosis/package-results.json",
+        "recovery/odor-bias-diagnosis/observer-parity.json",
+        "recovery/MODEL_INTERFACE_REVIEW.md",
+        "recovery/model-interface-review.json"
+      ],
+      "completion_proven": false,
+      "focused_package_gate": "Matched support0/65 and refractory-policy comparisons localize persistent asymmetry; no production parameter or connection changes."
+    },
+    {
+      "step": 8,
+      "requirement": "Select the action architecture explicitly. First attempt a justified sensory/state/descending repair within the full network. If evidence calls for additional annotated outputs or an engineered readout, version and disclose it. Readout inputs may use measured neural activity and documented local feedback; they cannot receive source coordinates, cue-side labels, predator positions or paths. An added controller must not silently replace the full brain. A larger engineered navigation adapter requires a clear scope decision.",
+      "status": "adaptive_parameter_sweep_preregistered_running",
+      "evidence": [
+        "recovery/odor-gain-calibration-v2/DECISION.md",
+        "recovery/odor-gain-calibration-v2/RESULTS.md",
+        "recovery/odor-gain-calibration-v2/calibration-decision.json",
+        "recovery/MODEL_INTERFACE_REVIEW.md",
+        "recovery/model-interface-review.json",
+        "recovery/olfactory-dynamics-reference-v1/RESULTS.md",
+        "recovery/olfactory-dynamics-reference-v1/acceptance.json",
+        "recovery/olfactory-spiking-mechanism-v1/RESULTS.md",
+        "recovery/afferent-stp-full-network-v1/RESULTS.md",
+        "recovery/downstream-persistence-v1/RESULTS.md",
+        "recovery/persistence-sources-v1/RESULTS.md",
+        "recovery/persistence-sources-v1/CIRCUIT_FINDINGS.md",
+        "recovery/projection-cut-factorial-v1/RESULTS.md",
+        "recovery/projection-cut-factorial-v1/SIGN_AUDIT.md",
+        "recovery/projection-cut-factorial-v1/DECISION.md",
+        "recovery/il3ln6-sign-full-network-v2/RESULTS.md",
+        "recovery/il3ln6-sign-full-network-v2/DECISION.md",
+        "recovery/patchy-sign-factorial-v1/RESULTS.md",
+        "recovery/patchy-sign-factorial-v1/DECISION.md",
+        "recovery/graded-compartment-reference-v1/RESULTS.md",
+        "recovery/graded-compartment-reference-v1/EVIDENCE.md",
+        "recovery/graded-compartment-reference-v1/results.json",
+        "recovery/patchy-compartment-mapping-v1/RESULTS.md",
+        "recovery/patchy-compartment-mapping-v1/coverage.json",
+        "recovery/patchy-compartment-mapping-v1/anatomical-compartment-candidates.json",
+        "recovery/patchy-compartment-mapping-v2/RESULTS.md",
+        "recovery/patchy-compartment-mapping-v2/delivery-receipt.json",
+        "recovery/local-glomerular-registration-v1/RESULTS.md",
+        "recovery/patchy-skeleton-site-audit-v1/results.json",
+        "recovery/glomerular-affine-registration-v1/RESULTS.md",
+        "recovery/glomerular-affine-registration-v1/results.json",
+        "recovery/glomerular-affine-registration-v1/mapping-results.json",
+        "recovery/glomerular-affine-registration-v1/partial-anatomical-bindings.json",
+        "recovery/glomerular-affine-registration-v1/local-inhibition-contract.json",
+        "recovery/local-inhibition-adapter-v1/RESULTS.md",
+        "recovery/local-inhibition-adapter-v1/validation-results.json",
+        "recovery/local-inhibition-adapter-v1/routing-results.json",
+        "recovery/local-inhibition-adapter-v1/protocol.json",
+        "recovery/local-inhibition-full-network-v1/protocol.json",
+        "recovery/local-inhibition-full-network-v1/bridge-tests.log",
+        "recovery/local-inhibition-full-network-v1/progress.json",
+        "recovery/local-inhibition-full-network-v1/RESULTS.md",
+        "recovery/local-inhibition-full-network-v1/DECISION.md",
+        "recovery/local-inhibition-full-network-v1/results.json",
+        "recovery/local-inhibition-full-network-v1/independent-audit.json",
+        "recovery/feedback-trace-v1/RESULTS.md",
+        "recovery/feedback-trace-v1/delivery-receipt.json",
+        "recovery/adaptive-cell-reference-v1/RESULTS.md",
+        "recovery/adaptive-cell-reference-v1/delivery-receipt.json",
+        "recovery/adaptive-domain-screen-v1/protocol.json",
+        "recovery/adaptive-domain-screen-v1/zero-regression.json",
+        "recovery/adaptive-domain-screen-v1/zero-whole-state-regression.json",
+        "recovery/adaptive-domain-screen-v1/RESULTS.md",
+        "recovery/adaptive-domain-screen-v1/delivery-receipt.json",
+        "recovery/adaptive-parameter-sweep-v1/protocol.json"
+      ],
+      "completion_proven": false
+    },
+    {
+      "step": 9,
+      "requirement": "Register calibration and validation before runs. Reserve separate calibration, diagnostic, held-out and later learning/generalization seeds. Declare parameter bounds, candidates, intervals, trial duration, sample size, exclusions, controls and statistical families. Keep prior thresholds for repeated tasks. Add prospective bearing error, source approach and distance-progress metrics where needed; yaw alone is insufficient evidence of navigation.",
+      "status": "prospective_calibration_registered",
+      "evidence": [
+        "recovery/odor-gain-calibration-v2/DECISION.md",
+        "recovery/odor-gain-calibration-v2/RESULTS.md",
+        "recovery/odor-gain-calibration-v2/calibration-decision.json",
+        "recovery/MODEL_INTERFACE_REVIEW.md",
+        "recovery/model-interface-review.json",
+        "recovery/olfactory-dynamics-reference-v1/RESULTS.md",
+        "recovery/olfactory-dynamics-reference-v1/acceptance.json"
+      ],
+      "completion_proven": false
+    },
+    {
+      "step": 10,
+      "requirement": "Calibrate a small bounded candidate and freeze it. Use short screens, select by the registered rule and retain failures. Freeze sensory mappings, support, decoding, smoothing and gait. No fitting on held-out outcomes or subtracting the observed left bias merely to make the evaluation pass. Every revision needs fresh validation seeds.",
+      "status": "calibration_failed_all_tested_parameter_variants",
+      "evidence": [
+        "recovery/odor-gain-calibration-v2/DECISION.md",
+        "recovery/odor-gain-calibration-v2/RESULTS.md",
+        "recovery/odor-gain-calibration-v2/calibration-decision.json",
+        "recovery/MODEL_INTERFACE_REVIEW.md",
+        "recovery/model-interface-review.json",
+        "recovery/olfactory-dynamics-reference-v1/RESULTS.md",
+        "recovery/olfactory-dynamics-reference-v1/acceptance.json"
+      ],
+      "completion_proven": false
+    },
+    {
+      "step": 11,
+      "requirement": "Re-run odor causal acceptance. At least 20 matched independent stochastic seeds, balanced sides and appropriate odor identities, with intact, sensory-off/support-only, targeted interruption and exact motor replay controls. Include two-cue discrimination separately from source orientation. Retain wrong-way turns. Require registered useful direction, movement, finite stable physics and uncertainty gates before promoting orientation.",
+      "status": "not_started_no_qualified_directional_candidate",
+      "evidence": [
+        "recovery/odor-causal-v2/results.json",
+        "recovery/odor-gain-calibration-v2/DECISION.md",
+        "recovery/odor-gain-calibration-v2/RESULTS.md",
+        "recovery/odor-gain-calibration-v2/calibration-decision.json",
+        "recovery/MODEL_INTERFACE_REVIEW.md",
+        "recovery/model-interface-review.json"
+      ],
+      "completion_proven": false
+    },
+    {
+      "step": 12,
+      "requirement": "Build a physical-eye vision test library. Preserve raw images, camera calibration, units, local body pose and fixture identities. Cover blank scenes, static objects, appearance/disappearance, mirrored translation, expansion/shrinkage, occlusion, wall approach, own legs, turning and translation. Hold out object shape, texture, angle, speed, background and trajectory. Labels belong to evaluation, not neural inputs.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 13,
+      "requirement": "Repair vision using only available observations. Diagnose both false detections and rejected true cues. Own-body masking, image features and documented proprioceptive compensation may be engineered components. External segmentation IDs, world object coordinates and privileged motion cannot become fly sensory inputs. Audit mask geometry and numerical camera conventions without altering physics.",
+      "status": "prior_encoders_failed",
+      "evidence": [
+        "recovery/LIVE_EYE_DIAGNOSIS.md",
+        "recovery/NATIVE_CAMERA_RESULTS.md"
+      ],
+      "completion_proven": false
+    },
+    {
+      "step": 14,
+      "requirement": "Define visual-to-neural mappings conservatively. Identify exact annotated target populations and published functional support. Declare uniform stimulation where used; do not invent per-neuron receptive fields. Distinguish expansion, translation and optic-flow channels only when mappings support them. Freeze the encoder before held-out specificity/sensitivity tests and subsequent neural response evaluation.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 15,
+      "requirement": "Validate touch and body-motion channels independently. Use actual solver contacts and anatomical sites; distinguish stumbling corrections, ground loads and adhesion. Resolve ascending mappings before claiming neural feedback. Unsupported signals stay diagnostic. Test delivered events and downstream action under defined contacts with matched control conditions.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 16,
+      "requirement": "Consolidate the continuous simulation implementation. One canonical coordinator owns neural, physics, gait and world clocks. Retain 100-us physics, 500-us gait and initially 25-ms neural coupling. Current senses generate a future eligible command; the prior command acts during that interval. Keep event crossing detection, capture precedence and terminal-step policy explicit. No skipped dynamics to maintain animation speed.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 17,
+      "requirement": "Establish longer-run and checkpoint parity. Extend bounded proofs to quiet, stimulated, food-contact, obstacle and threat states. Save neuron state, delayed spike queues, synaptic weights, eligibility, decoder smoothing, body/solver/gait, world, sensory histories, clocks and all random generators. Fresh-process continuation must match at every declared boundary within the supported pinned runtime. Cross-version loading requires compatibility handling, not a false exactness claim.",
+      "status": "bounded_checks_passed_longer_checks_pending",
+      "evidence": [
+        "recovery/live-v2-continuation-1791319591632735000/results.json"
+      ],
+      "completion_proven": false
+    },
+    {
+      "step": 18,
+      "requirement": "Integrate the new loop into a versioned research application mode. Preserve legacy/baseline modes and paused user state. Expose support, encoder, gait, overrides, learning and validation status. The same coordinator runs headless experiments and interactive trials. Protect live state with a full checkpoint before any service migration; no destructive restart to install a new mode.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 19,
+      "requirement": "Make resource ownership durable. Unify server commands, experiment jobs and external scripts around the actual native-worker lock. Permit playback during experiments, but reject conflicting model mutations. Validate process identity, clean cancellation and stale-owner recovery. Simulation batches finish before video rendering competes for resources. Compute is allowed on battery by user authorization; use measured safe concurrency, not an AC gate.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 20,
+      "requirement": "Validate world mechanics before brain competence. Test arena editing, spawn validity, walls, blocks, shallow terrain, contacts, food depletion, unreachable food, simplified energy, trial limits and reset. Test simultaneous capture/food, crossing events, interruption and edits invalidating scored evaluations. No teleportation to conceal falls or stalls. Default challenge duration is 120 simulated seconds.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 21,
+      "requirement": "Establish foraging in dependency order. Open-ground local response, mirrored orientation, one food source, multiple cue identities, choice without immediate reward, one obstacle, then unfamiliar layouts. Use supplied baseline controls to prove physical achievability. Register success targets after arena calibration and before evaluation; report collection, bearing/distance progress, time, collisions, stalls, falls and failures.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 22,
+      "requirement": "Implement and validate the engineered predator. Finite range/FOV/unblocked line of sight; bounded motion; patrol, pursuit, search and return states; last-seen position after visibility loss; obstacle-respecting navigation. Predator geometry access is permitted only for predator control. Shelters must genuinely occlude and allow fly entry/exit. Capture ends the trial and retains learning when enabled. Any supplied escape behavior has a visible identity and matched controls.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 23,
+      "requirement": "Evaluate threat and combined tasks progressively. Visible approach and disappearance first, then occlusion, shelter, loss of sight and dangerous foraging. Distinguish immediate avoidance, supplied escape and learned cue avoidance. Calibrate physically achievable difficulty on separate baseline seeds. Shelter occupancy alone cannot satisfy a food objective. Scientific unlocks require their gates; gameplay achievements do not substitute for them.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 24,
+      "requirement": "Resolve the learning model before full-network training. Use the pinned published equations/source as a reference. Audit exact KC/MBON/DAN compartments, action-valence mapping, signs, potentiation/depression, bounds, reinforcement units, eligibility and dopamine feedback. State which aspects are reproduced and which are a new spiking approximation. Preserve the current failed depression-rule evidence. No PPO, GA or game-score reinforcement substitute.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 25,
+      "requirement": "Validate the learning mechanism in layers. Check reduced reference equations, then mapped full-network cue responses, actual compartment reinforcement, signs/bounds and pre/post weight changes. Only designated plastic connections may change. Non-learning weights and decoding remain fixed. Freeze candidate adaptation after disjoint calibration; mechanism checks do not establish behavioral learning.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 26,
+      "requirement": "Run prospective behavioral learning acceptance. At least 20 independent initial stochastic states per paired, frozen and shuffled condition. Match exposure/opportunity; acquisition followed by unrewarded frozen-plasticity probes, restart retention, reversal and novel locations/layouts. Use the predefined paired preference improvement confidence criterion and reversal requirement. Test aversive conditioning before associating capture with reinforcement. Failed behavior stays failed even if weights move.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 27,
+      "requirement": "Complete persistent-fly semantics. Separate ordinary trial reset, learned-parameter save and full-scene checkpoint. Trial reset clears transient state while retaining learning; complete checkpoints preserve continuation. Branch only from immutable verified checkpoints, record lineage and never overwrite ancestors. Allow branch comparison without making identity or consciousness claims.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 28,
+      "requirement": "Unify raw recording formats and import preserved research runs. Store exact root ordering, compressed bounded all-neuron spike chunks, 30-Hz poses, arena/body geometry, sensory inputs, held/next motor commands and events. Include controller/mapping/source/dependency/seeds/learning identities and checkpoint links. Preserve run completeness. Importing saved trials must not rerun the brain or invent missing neural state; recover an initial physical pose only through a source-verified procedure when necessary and mark its provenance.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 29,
+      "requirement": "Test raw recording invariants and interruption recovery. Count parity with monitors; seeded recording-on/off parity; quiet windows with no poses; chunk edges; checksum failure; partial files; metadata atomicity; interrupted writer; low space and resume. Ignore uncommitted orphan chunks without deleting them. Maintain a 2-GiB free-space reserve and never automatically delete archives or checkpoints. Video and recording seeking are not checkpoint restoration.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 30,
+      "requirement": "Finish anatomical coverage and efficient geometry. Exact FlyWire 783 root joins, consistent units/alignment and source/cache hashes. Sample representatively before estimating full-cache size; previous targeted size estimates are not reliable full-cache forecasts. Download progressively and resumably, prioritize selected/active neurons, and offer broader cache acquisition after measured space/runtime checks. Keep modeled, available, cached and visible counts separate. Missing morphology stays listed. Confirm redistribution terms before shipping geometry. Simplification affects presentation only.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 31,
+      "requirement": "Verify neuron activity and inspection quantitatively. Neutral inactive anatomy; actual spike flashes; preceding 100-ms rate on fixed cross-run 0\u2013500+ Hz scale. One activity value colors all branches of a modeled neuron. Compare selected raw IDs and browser rates at quiet, unilateral stimulus, recovery and embodied timestamps, including exact bin boundaries, future exclusion, rapid seeks and reverse seeks. A loading state cannot reuse stale activity. Show annotations, counts, history, coverage and causal sensory/intermediate/descending/motor timelines.",
+      "status": "automated_seek_checks_passed_browser_pending",
+      "evidence": [
+        "recovery/activity-seek-fix.json"
+      ],
+      "completion_proven": false
+    },
+    {
+      "step": 32,
+      "requirement": "Finish free-camera recorded playback. Saved poses/geometry drive replay without physics or neural recomputation. Test pause, speeds, end/restart, forward/backward scrubbing, event jumps, overhead/follow/free cameras, orbit/pan/zoom and saved viewpoints. Arena and brain read the same recorded timestamp. Legacy recordings explicitly indicate absent individual activity. Separate illustrative markers from scientifically recorded events.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 33,
+      "requirement": "Complete durable automatic export. Queue every newly recorded trial, including unsuccessful/interrupted playable trials. One renderer shares the Three.js presentation and reads the original data. Default 1080p/30-FPS normal simulated-time arena/brain layout with time, simplified energy, food, outcome, controller, learning and activity legend. Persist queued/rendering/complete/interrupted/failed jobs, progress and retry. Publish MP4 through temporary files; retain recordings on every failure. Rerender cameras/populations without neural recomputation.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 34,
+      "requirement": "Prove playback/video synchronization and resource recovery. Known input/contact/capture markers must align within one video frame; scientific logs keep finer timing. Inspect real beginning/middle/end and failure clips visually. Test export/application crash, FFmpeg failure, retry, missing skeletons, legacy runs and low space. Record actual encoder frame rate/resolution/duration, peak memory, output size and render time.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 35,
+      "requirement": "Finish the approachable application experience. First viewport: arena, play/pause, simulated time/speed, energy, food and status. Laboratory panels expose sensory/motor/reinforcement activity and actual throughput. Recordings list outcome, duration, completeness, coverage and export state. Editor pauses and records scored invalidation. Provide Sandbox, Challenges and Experiments with tutorials and honest separate gameplay/scientific badges. No fear meter or consciousness score.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 36,
+      "requirement": "Benchmark and optimize without changing the scientific model silently. Profile setup, full-brain dynamics, cameras, physics, serialization, UI and export separately. Remove measured avoidable copies and bound queues/caches/recordings. Test faster numerical backends or multiple workers only as versioned parity-checked candidates. Benchmark 10 simulated seconds of brain, body and combined operation and target total application memory below 10 GiB. Call execution live only when measured combined throughput is real time and controls remain responsive; otherwise retain asynchronous computation and recorded playback. Keep the full available network; reduced modes require a scope decision. Start from one worker, measure two-worker performance/memory before wider concurrency and avoid swapping. CPU authority is broad, but fabricated throughput gains are not acceptable.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 37,
+      "requirement": "Run adversarial operational acceptance. Malformed requests, conflicting commands, interrupted jobs, dead owners, disk reserve, missing annotations/skeletons, corrupt chunks, incompatible checkpoints, duplicate exports, unreachable food and simultaneous terminal events. Verify loopback binding, local API access controls, bounded request sizes and owned-process shutdown. These checks cover concrete local application behavior rather than hypothetical warnings.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 38,
+      "requirement": "Rehearse delivery from a stopped application. Save current state, stop only owned services, launch through the real macOS launcher and exercise the actual browser workflow. Test mode selection, run/pause/step/reset, arena editing, learned/full saves, branches, restore, experiment batch, recordings, neuron selection, free cameras, viewing/download and rerender. Repeat restart with interrupted work. Unit/API checks supplement this; they do not replace it.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    },
+    {
+      "step": 39,
+      "requirement": "Publish the evidence package and completion ledger. Deliver pinned dependencies/provenance/licenses, tutorials, reproducible presets, benchmark/storage report, representative successful and unsuccessful recordings and MP4s, immutable checkpoints and lineage examples. Separate status for full-brain runtime, senses, neural movement, direction/navigation, learning, predator gameplay, morphology, replay, export and persistence. Mark the full goal complete only if every explicit requirement has adequate evidence or an explicitly accepted revised scope; do not label an unproven scientific aim achieved by delivering a smaller demo.",
+      "status": "pending",
+      "evidence": [],
+      "completion_proven": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Registered alternative model parameter test
+
+Published basis: Shiu et al. tested W_syn ±30%: https://www.nature.com/articles/s41586-024-07763-9. That robustness result does not validate odor navigation. We test whether recurrent persistence/directional specificity depends on this global parameter. This is an explicitly altered full-network model, not a correction demonstrated necessary to the original brain. Original application, imported data and historical models remain unchanged.
+
+24 trials, seeds10301/10302, global scales0.7/1/1.3 × no odor/left/right/bilateral odorA. All 138639 neurons and 15091983 connection records retained; signs preserved. Scale set once before each trial; complete effective-weight SHA before/after confirms no subsequent change. Learning disabled. Same fixed decoder and65Hz support; odor50Hz/root .3-.8s, total1.5s,25ms intervals. Independent raw input/count/decoder audits required. The auditor's nominal-arrival values must include scale and remain anatomical hypotheses rather than currents.
+
+Gates registered before trials: for BOTH seeds, pulse signed DNa02 left-right difference relative to matched none >=+5Hz left and <=−5Hz right; bilateral change within±5Hz; every odor recovery signed difference within±5Hz of matched no-odor recovery. All finite/delivery/count/source checks pass. If several pass, select the scale nearest1; exact tie chooses0.7. No decoder fitting, connectivity lesions or cue-to-turn bypass.
+
+Passing only qualifies an altered parameter candidate for a separately registered physical calibration/evaluation. It does not establish original-model navigation, behavior or learning. If none passes, preserve the failed grid and stop further unstructured gain sweeps. A physiological model revision needs a documented mechanism and reference validation, not tuning solely for gameplay.

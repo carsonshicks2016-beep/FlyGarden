@@ -1,0 +1,9 @@
+{
+  "pid": 78615,
+  "process_created": 1791317657.2005,
+  "session_id": 67808,
+  "command": [
+    "/opt/homebrew/Cellar/python@3.12/3.12.13_2/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python",
+    "scripts/calibrate_continuous_candidate.py"
+  ]
+}

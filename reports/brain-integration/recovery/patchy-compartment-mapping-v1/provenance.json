@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "created_at": 1791349593.0110872,
+  "versions": {
+    "rdata": "1.0.0",
+    "xarray": "2026.9.0",
+    "trimesh": "4.11.2",
+    "rtree": "1.4.1",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "pyarrow": "25.0.1"
+  },
+  "analysis_dependencies_added": [
+    "rdata==1.0.0",
+    "xarray==2026.9.0",
+    "trimesh==4.11.2",
+    "rtree==1.4.1"
+  ],
+  "coordinate_source": {
+    "url": "https://storage.googleapis.com/flywire-data/codex/data/fafb/783/synapse_coordinates.csv.gz?generation=1733428450553759",
+    "generation": "1733428450553759",
+    "bytes": 316819225,
+    "published_md5_hex": "9ca493e2314cc03aaf8b03e80f1643e8",
+    "md5_verified": true,
+    "threshold_observed": "Exactly all selected imported pairs with at least five synapses; no lower-count pairs present",
+    "units": "Native FlyWire-scale coordinates, used with identity transform and registration tested; raw coordinates retained",
+    "license_scope": "Local analysis; standalone redistribution terms of GCS coordinate export not independently established"
+  },
+  "mesh_source": {
+    "repository": "https://github.com/natverse/hemibrainr",
+    "revision": "9d31eb21e3ff5127152debc978f0ee5c8751b750",
+    "file": "data/flywire_al.surf.rda",
+    "origin_commit": "5b6807b7cdfd38fd6a4c7177256319573ee81d49",
+    "origin_commit_message": "Added FAFB glomeruli meshes from Bates and Schlegel et al. 2020 in FlyWire space",
+    "update_commit": "44f36ee733c94c29966d84ba10c09310cc5ebdc7",
+    "update_message": "PN-based Glomeruli update",
+    "package_license": "GPL-3 according to pinned DESCRIPTION",
+    "side_inference": "left hemisphere from independent neuron annotation-side registration; no mirrored data manufactured"
+  },
+  "unthresholded_source": {
+    "doi": "10.5281/zenodo.10676866",
+    "version": "783.0",
+    "file": "flywire_synapses_783.feather",
+    "bytes": 9492998242,
+    "md5": "f8f1b97c9d4b0ea9b4c8b287f6b99091",
+    "license_metadata": "CC BY 4.0",
+    "header_preview_bytes": 8192,
+    "full_table_available_but_not_acquired_in_this_audit": true,
+    "schema_contains": [
+      "synapse ID",
+      "exact pre/post root IDs",
+      "cleft score",
+      "separate pre/post positions",
+      "neuropil"
+    ]
+  },
+  "analysis_source_hashes": {
+    "flygarden/compartment_mapping.py": "9429504b4062603f5b1d265bfe1240da8c8362ef8d6d9a92f649ad9640403dad",
+    "scripts/audit_patchy_compartments.py": "ffd4068ff8a276bcdb834334b9372525825463c4c61bb2fe8361a6ddcb0ef793",
+    "scripts/map_patchy_synapse_sites.py": "a221e4e4310ee30b8692ff2acf15988856ff89e40dbf154e54a49f890cb53b3a",
+    "tests/test_compartment_mapping.py": "155a0eee8ed1e29edb1c59fed14f33b452803fb1edf8f928f24a83cbf37cc87e"
+  },
+  "frozen_sources_reverified": true,
+  "previous_full_brain_sources_unchanged": true,
+  "available_disk_bytes": 223797624832,
+  "minimum_free_reserve_bytes": 2147483648
+}

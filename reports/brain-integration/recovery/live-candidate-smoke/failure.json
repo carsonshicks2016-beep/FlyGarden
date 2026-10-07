@@ -1,0 +1,4 @@
+{
+  "status": "failed",
+  "reason": "Playback frame included full World.snapshot containing numpy previous-position array; JSON serialization failed. Raw completed windows preserved. Fixed playback to use display-only fields, then reran in a new immutable directory."
+}

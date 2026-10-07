@@ -1,0 +1,11 @@
+# Two-root sign hypothesis failed the recovery and contrast screen
+
+All17 six-second trials completed, with4,080 independently audited recording chunks. The original and sign-only checkpoints both continued exactly for five windows in fresh processes, including selected-source spikes in the pending delay horizon. Observer-on/off trajectories matched exactly. Source and graph-weight hashes passed; all absolute weights and all nonselected signed weights were retained.
+
+The source-supported two-il3LN6 sign hypothesis changed activity but did not solve persistent olfactory firing. Candidate mean DM1 projection-neuron firing after the second pulse was211–217Hz across the six stimulated trials; support-only controls remained0Hz. Every candidate response/recovery check failed (0/12), and all four candidate contrast checks failed. The four selected local neurons also retained strong firing. Do not promote this candidate or interpret its modest rate decrease as a validated repair.
+
+The test changes3546 outgoing weights of two exact roots by sign only. It does not add compartment-specific electrical behavior, GABA receptor kinetics, peptide co-transmission or cell-specific adaptation. The experimental evidence for il3LN6 remains useful even though this simplified implementation fails DM1 recovery; DA1 cell-type evidence does not establish DM1 navigation performance.
+
+Next: verify the annotation-to-experimental-population bridge for the twelve GABA/MIP lLN2P_b roots and preregister a separate sign-only comparison if that bridge is adequate. Keep this group separate from il3LN6 and retain original, isolated and combined model identities if later testing their interaction. Do not introduce guessed peptide kinetics, change thresholds or silently turn all local neurons inhibitory. If source-supported sign changes still fail, investigate a published cell-specific/compartment dynamics reference rather than repeat global weight sweeps.
+
+The application remains unchanged. No body, navigation or learning acceptance was attempted. Overall Fly Garden completion remains unproven. The recording timestamp assertion correction and preserved one-chunk interruption are documented in AMENDMENT.json.

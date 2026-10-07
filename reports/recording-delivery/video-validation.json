@@ -1,0 +1,44 @@
+[
+  {
+    "id": "5540318bc3fd4b7396f916dfeedf431b",
+    "path": "/Users/carsonhicks/FlyGarden/data/exports/5540318bc3fd4b7396f916dfeedf431b/video.mp4",
+    "metadata": {
+      "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "fps": 30.0,
+      "source_size": [
+        1920,
+        1080
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "rotate": 0,
+      "duration": 3.03
+    },
+    "decoded_frames": 91
+  },
+  {
+    "id": "bb87710ff74d4172ba723cb86cf4eb2e",
+    "path": "/Users/carsonhicks/FlyGarden/data/exports/bb87710ff74d4172ba723cb86cf4eb2e/video.mp4",
+    "metadata": {
+      "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "fps": 30.0,
+      "source_size": [
+        1920,
+        1080
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "rotate": 0,
+      "duration": 0.13
+    },
+    "decoded_frames": 4
+  }
+]

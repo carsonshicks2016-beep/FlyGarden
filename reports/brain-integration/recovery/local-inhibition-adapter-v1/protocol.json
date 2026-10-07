@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source_hashes": {
+    "reports/brain-integration/recovery/glomerular-affine-registration-v1/partial-anatomical-bindings.json": "e468da1b46f15831706bc9953a22cb30e4be1435c5f04b2d468017ae1c975192",
+    "reports/brain-integration/recovery/glomerular-affine-registration-v1/partial-bilateral-endpoints.parquet": "cfb5a961faf3977c1bb123003b5aa554e70c6a60db71ed28c46ebcf426968af8",
+    "vendor/fly-brain/data/2025_Connectivity_783.parquet": "efeb23fb99098e9c390f6869969b2a121a2ee92c833cfc45ecb2c1d8e1af0347",
+    "vendor/fly-brain/data/2025_Completeness_783.csv": "52b0ac6094cd32c546f8d4c341e094376f48f4e791f8db9b166de5dff8199ea4",
+    "flygarden/local_inhibition_adapter.py": "10beef00fc7bbd012a41e2f1cc49038d037bf2a65844dde5c3c81dcb1da78fdd",
+    "scripts/build_local_inhibition_routes.py": "cc676b9067c05ca337657005370754781689d60011a2bc888b68f7a446a00311"
+  },
+  "subtype": "lLN2P_b only: qualified GABA/MIP annotation bridge",
+  "parameter_status": "Engineering hypothesis, not a fit to these cells",
+  "tau_s": 0.015,
+  "tau_provenance": "Borrowed as an explicit numerical hypothesis from LN2P_c/DC3 reference; no transfer claim",
+  "rate_scale_hz": 100.0,
+  "rate_scale_provenance": "Engineering normalization; not measured release",
+  "dt_s": 0.0001,
+  "local_activity": "Dimensionless, clipped 0..1",
+  "incoming_signs": "Frozen graph for spiking sources; inhibitory for upgraded local sources",
+  "output": "-.275 mV/site/spike times normalized release Hz, average mV/s proxy only",
+  "coupling": "Only actual synapses joining eligible local nodes; no inferred cable coupling",
+  "fallback": "Unassigned sites retain original spiking routing and original signs",
+  "limitations": [
+    "Partial hybrid neuron rather than validated cable model",
+    "MIP, receptor dynamics and electrical propagation excluded",
+    "No learning or body integration",
+    "Full-network delay-aware injection not implemented"
+  ],
+  "application_changed": false
+}

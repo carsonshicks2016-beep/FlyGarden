@@ -1,0 +1,11 @@
+{
+  "id": "1eafed84b0a045068e96c8c43bacf3bf",
+  "status": "completed",
+  "checks": {
+    "job_survives_app_restart": true,
+    "duplicate_rejected": true,
+    "active_fly_remains_paused": true,
+    "completed_and_archived": true
+  },
+  "passed": true
+}

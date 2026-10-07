@@ -1,0 +1,15 @@
+{
+  "run": "5bad565b2b8e4a9d828224e1a5e84284",
+  "time": 0.1,
+  "frame_manifest_state_identity_match": true,
+  "baseline_step_observed_in_browser": true,
+  "full_brain_run_verified": true,
+  "full_brain_step": {
+    "run": "41640584f23d441288aebee24b020b37",
+    "time": 0.2,
+    "neuron_count": 138639,
+    "spike_count": 36641,
+    "motor_source": "brain_adapter_with_tonic_support",
+    "frame_manifest_state_identity_match": true
+  }
+}

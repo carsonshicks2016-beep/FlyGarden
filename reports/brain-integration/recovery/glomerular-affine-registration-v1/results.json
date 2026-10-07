@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "status": "fresh_shape_registration_audit_complete",
+  "available_regions": 47,
+  "calibration_sites": 82157,
+  "fresh_probe_sites": 525,
+  "pooled": {
+    "published_mirror": {
+      "sites": 525,
+      "receiving_ORNs": 286,
+      "unique_fraction": 0.8742857142857143,
+      "correct_unique_fraction": 0.6143790849673203,
+      "correct_all_fraction": 0.5371428571428571,
+      "outside_sites": 66,
+      "overlapping_sites": 0,
+      "bootstrap_95_intervals": {
+        "unique_fraction": [
+          0.8399071772359444,
+          0.9062514937858509
+        ],
+        "correct_unique_fraction": [
+          0.5472527472527473,
+          0.6753722119292067
+        ]
+      },
+      "adequate_probe": true,
+      "point_gate_passed": false,
+      "confidence_gate_passed": false
+    },
+    "affine_candidate": {
+      "sites": 525,
+      "receiving_ORNs": 286,
+      "unique_fraction": 0.8990476190476191,
+      "correct_unique_fraction": 0.9809322033898306,
+      "correct_all_fraction": 0.8819047619047619,
+      "outside_sites": 42,
+      "overlapping_sites": 11,
+      "bootstrap_95_intervals": {
+        "unique_fraction": [
+          0.8693937732589048,
+          0.925267415224772
+        ],
+        "correct_unique_fraction": [
+          0.9668139297910623,
+          0.9933046850253405
+        ]
+      },
+      "adequate_probe": true,
+      "point_gate_passed": true,
+      "confidence_gate_passed": true
+    }
+  },
+  "DM1": {
+    "sites": 51,
+    "receiving_ORNs": 18,
+    "unique_fraction": 0.9215686274509803,
+    "correct_unique_fraction": 1.0,
+    "correct_all_fraction": 0.9215686274509803,
+    "outside_sites": 4,
+    "overlapping_sites": 0,
+    "bootstrap_95_intervals": {
+      "unique_fraction": [
+        0.8222222222222222,
+        1.0
+      ],
+      "correct_unique_fraction": [
+        1.0,
+        1.0
+      ]
+    },
+    "adequate_probe": true,
+    "point_gate_passed": true,
+    "confidence_gate_passed": true,
+    "glomerulus": "DM1",
+    "candidate": "affine_candidate"
+  },
+  "pooled_gate_passed": true,
+  "DM1_gate_passed": true,
+  "per_glomerulus_confidence_gates_passed": 2,
+  "manual_boundary_validation": false,
+  "electrical_compartments_created": 0,
+  "application_changed": false,
+  "wall_seconds": 5.217037790978793,
+  "peak_rss_bytes": 998227968,
+  "sources_reverified": true
+}

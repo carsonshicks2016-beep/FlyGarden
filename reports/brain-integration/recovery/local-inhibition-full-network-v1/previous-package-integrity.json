@@ -1,0 +1,8 @@
+{
+  "all_match": true,
+  "verified_artifact_counts": {
+    "local-inhibition-adapter-v1": 30,
+    "glomerular-affine-registration-v1": 33
+  },
+  "live_brain_source_unchanged": true
+}

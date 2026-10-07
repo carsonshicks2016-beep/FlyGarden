@@ -1,0 +1,8 @@
+{
+  "all_match": true,
+  "verified_artifact_counts": {
+    "glomerular-affine-registration-v1": 33,
+    "graded-compartment-reference-v1": 9
+  },
+  "brain_source_sha256": "3f3a0aa6aae99c38ad01532957232efdfffb92ab654b0f1be3d4230e87561875"
+}

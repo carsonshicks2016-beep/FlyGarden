@@ -1,0 +1,7 @@
+{
+  "scheduled_at": 1791301794.278661,
+  "delay_seconds": 20,
+  "pid": 70101,
+  "action": "Activate Gemini, then request normal quit of ChatGPT/Codex.",
+  "completed_results_preserved": true
+}

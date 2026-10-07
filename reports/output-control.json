@@ -1,0 +1,71 @@
+{
+  "status": "completed",
+  "trials": [
+    {
+      "drive": [
+        1.0,
+        0.0
+      ],
+      "motor": [
+        0.8852785058551905,
+        0.0
+      ],
+      "position": [
+        -1.745849405279039,
+        -1.745131093880957,
+        1.1196746177174104
+      ],
+      "heading": 1.9325358712924827,
+      "rates": {
+        "odor_a": 0.0,
+        "odor_b": 0.0,
+        "kc": 0.0,
+        "mbon": 0.0,
+        "mbon_reward": 0.0,
+        "mbon_aversive": 0.0,
+        "kcg": 0.0,
+        "pam_gamma5": 0.0,
+        "ppl_gamma1": 0.0,
+        "loom_left": 0.0,
+        "loom_right": 0.0,
+        "p9_left": 70.0,
+        "p9_right": 0.0
+      }
+    },
+    {
+      "drive": [
+        0.0,
+        1.0
+      ],
+      "motor": [
+        0.0,
+        0.9133080529210413
+      ],
+      "position": [
+        -1.8267083691016812,
+        1.4222169655687764,
+        1.115117022501739
+      ],
+      "heading": -1.715671937617944,
+      "rates": {
+        "odor_a": 0.0,
+        "odor_b": 0.0,
+        "kc": 0.0,
+        "mbon": 0.0,
+        "mbon_reward": 0.0,
+        "mbon_aversive": 0.0,
+        "kcg": 0.0,
+        "pam_gamma5": 0.0,
+        "ppl_gamma1": 0.0,
+        "loom_left": 0.0,
+        "loom_right": 0.0,
+        "p9_left": 0.0,
+        "p9_right": 90.0
+      }
+    }
+  ],
+  "motor_changes": true,
+  "movement_changes": true,
+  "scope": "Causal P9 stimulation test with full network and supplied gait; does not validate navigation or learning",
+  "passed": true
+}

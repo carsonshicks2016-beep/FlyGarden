@@ -1,0 +1,10 @@
+{
+  "status": "completed",
+  "passed": true,
+  "checks": {
+    "captured": true,
+    "capture_before_food": true,
+    "unvalidated_capture_conditioning_disabled": true,
+    "reset_retains_learning": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "full_network": true,
+  "neurons": 138639,
+  "recording_on_off_exact": true,
+  "event_counts_equal_reference_monitor": true,
+  "plasticity_enabled_with_reward": true,
+  "results": [
+    {
+      "recording": false,
+      "wall_seconds": 22.882931208005175,
+      "simulated_seconds": 0.3,
+      "spikes": 137186,
+      "peak_rss_bytes": 937607168
+    },
+    {
+      "recording": true,
+      "wall_seconds": 10.998005124973133,
+      "simulated_seconds": 0.3,
+      "spikes": 137186,
+      "peak_rss_bytes": 2104147968
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "audit_complete",
+  "roots": 34,
+  "endpoints_preserved": 179560,
+  "median_distance_nm": 207.7097205120105,
+  "p95_distance_nm": 657.496234200759,
+  "p99_distance_nm": 991.3618293394618,
+  "max_distance_nm": 3947.0360670275745,
+  "within_1um_fraction": 0.9903653374916462,
+  "beyond_10um_endpoints": 0,
+  "multi_component_skeletons": 0,
+  "nonzero_cycle_rank_skeletons": 0,
+  "application_changed": false,
+  "physiological_compartments_created": 0,
+  "wall_seconds": 6.699946707987692,
+  "peak_rss_bytes": 345669632,
+  "sources_reverified": true
+}

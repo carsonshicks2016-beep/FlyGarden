@@ -1,0 +1,14 @@
+{
+  "status": "passed_input_and_integrity_screen",
+  "seeds": [
+    9761,
+    9762
+  ],
+  "duration_each": 3,
+  "antenna_odor_peaks": [
+    0.5432134850216783,
+    0.4403706999239135
+  ],
+  "raw_event_count_and_clock_audit": "raw-audit.json",
+  "behavioral_acceptance": false
+}

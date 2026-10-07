@@ -1,0 +1,176 @@
+{
+  "status": "passed",
+  "completed_trials": 21,
+  "chunks": 5040,
+  "trials": [
+    {
+      "trial": "global-a_both-11901",
+      "chunks": 240,
+      "spikes": 1161290,
+      "wall_seconds": 51.201256458007265,
+      "peak_rss_bytes": 2467561472,
+      "manifest_sha256": "242153366a418644745be79cd68ca7173013846e8335b5379a3f87bba1a34140"
+    },
+    {
+      "trial": "global-a_left-11901",
+      "chunks": 240,
+      "spikes": 1158190,
+      "wall_seconds": 51.799771666992456,
+      "peak_rss_bytes": 2630991872,
+      "manifest_sha256": "766193ec221f6032bdd08eb4e5b21f6c11ede32a4ac37cf59f2024b650c8cddb"
+    },
+    {
+      "trial": "global-a_right-11901",
+      "chunks": 240,
+      "spikes": 1159526,
+      "wall_seconds": 51.318458374997135,
+      "peak_rss_bytes": 2783395840,
+      "manifest_sha256": "466e5fa785fc4da6d5a7844923bce2b01bb36c6ecd4e10076990500cc4981a45"
+    },
+    {
+      "trial": "global-none-11901",
+      "chunks": 240,
+      "spikes": 1955,
+      "wall_seconds": 49.48669287498342,
+      "peak_rss_bytes": 2301427712,
+      "manifest_sha256": "621765af1c463cc8039736c562929c928a93c36a1eaca17605b0539cc2240a8d"
+    },
+    {
+      "trial": "olfactory_hypothesis-a_both-11901",
+      "chunks": 240,
+      "spikes": 1634015,
+      "wall_seconds": 52.10630375001347,
+      "peak_rss_bytes": 2673197056,
+      "manifest_sha256": "7804a536bdafc208ee52a6b2f2584eed2780f12a0eb9c4e2cc1ab066793e1d3d"
+    },
+    {
+      "trial": "olfactory_hypothesis-a_left-11901",
+      "chunks": 240,
+      "spikes": 1626566,
+      "wall_seconds": 52.254241958027706,
+      "peak_rss_bytes": 2667511808,
+      "manifest_sha256": "126f95d544fd4f1b361ba26a13c062ce6b6c4028a21f05dd97725b496cb8d803"
+    },
+    {
+      "trial": "olfactory_hypothesis-a_right-11901",
+      "chunks": 240,
+      "spikes": 1627301,
+      "wall_seconds": 52.06464504200267,
+      "peak_rss_bytes": 2680504320,
+      "manifest_sha256": "e4eacd69539de97ff9ae369fb855c5ceaa16ef8d354ac2cbc8314d3cc6b793a6"
+    },
+    {
+      "trial": "olfactory_hypothesis-none-11901",
+      "chunks": 240,
+      "spikes": 2795,
+      "wall_seconds": 49.44376449997071,
+      "peak_rss_bytes": 2225586176,
+      "manifest_sha256": "a782d5dbdd0ee1ba4bf29eeca5dd0768075ff5e4384b6b7ddaeb9f98b35621d1"
+    },
+    {
+      "trial": "original-a_both-11901",
+      "chunks": 240,
+      "spikes": 2710847,
+      "wall_seconds": 47.23599491699133,
+      "peak_rss_bytes": 2774024192,
+      "manifest_sha256": "b2460a3c26b0a31b9a86fc8a4f06e65182c35c7fb4d4f1f90d44174fda87670e"
+    },
+    {
+      "trial": "original-a_left-11901",
+      "chunks": 240,
+      "spikes": 2704905,
+      "wall_seconds": 47.38334729196504,
+      "peak_rss_bytes": 2546188288,
+      "manifest_sha256": "b6ea2767ebd5e506f4f1d593d4c6279f29e2c5fa7d50eba5a70c9a6c2901c924"
+    },
+    {
+      "trial": "original-a_right-11901",
+      "chunks": 240,
+      "spikes": 2703135,
+      "wall_seconds": 47.33332362497458,
+      "peak_rss_bytes": 2746253312,
+      "manifest_sha256": "dbd05be15a040ec43baf4b2e101a7495ae16708bc0f204bf55ce7b291d344ec1"
+    },
+    {
+      "trial": "original-none-11901",
+      "chunks": 240,
+      "spikes": 2795,
+      "wall_seconds": 42.86256479105214,
+      "peak_rss_bytes": 2650750976,
+      "manifest_sha256": "e47c3c1967fe68a8f62044eb98e733e2fdf1c99874a82b2b181868ae48227a02"
+    },
+    {
+      "trial": "projection-a_both-11901",
+      "chunks": 240,
+      "spikes": 1942573,
+      "wall_seconds": 52.0344856249867,
+      "peak_rss_bytes": 2770354176,
+      "manifest_sha256": "b450251dcc1f6e5659d8de3ffd0975ad9921d622e2b8ba431db61b6122ce704c"
+    },
+    {
+      "trial": "projection-a_left-11901",
+      "chunks": 240,
+      "spikes": 1936595,
+      "wall_seconds": 52.51085958402837,
+      "peak_rss_bytes": 2231336960,
+      "manifest_sha256": "c1ae7a5cfe8212e743a31af6487d07370add6b41095ff1847f0825b243ac1377"
+    },
+    {
+      "trial": "projection-a_right-11901",
+      "chunks": 240,
+      "spikes": 1931774,
+      "wall_seconds": 52.77616679202765,
+      "peak_rss_bytes": 2776416256,
+      "manifest_sha256": "7672d096ebe67f8cad03d5be8cdd481991541ca21c5ee040f384049b0291f158"
+    },
+    {
+      "trial": "projection-none-11901",
+      "chunks": 240,
+      "spikes": 2795,
+      "wall_seconds": 48.96774333296344,
+      "peak_rss_bytes": 2774515712,
+      "manifest_sha256": "165e8699f2cb655d4cc667267244f6f969a0d18a8a0a2eb765cbebe414bd9c02"
+    },
+    {
+      "trial": "sensory_projection-a_both-11901",
+      "chunks": 240,
+      "spikes": 1889806,
+      "wall_seconds": 52.40913762501441,
+      "peak_rss_bytes": 2499543040,
+      "manifest_sha256": "fecc41511ec3402b7efead5fa3687b0d31969a20bc0341f076eed947c1d1ccfc"
+    },
+    {
+      "trial": "sensory_projection-a_left-11901",
+      "chunks": 240,
+      "spikes": 1882280,
+      "wall_seconds": 52.656675832986366,
+      "peak_rss_bytes": 2728624128,
+      "manifest_sha256": "b527bdf5e3838e739f038c3133777d3c17080a3100421a82752e57a2b9ff31f0"
+    },
+    {
+      "trial": "sensory_projection-a_right-11901",
+      "chunks": 240,
+      "spikes": 1882672,
+      "wall_seconds": 52.522312042012345,
+      "peak_rss_bytes": 2776137728,
+      "manifest_sha256": "8d8b2440ad0aa5ee1036e108ec659a4fd6dc78c02239bfe4a425e93317b4cce4"
+    },
+    {
+      "trial": "sensory_projection-none-11901",
+      "chunks": 240,
+      "spikes": 2795,
+      "wall_seconds": 49.46744687500177,
+      "peak_rss_bytes": 2390458368,
+      "manifest_sha256": "2b326d0f9d0c5cfe07597d1e102278995db9662ca547fcc6ebec461080c44b54"
+    },
+    {
+      "trial": "zero-a_left-11901",
+      "chunks": 240,
+      "spikes": 2704905,
+      "wall_seconds": 58.56585504201939,
+      "peak_rss_bytes": 2663677952,
+      "manifest_sha256": "18d8354e732ec1b8c4cfb755540d5c116e01cf8fdcb14be97fa531a2a9093754"
+    }
+  ],
+  "scope": "Integrity, event/count agreement, simulation timestamps, frozen sources, fixed weights, continuation receipts. Does not establish biological validity or behavioral competence."
+}

@@ -1,0 +1,15 @@
+{
+  "nodes": 212,
+  "selected_roots": 12,
+  "original_pair_count": 15107,
+  "original_sites": 64430,
+  "routing_groups": 19890,
+  "upgraded_output_sites": 14276,
+  "upgraded_input_sites": 18841,
+  "local_to_local_sites": 17,
+  "unchanged_spiking_sites": 31330,
+  "all_pair_counts_preserved": true,
+  "application_changed": false,
+  "wall_seconds": 0.8935457079787739,
+  "sources_reverified": true
+}

@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "full_network_neurons": 138639,
+  "runs": [
+    {
+      "seed": 801,
+      "status": "running",
+      "time": 3.0000000000000013,
+      "food": 0,
+      "diagnostic": true,
+      "schedule": "3-second recording diagnostic",
+      "run": "b79f73f89f94480aa4caa0253b5a5111",
+      "frames": 91,
+      "spikes": 1447028,
+      "wall_seconds": 19.689087083970662
+    },
+    {
+      "seed": 802,
+      "status": "captured",
+      "time": 0.1,
+      "food": 0,
+      "diagnostic": true,
+      "schedule": "Predator starts within capture radius",
+      "run": "ed20d7d471344674a330d216d6aad0dd",
+      "frames": 4,
+      "spikes": 33727,
+      "wall_seconds": 0.655923750018701
+    }
+  ],
+  "scope": "Recording/export acceptance only; no navigation or learning validation"
+}

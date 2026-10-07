@@ -1,0 +1,46 @@
+{
+  "status": "completed",
+  "rates_a": {
+    "odor_a": 17.352941176470587,
+    "odor_b": 4.814814814814814,
+    "kc": 32.5980297469577,
+    "mbon": 85.625,
+    "mbon_reward": 145.0,
+    "mbon_aversive": 275.0,
+    "kcg": 41.671353957412606,
+    "pam_gamma5": 17.073170731707314,
+    "ppl_gamma1": 425.0,
+    "loom_left": 0.0,
+    "loom_right": 0.0,
+    "p9_left": 40.0,
+    "p9_right": 50.0
+  },
+  "rates_b": {
+    "odor_a": 17.352941176470587,
+    "odor_b": 4.814814814814814,
+    "kc": 32.5980297469577,
+    "mbon": 85.625,
+    "mbon_reward": 145.0,
+    "mbon_aversive": 275.0,
+    "kcg": 41.671353957412606,
+    "pam_gamma5": 17.073170731707314,
+    "ppl_gamma1": 425.0,
+    "loom_left": 0.0,
+    "loom_right": 0.0,
+    "p9_left": 40.0,
+    "p9_right": 50.0
+  },
+  "checks": {
+    "full_checkpoint_body_continuation": true,
+    "full_checkpoint_neural_rates": true,
+    "full_checkpoint_motor": true,
+    "full_checkpoint_time": true,
+    "branch_lineage": true,
+    "predator_layout": true,
+    "edit_pauses_invalidates": true,
+    "host_rejection": true,
+    "origin_rejection": true
+  },
+  "passed": true,
+  "checkpoint": "7218ccf7465a4f2693c627e081874e44"
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "status": "exact_root_skeleton_geometry_audited_no_physiological_compartments",
+  "application_changed": false,
+  "promoted": false,
+  "full_goal_complete": false,
+  "tests_passed": 6,
+  "figure_visually_inspected": true,
+  "previous_delivery_packages_unchanged": true,
+  "free_space_bytes": 204559933440,
+  "storage_bytes": 6756983,
+  "artifacts_sha256": {
+    "root-summary.json": "6624f226aeaac69a34af010fa438522f9f1088d12456b1c7237636e8cacd21ca",
+    "results.json": "e3b3bd2c6d7e4e0c3cb8a7bc8e0d869ae5ac7f41efa4de4acf456b4d76cdb0ec",
+    "protocol.json": "261a7fd9676d9bf0c3b1b41b71342caed4d125c83848aef874216b97c8bc9e6e",
+    "progress.json": "c0c359bd44f6f8aacd20700abf844c9c05ee1c7140b17d270ef93d8bde6764df",
+    "skeleton-mapped-endpoints.parquet": "f787c555032802a37bf67644d4028e581b9812ffeb53d04b7c100e025bddf103"
+  }
+}

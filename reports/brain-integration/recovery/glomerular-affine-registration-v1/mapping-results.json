@@ -1,0 +1,22 @@
+{
+  "status": "count_preserving_partial_bilateral_mapping_complete",
+  "endpoints": 179560,
+  "all_68_root_direction_totals_preserved": true,
+  "right_individually_eligible_regions": [
+    "DM1",
+    "DP1m"
+  ],
+  "eligible_candidate_endpoints": 92542,
+  "right_DM1_unique_endpoints": 2667,
+  "status_counts": {
+    "unavailable_region_evidence": 58151,
+    "eligible_anatomical_candidate": 92542,
+    "unavailable_outside": 25275,
+    "unavailable_overlap": 3592
+  },
+  "all_fitted_neighbor_meshes_included": true,
+  "physiological_compartments_created": 0,
+  "controller_changed": false,
+  "wall_seconds": 142.09198204096174,
+  "sources_reverified": true
+}

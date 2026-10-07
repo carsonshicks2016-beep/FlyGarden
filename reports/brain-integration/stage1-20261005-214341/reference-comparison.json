@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "equation_replay_passed": true,
+  "cases": [
+    {
+      "case": "quiet",
+      "seed": 1101,
+      "equation_replay_checks": {
+        "i": true,
+        "t": true,
+        "counts": true,
+        "input_channels": true,
+        "input_ticks": true,
+        "input_indices": true,
+        "v": true,
+        "g": true
+      },
+      "equation_replay_passed": true,
+      "selected_refractory_counts_match": true,
+      "neurons_with_different_counts": 0,
+      "production_spikes": 0,
+      "selected_refractory_spikes": 0
+    },
+    {
+      "case": "odor_a",
+      "seed": 1101,
+      "equation_replay_checks": {
+        "i": true,
+        "t": true,
+        "counts": true,
+        "input_channels": true,
+        "input_ticks": true,
+        "input_indices": true,
+        "v": true,
+        "g": true
+      },
+      "equation_replay_passed": true,
+      "selected_refractory_counts_match": false,
+      "neurons_with_different_counts": 2839,
+      "production_spikes": 87488,
+      "selected_refractory_spikes": 87124
+    },
+    {
+      "case": "walking",
+      "seed": 1101,
+      "equation_replay_checks": {
+        "i": true,
+        "t": true,
+        "counts": true,
+        "input_channels": true,
+        "input_ticks": true,
+        "input_indices": true,
+        "v": true,
+        "g": true
+      },
+      "equation_replay_passed": true,
+      "selected_refractory_counts_match": true,
+      "neurons_with_different_counts": 0,
+      "production_spikes": 69,
+      "selected_refractory_spikes": 69
+    },
+    {
+      "case": "loom_left",
+      "seed": 1101,
+      "equation_replay_checks": {
+        "i": true,
+        "t": true,
+        "counts": true,
+        "input_channels": true,
+        "input_ticks": true,
+        "input_indices": true,
+        "v": true,
+        "g": true
+      },
+      "equation_replay_passed": true,
+      "selected_refractory_counts_match": true,
+      "neurons_with_different_counts": 0,
+      "production_spikes": 2354,
+      "selected_refractory_spikes": 2354
+    },
+    {
+      "case": "combined",
+      "seed": 1101,
+      "equation_replay_checks": {
+        "i": true,
+        "t": true,
+        "counts": true,
+        "input_channels": true,
+        "input_ticks": true,
+        "input_indices": true,
+        "v": true,
+        "g": true
+      },
+      "equation_replay_passed": true,
+      "selected_refractory_counts_match": false,
+      "neurons_with_different_counts": 2926,
+      "production_spikes": 87010,
+      "selected_refractory_spikes": 86624
+    },
+    {
+      "case": "quiet",
+      "seed": 1102,
+      "equation_replay_checks": {
+        "i": true,
+        "t": true,
+        "counts": true,
+        "input_channels": true,
+        "input_ticks": true,
+        "input_indices": true,
+        "v": true,
+        "g": true
+      },
+      "equation_replay_passed": true,
+      "selected_refractory_counts_match": true,
+      "neurons_with_different_counts": 0,
+      "production_spikes": 0,
+      "selected_refractory_spikes": 0
+    },
+    {
+      "case": "odor_a",
+      "seed": 1102,
+      "equation_replay_checks": {
+        "i": true,
+        "t": true,
+        "counts": true,
+        "input_channels": true,
+        "input_ticks": true,
+        "input_indices": true,
+        "v": true,
+        "g": true
+      },
+      "equation_replay_passed": true,
+      "selected_refractory_counts_match": false,
+      "neurons_with_different_counts": 2789,
+      "production_spikes": 87467,
+      "selected_refractory_spikes": 87132
+    },
+    {
+      "case": "walking",
+      "seed": 1102,
+      "equation_replay_checks": {
+        "i": true,
+        "t": true,
+        "counts": true,
+        "input_channels": true,
+        "input_ticks": true,
+        "input_indices": true,
+        "v": true,
+        "g": true
+      },
+      "equation_replay_passed": true,
+      "selected_refractory_counts_match": true,
+      "neurons_with_different_counts": 0,
+      "production_spikes": 45,
+      "selected_refractory_spikes": 45
+    },
+    {
+      "case": "loom_left",
+      "seed": 1102,
+      "equation_replay_checks": {
+        "i": true,
+        "t": true,
+        "counts": true,
+        "input_channels": true,
+        "input_ticks": true,
+        "input_indices": true,
+        "v": true,
+        "g": true
+      },
+      "equation_replay_passed": true,
+      "selected_refractory_counts_match": true,
+      "neurons_with_different_counts": 0,
+      "production_spikes": 2336,
+      "selected_refractory_spikes": 2336
+    },
+    {
+      "case": "combined",
+      "seed": 1102,
+      "equation_replay_checks": {
+        "i": true,
+        "t": true,
+        "counts": true,
+        "input_channels": true,
+        "input_ticks": true,
+        "input_indices": true,
+        "v": true,
+        "g": true
+      },
+      "equation_replay_passed": true,
+      "selected_refractory_counts_match": false,
+      "neurons_with_different_counts": 3027,
+      "production_spikes": 86666,
+      "selected_refractory_spikes": 85517
+    }
+  ],
+  "scope": "Entire imported network; 2 seeds, 5 stimuli, 100ms stimulus + 100ms recovery. Learning frozen. No body/controller changes.",
+  "limitations": [
+    "Redundant upstream reset assignment omitted in replay diagnostic; original source retained and separately tested.",
+    "Shared SpikeGeneratorGroup input replaces upstream PoissonInput for replay tests.",
+    "Exact equation replay is not equivalence to original stochastic input scheduling, long runs, natural sensory processing, or behavior.",
+    "Selected-refractory diagnostic isolates one adapter difference and is not a proposed production configuration."
+  ]
+}

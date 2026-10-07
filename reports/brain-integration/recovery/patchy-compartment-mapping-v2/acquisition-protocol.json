@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "url": "https://zenodo.org/records/10676866/files/flywire_synapses_783.feather?download=1",
+  "bytes": 9492998242,
+  "expected_md5": "f8f1b97c9d4b0ea9b4c8b287f6b99091",
+  "chunk_bytes": 16777216,
+  "network_workers": 8,
+  "reserve_bytes": 2147483648,
+  "preserve_archives_and_checkpoints": true
+}

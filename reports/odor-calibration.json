@@ -1,0 +1,638 @@
+{
+  "status": "completed",
+  "seeds": [
+    201,
+    202,
+    203
+  ],
+  "gains": [
+    0.05,
+    0.1,
+    0.25,
+    0.5,
+    1.0
+  ],
+  "window_seconds": 0.2,
+  "runs": [
+    {
+      "gain": 0.05,
+      "seed": 201,
+      "active_a": 2027,
+      "active_b": 1943,
+      "population_size": 2489,
+      "jaccard": 0.9585594474592994,
+      "rate_cosine": 0.9897206321927241,
+      "rates": [
+        {
+          "odor_a": 4.338235294117647,
+          "odor_b": 1.4814814814814814,
+          "kc": 26.963492370098514,
+          "mbon": 68.90625,
+          "mbon_reward": 112.5,
+          "mbon_aversive": 220.0,
+          "kcg": 34.393330654881474,
+          "pam_gamma5": 12.804878048780488,
+          "ppl_gamma1": 352.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 4.537037037037037,
+          "kc": 8.684566351168629,
+          "mbon": 20.677083333333332,
+          "mbon_reward": 32.5,
+          "mbon_aversive": 72.5,
+          "kcg": 11.18722378465247,
+          "pam_gamma5": 3.170731707317073,
+          "ppl_gamma1": 112.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 0.05,
+      "seed": 202,
+      "active_a": 2028,
+      "active_b": 2020,
+      "population_size": 2489,
+      "jaccard": 0.994088669950739,
+      "rate_cosine": 0.9977575874552301,
+      "rates": [
+        {
+          "odor_a": 5.0,
+          "odor_b": 1.3888888888888888,
+          "kc": 27.437705234691904,
+          "mbon": 69.94791666666667,
+          "mbon_reward": 117.5,
+          "mbon_aversive": 225.0,
+          "kcg": 34.94977902772197,
+          "pam_gamma5": 12.804878048780488,
+          "ppl_gamma1": 357.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 5.555555555555555,
+          "kc": 19.18582190457794,
+          "mbon": 48.385416666666664,
+          "mbon_reward": 80.0,
+          "mbon_aversive": 160.0,
+          "kcg": 24.672559260747285,
+          "pam_gamma5": 8.902439024390244,
+          "ppl_gamma1": 247.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 0.05,
+      "seed": 203,
+      "active_a": 2022,
+      "active_b": 1989,
+      "population_size": 2489,
+      "jaccard": 0.9817193675889329,
+      "rate_cosine": 0.9935808773976413,
+      "rates": [
+        {
+          "odor_a": 4.485294117647059,
+          "odor_b": 1.0185185185185184,
+          "kc": 26.42939926598416,
+          "mbon": 68.48958333333333,
+          "mbon_reward": 115.0,
+          "mbon_aversive": 220.0,
+          "kcg": 33.80875853756528,
+          "pam_gamma5": 12.317073170731707,
+          "ppl_gamma1": 345.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 4.259259259259259,
+          "kc": 10.852810508016226,
+          "mbon": 26.354166666666664,
+          "mbon_reward": 45.0,
+          "mbon_aversive": 87.5,
+          "kcg": 13.939333065488148,
+          "pam_gamma5": 4.390243902439024,
+          "ppl_gamma1": 140.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 0.1,
+      "seed": 201,
+      "active_a": 2018,
+      "active_b": 2028,
+      "population_size": 2489,
+      "jaccard": 0.9921221073362876,
+      "rate_cosine": 0.9979697190005958,
+      "rates": [
+        {
+          "odor_a": 8.235294117647058,
+          "odor_b": 1.3888888888888888,
+          "kc": 27.330500289743096,
+          "mbon": 69.63541666666667,
+          "mbon_reward": 115.0,
+          "mbon_aversive": 227.5,
+          "kcg": 34.889513860988345,
+          "pam_gamma5": 12.926829268292682,
+          "ppl_gamma1": 355.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 10.277777777777777,
+          "kc": 25.418195866331853,
+          "mbon": 64.27083333333333,
+          "mbon_reward": 107.5,
+          "mbon_aversive": 212.5,
+          "kcg": 32.52711932503013,
+          "pam_gamma5": 12.439024390243901,
+          "ppl_gamma1": 327.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 0.1,
+      "seed": 202,
+      "active_a": 2023,
+      "active_b": 2026,
+      "population_size": 2489,
+      "jaccard": 0.9955643173977329,
+      "rate_cosine": 0.9982520823775233,
+      "rates": [
+        {
+          "odor_a": 9.485294117647058,
+          "odor_b": 1.296296296296296,
+          "kc": 27.572918678771487,
+          "mbon": 71.82291666666667,
+          "mbon_reward": 115.0,
+          "mbon_aversive": 230.0,
+          "kcg": 35.212936922458816,
+          "pam_gamma5": 12.926829268292682,
+          "ppl_gamma1": 362.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 10.833333333333332,
+          "kc": 25.818041336681475,
+          "mbon": 66.04166666666667,
+          "mbon_reward": 107.5,
+          "mbon_aversive": 215.0,
+          "kcg": 33.09361189232623,
+          "pam_gamma5": 12.439024390243901,
+          "ppl_gamma1": 330.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 0.1,
+      "seed": 203,
+      "active_a": 2021,
+      "active_b": 2024,
+      "population_size": 2489,
+      "jaccard": 0.9935929029078364,
+      "rate_cosine": 0.998083764148665,
+      "rates": [
+        {
+          "odor_a": 9.411764705882351,
+          "odor_b": 1.2037037037037035,
+          "kc": 26.950936836005408,
+          "mbon": 69.21875,
+          "mbon_reward": 110.0,
+          "mbon_aversive": 222.5,
+          "kcg": 34.43953394937726,
+          "pam_gamma5": 12.804878048780488,
+          "ppl_gamma1": 347.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 10.0,
+          "kc": 23.13984933359088,
+          "mbon": 58.28125,
+          "mbon_reward": 95.0,
+          "mbon_aversive": 187.5,
+          "kcg": 29.57412615508236,
+          "pam_gamma5": 11.097560975609756,
+          "ppl_gamma1": 300.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 0.25,
+      "seed": 201,
+      "active_a": 2024,
+      "active_b": 2024,
+      "population_size": 2489,
+      "jaccard": 0.994088669950739,
+      "rate_cosine": 0.9982166724122001,
+      "rates": [
+        {
+          "odor_a": 22.794117647058822,
+          "odor_b": 1.2037037037037035,
+          "kc": 28.31755843152405,
+          "mbon": 72.1875,
+          "mbon_reward": 117.5,
+          "mbon_aversive": 232.5,
+          "kcg": 36.03455202892727,
+          "pam_gamma5": 13.414634146341463,
+          "ppl_gamma1": 370.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 23.61111111111111,
+          "kc": 26.521151245895304,
+          "mbon": 67.86458333333333,
+          "mbon_reward": 110.0,
+          "mbon_aversive": 220.0,
+          "kcg": 33.943350743270386,
+          "pam_gamma5": 12.682926829268292,
+          "ppl_gamma1": 345.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 0.25,
+      "seed": 202,
+      "active_a": 2017,
+      "active_b": 2025,
+      "population_size": 2489,
+      "jaccard": 0.992114342040414,
+      "rate_cosine": 0.9982929100095361,
+      "rates": [
+        {
+          "odor_a": 24.26470588235294,
+          "odor_b": 1.2037037037037035,
+          "kc": 28.074174232180802,
+          "mbon": 71.875,
+          "mbon_reward": 115.0,
+          "mbon_aversive": 230.0,
+          "kcg": 35.74728806749698,
+          "pam_gamma5": 13.292682926829269,
+          "ppl_gamma1": 367.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 25.462962962962962,
+          "kc": 26.999227351748115,
+          "mbon": 68.95833333333333,
+          "mbon_reward": 110.0,
+          "mbon_aversive": 222.5,
+          "kcg": 34.35315387705906,
+          "pam_gamma5": 12.804878048780488,
+          "ppl_gamma1": 350.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 0.25,
+      "seed": 203,
+      "active_a": 2026,
+      "active_b": 2028,
+      "population_size": 2489,
+      "jaccard": 0.9950787401574803,
+      "rate_cosine": 0.9981079896657135,
+      "rates": [
+        {
+          "odor_a": 25.367647058823525,
+          "odor_b": 1.3888888888888888,
+          "kc": 27.9244736333784,
+          "mbon": 72.08333333333333,
+          "mbon_reward": 117.5,
+          "mbon_aversive": 230.0,
+          "kcg": 35.57051024507834,
+          "pam_gamma5": 13.048780487804878,
+          "ppl_gamma1": 362.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 25.555555555555554,
+          "kc": 26.312536217886805,
+          "mbon": 67.44791666666667,
+          "mbon_reward": 110.0,
+          "mbon_aversive": 220.0,
+          "kcg": 33.595821615106466,
+          "pam_gamma5": 12.560975609756097,
+          "ppl_gamma1": 342.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 0.5,
+      "seed": 201,
+      "active_a": 2035,
+      "active_b": 2027,
+      "population_size": 2489,
+      "jaccard": 0.9921530161844041,
+      "rate_cosine": 0.9981384832306753,
+      "rates": [
+        {
+          "odor_a": 51.02941176470588,
+          "odor_b": 1.3888888888888888,
+          "kc": 29.13270233726096,
+          "mbon": 74.16666666666667,
+          "mbon_reward": 117.5,
+          "mbon_aversive": 235.0,
+          "kcg": 36.854158296504615,
+          "pam_gamma5": 14.390243902439023,
+          "ppl_gamma1": 377.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 49.07407407407407,
+          "kc": 27.58257678192003,
+          "mbon": 70.41666666666667,
+          "mbon_reward": 115.0,
+          "mbon_aversive": 225.0,
+          "kcg": 35.00401767778224,
+          "pam_gamma5": 12.804878048780488,
+          "ppl_gamma1": 357.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 0.5,
+      "seed": 202,
+      "active_a": 2027,
+      "active_b": 2022,
+      "population_size": 2489,
+      "jaccard": 0.9926181102362205,
+      "rate_cosine": 0.9978988126789395,
+      "rates": [
+        {
+          "odor_a": 49.632352941176464,
+          "odor_b": 1.296296296296296,
+          "kc": 28.811087502414527,
+          "mbon": 73.75,
+          "mbon_reward": 120.0,
+          "mbon_aversive": 235.0,
+          "kcg": 36.51466452390518,
+          "pam_gamma5": 13.780487804878048,
+          "ppl_gamma1": 370.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 48.7962962962963,
+          "kc": 27.085184469770137,
+          "mbon": 69.32291666666667,
+          "mbon_reward": 110.0,
+          "mbon_aversive": 225.0,
+          "kcg": 34.515869827239854,
+          "pam_gamma5": 12.682926829268292,
+          "ppl_gamma1": 350.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 0.5,
+      "seed": 203,
+      "active_a": 2026,
+      "active_b": 2020,
+      "population_size": 2489,
+      "jaccard": 0.9960532807104094,
+      "rate_cosine": 0.9981851675596473,
+      "rates": [
+        {
+          "odor_a": 50.955882352941174,
+          "odor_b": 1.3888888888888888,
+          "kc": 28.539694803940503,
+          "mbon": 73.69791666666667,
+          "mbon_reward": 120.0,
+          "mbon_aversive": 232.5,
+          "kcg": 36.15307352350341,
+          "pam_gamma5": 13.658536585365853,
+          "ppl_gamma1": 375.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 48.148148148148145,
+          "kc": 27.29283368746378,
+          "mbon": 70.26041666666667,
+          "mbon_reward": 112.5,
+          "mbon_aversive": 222.5,
+          "kcg": 34.74889513860988,
+          "pam_gamma5": 12.560975609756097,
+          "ppl_gamma1": 352.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 1.0,
+      "seed": 201,
+      "active_a": 2025,
+      "active_b": 2029,
+      "population_size": 2489,
+      "jaccard": 0.9950787401574803,
+      "rate_cosine": 0.9980330293822604,
+      "rates": [
+        {
+          "odor_a": 97.13235294117646,
+          "odor_b": 1.3888888888888888,
+          "kc": 29.293992659841603,
+          "mbon": 74.63541666666667,
+          "mbon_reward": 122.5,
+          "mbon_aversive": 237.5,
+          "kcg": 36.94656488549618,
+          "pam_gamma5": 13.902439024390242,
+          "ppl_gamma1": 380.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 98.33333333333333,
+          "kc": 28.32238748309832,
+          "mbon": 71.97916666666667,
+          "mbon_reward": 117.5,
+          "mbon_aversive": 227.5,
+          "kcg": 35.775411811972674,
+          "pam_gamma5": 13.292682926829269,
+          "ppl_gamma1": 367.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 1.0,
+      "seed": 202,
+      "active_a": 2030,
+      "active_b": 2023,
+      "population_size": 2489,
+      "jaccard": 0.9936055090998525,
+      "rate_cosine": 0.9977510401900332,
+      "rates": [
+        {
+          "odor_a": 99.63235294117646,
+          "odor_b": 1.111111111111111,
+          "kc": 29.295924280471315,
+          "mbon": 74.84375,
+          "mbon_reward": 115.0,
+          "mbon_aversive": 235.0,
+          "kcg": 36.92848533547609,
+          "pam_gamma5": 13.780487804878048,
+          "ppl_gamma1": 380.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 100.55555555555554,
+          "kc": 27.969866718176547,
+          "mbon": 71.25,
+          "mbon_reward": 117.5,
+          "mbon_aversive": 232.5,
+          "kcg": 35.41783848935315,
+          "pam_gamma5": 13.292682926829269,
+          "ppl_gamma1": 362.5,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    },
+    {
+      "gain": 1.0,
+      "seed": 203,
+      "active_a": 2026,
+      "active_b": 2025,
+      "population_size": 2489,
+      "jaccard": 0.9955665024630542,
+      "rate_cosine": 0.9979314413709074,
+      "rates": [
+        {
+          "odor_a": 97.5,
+          "odor_b": 1.3888888888888888,
+          "kc": 29.216727834653273,
+          "mbon": 75.3125,
+          "mbon_reward": 125.0,
+          "mbon_aversive": 240.0,
+          "kcg": 36.79791080755324,
+          "pam_gamma5": 14.024390243902438,
+          "ppl_gamma1": 375.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        },
+        {
+          "odor_a": 0.0,
+          "odor_b": 95.18518518518519,
+          "kc": 28.24029360633571,
+          "mbon": 71.45833333333333,
+          "mbon_reward": 112.5,
+          "mbon_aversive": 230.0,
+          "kcg": 35.61068702290076,
+          "pam_gamma5": 13.170731707317072,
+          "ppl_gamma1": 370.0,
+          "loom_left": 0.0,
+          "loom_right": 0.0,
+          "p9_left": 0.0,
+          "p9_right": 0.0
+        }
+      ]
+    }
+  ],
+  "promoted": false,
+  "protocol": "Rested paired cue probes with matched RNG; all imported neurons and weights retained",
+  "wall_seconds": 21.316734957974404,
+  "source_sha256": "e9d1a7169b582c130d5e8595feba6670bc2d93ba7ebb3bf31f59b9f2f240c25f",
+  "scope": "Sensory calibration diagnostic, not acquisition, choice, or biological validation"
+}

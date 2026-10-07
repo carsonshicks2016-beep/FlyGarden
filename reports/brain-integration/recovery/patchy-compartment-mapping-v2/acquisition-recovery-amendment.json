@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "running_worker_sha256": "9a129830c6c44f582a470a577b3cd5d8b5ba7d67a44346fe0e4a6441968e30d2",
+  "next_restart_script_sha256": "cb8dcd9a8e1fc4c9578e9a6535ca0204e4f54437f85e539b0a150c93d5efad41",
+  "changes": [
+    "Publish identity if a crash left a fully verified archive without metadata",
+    "Check reserve immediately before and during future assembly"
+  ],
+  "current_download_unchanged": true,
+  "source_bytes_or_checksums_changed": false
+}

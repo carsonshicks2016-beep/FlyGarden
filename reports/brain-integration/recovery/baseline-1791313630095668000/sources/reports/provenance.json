@@ -1,0 +1,133 @@
+{
+  "source_revisions": {
+    "fly-brain": "a3db62f9436074e485c0278290c2164ed6150808",
+    "flygym": "38c8ec61034cd59bc5ba0de20688d4a3c0000d60"
+  },
+  "annotations_revision": "a83b2776d60d5764cef36b927f5f9679c16c47a2",
+  "hashes": {
+    "vendor/fly-brain/data/2025_Completeness_783.csv": "52b0ac6094cd32c546f8d4c341e094376f48f4e791f8db9b166de5dff8199ea4",
+    "vendor/fly-brain/data/2025_Connectivity_783.parquet": "efeb23fb99098e9c390f6869969b2a121a2ee92c833cfc45ecb2c1d8e1af0347",
+    "data/annotations.tsv": "b214970b55d2fbe0853bba536fdcb9e28730f4eb7ab06f600491df795da683cd"
+  },
+  "versions": {
+    "brian2": "2.10.1",
+    "flygym": "2.1.0",
+    "mujoco": "3.9.0",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "fastapi": "0.142.2",
+    "uvicorn": "0.54.0",
+    "networkx": "3.7"
+  },
+  "licenses": {
+    "fly-brain": "GPL-2.0-or-later upstream; original Shiu Brian2 code MIT; notices retained",
+    "flygym": "Apache-2.0, pinned 2.1 source",
+    "annotations": "Pinned README retained at data/annotations-README.md; publication attribution required. No explicit standalone license confirmed in pinned README; redistribution licensing unresolved."
+  },
+  "alterations": [
+    "Remove undefined w from released neuron reset",
+    "Engineered ORN, LPLC2 and DNp09 stimulation",
+    "Gamma KC to MBON01 and MBON11 engineered depression; remaining weights fixed",
+    "Supplied HybridTurningController leg coordination",
+    "No edge threshold or reduced network",
+    "Visual adapter currently geometric egocentric proxy, not retina fidelity",
+    "Physics 100us; walking-controller update 500us, persistence counters adjusted to preserve nominal duration",
+    "Dedicated checkpointable Bernoulli spike generator replaces Brian runtime pointer-backed Poisson RNG; probability rate*0.1ms",
+    "Physics 100us; supplied gait controller 500us",
+    "Physical antennal sites; actual retinal images available for inspection only"
+  ],
+  "application_hashes": {
+    "flygarden/world.py": "e268023eb20f7899c72a859dd3de2c74471259706bf548f9a4c67a853b7feae9",
+    "flygarden/server.py": "7ecebe544802abd68ac2a4580ed4c5ce7b7250f1e68ad35cb9f9c1904f237d50",
+    "flygarden/body.py": "3f1957c21ae09856215fdff052e71f662a8df0a041594c4bf7a6ea23fefedee8",
+    "flygarden/baseline.py": "6c7d8fcba2599aeb44c12461d8bd67e5739196abe01deb5773c260659bf724e0",
+    "flygarden/recording.py": "535fc48df56635544bcaef1761062f1a146d5e56df462f6e9efb99e1406ab59c",
+    "flygarden/recorded_events.py": "a7dfdc4046f34f3070ab05e320db829169db049ff3cd423de449afde209387d3",
+    "flygarden/trial_recording.py": "d92ba59c9821b3b90c5796b9513029a4080d0fddb85480a972eb5a288f5d05e6",
+    "flygarden/__init__.py": "c6a6bc9a4bacd3ec5b80913fdabdae2fb5bb1a361b56ab18d7ec3165151253ae",
+    "flygarden/morphology.py": "7d7fd68f632316125c7d5d730d3e4f873f2af5521bba9e4a14b29154753bfc62",
+    "flygarden/brain.py": "3f3a0aa6aae99c38ad01532957232efdfffb92ab654b0f1be3d4230e87561875",
+    "flygarden/engine.py": "86e01bc99bfdd731b4d6c380d69bf1e42dd93ea83c5a6bb1a547713c1ef0e16b",
+    "flygarden/experiment_jobs.py": "f9f89fae5ff00c4544503843ffefc2a47a108e07657139f2a5ae3a2c1f8116f5",
+    "flygarden/plasticity.py": "cce4d41b1ccf2d9539e369839c20f8991b22efcd38c350a88a637f9d86a46d77",
+    "flygarden/storage.py": "8abd050b517fa41f8208cf867cadd0e715956b24c3684240decb26441cbef4cf",
+    "flygarden/video.py": "b180026ade23a4cec3854b851bb5fc5022b0059602114a9537794db19d3c058b",
+    "flygarden/video_jobs.py": "19dce6835ec324332ec159cfd43e71f35470474aa74abe9d2e5e881c8289a461",
+    "static/index.html": "c89d0991ced05750b92e205f2d1c1a2786182320426f4c25ddf52d5a4e15d45a",
+    "static/recorded-view.js": "a8f64eb520951dc208aad35ef0c45258c01efd80d98a39c067f085e017e71d93",
+    "static/recordings.js": "efc4fe573176a7f86db222719216d36070135f53aa2371fce062581b5ed7a5da",
+    "static/recording-camera.js": "f3b4b08fff799ac8b4c03e68b8611e9ed14077903f06727348b7ead935acdc8b",
+    "static/recordings.html": "119346bfd64342f346457d444a718e77ba83ef802547ee5b2138f9f1f759822a",
+    "static/style.css": "75fde1914acc107cf9d3952e6dbbe9d3fd46e19c459a8c7a898dfdec2946ec19",
+    "static/render.html": "0bb7c35d8f2724f7b5c3eaaf1350eaac0a0a4c159650d00e3a0b338ea25839af",
+    "static/replay.js": "356dbaacfe8a4d941178f3da1549910757a16553654b49b6825a69e2b783fc71",
+    "static/neural-activity.js": "c42ac97f151e527920fbade638afe2e0e91df6010b0bfa620b5e8ba02f68c94b",
+    "static/app.js": "378b23588f9edfc5962ad440fbe058d5a5fa55e92f2f71249a5f9d9185e48134",
+    "scripts/check_capture.py": "f37beccd3e2c7d3103b1dba2d0e168c5614ce0ca2959568f2f81fba7bfd25088",
+    "scripts/finalize_provenance.py": "be7f7153a3b85bc2443a83519aac4440f397b203199631f22fb7a3464b5645bc",
+    "scripts/verify_api.py": "a48c1e37cf0b954d2d3208d45a02138f3abb759593a05cecc87745b9761bc47c",
+    "scripts/verify_obstacle_recording.py": "0fb7153f2c171c476bc1ae253016d80dfb067557ec2456d875996d2c2bb2dd9e",
+    "scripts/benchmark_combined.py": "652367f4ae874ac215276921d25a57b23c369b7583c4130d1f88d1222aac282a",
+    "scripts/diagnose_learning.py": "f4db485705639ea6fdebcd3bbda8ba6d870866f138fa93622c239e51a4b1a082",
+    "scripts/check_spike_recording.py": "750946f4e01c4e8b9b67216634e284b82c476a7053a32e19c21b98fe756ab6e5",
+    "scripts/diagnose_neural_cues.py": "ca59cf8b14b400f84e4533a9c156a1de146b5fb804e2e722ff240d60ea99c410",
+    "scripts/render_queue.py": "3162cedab4e2e2ec4df2a33c229552f5f27dfa26f5657ec0e1fa5922a2065987",
+    "scripts/accept_body.py": "6cb363c2407f066f53b6f4bcda02855ab47cc425d2e38ac3ab76bfaadabb021d",
+    "scripts/accept_baseline.py": "1778f7a4931524e356b659b4c119c8097a1b0fa0f670a53ad31ec80ae33a0309",
+    "scripts/check_recording_batch.py": "e958620d80c7163cc1296e9ded4ebec5bbbfa0429b4b041627ac828796b9061b",
+    "scripts/calibrate_predator.py": "773470e2d70f448d5c2f58ebab16819e1e1ee76b65c2571fb6ee70df07be091e",
+    "scripts/check_retina.py": "9801eadda0c573bbf4053fd6116bc02b6ae43ea8c6d1a4999c5bc58be203324a",
+    "scripts/check_retention.py": "31cee1e7b55a0bbba9994bb300cedafef2cbaff23455d0922c48f364f5a45e01",
+    "scripts/check_baseline_avoidance.py": "f48e7eabbf9b9307d5a3af11c527b62bea1c6ccc918f49e1c64c6afce8e482bb",
+    "scripts/attach_baseline_outcomes.py": "ceb799423576128468deaa9ba7a6f00ce351521e2b7086b6c2288481364f95e2",
+    "scripts/benchmark_body.py": "3a0d51dde44b9dfb909763dbe4935c38bd5bfdfa25d5ea3bbc91b70117fa93e7",
+    "scripts/check_output_control.py": "77cecc1f8b1d8f30b56c5ebb90050594969fd26266d77d1905c6725fa26c34c6",
+    "scripts/delivery_report.py": "6772b5641ca075d9ebb1e70d7db6eb8e312d0ff08e7bf8c3fadf17b53df12945",
+    "scripts/check_body_rebuild.py": "48d4e71a31217f470f38000e453bcceea90eb247284d8e7c6227cb7550cb8e29",
+    "scripts/calibrate_odor_encoding.py": "e9d1a7169b582c130d5e8595feba6670bc2d93ba7ebb3bf31f59b9f2f240c25f",
+    "scripts/launcher.py": "9684e18523a3c4a6546d04c8b360f2b642555def0ae40358d7230b14b928530c",
+    "scripts/benchmark_brain.py": "cbe08b03bd77ecedf073034fa23b62ace3ecaa5ce0ad88f3b8d06d1b20ee8ff7",
+    "scripts/record_obstacle_trial.py": "f32012b754ff2e14956cabef0ffecb3989bc99ed555e15b2edeea3c482cb96c1",
+    "scripts/check_recording_recovery.py": "e6fde3d3541c456ee5b85bd6b389088325f91472400a46888f005bf63274a98d",
+    "scripts/provenance.py": "df6e26a3e3176002ff0ef542b33d36c97dd630bda8a440c24dd3006bef6dd5e5",
+    "scripts/check_cold_start.py": "b354573462e4e25ae157188903219c10f331942ccd1b3aec9e92a2444a9eb484",
+    "scripts/run_experiment.py": "6ce5b4f6275d7264e73529465df914cfe4f115fbba3d89a57b706087ea198b8d",
+    "scripts/trace_olfactory_pathway.py": "df798ecf8108a204b7db5d216d99c4b6c4fc2b9ebb5e4f550a58048d3f4f5824",
+    "scripts/check_published_learning_rule.py": "1a5ca1c3f5d5c36d5ef2295eb6573ecad7213f51fedde2c98854dd04a9c86e74",
+    "scripts/mapping.py": "f84f0791c75022ab57d2dca63691a566f99274e6bf76b87e4545eb8e323745b4",
+    "scripts/diagnose_obstacles.py": "67979d8069d4694468e4339f26f73467c75ff96c562ae50315470f973f48ca18",
+    "scripts/evaluate_learning.py": "3be28f4b23163b7aa71ea00189c81a9a20ce3f4693368327d95611c2d1898e1e",
+    "scripts/check_job_restart.py": "b58c19b30eb5b2d80423dca89ed8354983e1c40bd37cd78d9e8731371f24ddd4",
+    "scripts/check_morphology.py": "be4218674e3bca31a7d92dc5b65951e54893d32daeda3c81a9b5ceb3721e213d"
+  },
+  "annotation_citations": [
+    "Berg et al. 2026",
+    "Schlegel et al. 2024",
+    "Tastekin et al. 2026",
+    "Matsliah et al. 2024",
+    "Dorkenwald et al. 2024"
+  ],
+  "learning_reference": {
+    "repository": "https://github.com/BrainsOnBoard/paper_RPEs_in_drosophila_mb",
+    "revision": "7ec52afb9bd7bb748d94d60dea9f483645a2ce8e",
+    "license": "GPL-3.0",
+    "source_sha256": "69e65882f7a61d6b84abf0a55bd21ee1938eb34e2103ebd0d4bd0d018cbbb7ca",
+    "usage": "Separate equation diagnostic, not arena controller or full-brain learning implementation"
+  },
+  "calibration_policy": {
+    "odor_sweep_seeds": [
+      201,
+      202,
+      203
+    ],
+    "odor_gains": [
+      0.05,
+      0.1,
+      0.25,
+      0.5,
+      1.0
+    ],
+    "production_gain_unchanged": 1.0,
+    "promotion": "No automatic promotion from cue-response sweep; learning requires prospective held-out evaluation"
+  }
+}

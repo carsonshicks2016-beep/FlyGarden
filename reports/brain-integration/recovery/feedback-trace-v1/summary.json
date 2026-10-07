@@ -1,0 +1,13 @@
+{
+  "late_PN_positive_ALLN_fraction_range": [
+    0.9749991861714249,
+    0.9822043279802257
+  ],
+  "commanded_local_inhibition_to_accepted_positive_increment_ratio_range": [
+    0.012678546976051275,
+    0.013797857504059267
+  ],
+  "late_local_positive_olfactory_fraction_max": 2.961162398389083e-151,
+  "filter_replay_max_error": 3.552713678800501e-15,
+  "activity_replay_max_error": 6.661338147750939e-16
+}

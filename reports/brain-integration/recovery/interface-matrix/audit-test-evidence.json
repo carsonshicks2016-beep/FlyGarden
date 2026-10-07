@@ -1,0 +1,27 @@
+{
+  "auditor_tests": {
+    "passed": 4,
+    "scope": "Wrong roots,wrong commands and invented signed arrivals rejected; independent delayed-arrival reconstruction tested"
+  },
+  "probe_schedule_tests": {
+    "passed": 4,
+    "scope": "Bounded probe,delayed signed arrival bins and declared stimulation schedules"
+  },
+  "sources": {
+    "scripts/report_recovery_interfaces.py": "831e0ccaf01a4ca0b545b8ec02425d933951e959e6247f941966248b398b5cbc",
+    "tests/test_recovery_interface_audit.py": "e78502bfd7e0652f7ccb801700f77672539f703be0c1d5748e6f733754a3e4e9",
+    "tests/test_recovery_interface_schedule.py": "1d66575e33b17afb8ae9cf94ef102e2bd37003f92c56e1489906032701bd014b",
+    "tests/test_synaptic_probe.py": "760ae2ee3e1e333af67282a04634dd7b4b72f430770e29c5ddc5703db68e2cbc",
+    "tests/test_neural_probe.py": "32b482527d6b2491e088a8ceec8268dd96a184a6416e53ada76d71c5a0b2a526"
+  },
+  "full_network_trials_started": true,
+  "recurrent_monitor_parity": {
+    "status": "passed",
+    "scope": "Small recurrent Brian2 network,exact spikes and voltage/g across three windows with probe enabled/disabled; full-network parity remains pending"
+  },
+  "eye_fixture_integrity": "loom_left,loom_right,moving_pattern JSON hashes verified against pinned Stage6 manifest",
+  "signed_arrival_data_audit": {
+    "completed_trials_verified": 8,
+    "method": "Independent sparse multiplication from pinned signed connectivity and raw spikes,including previous-window delayed events"
+  }
+}

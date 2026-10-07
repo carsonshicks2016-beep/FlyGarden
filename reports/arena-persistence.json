@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "checks": {
+    "trial_retains_custom_arena": true,
+    "custom_trial_unscored": true,
+    "learned_load_retains_current_arena": true
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "version": 1,
+  "directional_counts_exact": true,
+  "internal_selected_synapses": 4891,
+  "directional_endpoint_count": 179560,
+  "per_root_direction": [
+    {
+      "root_id": "720575940605883569",
+      "direction": "input",
+      "imported_count": 2655,
+      "mapped_endpoint_count": 2655,
+      "exact": true
+    },
+    {
+      "root_id": "720575940605883569",
+      "direction": "output",
+      "imported_count": 2099,
+      "mapped_endpoint_count": 2099,
+      "exact": true
+    },
+    {
+      "root_id": "720575940608345778",
+      "direction": "input",
+      "imported_count": 2961,
+      "mapped_endpoint_count": 2961,
+      "exact": true
+    },
+    {
+      "root_id": "720575940608345778",
+      "direction": "output",
+      "imported_count": 2122,
+      "mapped_endpoint_count": 2122,
+      "exact": true
+    },
+    {
+      "root_id": "720575940610669614",
+      "direction": "input",
+      "imported_count": 3283,
+      "mapped_endpoint_count": 3283,
+      "exact": true
+    },
+    {
+      "root_id": "720575940610669614",
+      "direction": "output",
+      "imported_count": 2443,
+      "mapped_endpoint_count": 2443,
+      "exact": true
+    },
+    {
+      "root_id": "720575940611944914",
+      "direction": "input",
+      "imported_count": 2930,
+      "mapped_endpoint_count": 2930,
+      "exact": true
+    },
+    {
+      "root_id": "720575940611944914",
+      "direction": "output",
+      "imported_count": 1099,
+      "mapped_endpoint_count": 1099,
+      "exact": true
+    },
+    {
+      "root_id": "720575940612461461",
+      "direction": "input",
+      "imported_count": 4030,
+      "mapped_endpoint_count": 4030,
+      "exact": true
+    },
+    {
+      "root_id": "720575940612461461",
+      "direction": "output",
+      "imported_count": 3183,
+      "mapped_endpoint_count": 3183,
+      "exact": true
+    },
+    {
+      "root_id": "720575940612475598",
+      "direction": "input",
+      "imported_count": 3057,
+      "mapped_endpoint_count": 3057,
+      "exact": true
+    },
+    {
+      "root_id": "720575940612475598",
+      "direction": "output",
+      "imported_count": 1118,
+      "mapped_endpoint_count": 1118,
+      "exact": true
+    },
+    {
+      "root_id": "720575940614429165",
+      "direction": "input",
+      "imported_count": 3079,
+      "mapped_endpoint_count": 3079,
+      "exact": true
+    },
+    {
+      "root_id": "720575940614429165",
+      "direction": "output",
+      "imported_count": 2365,
+      "mapped_endpoint_count": 2365,
+      "exact": true
+    },
+    {
+      "root_id": "720575940614944977",
+      "direction": "input",
+      "imported_count": 2955,
+      "mapped_endpoint_count": 2955,
+      "exact": true
+    },
+    {
+      "root_id": "720575940614944977",
+      "direction": "output",
+      "imported_count": 2094,
+      "mapped_endpoint_count": 2094,
+      "exact": true
+    },
+    {
+      "root_id": "720575940615513086",
+      "direction": "input",
+      "imported_count": 3055,
+      "mapped_endpoint_count": 3055,
+      "exact": true
+    },
+    {
+      "root_id": "720575940615513086",
+      "direction": "output",
+      "imported_count": 2431,
+      "mapped_endpoint_count": 2431,
+      "exact": true
+    },
+    {
+      "root_id": "720575940616486230",
+      "direction": "input",
+      "imported_count": 3047,
+      "mapped_endpoint_count": 3047,
+      "exact": true
+    },
+    {
+      "root_id": "720575940616486230",
+      "direction": "output",
+      "imported_count": 2323,
+      "mapped_endpoint_count": 2323,
+      "exact": true
+    },
+    {
+      "root_id": "720575940617205179",
+      "direction": "input",
+      "imported_count": 4092,
+      "mapped_endpoint_count": 4092,
+      "exact": true
+    },
+    {
+      "root_id": "720575940617205179",
+      "direction": "output",
+      "imported_count": 3548,
+      "mapped_endpoint_count": 3548,
+      "exact": true
+    },
+    {
+      "root_id": "720575940621500865",
+      "direction": "input",
+      "imported_count": 2881,
+      "mapped_endpoint_count": 2881,
+      "exact": true
+    },
+    {
+      "root_id": "720575940621500865",
+      "direction": "output",
+      "imported_count": 1007,
+      "mapped_endpoint_count": 1007,
+      "exact": true
+    },
+    {
+      "root_id": "720575940622054497",
+      "direction": "input",
+      "imported_count": 3539,
+      "mapped_endpoint_count": 3539,
+      "exact": true
+    },
+    {
+      "root_id": "720575940622054497",
+      "direction": "output",
+      "imported_count": 1323,
+      "mapped_endpoint_count": 1323,
+      "exact": true
+    },
+    {
+      "root_id": "720575940623650823",
+      "direction": "input",
+      "imported_count": 3439,
+      "mapped_endpoint_count": 3439,
+      "exact": true
+    },
+    {
+      "root_id": "720575940623650823",
+      "direction": "output",
+      "imported_count": 2450,
+      "mapped_endpoint_count": 2450,
+      "exact": true
+    },
+    {
+      "root_id": "720575940623955637",
+      "direction": "input",
+      "imported_count": 3213,
+      "mapped_endpoint_count": 3213,
+      "exact": true
+    },
+    {
+      "root_id": "720575940623955637",
+      "direction": "output",
+      "imported_count": 2516,
+      "mapped_endpoint_count": 2516,
+      "exact": true
+    },
+    {
+      "root_id": "720575940624330281",
+      "direction": "input",
+      "imported_count": 3830,
+      "mapped_endpoint_count": 3830,
+      "exact": true
+    },
+    {
+      "root_id": "720575940624330281",
+      "direction": "output",
+      "imported_count": 1283,
+      "mapped_endpoint_count": 1283,
+      "exact": true
+    },
+    {
+      "root_id": "720575940624450342",
+      "direction": "input",
+      "imported_count": 3113,
+      "mapped_endpoint_count": 3113,
+      "exact": true
+    },
+    {
+      "root_id": "720575940624450342",
+      "direction": "output",
+      "imported_count": 2364,
+      "mapped_endpoint_count": 2364,
+      "exact": true
+    },
+    {
+      "root_id": "720575940625977802",
+      "direction": "input",
+      "imported_count": 3506,
+      "mapped_endpoint_count": 3506,
+      "exact": true
+    },
+    {
+      "root_id": "720575940625977802",
+      "direction": "output",
+      "imported_count": 1229,
+      "mapped_endpoint_count": 1229,
+      "exact": true
+    },
+    {
+      "root_id": "720575940626115134",
+      "direction": "input",
+      "imported_count": 3004,
+      "mapped_endpoint_count": 3004,
+      "exact": true
+    },
+    {
+      "root_id": "720575940626115134",
+      "direction": "output",
+      "imported_count": 2153,
+      "mapped_endpoint_count": 2153,
+      "exact": true
+    },
+    {
+      "root_id": "720575940626378242",
+      "direction": "input",
+      "imported_count": 3152,
+      "mapped_endpoint_count": 3152,
+      "exact": true
+    },
+    {
+      "root_id": "720575940626378242",
+      "direction": "output",
+      "imported_count": 1200,
+      "mapped_endpoint_count": 1200,
+      "exact": true
+    },
+    {
+      "root_id": "720575940626624275",
+      "direction": "input",
+      "imported_count": 3690,
+      "mapped_endpoint_count": 3690,
+      "exact": true
+    },
+    {
+      "root_id": "720575940626624275",
+      "direction": "output",
+      "imported_count": 2997,
+      "mapped_endpoint_count": 2997,
+      "exact": true
+    },
+    {
+      "root_id": "720575940627605779",
+      "direction": "input",
+      "imported_count": 2740,
+      "mapped_endpoint_count": 2740,
+      "exact": true
+    },
+    {
+      "root_id": "720575940627605779",
+      "direction": "output",
+      "imported_count": 1932,
+      "mapped_endpoint_count": 1932,
+      "exact": true
+    },
+    {
+      "root_id": "720575940628343634",
+      "direction": "input",
+      "imported_count": 3493,
+      "mapped_endpoint_count": 3493,
+      "exact": true
+    },
+    {
+      "root_id": "720575940628343634",
+      "direction": "output",
+      "imported_count": 2969,
+      "mapped_endpoint_count": 2969,
+      "exact": true
+    },
+    {
+      "root_id": "720575940631105580",
+      "direction": "input",
+      "imported_count": 3068,
+      "mapped_endpoint_count": 3068,
+      "exact": true
+    },
+    {
+      "root_id": "720575940631105580",
+      "direction": "output",
+      "imported_count": 1165,
+      "mapped_endpoint_count": 1165,
+      "exact": true
+    },
+    {
+      "root_id": "720575940631497078",
+      "direction": "input",
+      "imported_count": 2996,
+      "mapped_endpoint_count": 2996,
+      "exact": true
+    },
+    {
+      "root_id": "720575940631497078",
+      "direction": "output",
+      "imported_count": 915,
+      "mapped_endpoint_count": 915,
+      "exact": true
+    },
+    {
+      "root_id": "720575940632505359",
+      "direction": "input",
+      "imported_count": 4137,
+      "mapped_endpoint_count": 4137,
+      "exact": true
+    },
+    {
+      "root_id": "720575940632505359",
+      "direction": "output",
+      "imported_count": 1573,
+      "mapped_endpoint_count": 1573,
+      "exact": true
+    },
+    {
+      "root_id": "720575940634303132",
+      "direction": "input",
+      "imported_count": 3121,
+      "mapped_endpoint_count": 3121,
+      "exact": true
+    },
+    {
+      "root_id": "720575940634303132",
+      "direction": "output",
+      "imported_count": 1206,
+      "mapped_endpoint_count": 1206,
+      "exact": true
+    },
+    {
+      "root_id": "720575940634949311",
+      "direction": "input",
+      "imported_count": 3074,
+      "mapped_endpoint_count": 3074,
+      "exact": true
+    },
+    {
+      "root_id": "720575940634949311",
+      "direction": "output",
+      "imported_count": 2541,
+      "mapped_endpoint_count": 2541,
+      "exact": true
+    },
+    {
+      "root_id": "720575940635249332",
+      "direction": "input",
+      "imported_count": 3185,
+      "mapped_endpoint_count": 3185,
+      "exact": true
+    },
+    {
+      "root_id": "720575940635249332",
+      "direction": "output",
+      "imported_count": 2643,
+      "mapped_endpoint_count": 2643,
+      "exact": true
+    },
+    {
+      "root_id": "720575940636241550",
+      "direction": "input",
+      "imported_count": 3069,
+      "mapped_endpoint_count": 3069,
+      "exact": true
+    },
+    {
+      "root_id": "720575940636241550",
+      "direction": "output",
+      "imported_count": 1060,
+      "mapped_endpoint_count": 1060,
+      "exact": true
+    },
+    {
+      "root_id": "720575940637666446",
+      "direction": "input",
+      "imported_count": 3282,
+      "mapped_endpoint_count": 3282,
+      "exact": true
+    },
+    {
+      "root_id": "720575940637666446",
+      "direction": "output",
+      "imported_count": 2605,
+      "mapped_endpoint_count": 2605,
+      "exact": true
+    },
+    {
+      "root_id": "720575940640955637",
+      "direction": "input",
+      "imported_count": 3490,
+      "mapped_endpoint_count": 3490,
+      "exact": true
+    },
+    {
+      "root_id": "720575940640955637",
+      "direction": "output",
+      "imported_count": 2762,
+      "mapped_endpoint_count": 2762,
+      "exact": true
+    },
+    {
+      "root_id": "720575940644362788",
+      "direction": "input",
+      "imported_count": 3759,
+      "mapped_endpoint_count": 3759,
+      "exact": true
+    },
+    {
+      "root_id": "720575940644362788",
+      "direction": "output",
+      "imported_count": 1315,
+      "mapped_endpoint_count": 1315,
+      "exact": true
+    },
+    {
+      "root_id": "720575940660217985",
+      "direction": "input",
+      "imported_count": 3169,
+      "mapped_endpoint_count": 3169,
+      "exact": true
+    },
+    {
+      "root_id": "720575940660217985",
+      "direction": "output",
+      "imported_count": 2433,
+      "mapped_endpoint_count": 2433,
+      "exact": true
+    }
+  ]
+}

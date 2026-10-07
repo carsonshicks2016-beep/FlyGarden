@@ -1,0 +1,410 @@
+{
+  "status": "running",
+  "protocol": "Full network acquisition and reversal screen; 20 seeds per condition",
+  "conditions": [
+    "plasticity",
+    "frozen",
+    "shuffled"
+  ],
+  "readout": "MBON11 minus MBON01 firing rate; engineered neural valence proxy, not observed behavior",
+  "behavioral_learning_demonstrated": false,
+  "runs": [
+    {
+      "seed": 0,
+      "condition": "plasticity",
+      "before": -12.5,
+      "acquisition": 5.0,
+      "reversal": 2.5,
+      "changed_connections": 1768,
+      "updates": 6
+    },
+    {
+      "seed": 0,
+      "condition": "frozen",
+      "before": -12.5,
+      "acquisition": 0.0,
+      "reversal": -5.0,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 0,
+      "condition": "shuffled",
+      "before": -12.5,
+      "acquisition": -7.5,
+      "reversal": 0.0,
+      "changed_connections": 1766,
+      "updates": 6
+    },
+    {
+      "seed": 1,
+      "condition": "plasticity",
+      "before": -15.0,
+      "acquisition": -2.5,
+      "reversal": -2.5,
+      "changed_connections": 1769,
+      "updates": 6
+    },
+    {
+      "seed": 1,
+      "condition": "frozen",
+      "before": -15.0,
+      "acquisition": -5.0,
+      "reversal": 0.0,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 1,
+      "condition": "shuffled",
+      "before": -15.0,
+      "acquisition": 2.5,
+      "reversal": 0.0,
+      "changed_connections": 1768,
+      "updates": 6
+    },
+    {
+      "seed": 2,
+      "condition": "plasticity",
+      "before": -12.5,
+      "acquisition": 5.0,
+      "reversal": 0.0,
+      "changed_connections": 1770,
+      "updates": 6
+    },
+    {
+      "seed": 2,
+      "condition": "frozen",
+      "before": -12.5,
+      "acquisition": 2.5,
+      "reversal": 2.5,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 2,
+      "condition": "shuffled",
+      "before": -12.5,
+      "acquisition": 0.0,
+      "reversal": 0.0,
+      "changed_connections": 1769,
+      "updates": 7
+    },
+    {
+      "seed": 3,
+      "condition": "plasticity",
+      "before": -10.0,
+      "acquisition": 5.0,
+      "reversal": 5.0,
+      "changed_connections": 1769,
+      "updates": 6
+    },
+    {
+      "seed": 3,
+      "condition": "frozen",
+      "before": -10.0,
+      "acquisition": 0.0,
+      "reversal": -5.0,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 3,
+      "condition": "shuffled",
+      "before": -10.0,
+      "acquisition": -5.0,
+      "reversal": -5.0,
+      "changed_connections": 1768,
+      "updates": 6
+    },
+    {
+      "seed": 4,
+      "condition": "plasticity",
+      "before": -10.0,
+      "acquisition": 0.0,
+      "reversal": -2.5,
+      "changed_connections": 1771,
+      "updates": 6
+    },
+    {
+      "seed": 4,
+      "condition": "frozen",
+      "before": -10.0,
+      "acquisition": -7.5,
+      "reversal": 5.0,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 4,
+      "condition": "shuffled",
+      "before": -10.0,
+      "acquisition": 2.5,
+      "reversal": 5.0,
+      "changed_connections": 1769,
+      "updates": 6
+    },
+    {
+      "seed": 5,
+      "condition": "plasticity",
+      "before": -12.5,
+      "acquisition": -7.5,
+      "reversal": -5.0,
+      "changed_connections": 1768,
+      "updates": 6
+    },
+    {
+      "seed": 5,
+      "condition": "frozen",
+      "before": -12.5,
+      "acquisition": -5.0,
+      "reversal": -5.0,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 5,
+      "condition": "shuffled",
+      "before": -12.5,
+      "acquisition": 5.0,
+      "reversal": 0.0,
+      "changed_connections": 1767,
+      "updates": 6
+    },
+    {
+      "seed": 6,
+      "condition": "plasticity",
+      "before": -17.5,
+      "acquisition": 2.5,
+      "reversal": 0.0,
+      "changed_connections": 1767,
+      "updates": 6
+    },
+    {
+      "seed": 6,
+      "condition": "frozen",
+      "before": -17.5,
+      "acquisition": -5.0,
+      "reversal": 0.0,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 6,
+      "condition": "shuffled",
+      "before": -17.5,
+      "acquisition": -2.5,
+      "reversal": 2.5,
+      "changed_connections": 1772,
+      "updates": 6
+    },
+    {
+      "seed": 7,
+      "condition": "plasticity",
+      "before": -15.0,
+      "acquisition": -2.5,
+      "reversal": -5.0,
+      "changed_connections": 1766,
+      "updates": 6
+    },
+    {
+      "seed": 7,
+      "condition": "frozen",
+      "before": -15.0,
+      "acquisition": 0.0,
+      "reversal": 5.0,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 7,
+      "condition": "shuffled",
+      "before": -15.0,
+      "acquisition": 2.5,
+      "reversal": 0.0,
+      "changed_connections": 1770,
+      "updates": 6
+    },
+    {
+      "seed": 8,
+      "condition": "plasticity",
+      "before": -10.0,
+      "acquisition": 0.0,
+      "reversal": -5.0,
+      "changed_connections": 1768,
+      "updates": 6
+    },
+    {
+      "seed": 8,
+      "condition": "frozen",
+      "before": -10.0,
+      "acquisition": 5.0,
+      "reversal": -5.0,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 8,
+      "condition": "shuffled",
+      "before": -10.0,
+      "acquisition": -2.5,
+      "reversal": 2.5,
+      "changed_connections": 1764,
+      "updates": 6
+    },
+    {
+      "seed": 9,
+      "condition": "plasticity",
+      "before": -17.5,
+      "acquisition": 5.0,
+      "reversal": 0.0,
+      "changed_connections": 1772,
+      "updates": 6
+    },
+    {
+      "seed": 9,
+      "condition": "frozen",
+      "before": -17.5,
+      "acquisition": 0.0,
+      "reversal": -2.5,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 9,
+      "condition": "shuffled",
+      "before": -17.5,
+      "acquisition": -7.5,
+      "reversal": 2.5,
+      "changed_connections": 1767,
+      "updates": 7
+    },
+    {
+      "seed": 10,
+      "condition": "plasticity",
+      "before": -17.5,
+      "acquisition": -2.5,
+      "reversal": 0.0,
+      "changed_connections": 1767,
+      "updates": 6
+    },
+    {
+      "seed": 10,
+      "condition": "frozen",
+      "before": -17.5,
+      "acquisition": -5.0,
+      "reversal": -2.5,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 10,
+      "condition": "shuffled",
+      "before": -17.5,
+      "acquisition": 2.5,
+      "reversal": 2.5,
+      "changed_connections": 1769,
+      "updates": 5
+    },
+    {
+      "seed": 11,
+      "condition": "plasticity",
+      "before": -20.0,
+      "acquisition": 0.0,
+      "reversal": 7.5,
+      "changed_connections": 1770,
+      "updates": 6
+    },
+    {
+      "seed": 11,
+      "condition": "frozen",
+      "before": -20.0,
+      "acquisition": -5.0,
+      "reversal": -5.0,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 11,
+      "condition": "shuffled",
+      "before": -20.0,
+      "acquisition": -7.5,
+      "reversal": -2.5,
+      "changed_connections": 1768,
+      "updates": 5
+    },
+    {
+      "seed": 12,
+      "condition": "plasticity",
+      "before": -10.0,
+      "acquisition": -2.5,
+      "reversal": 2.5,
+      "changed_connections": 1774,
+      "updates": 6
+    },
+    {
+      "seed": 12,
+      "condition": "frozen",
+      "before": -10.0,
+      "acquisition": 5.0,
+      "reversal": 2.5,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 12,
+      "condition": "shuffled",
+      "before": -10.0,
+      "acquisition": 2.5,
+      "reversal": -2.5,
+      "changed_connections": 1768,
+      "updates": 4
+    },
+    {
+      "seed": 13,
+      "condition": "plasticity",
+      "before": -10.0,
+      "acquisition": 5.0,
+      "reversal": -5.0,
+      "changed_connections": 1770,
+      "updates": 6
+    },
+    {
+      "seed": 13,
+      "condition": "frozen",
+      "before": -10.0,
+      "acquisition": -2.5,
+      "reversal": -7.5,
+      "changed_connections": 0,
+      "updates": 0
+    },
+    {
+      "seed": 13,
+      "condition": "shuffled",
+      "before": -10.0,
+      "acquisition": -5.0,
+      "reversal": -2.5,
+      "changed_connections": 1767,
+      "updates": 6
+    },
+    {
+      "seed": 14,
+      "condition": "plasticity",
+      "before": -20.0,
+      "acquisition": 2.5,
+      "reversal": -5.0,
+      "changed_connections": 1771,
+      "updates": 6
+    },
+    {
+      "seed": 14,
+      "condition": "frozen",
+      "before": -10.0,
+      "acquisition": 0.0,
+      "reversal": -10.0,
+      "changed_connections": 0,
+      "updates": 0
+    }
+  ],
+  "wall_seconds": 1256.7268692920334
+}

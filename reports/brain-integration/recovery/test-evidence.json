@@ -1,0 +1,19 @@
+{
+  "python_regressions": "24 passed in3.77s",
+  "native_contact_probe": "1 passed in1.15s",
+  "browser_units": "7 passed",
+  "actual_browser": "Baseline step and full138639-neuron step observed;frame/state/manifest attribution verified",
+  "sources": {
+    "flygarden/controller_contract.py": "9300079bba2ac742ce2c0f18aaaef027b04cdf012efcde31d2c06280464c552a",
+    "flygarden/engine.py": "bae93be39ef5ceb0e27800a33cd4aa3e40f42f9a8bd9d4494babd70de1ac8167",
+    "flygarden/power.py": "a34aaf3dc4dd2540554747b42d9da5d97bb55eaefc0e591b542f449f2b004439",
+    "flygarden/physical_contacts.py": "d89abaae6066fa5062795a674bf1ad1129aa563d72300da56389e89723d21146",
+    "static/app.js": "42665b0852841a9ee80d0bd23bbbdb601fcc6ed6415036cace32a1523ae1296c",
+    "static/index.html": "7fa044da47cadb3a93df5d75248bf2b74140523ced4bfd069cebfd5ac8e205c5",
+    "scripts/measure_body_operating_range.py": "1dd0fd59f5be6ef6971ad854e63a664a4b348c313d59aee6443ad5bd95ca2f21",
+    "scripts/report_body_operating_range.py": "73a81f211f3f5811725695e1dc31829e4d6ea445ecebf32f56eeb575f93387a6",
+    "tests/test_controller_contract.py": "afccf86bd6cbe23393025396aa39d07138adeb09f5c0a795e8379c20656b9150",
+    "tests/test_body_operating_range.py": "14856562abaf407fa591f84e675d5f0962424b2918da38c070928c5ab62d3f4b",
+    "tests/test_physical_contacts.py": "7d5ffd3b58362d227901959c2c0390ec5a9fb4cb3c49c614489fb45dd725d02d"
+  }
+}

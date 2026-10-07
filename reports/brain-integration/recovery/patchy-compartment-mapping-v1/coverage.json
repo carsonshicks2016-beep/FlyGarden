@@ -1,0 +1,16 @@
+{
+  "selected_neurons": 34,
+  "imported_neurons": 138639,
+  "imported_union_synapses": 174669,
+  "unique_mesh_candidate_sites": 63700,
+  "covered_sites_outside_meshes": 68324,
+  "covered_sites_overlapping_meshes": 0,
+  "sites_without_coordinates": 42645,
+  "all_imported_counts_retained": true,
+  "covered_pairs_all_exact": true,
+  "complete_unthresholded_geometry": false,
+  "hemisphere": "left inferred by anchor registration",
+  "coordinate_coverage_fraction": 0.7558524981536506,
+  "unique_mesh_coverage_fraction": 0.3646897846784489,
+  "physiological_compartments_validated": 0
+}

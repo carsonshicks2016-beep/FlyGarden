@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "local_odor_reconstruction_exact": true,
+  "observations_before_commands": true,
+  "successor_command_applied_next_window": true,
+  "windows": 4,
+  "scope": "Independent reconstruction from recorded antenna positions and source-pinned field; no vision specificity or behavioral success claim"
+}

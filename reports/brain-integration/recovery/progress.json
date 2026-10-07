@@ -1,0 +1,253 @@
+{
+  "status": "active",
+  "full_objective": "All12 recovery and acceptance phases from attached plan",
+  "goal_turn_classification": "progress",
+  "phases": {
+    "1": {
+      "status": "implemented_and_bounded_checks_passed",
+      "evidence": [
+        "reports/brain-integration/recovery/baseline-1791313630095668000/manifest.json",
+        "reports/brain-integration/recovery/controller-browser-validation.json"
+      ],
+      "scope": "124 source assets copied,26 checkpoints cloned and hash-verified,154 original recordings retained. Live baseline and one full-brain step verified through browser/API/recording identity. Escape attribution regression tested; comprehensive release acceptance remains phase12."
+    },
+    "2": {
+      "status": "acceptance_passed",
+      "evidence": [
+        "reports/brain-integration/recovery/body-operating-range/RESULTS.md",
+        "reports/brain-integration/recovery/body-acceptance/protocol.json",
+        "reports/brain-integration/recovery/body-acceptance/continuation/result.json",
+        "reports/brain-integration/recovery/body-acceptance/results.json"
+      ],
+      "remaining": []
+    },
+    "3": {
+      "status": "diagnostic_matrix_and_physical_replay_complete",
+      "evidence": [
+        "reports/brain-integration/stage8-20261006/RESULTS.md",
+        "reports/brain-integration/recovery/body-operating-range/RESULTS.md",
+        "flygarden/neural_probe.py",
+        "tests/test_neural_probe.py",
+        "reports/brain-integration/recovery/interface-matrix/protocol.json",
+        "reports/brain-integration/recovery/interface-matrix/results.json",
+        "reports/brain-integration/recovery/interface-matrix/RESULTS.md",
+        "reports/brain-integration/recovery/probe-parity/results.json"
+      ],
+      "findings": [
+        "Adequate artificial rate inputs produce forward and mirrored physical turns",
+        "Existing contacts field is stumbling forces rather than full foot-ground loads",
+        "Bounded selected-neuron voltage/net-g and delivered-input probe passes native Brian2 diagnostic; full-network matrix remains pending."
+      ],
+      "remaining": [
+        "Long-run native stochastic/biological reference equivalence remains unproven; bounded preserved reference coverage is now explicitly audited."
+      ]
+    },
+    "4": {
+      "status": "adaptive_parameter_sweep_preregistered_running",
+      "evidence": [
+        "reports/brain-integration/recovery/ARCHITECTURE_EVIDENCE.md",
+        "reports/brain-integration/recovery/candidate-v1.json",
+        "flygarden/continuous_candidate.py",
+        "reports/brain-integration/recovery/candidate-calibration/protocol.json",
+        "reports/brain-integration/recovery/candidate-frozen-v1.json",
+        "reports/brain-integration/recovery/candidate-calibration/results.json",
+        "reports/brain-integration/recovery/candidate-calibration/continuation/results.json",
+        "reports/brain-integration/recovery/odor-bias-diagnosis/recorded-analysis.json",
+        "reports/brain-integration/recovery/odor-bias-diagnosis/conventions.json",
+        "reports/brain-integration/recovery/odor-bias-diagnosis/diagnostic-protocol.json",
+        "reports/brain-integration/recovery/odor-bias-diagnosis/RESULTS.md",
+        "reports/brain-integration/recovery/odor-bias-diagnosis/package-results.json",
+        "reports/brain-integration/recovery/odor-gain-calibration-v2/DECISION.md",
+        "reports/brain-integration/recovery/odor-gain-calibration-v2/RESULTS.md",
+        "reports/brain-integration/recovery/odor-gain-calibration-v2/calibration-decision.json",
+        "reports/brain-integration/recovery/persistence-reference-v1/results.json",
+        "reports/brain-integration/recovery/mbon32-capability-v1/results.json",
+        "reports/brain-integration/recovery/synaptic-scale-calibration-v1/DECISION.md",
+        "reports/brain-integration/recovery/MODEL_INTERFACE_REVIEW.md",
+        "reports/brain-integration/recovery/model-interface-review.json",
+        "reports/brain-integration/recovery/synaptic-scale-calibration-v1/model-variants.json",
+        "reports/brain-integration/recovery/olfactory-dynamics-reference-v1/RESULTS.md",
+        "reports/brain-integration/recovery/olfactory-dynamics-reference-v1/acceptance.json",
+        "reports/brain-integration/recovery/olfactory-spiking-mechanism-v1/RESULTS.md",
+        "reports/brain-integration/recovery/olfactory-spiking-mechanism-v1/acceptance.json",
+        "reports/brain-integration/recovery/olfactory-spiking-mechanism-v1/mapping.json",
+        "reports/brain-integration/recovery/olfactory-spiking-mechanism-v1/event-validation.json",
+        "reports/brain-integration/recovery/olfactory-spiking-mechanism-v1/brian-validation.json",
+        "reports/brain-integration/recovery/afferent-stp-full-network-v1/RESULTS.md",
+        "reports/brain-integration/recovery/afferent-stp-full-network-v1/results.json",
+        "reports/brain-integration/recovery/afferent-stp-full-network-v1/protocol.json",
+        "reports/brain-integration/recovery/downstream-persistence-v1/RESULTS.md",
+        "reports/brain-integration/recovery/downstream-persistence-v1/results.json",
+        "reports/brain-integration/recovery/downstream-persistence-v1/protocol.json",
+        "reports/brain-integration/recovery/downstream-persistence-v1/CIRCUIT_FINDINGS.md",
+        "reports/brain-integration/recovery/persistence-sources-v1/protocol.json",
+        "reports/brain-integration/recovery/persistence-sources-v1/results.json",
+        "reports/brain-integration/recovery/persistence-sources-v1/RESULTS.md",
+        "reports/brain-integration/recovery/persistence-sources-v1/CIRCUIT_FINDINGS.md",
+        "reports/brain-integration/recovery/projection-cut-factorial-v1/protocol.json",
+        "reports/brain-integration/recovery/projection-cut-factorial-v1/results.json",
+        "reports/brain-integration/recovery/projection-cut-factorial-v1/RESULTS.md",
+        "reports/brain-integration/recovery/projection-cut-factorial-v1/SIGN_AUDIT.md",
+        "reports/brain-integration/recovery/projection-cut-factorial-v1/sign-audit.json",
+        "reports/brain-integration/recovery/projection-cut-factorial-v1/DECISION.md",
+        "reports/brain-integration/recovery/il3ln6-sign-full-network-v2/protocol.json",
+        "reports/brain-integration/recovery/il3ln6-sign-full-network-v2/results.json",
+        "reports/brain-integration/recovery/il3ln6-sign-full-network-v2/RESULTS.md",
+        "reports/brain-integration/recovery/il3ln6-sign-full-network-v2/DECISION.md",
+        "reports/brain-integration/recovery/il3ln6-sign-full-network-v2/AMENDMENT.json",
+        "reports/brain-integration/recovery/patchy-sign-factorial-v1/EVIDENCE.md",
+        "reports/brain-integration/recovery/patchy-sign-factorial-v1/protocol.json",
+        "reports/brain-integration/recovery/patchy-sign-factorial-v1/results.json",
+        "reports/brain-integration/recovery/patchy-sign-factorial-v1/RESULTS.md",
+        "reports/brain-integration/recovery/patchy-sign-factorial-v1/DECISION.md",
+        "reports/brain-integration/recovery/graded-compartment-reference-v1/protocol.json",
+        "reports/brain-integration/recovery/graded-compartment-reference-v1/results.json",
+        "reports/brain-integration/recovery/graded-compartment-reference-v1/RESULTS.md",
+        "reports/brain-integration/recovery/graded-compartment-reference-v1/EVIDENCE.md",
+        "reports/brain-integration/recovery/graded-compartment-reference-v1/provenance.json",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v1/RESULTS.md",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v1/results.json",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v1/spatial-results.json",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v1/coverage.json",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v1/anatomical-compartment-candidates.json",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v2/mirror-protocol.json",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v2/mirror-results.json",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v2/acquisition-protocol.json",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v2/RESULTS.md",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v2/synapse-results.json",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v2/mapping-results.json",
+        "reports/brain-integration/recovery/patchy-compartment-mapping-v2/delivery-receipt.json",
+        "reports/brain-integration/recovery/local-glomerular-registration-v1/RESULTS.md",
+        "reports/brain-integration/recovery/local-glomerular-registration-v1/results.json",
+        "reports/brain-integration/recovery/local-glomerular-registration-v1/secondary-results.json",
+        "reports/brain-integration/recovery/local-glomerular-registration-v1/eligibility.json",
+        "reports/brain-integration/recovery/patchy-skeleton-site-audit-v1/results.json",
+        "reports/brain-integration/recovery/glomerular-affine-registration-v1/RESULTS.md",
+        "reports/brain-integration/recovery/glomerular-affine-registration-v1/results.json",
+        "reports/brain-integration/recovery/glomerular-affine-registration-v1/mapping-results.json",
+        "reports/brain-integration/recovery/glomerular-affine-registration-v1/partial-anatomical-bindings.json",
+        "reports/brain-integration/recovery/glomerular-affine-registration-v1/local-inhibition-contract.json",
+        "reports/brain-integration/recovery/glomerular-affine-registration-v1/delivery-receipt.json",
+        "reports/brain-integration/recovery/local-inhibition-adapter-v1/RESULTS.md",
+        "reports/brain-integration/recovery/local-inhibition-adapter-v1/validation-results.json",
+        "reports/brain-integration/recovery/local-inhibition-adapter-v1/routing-results.json",
+        "reports/brain-integration/recovery/local-inhibition-adapter-v1/protocol.json",
+        "reports/brain-integration/recovery/local-inhibition-full-network-v1/protocol.json",
+        "reports/brain-integration/recovery/local-inhibition-full-network-v1/bridge-tests.log",
+        "reports/brain-integration/recovery/local-inhibition-full-network-v1/progress.json",
+        "reports/brain-integration/recovery/local-inhibition-full-network-v1/RESULTS.md",
+        "reports/brain-integration/recovery/local-inhibition-full-network-v1/DECISION.md",
+        "reports/brain-integration/recovery/local-inhibition-full-network-v1/results.json",
+        "reports/brain-integration/recovery/local-inhibition-full-network-v1/independent-audit.json",
+        "reports/brain-integration/recovery/local-inhibition-full-network-v1/bridge-engagement.json",
+        "reports/brain-integration/recovery/local-inhibition-full-network-v1/delivery-receipt.json",
+        "reports/brain-integration/recovery/feedback-trace-v1/RESULTS.md",
+        "reports/brain-integration/recovery/feedback-trace-v1/results.json",
+        "reports/brain-integration/recovery/adaptive-cell-reference-v1/RESULTS.md",
+        "reports/brain-integration/recovery/adaptive-cell-reference-v1/results.json",
+        "reports/brain-integration/recovery/adaptive-domain-screen-v1/protocol.json",
+        "reports/brain-integration/recovery/adaptive-domain-screen-v1/zero-regression.json",
+        "reports/brain-integration/recovery/adaptive-domain-screen-v1/zero-whole-state-regression.json",
+        "reports/brain-integration/recovery/adaptive-domain-screen-v1/RESULTS.md",
+        "reports/brain-integration/recovery/adaptive-domain-screen-v1/delivery-receipt.json",
+        "reports/brain-integration/recovery/adaptive-parameter-sweep-v1/protocol.json"
+      ],
+      "findings": [
+        "State support and direct descending stimulation produce useful physical movement",
+        "Both odor sides produce the same turning bias",
+        "Looming and touch reach sensory targets without useful selected walking output"
+      ],
+      "remaining": [
+        "Held-out sensory-dependent choice acceptance remains unpassed"
+      ]
+    },
+    "5": {
+      "status": "vision_registration_failed_in_both_projections_odor_protocol_started",
+      "evidence": [
+        "flygarden/local_senses.py",
+        "reports/brain-integration/recovery/local-senses-smoke.json",
+        "reports/brain-integration/recovery/visual-confound-audit-1791319223548872000/results.json",
+        "flygarden/vision_continuity.py",
+        "tests/test_vision_continuity.py",
+        "reports/brain-integration/recovery/visual-v2-native-1791319443671293000/results.json",
+        "reports/brain-integration/recovery/VISUAL_V2_RESULTS.md",
+        "flygarden/local_senses_v2.py",
+        "reports/brain-integration/recovery/live-causal-v2/screen-results.json",
+        "reports/brain-integration/recovery/live-eye-replay-1791319969201398000/9751/results.json",
+        "reports/brain-integration/recovery/live-masked-replay-1791320179208802000/diagnosis.json",
+        "flygarden/self_masked_body.py",
+        "flygarden/vision_tracks.py",
+        "reports/brain-integration/recovery/LIVE_EYE_DIAGNOSIS.md",
+        "flygarden/vision_background.py",
+        "tests/test_vision_background.py",
+        "reports/brain-integration/recovery/background-vision-screen-1791320509379970000/results.json",
+        "reports/brain-integration/recovery/BACKGROUND_VISION_RESULTS.md",
+        "flygarden/rectilinear_body.py",
+        "reports/brain-integration/recovery/NATIVE_CAMERA_RESULTS.md",
+        "reports/brain-integration/recovery/live-native-replay-1791320689838868000/diagnosis.json"
+      ]
+    },
+    "6": {
+      "status": "bounded_complete_scene_restart_passed_application_integration_pending",
+      "evidence": [
+        "flygarden/continuous_candidate.py",
+        "reports/brain-integration/recovery/candidate-calibration/continuation/results.json",
+        "reports/brain-integration/recovery/candidate-calibration/full-state-continuation/results.json",
+        "reports/brain-integration/recovery/candidate-validation-v1.json",
+        "flygarden/live_body.py",
+        "flygarden/live_coupling.py",
+        "reports/brain-integration/recovery/live-body-parity.json",
+        "reports/brain-integration/recovery/live-candidate-smoke-1791319071816030000/results.json",
+        "reports/brain-integration/recovery/live-candidate-smoke-1791319071816030000/audit.json",
+        "flygarden/live_checkpoint.py",
+        "reports/brain-integration/recovery/live-continuation-1791319244422469000/results.json",
+        "reports/brain-integration/recovery/LIVE_INTEGRATION_RESULTS.md",
+        "reports/brain-integration/recovery/live-v2-continuation-1791319591632735000/results.json",
+        "flygarden/live_checkpoint_v2.py"
+      ]
+    },
+    "7": {
+      "status": "odor_causal_effect_and_exact_replay_pass_directional_choice_failed",
+      "evidence": [
+        "reports/brain-integration/recovery/live-causal-v2/protocol.json",
+        "reports/brain-integration/recovery/live-causal-v2/screen-results.json",
+        "reports/brain-integration/recovery/odor-causal-v2/protocol.json",
+        "flygarden/timed_odor_world.py",
+        "tests/test_odor_causal_fixture.py",
+        "reports/brain-integration/recovery/odor-causal-v2/raw-audit.json",
+        "reports/brain-integration/recovery/odor-causal-v2/screen-results.json",
+        "reports/brain-integration/recovery/odor-causal-v2/results.json",
+        "reports/brain-integration/recovery/odor-causal-v2/motor-replay-results.json",
+        "reports/brain-integration/recovery/odor-causal-v2/RESULTS.md"
+      ]
+    },
+    "8": {
+      "status": "pending",
+      "evidence": []
+    },
+    "9": {
+      "status": "pending",
+      "evidence": []
+    },
+    "10": {
+      "status": "activity_seek_race_fixed_automated_checks_passed_browser_pending",
+      "evidence": [
+        "reports/brain-integration/recovery/activity-seek-fix.json"
+      ]
+    },
+    "11": {
+      "status": "short_window_recording_loss_fixed_remaining_acceptance_pending",
+      "evidence": [
+        "tests/test_short_recording_windows.py"
+      ]
+    },
+    "12": {
+      "status": "pending",
+      "evidence": []
+    }
+  },
+  "next_action": "Complete frozen153-trial stronger adaptation sweep, audit recordings, and run held-out comparisons only for a calibration-eligible candidate; no automatic promotion.",
+  "updated": 1791394129.1818612,
+  "previous_goal_turn_classification": "progress",
+  "next": "Complete frozen153-trial stronger adaptation sweep, audit recordings, and run held-out comparisons only for a calibration-eligible candidate; no automatic promotion."
+}

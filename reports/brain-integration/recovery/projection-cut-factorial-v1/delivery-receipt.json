@@ -1,0 +1,35 @@
+{
+  "status": "complete",
+  "scope": "Annotation/sign/parameter audit and causal separation only",
+  "trials": 9,
+  "chunks_audited": 1440,
+  "all_audits_passed": true,
+  "plot_visually_inspected": true,
+  "frozen_sources_reverified": true,
+  "application_changed": false,
+  "promoted": false,
+  "full_goal_complete": false,
+  "biological_cause_proven": false,
+  "known_marker_rule_disagreements": 16,
+  "trial_wall_seconds": 393.6017554179998,
+  "peak_rss_bytes": 2988392448,
+  "storage_bytes": 76950927,
+  "free_disk_bytes": 225801023488,
+  "artifacts_sha256": {
+    "protocol.json": "c6cc84d765ecd4cc5a1ab23e59251d311d27f979c8019aa43f906e5dc63d21ff",
+    "progress.json": "d35349868752ef4a4d3e883509909a29f70f372d80ff9fa48e6b832b6e12cf19",
+    "results.json": "1f1c0f82477058035d31a12789233693adf35a559c1686ca4472a7aac509fc3e",
+    "RESULTS.md": "2429be75aef8678a39a2d1f183c1a668fb0f6781d2a7595b7fd8fa30a280de5b",
+    "SIGN_AUDIT.md": "ccd393b34995ba6e2f9974f761110aedfbca15a3d253e21033ffa6ac504b94ad",
+    "sign-audit.json": "e1e0ad5cd6ef7359ed11e4af1f87e82161ddf3bcc1b25fa13c06b833d1fd7634",
+    "DECISION.md": "7e0580cf31d46561dadc2aff20b52ff164e6f478009c1f435b8799d74dee2b98",
+    "comparison.png": "8bbccfbfe772942a85cbc7da6891a6663c6598051310b4edd30432a1a543ede2",
+    "model-variants.json": "40295ef361823ab52782ca3c81dee866df241d005bfd8233185494166b062ce9",
+    "lesion-map.json": "4294f660c38982449463bb27d785b042e58a1ab878fd802bc7263afcbdc016d5"
+  },
+  "scripts_sha256": {
+    "diagnose_projection_cut_factorial.py": "85d7015f77e8666262465f701608570aec90ed66882a3730b743228e229eed09",
+    "report_projection_cut_factorial.py": "f406005fc39509d182c999e80adb0e51c21f9e72a4bda2c3c2d63efc98ebca40",
+    "audit_olfactory_signs.py": "2f6c66b51e1097502150618a9269d29760a094bd090d39738d0e981b16b72e8f"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "run": "b79f73f89f94480aa4caa0253b5a5111",
+  "root_id": "720575940621040737",
+  "spikes": 1313,
+  "at_3_seconds_hz": 450,
+  "browser_observed_hz": 450,
+  "history_bins": 30
+}

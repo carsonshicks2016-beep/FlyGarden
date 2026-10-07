@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": {
+    "physical_patch_in_arena": true,
+    "editing_paused": true,
+    "evaluation_invalidated": true,
+    "physical_step_finite": true
+  }
+}

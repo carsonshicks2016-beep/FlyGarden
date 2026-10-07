@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "archive_identity": {
+    "version": 1,
+    "url": "https://zenodo.org/records/10676866/files/flywire_synapses_783.feather?download=1",
+    "bytes": 9492998242,
+    "md5": "f8f1b97c9d4b0ea9b4c8b287f6b99091",
+    "sha256": "b597601805b31a04f3a90730ae3b6319f89e9f1c2795dd132e4c3f87fb32f44c",
+    "published_checksum_verified": true,
+    "ranges_preserved": true,
+    "elapsed_seconds": 1331.3259573330288
+  },
+  "source_hashes": {
+    "data/annotations.tsv": "b214970b55d2fbe0853bba536fdcb9e28730f4eb7ab06f600491df795da683cd",
+    "flygarden/compartment_mapping.py": "9429504b4062603f5b1d265bfe1240da8c8362ef8d6d9a92f649ad9640403dad",
+    "flygarden/local_atlas_registration.py": "aab88201fc54f3bb2b2230c89f2614296435354bc5bd23960bdee256747c23aa",
+    "scripts/prepare_glomerular_affine_data.py": "ccacde4bf2b7fd8d2aad120bb503a468c6bd0835a2f28bd89a32762471bcd517"
+  },
+  "calibration": "Cognate ORN(calibration role) -> uniglomerular PN; source AL_L or AL_R agrees with PN soma side",
+  "fresh_probe": "Uniglomerular PN -> cognate ORN(probe role), source AL_R. Postsynaptic position in native nm.",
+  "split": "Unchanged exact ORN-root SHA256 role from local registration v1",
+  "freshness": "Only counts were inspected for feasibility; no earlier stage fitted or classified these PN -> ORN source synapses",
+  "shared_probe_neurons": "Probe cohorts may share ORNs; source-class/synapse separation is not independent animals",
+  "no_controller_change": true
+}

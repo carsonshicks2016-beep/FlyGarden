@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bb87710ff74d4172ba723cb86cf4eb2e",
+    "run": "ed20d7d471344674a330d216d6aad0dd",
+    "status": "complete",
+    "created": 1791246177.136062,
+    "automatic": true,
+    "settings": {
+      "camera": "follow",
+      "population": "all",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    },
+    "progress": 1.0,
+    "pid": 44430,
+    "process_created": 1791246709.926551,
+    "started": 1791246879.006345,
+    "phase": "Rendering recorded frames",
+    "morphology_loaded": 249,
+    "morphology_requested": 256,
+    "anatomy": {
+      "visible": 256,
+      "modeled": 138639,
+      "unavailable": []
+    },
+    "rendered_frames": 4,
+    "total_frames": 4,
+    "video": "video.mp4",
+    "render_wall_seconds": 3.8629284169874154,
+    "simulated_duration": 0.1,
+    "bytes": 189805,
+    "renderer": "Three.js offline Chromium / H.264",
+    "frame_count": 4,
+    "finished": 1791246901.538686,
+    "error": null
+  },
+  {
+    "id": "5540318bc3fd4b7396f916dfeedf431b",
+    "run": "b79f73f89f94480aa4caa0253b5a5111",
+    "status": "complete",
+    "created": 1791246175.95228,
+    "automatic": true,
+    "settings": {
+      "camera": "follow",
+      "population": "all",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    },
+    "progress": 1.0,
+    "pid": 44430,
+    "process_created": 1791246709.926551,
+    "started": 1791246712.176009,
+    "anatomy": {
+      "visible": 256,
+      "modeled": 138639,
+      "unavailable": []
+    },
+    "phase": "Rendering recorded frames",
+    "rendered_frames": 91,
+    "total_frames": 91,
+    "error": null,
+    "morphology_loaded": 249,
+    "morphology_requested": 256,
+    "video": "video.mp4",
+    "render_wall_seconds": 82.89667049999116,
+    "simulated_duration": 3.0,
+    "bytes": 896227,
+    "renderer": "Three.js offline Chromium / H.264",
+    "frame_count": 91,
+    "finished": 1791246878.976036
+  }
+]

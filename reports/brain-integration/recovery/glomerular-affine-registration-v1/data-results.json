@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rows_scanned": 130054535,
+  "counts": {
+    "calibration": 82157,
+    "sealed_probe": 525
+  },
+  "no_calibration_ORN_overlap": true,
+  "no_prior_source_synapse_overlap": true,
+  "probe_positions_not_classified": true,
+  "sealed_probe_sha256": "d5c933fc67da512bf9f0661ca4afce0cf828fa94db301f5fe6850c8942f74c9f",
+  "calibration_sha256": "3e80409a22b6744d98c4b85df44f9c16a790761ee38560729e25fbe79c32e4cb",
+  "wall_seconds": 49.79145400004927,
+  "sources_reverified": true
+}

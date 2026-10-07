@@ -1,0 +1,4 @@
+{
+  "change": "Corrected overstrong known_nonspiking inventory field name; all domains, indices, equations, sources, gates and seeds unchanged",
+  "before_any_adapted_domain_results_inspected": true
+}

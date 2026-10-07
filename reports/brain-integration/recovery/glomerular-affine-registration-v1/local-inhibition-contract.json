@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "status": "anatomical_binding_complete_physiological_contract_unresolved",
+  "evidence_inventory": {
+    "lLN2P_a": {
+      "roots": 13,
+      "known_nt_nonempty": 0
+    },
+    "lLN2P_b": {
+      "roots": 12,
+      "known_nt_nonempty": 12,
+      "known_nt": "gaba, MIP; acetylcholine-negative"
+    },
+    "lLN2P_c": {
+      "roots": 9,
+      "known_nt_nonempty": 0
+    }
+  },
+  "annotation_scope": "Type-level bridge, not direct individual neuron physiology; predicted and known annotations remain separate.",
+  "published_reference_scope": "LN2P_c/DC3 fitted continuous model; not a measured membrane-voltage or calcium-to-spike conversion and not validated DM1/lLN2P_b parameters.",
+  "required_adapter_fields": [
+    {
+      "field": "input_activity_conversion",
+      "units": "source spikes/s or source voltage mV to documented local continuous variable",
+      "value": null
+    },
+    {
+      "field": "local_state_time_constant",
+      "units": "simulated seconds",
+      "value": null
+    },
+    {
+      "field": "local_inhibitory_target",
+      "units": "explicit neuron root, site allocation and receptor/input mechanism",
+      "value": null
+    },
+    {
+      "field": "release_scaling",
+      "units": "declared normalized release proxy or measured units; cannot mix silently with Brian2 g or mV",
+      "value": null
+    },
+    {
+      "field": "inter_region_coupling",
+      "units": "documented coupling rate; skeleton connectivity does not establish electrical isolation",
+      "value": null
+    },
+    {
+      "field": "MIP_and_receptor_dynamics",
+      "units": "requires source support or explicit exclusion",
+      "value": null
+    }
+  ],
+  "next_acceptance": [
+    "Pin supported versus engineered assumptions before simulation. Preserve all original counts, including unassigned sites.",
+    "Validate isolated gain, offset recovery, timestep convergence, checkpoint continuation and observer parity.",
+    "Run a matched full-network diagnostic against the frozen baseline before any controller promotion."
+  ],
+  "controller_changed": false,
+  "full_network_recovery_demonstrated": false
+}

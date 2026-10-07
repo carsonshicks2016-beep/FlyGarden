@@ -1,0 +1,28 @@
+{
+  "status": "complete",
+  "trials": 17,
+  "chunks_audited": 4080,
+  "audits_passed": true,
+  "plot_visually_inspected": true,
+  "frozen_sources_reverified": true,
+  "response_recovery_passed": false,
+  "sensory_contrast_passed": false,
+  "promoted": false,
+  "application_changed": false,
+  "full_goal_complete": false,
+  "checkpoint_continuation_exact": true,
+  "storage_bytes": 696861924,
+  "trial_wall_seconds": 919.6932472901535,
+  "peak_rss_bytes": 2856828928,
+  "artifacts_sha256": {
+    "protocol.json": "f9c48b986769f856e961b3469a1921810fe945bf424a1440ec1b7f21b483f438",
+    "progress.json": "90e0afdc9a11c9b5c66f864e396e0a7f5d3fba6ad0dcfee0cf284d9795be64c8",
+    "results.json": "c6e3fad59ee5ae390444680d3e24f06d3a14decca249961c1455e619712a8a88",
+    "RESULTS.md": "b3ebeb0f102501440fa34b0bdb46bbbd7719eb596756383d670a0e2ad14cf3d6",
+    "DECISION.md": "0cb9dd618b9585e40bc8566745001e0803972185a69611abb98aea071a482442",
+    "AMENDMENT.json": "acd3c9eddec825752199465529a7006405352a15deda9f24eb9def249d928f24",
+    "comparison.png": "4ffdcb24a0749875535dcca9e35fbaa546b8987e19f3027bba7508df596a1a75",
+    "model-variants.json": "32933349e1988fb2fa016f100ede65a7a040bdfd52ea855bd0419b77f7be939f"
+  },
+  "report_sha256": "93aa15b87662f8306f6b0f09fc41176d90ed9e14dd1113868a0a7594eaae8e11"
+}
