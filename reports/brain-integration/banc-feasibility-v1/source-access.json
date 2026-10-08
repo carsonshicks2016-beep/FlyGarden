@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "observed_at_utc": "2026-10-08T14:14:43.873737+00:00",
+  "scope": "Read-only data/annotation inspection; zero neural simulations or production migration",
+  "source_script_sha256": "4db05dbee664970b17f4a035f106efdca7404b992273de6567f18badb3f23571",
+  "banc_catalog": {
+    "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi%3A10.7910/DVN/7WTH1N",
+    "dataset_doi": "doi:10.7910/DVN/7WTH1N",
+    "version": "3.0",
+    "state": "RELEASED",
+    "license": {
+      "name": "CC BY 4.0",
+      "uri": "http://creativecommons.org/licenses/by/4.0",
+      "iconUri": "https://licensebuttons.net/l/by/4.0/88x31.png"
+    },
+    "sha256": "f1b05b83921b6f7d234bc533fbf5047684ffdcc3958fa5f8120e313337ed1d80"
+  },
+  "assets": {
+    "banc_888_meta.feather": {
+      "source": "BANC archived Dataverse",
+      "url": "https://dataverse.harvard.edu/api/access/datafile/14033740",
+      "catalog_file_id": 14033740,
+      "expected_bytes": 57550610,
+      "catalog_checksum": {
+        "type": "MD5",
+        "value": "6275eda42f98c49539d1ab513d979d09"
+      },
+      "cached": false,
+      "bytes": 57550610,
+      "sha256": "819bbcff476e52702d6f8d8604ce1f12d1d7b11942281df2f49df2a73a6f15a5",
+      "md5": "6275eda42f98c49539d1ab513d979d09",
+      "download_seconds": 3.897210458002519
+    },
+    "banc_888_metrics.feather": {
+      "source": "BANC archived Dataverse",
+      "url": "https://dataverse.harvard.edu/api/access/datafile/14034271",
+      "catalog_file_id": 14034271,
+      "expected_bytes": 9681618,
+      "catalog_checksum": {
+        "type": "MD5",
+        "value": "0e6a81d824abfba0b7bbd2352639922e"
+      },
+      "cached": false,
+      "bytes": 9681618,
+      "sha256": "737a6c0f9b4d202da8d419fb5c539e2ddceaae2594f64952298fca29f678ce08",
+      "md5": "0e6a81d824abfba0b7bbd2352639922e",
+      "download_seconds": 1.4662291669956176
+    },
+    "banc_problem_regions.csv": {
+      "source": "BANC archived Dataverse",
+      "url": "https://dataverse.harvard.edu/api/access/datafile/13916443",
+      "catalog_file_id": 13916443,
+      "expected_bytes": 1215,
+      "catalog_checksum": {
+        "type": "MD5",
+        "value": "bce0320e9a4829ebe2b7e5ffcd5e4b03"
+      },
+      "cached": false,
+      "bytes": 1215,
+      "sha256": "f9e903438ed702791cf1f287b0fa5ed520b7c6334675844cafd6202b3c0949f3",
+      "md5": "bce0320e9a4829ebe2b7e5ffcd5e4b03",
+      "download_seconds": 0.9648013340047328
+    },
+    "body-annotations-male-cns-v1.0-minconf-0.5.feather": {
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/connectome-data/flat-connectome/body-annotations-male-cns-v1.0-minconf-0.5.feather",
+      "resolved_url": "https://storage.googleapis.com/flyem-male-cns/v1.0/connectome-data/flat-connectome/body-annotations-male-cns-v1.0-minconf-0.5.feather",
+      "status": 200,
+      "bytes": 14483314,
+      "etag": "\"50a7718770c57220f160ba4f431ab89e\"",
+      "generation": "1780494878811468",
+      "modified": "Wed, 03 Jun 2026 13:54:38 GMT",
+      "hash": "crc32c=vjz9cg==",
+      "accept_ranges": "bytes",
+      "cached": false,
+      "sha256": "2177e246113e4cfbf1e7772ec37c6da1955ff22e8063d0b1f833101f99a9a3b2",
+      "md5": "50a7718770c57220f160ba4f431ab89e",
+      "download_seconds": 1.0360792499996023
+    },
+    "body-neurotransmitters-male-cns-v1.0.feather": {
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/connectome-data/flat-connectome/body-neurotransmitters-male-cns-v1.0.feather",
+      "resolved_url": "https://storage.googleapis.com/flyem-male-cns/v1.0/connectome-data/flat-connectome/body-neurotransmitters-male-cns-v1.0.feather",
+      "status": 200,
+      "bytes": 43282834,
+      "etag": "\"3d842b12fe5c49eefade528d7dd24a1f\"",
+      "generation": "1780894899156750",
+      "modified": "Mon, 08 Jun 2026 05:01:39 GMT",
+      "hash": "crc32c=jcpNFg==",
+      "accept_ranges": "bytes",
+      "cached": false,
+      "sha256": "95c9289220663abeb3409f3ad9e5a7f8a53f8093f5139d15502cd08da8879621",
+      "md5": "3d842b12fe5c49eefade528d7dd24a1f",
+      "download_seconds": 2.723828542002593
+    }
+  },
+  "graph_probes": {
+    "banc_v2": {
+      "url": "https://storage.googleapis.com/lee-lab_brain-and-nerve-cord-fly-connectome/compiled_data/banc_888/banc_888_edgelist_simple_v2.feather",
+      "resolved_url": "https://storage.googleapis.com/lee-lab_brain-and-nerve-cord-fly-connectome/compiled_data/banc_888/banc_888_edgelist_simple_v2.feather",
+      "status": 200,
+      "bytes": 305250378,
+      "etag": "\"394406f8a9bdf093c895f95aff4f6c49\"",
+      "generation": "1780396134870867",
+      "modified": "Tue, 02 Jun 2026 10:28:55 GMT",
+      "hash": "crc32c=o6ZNRw==",
+      "accept_ranges": "bytes",
+      "matches_archived_md5": true,
+      "archived_bytes": 305250378,
+      "archived_file_id": 13992792,
+      "record_rows": 11752828,
+      "batches": 180,
+      "source_bytes": 305250378,
+      "range_bytes_read": 82488,
+      "footer_and_batch_metadata_sha256": "8164591bbeb791816cfee1305c89a21f0d1bdff31b7e27622cb39af589aa1ad0",
+      "scope": "Serialized row count only; no connectivity values or endpoint validity inspected"
+    },
+    "banc_v3": {
+      "url": "https://storage.googleapis.com/lee-lab_brain-and-nerve-cord-fly-connectome/compiled_data/banc_888/banc_888_edgelist_simple_v3.feather",
+      "resolved_url": "https://storage.googleapis.com/lee-lab_brain-and-nerve-cord-fly-connectome/compiled_data/banc_888/banc_888_edgelist_simple_v3.feather",
+      "status": 200,
+      "bytes": 359161658,
+      "etag": "\"08542b0771db7418ed474be60dc9886c\"",
+      "generation": "1786578377086929",
+      "modified": "Wed, 12 Aug 2026 23:46:17 GMT",
+      "hash": "crc32c=zvJNpA==",
+      "accept_ranges": "bytes",
+      "matches_archived_md5": true,
+      "archived_bytes": 359161658,
+      "archived_file_id": 13918810,
+      "record_rows": 13620865,
+      "batches": 208,
+      "source_bytes": 359161658,
+      "range_bytes_read": 95256,
+      "footer_and_batch_metadata_sha256": "29030df5bf1ce392178dbf1cea358de5d46d343bc87185c31ac3f0257faca229",
+      "scope": "Serialized row count only; no connectivity values or endpoint validity inspected"
+    },
+    "male_v1": {
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/connectome-data/flat-connectome/connectome-weights-male-cns-v1.0-minconf-0.5.feather",
+      "resolved_url": "https://storage.googleapis.com/flyem-male-cns/v1.0/connectome-data/flat-connectome/connectome-weights-male-cns-v1.0-minconf-0.5.feather",
+      "status": 200,
+      "bytes": 1051241946,
+      "etag": "\"f30e9dcca25cfd021bf1e7b3d975599e\"",
+      "generation": "1780494887545976",
+      "modified": "Wed, 03 Jun 2026 13:54:47 GMT",
+      "hash": "crc32c=dKRPVQ==",
+      "accept_ranges": "bytes",
+      "record_rows": 151856684,
+      "batches": 2318,
+      "source_bytes": 1051241946,
+      "range_bytes_read": 650032,
+      "footer_and_batch_metadata_sha256": "ce574e4b425bfd0077e99d82021d33ed4c5ca3b67113a8eb62c5618771d8e70b",
+      "scope": "Serialized row count only; no connectivity values or endpoint validity inspected"
+    }
+  },
+  "errors": [],
+  "banc_live_metadata": {
+    "url": "https://storage.googleapis.com/lee-lab_brain-and-nerve-cord-fly-connectome/compiled_data/banc_888/banc_888_meta.feather",
+    "resolved_url": "https://storage.googleapis.com/lee-lab_brain-and-nerve-cord-fly-connectome/compiled_data/banc_888/banc_888_meta.feather",
+    "status": 200,
+    "bytes": 57503026,
+    "etag": "\"8c2b93a608c7163ec9d94d68e0756ff4\"",
+    "generation": "1787336614757441",
+    "modified": "Fri, 21 Aug 2026 18:23:34 GMT",
+    "hash": "crc32c=nRxVEg==",
+    "accept_ranges": "bytes",
+    "same_size_as_archived": false,
+    "same_md5_as_archived": false
+  },
+  "runtime_seconds": 530.3008499159987,
+  "free_disk_gib_after": 194.72385787963867,
+  "reserve_gib": 2.0,
+  "downloaded_annotation_bytes": 124999591
+}

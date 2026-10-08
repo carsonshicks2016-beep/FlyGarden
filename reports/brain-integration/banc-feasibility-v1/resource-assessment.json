@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "hardware": {
+    "platform": "macOS-26.5.1-arm64-arm-64bit",
+    "physical_memory_bytes": 17179869184,
+    "physical_cpus": 12,
+    "logical_cpus": 12
+  },
+  "annotation_source_bytes": 124999591,
+  "graph_metadata_bytes_read": 827776,
+  "graph_schema_bytes_read": 24576,
+  "source_access_runtime_seconds": 530.3008499159987,
+  "inventory_runtime_seconds": 4.06633100000181,
+  "inventory_peak_process_rss_bytes": 1367375872,
+  "disk_free_bytes_at_receipt": 209083150336,
+  "reserve_bytes": 2147483648,
+  "resource_estimates": {
+    "banc_v2": {
+      "serialized_records": 11752828,
+      "compressed_source_bytes": 305250378,
+      "two_int32_indices_plus_float64_weight_bytes": 188045248,
+      "one_additional_float64_edge_state_bytes": 94022624,
+      "warning": "Illustrative array floor only; includes no simulator, event queues, import copies, neurons, body, viewer or accepted membership filtering. BANC simple excludes autapses; Male all-segment graph is not an accepted neuron graph."
+    },
+    "banc_v3": {
+      "serialized_records": 13620865,
+      "compressed_source_bytes": 359161658,
+      "two_int32_indices_plus_float64_weight_bytes": 217933840,
+      "one_additional_float64_edge_state_bytes": 108966920,
+      "warning": "Illustrative array floor only; includes no simulator, event queues, import copies, neurons, body, viewer or accepted membership filtering. BANC simple excludes autapses; Male all-segment graph is not an accepted neuron graph."
+    },
+    "male_v1": {
+      "serialized_records": 151856684,
+      "compressed_source_bytes": 1051241946,
+      "two_int32_indices_plus_float64_weight_bytes": 2429706944,
+      "one_additional_float64_edge_state_bytes": 1214853472,
+      "warning": "Illustrative array floor only; includes no simulator, event queues, import copies, neurons, body, viewer or accepted membership filtering. BANC simple excludes autapses; Male all-segment graph is not an accepted neuron graph."
+    }
+  },
+  "neural_or_combined_benchmark_performed": false
+}

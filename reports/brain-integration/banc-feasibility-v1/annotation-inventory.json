@@ -1,0 +1,694 @@
+{
+  "schema_version": 1,
+  "observed_at_utc": "2026-10-08T15:21:10.029586+00:00",
+  "script_sha256": "eec32e501b0bea8378300ef5b3333eb0fa6087882e4a8eb804eb81837514b43a",
+  "source_receipt_sha256": "52fc914f914e01f0719efe73ff2c29b08a641395450ec71f8c828653da9120f9",
+  "access_helper_sha256": "9bbfa03a135bda7f1954eb3768a57da5496613ef0696fd2df88fb678cb47a4fc",
+  "scope": "Annotation inventory only; no edges, dynamics, or fitted responses",
+  "tables": {
+    "banc_888_meta.feather": {
+      "rows": 188508,
+      "columns": 81,
+      "decoded_arrow_bytes": 145180274,
+      "schema": "banc_888_id: string\nroot_id: string\nsupervoxel_id: string\nposition: string\nroot_626: string\nroot_850: string\nroot_888: string\nroot_890: string\nnucleus_id: string\nproofread: string\nroughly_proofread: string\nstatus: string\nside: string\nroot_position: string\nroot_position_nm: string\nroot_region: string\nregion: string\nhemilineage: string\nnerve: string\ntract: string\nneuromere: string\nflow: string\nsuper_class: string\ncell_class: string\ncell_sub_class: string\ncell_type: string\nfafb_cell_type: string\nfafb_alignment_cell_type: string\nmanc_cell_type: string\nmalecns_cell_type: string\nhemibrain_cell_type: string\nfanc_cell_type: string\nfafb_match: string\nmanc_match: string\nmalecns_match: string\nhemibrain_match: string\nfanc_match: string\nfafb_nblast_match: string\nmanc_nblast_match: string\nhemibrain_nblast_match: string\nfanc_nblast_match: string\nmalecns_nblast_match: string\nsexually_dimorphic: string\ncluster: string\nmanual_cluster: string\nsuper_cluster: string\ncns_network: string\nbody_part_sensory: string\nbody_part_effector: string\nperipheral_target_type: string\ncell_function: string\ncell_function_detailed: string\nneurotransmitter_predicted: string\nneurotransmitter_score: double\nneurotransmitter_verified: string\nneuropeptide_verified: string\nl2_nodes: double\nl2_cable_length_um: double\nvolume_nm3: double\ninput_connections: double\noutput_connections: double\ninput_side_index: double\noutput_side_index: double\nmitochondria: double\nmitochondria_volume: double\npd_width: double\nsegregation_index: double\nseed_01: string\nseed_02: string\nseed_03: string\nseed_04: string\nseed_05: string\nseed_06: string\nseed_07: string\nseed_08: string\nseed_09: string\nseed_10: string\nseed_11: string\nseed_12: string\nseed_13: string\nseed_14: string\n-- schema metadata --\nr: 'A\n3\n262657\n197888\n5\nUTF-8\n531\n2\n531\n1\n525\n2\n32735\n28588\n1026\n1\n262153' + 2348",
+      "sha256": "819bbcff476e52702d6f8d8604ce1f12d1d7b11942281df2f49df2a73a6f15a5"
+    },
+    "banc_888_metrics.feather": {
+      "rows": 188508,
+      "columns": 14,
+      "decoded_arrow_bytes": 25555360,
+      "schema": "banc_888_id: string\nside: string\nregion: string\nl2_nodes: double\nl2_cable_length_um: double\ninput_connections: double\noutput_connections: double\ninput_side_index: double\noutput_side_index: double\nmitochondria: double\nmitochondria_volume: double\npd_width: double\nsegregation_index: double\nvolume_nm3: double\n-- schema metadata --\nr: 'A\n3\n263170\n197888\n5\nUTF-8\n531\n2\n531\n1\n525\n2\n40146\n36042\n1026\n1\n262153' + 551",
+      "sha256": "737a6c0f9b4d202da8d419fb5c539e2ddceaae2594f64952298fca29f678ce08"
+    },
+    "body-annotations-male-cns-v1.0-minconf-0.5.feather": {
+      "rows": 211577,
+      "columns": 36,
+      "decoded_arrow_bytes": 50935168,
+      "schema": "assignedOlHex1: double\nassignedOlHex2: double\nbodyId: int64\nflywireType: string\ngroup: double\ninstance: string\nsomaSide: string\nstatusLabel: dictionary<values=string, indices=int8, ordered=1>\nsuperclass: string\ntype: string\nvfbId: string\nhemibrainType: string\nitoleeHl: string\nsupertype: string\nbirthtime: string\nmancBodyid: double\nmancGroup: double\nmancType: string\nsubclass: string\nsynonyms: string\nclass: string\nrootSide: string\nsomaNeuromere: string\ntrumanHl: string\ndimorphism: string\nmatchingNotes: string\nentryNerve: string\nmancSerial: double\nmcnsSerial: double\nserialMotif: string\nfruDsx: string\nexitNerve: string\nreceptorType: string\nsomaLocation: list<item: int64>\n  child 0, item: int64\ntosomaLocation: list<item: int64>\n  child 0, item: int64\nstatus: string\n-- schema metadata --\npandas: '{\"index_columns\": [{\"kind\": \"range\", \"name\": null, \"start\": 0, \"' + 4583",
+      "sha256": "2177e246113e4cfbf1e7772ec37c6da1955ff22e8063d0b1f833101f99a9a3b2"
+    },
+    "body-neurotransmitters-male-cns-v1.0.feather": {
+      "rows": 1835518,
+      "columns": 10,
+      "decoded_arrow_bytes": 138329873,
+      "schema": "body: int64\ncell_type: string\ntotal_nt_predictions: int32\npredicted_nt_confidence: double\npredicted_nt: string\nground_truth: string\ncelltype_total_nt_predictions: int32\ncelltype_predicted_nt: string\ncelltype_predicted_nt_confidence: double\nconsensus_nt: string\n-- schema metadata --\npandas: '{\"index_columns\": [{\"kind\": \"range\", \"name\": null, \"start\": 0, \"' + 1606",
+      "sha256": "95c9289220663abeb3409f3ad9e5a7f8a53f8093f5139d15502cd08da8879621"
+    }
+  },
+  "banc": {
+    "primary_key": "banc_888_id",
+    "counts_are": "Annotation rows; not accepted modeled neurons",
+    "metrics_id_set_equal": true,
+    "class_counts": {
+      "optic_lobe_intrinsic": 72947,
+      "central_brain_intrinsic": 31879,
+      "<missing>": 28632,
+      "sensory": 16563,
+      "ventral_nerve_cord_intrinsic": 12866,
+      "glia": 12750,
+      "visual_projection": 7316,
+      "ascending": 1849,
+      "descending": 1316,
+      "motor": 805,
+      "sensory_ascending": 517,
+      "visual_centrifugal": 472,
+      "visceral_circulatory": 221,
+      "not_a_neuron": 195,
+      "trachea": 162,
+      "sensory_descending": 13,
+      "ascending_visceral_circulatory": 5
+    },
+    "region_counts": {
+      "optic_lobe": 108764,
+      "central_brain": 47688,
+      "ventral_nerve_cord": 31688,
+      "<missing>": 368
+    },
+    "proofread_counts": {
+      "TRUE": 150952,
+      "FALSE": 37556
+    },
+    "flow_counts": {
+      "intrinsic": 141708,
+      "<missing>": 28678,
+      "afferent": 17089,
+      "efferent": 1033
+    },
+    "cell_function_counts": {
+      "<missing>": 164290,
+      "tactile": 6699,
+      "visual_achromatic": 5824,
+      "olfactory": 3011,
+      "proprioception": 2903,
+      "visual_chromatic": 1840,
+      "gustatory": 1585,
+      "auditory": 1187,
+      "leg_motor": 391,
+      "nociception": 170,
+      "hygrosensory": 90,
+      "neck_motor": 49,
+      "diuresis,stress_tolerance,pain_threshold": 43,
+      "proboscis_motor": 35,
+      "thermosensory": 31,
+      "visceral_mechanosensation": 28,
+      "wing_power": 24,
+      "wing_steering": 24,
+      "unknown_mechanosensory": 24,
+      "pharynx_motor": 22,
+      "visual_ocellar": 22,
+      "ovulation": 21,
+      "oxygenation": 19,
+      "energy_metabolism,food_intake": 16,
+      "haltere_steering": 13,
+      "unknown_sensory": 13,
+      "wing_tension": 12,
+      "haltere_motor": 10,
+      "antenna_motor": 10,
+      "hormone_regulation,stress_tolerance,energy_metabolism,osmotic_balance": 9,
+      "visual_polarized_light": 8,
+      "crop_motor": 7,
+      "diuresis,food_intake,energy_metabolism,post_mating_responses": 6,
+      "diuresis,gut_motility,hormone_regulation": 6,
+      "cardiostimulation,energy_metabolism,stress_tolerance,hormone_regulation": 6,
+      "food_intake": 6,
+      "visceral_chemosensation": 6,
+      "polarized_light": 6,
+      "aorta": 5,
+      "myomodulation,energy_metabolism": 5,
+      "feeding": 4,
+      "retina_motor": 4,
+      "feeding_suppression": 4,
+      "interoceptive": 4,
+      "anti_diuresis,stress_tolerance,energy_metabolism": 4,
+      "salivary_motor": 2,
+      "haltere_power": 2,
+      "unknown_wing_motor": 2,
+      "jump_escape": 2,
+      "anti_diuresis,stress_tolerance": 2,
+      "gustatory_tactile": 2
+    },
+    "generic_root_mismatches": 16319,
+    "root_888_conflicts": [
+      {
+        "banc_888_id": "720575941229247158",
+        "root_id": "720575941229247158",
+        "root_888": "147423687484661800",
+        "cell_type": null,
+        "side": "right",
+        "proofread": "FALSE",
+        "status": "TOO_SMALL"
+      },
+      {
+        "banc_888_id": "720575940434812394",
+        "root_id": "720575940434812394",
+        "root_888": "150730400321262552",
+        "cell_type": null,
+        "side": "left",
+        "proofread": "FALSE",
+        "status": "TOO_SMALL"
+      }
+    ],
+    "unclassified_proofread_true": 11344,
+    "targets": {
+      "ORN_DM1": {
+        "rows": 90,
+        "sides": {
+          "right": 45,
+          "left": 45
+        }
+      },
+      "ORN_DM2": {
+        "rows": 60,
+        "sides": {
+          "left": 35,
+          "right": 25
+        }
+      },
+      "DM1_lPN": {
+        "rows": 2,
+        "sides": {
+          "right": 1,
+          "left": 1
+        }
+      },
+      "DNp09": {
+        "rows": 2,
+        "sides": {
+          "left": 1,
+          "right": 1
+        }
+      },
+      "DNa02": {
+        "rows": 2,
+        "sides": {
+          "left": 1,
+          "right": 1
+        }
+      },
+      "DNa01": {
+        "rows": 2,
+        "sides": {
+          "left": 1,
+          "right": 1
+        }
+      },
+      "DNg13": {
+        "rows": 2,
+        "sides": {
+          "right": 1,
+          "left": 1
+        }
+      },
+      "DNp01": {
+        "rows": 2,
+        "sides": {
+          "left": 1,
+          "right": 1
+        }
+      },
+      "LC4": {
+        "rows": 114,
+        "sides": {
+          "right": 63,
+          "left": 51
+        }
+      },
+      "LPLC2": {
+        "rows": 181,
+        "sides": {
+          "right": 92,
+          "left": 89
+        }
+      },
+      "MBON01": {
+        "rows": 2,
+        "sides": {
+          "left": 2
+        }
+      },
+      "MBON11": {
+        "rows": 2,
+        "sides": {
+          "left": 1,
+          "right": 1
+        }
+      },
+      "MBON32": {
+        "rows": 2,
+        "sides": {
+          "right": 1,
+          "left": 1
+        }
+      },
+      "PAM01": {
+        "rows": 38,
+        "sides": {
+          "right": 20,
+          "left": 18
+        }
+      },
+      "PPL101": {
+        "rows": 2,
+        "sides": {
+          "left": 1,
+          "right": 1
+        }
+      },
+      "L1": {
+        "rows": 1665,
+        "sides": {
+          "right": 874,
+          "left": 791
+        }
+      },
+      "R1": {
+        "rows": 0,
+        "sides": {}
+      },
+      "R7": {
+        "rows": 924,
+        "sides": {
+          "right": 797,
+          "left": 127
+        }
+      }
+    },
+    "bilateral_ambiguities": [
+      "MBON01"
+    ],
+    "sensory_class_counts": {
+      "bristle_neuron": 6054,
+      "olfactory_receptor_neuron": 3007,
+      "chordotonal_organ_neuron": 2106,
+      "photoreceptor_neuron": 1843,
+      "taste_bristle_gustatory_neuron": 1231,
+      "<missing>": 717,
+      "hair_plate_neuron": 320,
+      "orphan_neuron": 262,
+      "multidendritic_neuron": 234,
+      "campaniform_sensillum_neuron": 201,
+      "taste_bristle_tactile_neuron": 114,
+      "hygrosensory_receptor_neuron": 90,
+      "internal_taste_sensillum_gustatory_neuron": 87,
+      "taste_peg_tactile_neuron": 77,
+      "taste_peg_gustatory_neuron": 61,
+      "internal_sensillum_tactile_neuron": 51,
+      "reproductive_tract_sensory_neuron": 34,
+      "thermosensory_receptor_neuron": 31,
+      "thoracic_abdominal_segmental_sensory_neuron": 19,
+      "oxygenation_neuron": 8,
+      "nutrient_sensory_neuron": 5,
+      "aorta_sensory_neuron": 4,
+      "taste_bristle_neuron": 3,
+      "strand_neuron": 2,
+      "ascending_neuron": 1,
+      "aorta_neuron": 1
+    },
+    "chordotonal_superclass_counts": {
+      "sensory": 2106,
+      "sensory_ascending": 25
+    },
+    "chordotonal_subclass_counts": {
+      "johnstons_organ_B_neuron": 417,
+      "johnstons_organ_E_neuron": 409,
+      "johnstons_organ_F_neuron": 187,
+      "hind_leg_club_chordotonal_organ_neuron": 127,
+      "middle_leg_club_chordotonal_organ_neuron": 109,
+      "front_leg_club_chordotonal_organ_neuron": 106,
+      "johnstons_organ_A_neuron": 93,
+      "hind_leg_claw_chordotonal_organ_neuron": 63,
+      "front_leg_hook_chordotonal_organ_neuron": 53,
+      "johnstons_organ_C_neuron": 53,
+      "wheelers_chordotonal_organ_neuron": 52,
+      "front_leg_claw_chordotonal_organ_neuron": 52,
+      "middle_leg_claw_chordotonal_organ_neuron": 47,
+      "hind_leg_hook_chordotonal_organ_neuron": 45,
+      "neck_chordotonal_organ_neuron": 44,
+      "middle_leg_hook_chordotonal_organ_neuron": 43,
+      "middle_leg_orphan_neuron": 33,
+      "wing_base_chordotonal_organ_neuron": 33,
+      "hind_leg_orphan_neuron": 32,
+      "haltere_chordotonal_organ_neuron": 27,
+      "wing_tegula_chordotonal_organ_neuron": 22,
+      "middle_leg_chordotonal_organ_neuron": 16,
+      "johnstons_organ_other_neuron": 16,
+      "front_leg_chordotonal_organ_neuron": 16,
+      "hind_leg_chordotonal_organ_neuron": 14,
+      "johnstons_organ_D_neuron": 13,
+      "johnstons_organ_neuron": 5,
+      "front_leg_orphan_neuron": 2,
+      "middle_leg_hair_plate_neuron": 1,
+      "metathoracic_chordotonal_organ_neuron": 1
+    },
+    "motor_body_part_counts": {
+      "abdomen": 168,
+      "front_leg": 139,
+      "hind_leg": 126,
+      "middle_leg": 126,
+      "wing": 64,
+      "neck": 49,
+      "proboscis": 35,
+      "haltere": 27,
+      "pharynx": 22,
+      "thoracic_abdominal": 18,
+      "antenna, scape": 8,
+      "crop": 7,
+      "uterus": 6,
+      "eye": 4,
+      "unknown": 2,
+      "salivary_gland": 2,
+      "antenna": 2
+    },
+    "motor_function_counts": {
+      "leg_motor": 391,
+      "<missing>": 190,
+      "neck_motor": 49,
+      "proboscis_motor": 35,
+      "wing_power": 24,
+      "wing_steering": 24,
+      "pharynx_motor": 22,
+      "haltere_steering": 13,
+      "wing_tension": 12,
+      "haltere_motor": 10,
+      "antenna_motor": 10,
+      "crop_motor": 7,
+      "ovulation": 6,
+      "retina_motor": 4,
+      "salivary_motor": 2,
+      "haltere_power": 2,
+      "unknown_wing_motor": 2,
+      "jump_escape": 2
+    },
+    "front_leg_motor_muscle_counts": {
+      "accessory_tibia_flexor_muscle": 23,
+      "long_tendon_muscle": 16,
+      "trochanter_flexor_muscle": 16,
+      "femur_reductor_muscle": 12,
+      "tibia_flexor_muscle": 10,
+      "tergopleural_promotor_muscle": 8,
+      "tergotrochanter_extensor_muscle": 8,
+      "tarsus_depressor_muscle": 8,
+      "sternal_posterior_rotator_muscle": 8,
+      "accessory_trochanter_flexor_muscle": 6,
+      "sternal_anterior_rotator_muscle": 4,
+      "trochanter_extensor_muscle": 4,
+      "pleural_remotor_and_abductor_muscle": 4,
+      "sternotrochanter_extensor_muscle": 4,
+      "tibia_extensor_muscle": 4,
+      "sternal_adductor_muscle": 2,
+      "tarsus_levator_muscle": 2
+    },
+    "hemilineage_13B_rows": 440,
+    "hemilineage_13B_warning": "Hemilineage membership does not establish correspondence to physiological 13B-alpha cells",
+    "transmitter": {
+      "predicted_counts": {
+        "acetylcholine": 87059,
+        "<missing>": 34455,
+        "glutamate": 25099,
+        "gaba": 21686,
+        "dopamine": 8344,
+        "histamine": 7411,
+        "octopamine": 2303,
+        "serotonin": 1936,
+        "tyramine": 215
+      },
+      "verified_counts": {
+        "<missing>": 123022,
+        "acetylcholine": 43507,
+        "glutamate": 8738,
+        "gaba": 6845,
+        "gaba,nitric_oxide": 2878,
+        "histamine": 928,
+        "histamine,acetylcholine": 914,
+        "acetylcholine,nitric_oxide,dopamine": 666,
+        "dopamine": 355,
+        "acetylcholine,nitric_oxide": 167,
+        "tyramine": 95,
+        "serotonin": 88,
+        "octopamine": 81,
+        "acetylcholine,serotonin": 75,
+        "glutamate,serotonin": 42,
+        "acetylcholine,glutamate": 23,
+        "glycine": 14,
+        "glutamate,acetylcholine": 9,
+        "nitric_oxide": 7,
+        "glutamate,tyramine": 6,
+        "glutamate,serotonin,tyramine": 5,
+        "dopamine,tyramine": 5,
+        "dopamine,serotonin": 4,
+        "glutamate,dopamine,serotonin": 4,
+        "dopamine,nitric_oxide": 4,
+        "gaba,dopamine": 4,
+        "octopamine,acetylcholine": 4,
+        "tyramine,serotonin,glutamate": 3,
+        "acetylcholine,dopamine": 3,
+        "glutamate,octopamine": 2,
+        "serotonin,gaba": 2,
+        "dopamine,glutamate,serotonin": 2,
+        "acetylcholine,gaba": 2,
+        "acetylcholine,glycine": 2,
+        "dopamine,gaba": 1,
+        "gaba,acetylcholine": 1
+      },
+      "both_present": 64483,
+      "predicted_not_in_verified_set": 4889,
+      "universal_postsynaptic_receptor_map": false,
+      "cell_electrical_parameters_available": false
+    }
+  },
+  "male": {
+    "primary_key": "bodyId",
+    "counts_are": "Annotation rows; includes fragments and non-neural segments",
+    "superclass_counts": {
+      "ol_intrinsic": 89403,
+      "<missing>": 44877,
+      "cb_intrinsic": 32164,
+      "vnc_intrinsic": 13161,
+      "visual_projection": 9201,
+      "vnc_sensory": 6370,
+      "ol_sensory": 6098,
+      "cb_sensory": 4868,
+      "ascending_neuron": 1846,
+      "descending_neuron": 1314,
+      "vnc_motor": 708,
+      "visual_centrifugal": 563,
+      "sensory_ascending": 537,
+      "cb_motor": 107,
+      "vnc_efferent": 94,
+      "cb_endocrine": 72,
+      "ENS": 50,
+      "vnc_tbc": 38,
+      "vnc_sensory_tbc": 36,
+      "vnc_endocrine": 22,
+      "cb_sensory_tbc": 14,
+      "sensory_descending": 12,
+      "efferent_ascending": 8,
+      "efferent_descending": 4,
+      "cb_efferent": 4,
+      "visual_projection_tbc": 2,
+      "sensory_ascending_tbc": 2,
+      "descending_neuron_tbc": 2
+    },
+    "status_counts": {
+      "Traced": 165122,
+      "Orphan": 15925,
+      "Glia": 11864,
+      "Unimportant": 10751,
+      "<missing>": 5472,
+      "Assign": 1832,
+      "Anchor": 611
+    },
+    "status_label_counts": {
+      "Roughly traced": 71979,
+      "Reviewed": 54066,
+      "Prelim Roughly traced": 36387,
+      "Orphan": 12075,
+      "Glia": 11864,
+      "Unimportant": 10751,
+      "Out of scope": 4585,
+      "Orphan-artifact": 2318,
+      "RT Hard to trace": 2019,
+      "0.5assign": 1832,
+      "Orphan hotknife": 1428,
+      "<missing>": 887,
+      "Leaves": 528,
+      "Anchor": 283,
+      "Soma Anchor": 201,
+      "PRT Orphan": 140,
+      "Hard to trace": 104,
+      "Sensory Anchor": 101,
+      "Partially traced": 26,
+      "RT Orphan": 3
+    },
+    "class_counts": {
+      "<missing>": 185064,
+      "visual": 6091,
+      "Kenyon_Cell": 4064,
+      "CX": 2950,
+      "olfactory": 2639,
+      "mechanosensory_tactile": 2558,
+      "mechanosensory": 1733,
+      "unknown_sensory": 1712,
+      "mechanosensory_proprioceptive": 1454,
+      "gustatory": 1428,
+      "ALPN": 686,
+      "ALLN": 420,
+      "DAN": 340,
+      "ol_bilateral": 116,
+      "MBON": 97,
+      "hygrosensory": 66,
+      "chemosensory": 58,
+      "SEZPN": 27,
+      "thermosensory": 25,
+      "ALIN": 24,
+      "ALON": 14,
+      "mechanosensory_tbc": 11
+    },
+    "transmitter_join_matched": 187016,
+    "transmitter_annotation_missing": 24561,
+    "transmitter_rows_outside_annotation_table": 1648502,
+    "consensus_nt_counts_on_annotation_rows": {
+      "acetylcholine": 104173,
+      "glutamate": 29443,
+      "<missing>": 24561,
+      "unclear": 22645,
+      "gaba": 22186,
+      "histamine": 8024,
+      "dopamine": 396,
+      "octopamine": 101,
+      "serotonin": 48
+    },
+    "receptor_type_counts": {
+      "<missing>": 210825,
+      "putative_ppk23": 269,
+      "putative_ppk25": 257,
+      "putative_IR52b": 226
+    },
+    "universal_postsynaptic_receptor_map": false,
+    "cell_electrical_parameters_available": false,
+    "targets": {
+      "ORN_DM1": {
+        "rows": 74,
+        "sides": {
+          "R": 39,
+          "L": 35
+        }
+      },
+      "ORN_DM2": {
+        "rows": 54,
+        "sides": {
+          "R": 29,
+          "L": 24,
+          "unknown": 1
+        }
+      },
+      "DM1_lPN": {
+        "rows": 2,
+        "sides": {
+          "<missing>": 2
+        }
+      },
+      "DNp09": {
+        "rows": 2,
+        "sides": {
+          "<missing>": 2
+        }
+      },
+      "DNa02": {
+        "rows": 2,
+        "sides": {
+          "<missing>": 2
+        }
+      },
+      "DNa01": {
+        "rows": 2,
+        "sides": {
+          "<missing>": 2
+        }
+      },
+      "DNg13": {
+        "rows": 2,
+        "sides": {
+          "<missing>": 2
+        }
+      },
+      "DNp01": {
+        "rows": 2,
+        "sides": {
+          "<missing>": 2
+        }
+      },
+      "LC4": {
+        "rows": 126,
+        "sides": {
+          "<missing>": 126
+        }
+      },
+      "LPLC2": {
+        "rows": 185,
+        "sides": {
+          "<missing>": 185
+        }
+      },
+      "MBON01": {
+        "rows": 2,
+        "sides": {
+          "<missing>": 2
+        }
+      },
+      "MBON11": {
+        "rows": 2,
+        "sides": {
+          "<missing>": 2
+        }
+      },
+      "MBON32": {
+        "rows": 2,
+        "sides": {
+          "<missing>": 2
+        }
+      },
+      "PAM01": {
+        "rows": 44,
+        "sides": {
+          "<missing>": 44
+        }
+      },
+      "PPL101": {
+        "rows": 2,
+        "sides": {
+          "<missing>": 2
+        }
+      },
+      "L1": {
+        "rows": 1776,
+        "sides": {
+          "<missing>": 1776
+        }
+      },
+      "R1": {
+        "rows": 0,
+        "sides": {}
+      },
+      "R7": {
+        "rows": 0,
+        "sides": {}
+      }
+    },
+    "bilateral_ambiguities": [
+      "DM1_lPN",
+      "DNp09",
+      "DNa02",
+      "DNa01",
+      "DNg13",
+      "DNp01",
+      "MBON01",
+      "MBON11",
+      "MBON32",
+      "PPL101"
+    ]
+  },
+  "runtime_seconds": 4.06633100000181,
+  "peak_process_rss_bytes": 1367375872,
+  "runtime_scope": "Hash checking, annotation decoding, inventory and joins; excludes neural/physics simulation"
+}

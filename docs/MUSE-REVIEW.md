@@ -2,6 +2,8 @@
 
 **Current agreed goals (2026-10-07):** read [GOALS.md](GOALS.md) first for the biological-fidelity direction. BANC is the first-choice connected brain/nerve-cord anatomy to assess; walking precedes eventual flight, and the food/predator garden remains the destination. The engineered PN readout is now a diagnostic comparison rather than the primary next controller. This is a goals decision; no migration, new controller, flight, or qualified behavior is delivered by it.
 
+**New assessment (2026-10-08):** [BANC/MaleCNS feasibility results](../reports/brain-integration/banc-feasibility-v1/RESULTS.md) retain BANC as the first candidate, backed by hashed public annotation sources and bounded graph metadata. Important findings include release-specific ID divergence, simple-table autapse omissions, uncertain neuronal membership/transmitter effects, and missing visual tissue. The [proposed migration design](../reports/brain-integration/banc-feasibility-v1/MIGRATION_DESIGN_V1.md) and [small discriminating checks](../reports/brain-integration/banc-feasibility-v1/NEXT_EXPERIMENTS.md) prioritize a measured leg-feedback loop before walking and sensory steering. No graph import, physiological fit, neural simulation or controller promotion occurred. The raw annotation cache is local; selected identity rosters and receipts are included. All 39 acceptance requirements remain unchanged.
+
 Fly Garden is Carson Hicks's local research and visualization project, developed with substantial AI assistance from OpenAI Codex. Carson supplied the goals, project direction and review decisions; Codex wrote and revised much of the implementation, designed diagnostics and operated experiments under Carson's authorization. The connectome data, upstream neural model, physics engine and body model were produced by their credited researchers. This is not a claim that Carson independently discovered or reconstructed a fly brain.
 
 ## What it does
@@ -64,6 +66,8 @@ The committed progress files are snapshots, not live feeds. Raw recordings, deri
 
 ## Read these files
 
+- `reports/brain-integration/banc-feasibility-v1/RESULTS.md`, `MIGRATION_DESIGN_V1.md`, and `NEXT_EXPERIMENTS.md`: read-only connected-CNS assessment, proposed architecture and unexecuted checks.
+- `scripts/assess_cns_feasibility.py`, `scripts/inventory_cns_annotations.py`, and `tests/test_cns_feasibility.py`: bounded source collection, exact-ID annotation inspection and independent numerical/data-integrity fixtures.
 - `README.md`: application overview and limitations.
 - `reports/provenance.json`: upstream versions, hashes and alterations.
 - `reports/brain-integration/acceptance-ledger.json`: outstanding requirements.

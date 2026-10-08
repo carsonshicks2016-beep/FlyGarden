@@ -1,0 +1,20 @@
+{
+  "banc_v2": {
+    "url": "https://storage.googleapis.com/lee-lab_brain-and-nerve-cord-fly-connectome/compiled_data/banc_888/banc_888_edgelist_simple_v2.feather",
+    "etag": "\"394406f8a9bdf093c895f95aff4f6c49\"",
+    "range_bytes_read": 8192,
+    "schema": "pre: string\npost: string\ncount: int32\nnorm: double\npost_count: int32\npre_count: int32"
+  },
+  "banc_v3": {
+    "url": "https://storage.googleapis.com/lee-lab_brain-and-nerve-cord-fly-connectome/compiled_data/banc_888/banc_888_edgelist_simple_v3.feather",
+    "etag": "\"08542b0771db7418ed474be60dc9886c\"",
+    "range_bytes_read": 8192,
+    "schema": "pre: string\npost: string\ncount: int32\nnorm: double\npost_count: int32\npre_count: int32"
+  },
+  "male_v1": {
+    "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/connectome-data/flat-connectome/connectome-weights-male-cns-v1.0-minconf-0.5.feather",
+    "etag": "\"f30e9dcca25cfd021bf1e7b3d975599e\"",
+    "range_bytes_read": 8192,
+    "schema": "body_pre: int64\nbody_post: int64\nweight: int64\n-- schema metadata --\npandas: '{\"index_columns\": [{\"kind\": \"range\", \"name\": null, \"start\": 0, \"' + 604"
+  }
+}

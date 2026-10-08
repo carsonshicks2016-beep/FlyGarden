@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "observed_at_utc": "2026-10-08T14:34:59.462310+00:00",
+  "scope": "Assessment references, not installed production dependencies",
+  "repositories": {
+    "htem/BANC-project": {
+      "url": "https://github.com/htem/BANC-project",
+      "revision": "e31a2e26b9937dca72e5ca1c1960df6454d76114",
+      "license": null,
+      "default_branch": "main"
+    },
+    "TuragaLab/flyvis": {
+      "url": "https://github.com/TuragaLab/flyvis",
+      "revision": "92b3845cc426dd309a1a0e1b3890156c42e14021",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "default_branch": "main"
+    },
+    "TuragaLab/flybody": {
+      "url": "https://github.com/TuragaLab/flybody",
+      "revision": "d015e9bfe441bd90ae431bac24c55cb74bdbce26",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "default_branch": "main"
+    },
+    "SashaRayshubskiy/eLife_102230_analysis_code": {
+      "url": "https://github.com/SashaRayshubskiy/eLife_102230_analysis_code",
+      "revision": "55e30c19b1a18f601df1803295f0c401aec3c167",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "default_branch": "master"
+    },
+    "wilson-lab/rayshubskiy_elife_102230_secondary_analysis_code": {
+      "url": "https://github.com/wilson-lab/rayshubskiy_elife_102230_secondary_analysis_code",
+      "revision": "7e2895349266b5cc5fa1bf53ad56e8ecc6c842e8",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "default_branch": "main"
+    },
+    "tuthill-lab/Mamiya_2023": {
+      "url": "https://github.com/tuthill-lab/Mamiya_2023",
+      "revision": "234e1f3fc02ccf306db68b7eb65a75c97fbf917b",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "default_branch": "main"
+    },
+    "sjcabs/fly_connectome_data_tutorial": {
+      "url": "https://github.com/sjcabs/fly_connectome_data_tutorial",
+      "revision": "85c66244cfb2c02b2442905c4428b42a0d8e6656",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "default_branch": "main"
+    }
+  },
+  "physiology_data": {
+    "leg_proprioception": {
+      "doi": "doi:10.5061/dryad.k3j9kd55t",
+      "title": "Central processing of leg proprioception in Drosophila: Physiology and behavior data",
+      "version_link": {
+        "href": "/api/v2/versions/94574"
+      },
+      "license": "https://spdx.org/licenses/CC0-1.0.html",
+      "api_url": "https://datadryad.org/api/v2/search?doi=10.5061/dryad.k3j9kd55t"
+    },
+    "steering": {
+      "doi": "10.7910/DVN/0NCLP1",
+      "catalog": "steering-data-catalog.json",
+      "version": "1.2",
+      "license": "CC0 1.0",
+      "raw_experiment_files_downloaded": 0
+    },
+    "odor": {
+      "article": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5524537/",
+      "doi": "10.7554/eLife.27670",
+      "matching_warning": "Published receptor/odor pairs must be mapped individually; ab3A is not DM1",
+      "raw_experiment_files_downloaded": 0
+    }
+  },
+  "known_limits": [
+    "Dryad file payloads and cell-type physiology have not been imported or fitted.",
+    "Repository revision and upstream license are assessment provenance only; exact model/data assets need separate pins."
+  ]
+}

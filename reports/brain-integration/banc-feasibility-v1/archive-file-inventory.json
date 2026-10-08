@@ -1,0 +1,98 @@
+{
+  "doi": "10.7910/DVN/7WTH1N",
+  "version": "3.0",
+  "catalog_sha256": "f1b05b83921b6f7d234bc533fbf5047684ffdcc3958fa5f8120e313337ed1d80",
+  "scope": "Catalog metadata only; inclusion here does not imply download or graph-content validation",
+  "files": [
+    {
+      "filename": "banc_888_edgelist_simple_v2.feather",
+      "file_id": 13992792,
+      "bytes": 305250378,
+      "checksum": {
+        "type": "MD5",
+        "value": "394406f8a9bdf093c895f95aff4f6c49"
+      }
+    },
+    {
+      "filename": "banc_888_edgelist_simple_v3.feather",
+      "file_id": 13918810,
+      "bytes": 359161658,
+      "checksum": {
+        "type": "MD5",
+        "value": "08542b0771db7418ed474be60dc9886c"
+      }
+    },
+    {
+      "filename": "banc_888_edgelist_split_v2.feather",
+      "file_id": 13992835,
+      "bytes": 847546546,
+      "checksum": {
+        "type": "MD5",
+        "value": "f763404651eb4b2bdf745d6a0e74d0a9"
+      }
+    },
+    {
+      "filename": "banc_888_edgelist_split_v3.feather",
+      "file_id": 13992837,
+      "bytes": 940024450,
+      "checksum": {
+        "type": "MD5",
+        "value": "c20a0f3a9010db0a6bf4c949f5cfacb7"
+      }
+    },
+    {
+      "filename": "banc_888_meta.feather",
+      "file_id": 14033740,
+      "bytes": 57550610,
+      "checksum": {
+        "type": "MD5",
+        "value": "6275eda42f98c49539d1ab513d979d09"
+      }
+    },
+    {
+      "filename": "banc_888_metrics.feather",
+      "file_id": 14034271,
+      "bytes": 9681618,
+      "checksum": {
+        "type": "MD5",
+        "value": "0e6a81d824abfba0b7bbd2352639922e"
+      }
+    },
+    {
+      "filename": "banc_888_neurotransmitter_prediction_v2.csv",
+      "file_id": 13916450,
+      "bytes": 21107592,
+      "checksum": {
+        "type": "MD5",
+        "value": "4ebbd1d6e05d4192ad0c6db27739a8e3"
+      }
+    },
+    {
+      "filename": "banc_888_synapses_v2_enriched.parquet",
+      "file_id": 13992863,
+      "bytes": 17146564854,
+      "checksum": {
+        "type": "MD5",
+        "value": "8f0fa43f80dd3f7bcb011564ca640e55"
+      }
+    },
+    {
+      "filename": "banc_888_synapses_v3_enriched.parquet",
+      "file_id": 13992860,
+      "bytes": 19733203305,
+      "checksum": {
+        "type": "MD5",
+        "value": "adf864ff7b64b2e357c542d1f94695a9"
+      }
+    },
+    {
+      "filename": "banc_problem_regions.csv",
+      "file_id": 13916443,
+      "bytes": 1215,
+      "checksum": {
+        "type": "MD5",
+        "value": "bce0320e9a4829ebe2b7e5ffcd5e4b03"
+      }
+    }
+  ]
+}

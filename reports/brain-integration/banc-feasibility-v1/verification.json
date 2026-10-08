@@ -1,0 +1,10 @@
+{
+  "source_and_analysis_hashes_match": true,
+  "all_five_cached_asset_identities_match": true,
+  "independent_column_counts_and_leg_roster_match": true,
+  "protected_source_goals_ledger_and_historical_reports_unchanged": 160,
+  "acceptance_requirement_count": 39,
+  "local_links_checked": 28,
+  "focused_tests": "11 passed, tests/test_cns_feasibility.py",
+  "graph_content_not_downloaded_or_validated": true
+}

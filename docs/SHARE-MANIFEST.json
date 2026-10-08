@@ -441457,5 +441457,128 @@
     "existing_acceptance_requirements_and_statuses_unchanged": true,
     "inventory_note": "This entry records a subsequent goals decision; original files/excluded inventory remains historical.",
     "recorded_date": "2026-10-08"
+  },
+  "banc_feasibility_2026_10_08": {
+    "assessment_id": "banc-feasibility-v1",
+    "recorded_at_utc": "2026-10-08T15:26:14.239030+00:00",
+    "status": "Read-only assessment complete; proposed import audit and physiology diagnostics remain unexecuted",
+    "results": "reports/brain-integration/banc-feasibility-v1/RESULTS.md",
+    "design": "reports/brain-integration/banc-feasibility-v1/MIGRATION_DESIGN_V1.md",
+    "source_annotation_bytes_downloaded": 124999591,
+    "new_neural_simulations_launched": 0,
+    "graph_payload_downloads": 0,
+    "migration_performed": false,
+    "controller_promoted": false,
+    "existing_acceptance_requirement_count": 39,
+    "existing_acceptance_requirements_and_statuses_unchanged": true,
+    "included_files": [
+      {
+        "path": "README.md",
+        "bytes": 11799,
+        "sha256": "d9fbf70dfe15c3fe747f48d4c67e0bfa09cbf6a2232f5bd11402f11537984a1b"
+      },
+      {
+        "path": "docs/MUSE-REVIEW.md",
+        "bytes": 21827,
+        "sha256": "b9f9dc024504608c0644e52189525241e3de444190980c1e8651824a6f320609"
+      },
+      {
+        "path": "reports/brain-integration/recovery/END_GOAL_STATUS.md",
+        "bytes": 5747,
+        "sha256": "0725e03deca4d4193b15ab6c03392aa3eb0c0a4e9b92a2b61a24df9987bb201f"
+      },
+      {
+        "path": "scripts/assess_cns_feasibility.py",
+        "bytes": 12192,
+        "sha256": "9bbfa03a135bda7f1954eb3768a57da5496613ef0696fd2df88fb678cb47a4fc"
+      },
+      {
+        "path": "scripts/inventory_cns_annotations.py",
+        "bytes": 11902,
+        "sha256": "eec32e501b0bea8378300ef5b3333eb0fa6087882e4a8eb804eb81837514b43a"
+      },
+      {
+        "path": "tests/test_cns_feasibility.py",
+        "bytes": 5628,
+        "sha256": "9f50fb07a031d97c890838b3928cf77b545b8460c566de716bc606351e0f44b4"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/MIGRATION_DESIGN_V1.md",
+        "bytes": 12105,
+        "sha256": "a6fc4fc4ade3001aca7da5a385bbd04987ee24576a74d118854e3c551f7fe432"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/NEXT_EXPERIMENTS.md",
+        "bytes": 6046,
+        "sha256": "db171cdfe9212f58c7736c5baed158933e0ed92b37de6a4aca7921464edf60c4"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/RESULTS.md",
+        "bytes": 20899,
+        "sha256": "d43582af59d86e49a298f2841657c055f4cc5f445fdc6827c35bcf788908799f"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/annotation-inventory.json",
+        "bytes": 21823,
+        "sha256": "92a7fc0b23b29e1e72761224a6528a6f8ac82f930293cd0ca550fc645757acdd"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/archive-file-inventory.json",
+        "bytes": 2492,
+        "sha256": "62b94b04a658d9a46a4d47b095efae359063a1ba8220ed74e6c3bd36b31e77c9"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/banc-code-paths.json",
+        "bytes": 14103,
+        "sha256": "c161a56bebcef3ca4be695e1ee2256e6f3fe20d48ab14fc75228539a53640550"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/front-leg-identities.json",
+        "bytes": 144669,
+        "sha256": "bc313877448422f8152ff2ed28acc7fe640f103b521d7a5bb8ed3e817dc36434"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/graph-schema.json",
+        "bytes": 1150,
+        "sha256": "e81a68d9e99b23cc9ca7d32119217916f9ca8de2f0916322737c5ea7d6b93f1e"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/primary-references.json",
+        "bytes": 4006,
+        "sha256": "053ac1badffdf4953876f053e6e31719a156deeb0c896427a4d91a33198e6582"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/resource-assessment.json",
+        "bytes": 2039,
+        "sha256": "28678d1e43074577d90e11974054249f58e68f92043e0c7eee5076133dce3147"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/selected-identities.json",
+        "bytes": 36949,
+        "sha256": "c2da2dd1e95abd2202bdabfc75aac0c41269fd3d02ce7f6e6aa8ff005575b6bd"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/source-access.json",
+        "bytes": 7894,
+        "sha256": "52fc914f914e01f0719efe73ff2c29b08a641395450ec71f8c828653da9120f9"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/source-snapshot/assess_cns_feasibility.py",
+        "bytes": 12016,
+        "sha256": "4db05dbee664970b17f4a035f106efdca7404b992273de6567f18badb3f23571"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/steering-data-catalog.json",
+        "bytes": 99464,
+        "sha256": "03eb3cd21cfe8f9425da1e01aa9e2107efe4891758cf87f5a9ff523c4aa8fd85"
+      },
+      {
+        "path": "reports/brain-integration/banc-feasibility-v1/verification.json",
+        "bytes": 411,
+        "sha256": "6c1b306ede6dc521805031915e9823a14b22c563d228382c7b529f1afa2d77f8"
+      }
+    ],
+    "excluded_local_cache": "data/anatomy-feasibility-v1; raw annotation tables and full discovery catalog remain local",
+    "inventory_note": "Supplemental evidence overlay. Original files/excluded inventory and prior decision entries remain historical; this entry does not imply that complete graphs, raw physiology, skeletons or checkpoints are included."
   }
 }
