@@ -1,0 +1,61 @@
+Independent raw/event audit 1 /36 direct none-12401
+Independent raw/event audit 2 /36 direct left-12401
+Independent raw/event audit 3 /36 direct right-12401
+Independent raw/event audit 4 /36 direct both-12401
+Independent raw/event audit 5 /36 direct none-12402
+Independent raw/event audit 6 /36 direct left-12402
+Independent raw/event audit 7 /36 direct right-12402
+Independent raw/event audit 8 /36 direct both-12402
+Independent raw/event audit 9 /36 odor original-none-12301
+Independent raw/event audit 10 /36 odor original-a_left-12301
+Independent raw/event audit 11 /36 odor original-a_right-12301
+Independent raw/event audit 12 /36 odor original-a_both-12301
+Independent raw/event audit 13 /36 odor original-equal-12301
+Independent raw/event audit 14 /36 odor original-g60-12301
+Independent raw/event audit 15 /36 odor original-g40-12301
+Independent raw/event audit 16 /36 odor original-none-12302
+Independent raw/event audit 17 /36 odor original-a_left-12302
+Independent raw/event audit 18 /36 odor original-a_right-12302
+Independent raw/event audit 19 /36 odor original-a_both-12302
+Independent raw/event audit 20 /36 odor original-equal-12302
+Independent raw/event audit 21 /36 odor original-g60-12302
+Independent raw/event audit 22 /36 odor original-g40-12302
+Independent raw/event audit 23 /36 odor local_adaptive-none-12301
+Independent raw/event audit 24 /36 odor local_adaptive-a_left-12301
+Independent raw/event audit 25 /36 odor local_adaptive-a_right-12301
+Independent raw/event audit 26 /36 odor local_adaptive-a_both-12301
+Independent raw/event audit 27 /36 odor local_adaptive-equal-12301
+Independent raw/event audit 28 /36 odor local_adaptive-g60-12301
+Independent raw/event audit 29 /36 odor local_adaptive-g40-12301
+Independent raw/event audit 30 /36 odor local_adaptive-none-12302
+Independent raw/event audit 31 /36 odor local_adaptive-a_left-12302
+Independent raw/event audit 32 /36 odor local_adaptive-a_right-12302
+Independent raw/event audit 33 /36 odor local_adaptive-a_both-12302
+Independent raw/event audit 34 /36 odor local_adaptive-equal-12302
+Independent raw/event audit 35 /36 odor local_adaptive-g60-12302
+Independent raw/event audit 36 /36 odor local_adaptive-g40-12302
+{
+  "status": "passed",
+  "protocol_sha256": "1e1a5152e84d46bfd850db895972f9829b771b4b6b1eb7cd8a67b2dc6264771f",
+  "results_sha256": "d396ea11038573116aa800be37e71cd884caf3063a2102b4bdcf5e22d4196ad6",
+  "raw_chunks_rehashed": 8640,
+  "outgoing_records_checked": 561,
+  "population_phase_checks": 38448,
+  "signed_total_checks": 8640,
+  "direct_edge_phase_checks": 864,
+  "timing_checks": 176,
+  "isolated_units_checked": 48,
+  "isolated_replays_checked": 24,
+  "all_predicted_spike_ticks_counts_exact": true,
+  "independent_closed_form_errors_mV": {
+    "v_mV": 1.2789769243681803e-13,
+    "g_mV": 2.4868995751603507e-14
+  },
+  "maximum_intact_drive_error_mV": 0.0,
+  "sources_reverified": true,
+  "full_brain_runs": 0,
+  "production_controller_changed": false,
+  "acceptance_criteria_changed": false,
+  "wall_seconds": 28.503370791000634,
+  "peak_rss_bytes": 1132445696
+}

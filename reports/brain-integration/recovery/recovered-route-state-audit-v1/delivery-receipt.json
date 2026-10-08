@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "delivery_scope": "Saved-run route/state audit; future context experiment not launched.",
+  "preregistration_commit": "e364196",
+  "protocol_sha256": "1e1a5152e84d46bfd850db895972f9829b771b4b6b1eb7cd8a67b2dc6264771f",
+  "result_sha256": "d396ea11038573116aa800be37e71cd884caf3063a2102b4bdcf5e22d4196ad6",
+  "audit_sha256": "cd683e43716ed1007627dadffd53fbd4c39872fee3ea457132666e2ffc33a3d9",
+  "tests": {
+    "passed": 10,
+    "files": [
+      "tests/test_route_state_audit.py",
+      "tests/test_route_accounting.py"
+    ]
+  },
+  "visual_inspection": [
+    "route-state-audit.png",
+    "timing-detail.png"
+  ],
+  "timing_detail_scope": "Post-analysis presentation only; no metric/source/protocol changes.",
+  "sources_reverified": 100,
+  "prior_capability_sources_reverified": 40,
+  "prior_capability_protocol_sha256": "4a5b32536950d0140c8db314884fd75376e285509e63574fe36548c69e2413e1",
+  "requirement_text_status_completion_unchanged": 39,
+  "production_controller_changed": false,
+  "acceptance_criteria_changed": false,
+  "full_brain_runs": 0,
+  "isolated_two_recipient_runs": 24,
+  "main_analysis_wall_seconds": 56.750443707998784,
+  "independent_audit_wall_seconds": 28.503370791000634,
+  "main_peak_rss_bytes": 882376704,
+  "audit_peak_rss_bytes": 1132445696,
+  "local_package_bytes_before_receipt": 101189550,
+  "free_disk_bytes": 212771323904,
+  "reserve_bytes": 2147483648,
+  "new_simulation_running": false,
+  "files": {
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/route-state-audit.svg": "573aefac0a4c054ec484d61d4a4924d54d11bcd61d145651faf38cd6ca8c424e",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/anatomical-inventory.json": "4fc620c368c62e26bb0daf2c52a37eb40a5631dadea1a6555fa2a7ba14300fe8",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/native-validation.json": "976dc3d28ea34dcba5e0d562b31e3799a72ecc26dcfdf3e4321f2c49417ade56",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/results.json": "d396ea11038573116aa800be37e71cd884caf3063a2102b4bdcf5e22d4196ad6",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/independent-audit.log": "189e12c0177e72e4e253e09a74661b5fb113820af4d6c1e0604ade0253869ec9",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/route-state-audit.png": "4a723492c3d5ae3f4c7b3263ca28dd8ac7755046f0a75f21ce89d9139a026805",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/README.md": "8fc02800acc8745b7d9f197151a141eff9c934a41633556de734dbf0a6ef405c",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/execution.log": "6126f62cd566bbb9e9018a90608afd3b778ba0e7b9c9f2047674e8a87953de38",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/RESULTS.md": "d54f1a075242588956bea1b0f2ee92581293e7d19545b3ed87291a9bff9d4d93",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/protocol.json": "1e1a5152e84d46bfd850db895972f9829b771b4b6b1eb7cd8a67b2dc6264771f",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/timing-detail.png": "f6599d833338506d8d85e3c0f2d5c910549a7ceb564e267602e685ccc1838c77",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/progress.json": "a3a7413e6f29026a9ca4b48bd9875046a85b722fa32102a2b982321b0a14ed2b",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/timing-detail.svg": "7297b43202da0ab3accb2dbab4f71eb3a4e1fc228caf60ce1c0baf5abbbeb376",
+    "reports/brain-integration/recovery/recovered-route-state-audit-v1/independent-audit.json": "cd683e43716ed1007627dadffd53fbd4c39872fee3ea457132666e2ffc33a3d9",
+    "scripts/plot_recovered_route_timing_detail.py": "d30ec2632ee4ec6879e93bc4883ae1d4638319fbf37f2e1d8ee35021737b6a99",
+    "reports/brain-integration/recovery/ROUTE_STATE_DECISION.md": "d614b7ad792ed3024447439372c005e2d493eead3ca7f9816070a9a1d72a1c73",
+    "reports/brain-integration/recovery/SENSORY_CONTEXT_COMPARISON_SPEC_V1.md": "c9525102657804d1785fbfe9a7d5f0b2195f3f353e24d158c8929f2ea3dc3efe"
+  }
+}

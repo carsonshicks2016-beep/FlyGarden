@@ -1,0 +1,53 @@
+Intact prediction 1 /8 none-12401 {'v_mV': 0.0, 'g_mV': 7.105427357601002e-15, 'adapt_mV': 0.0}
+Intact prediction 2 /8 left-12401 {'v_mV': 7.105427357601002e-15, 'g_mV': 7.105427357601002e-15, 'adapt_mV': 0.0}
+Intact prediction 3 /8 right-12401 {'v_mV': 0.0, 'g_mV': 7.105427357601002e-15, 'adapt_mV': 0.0}
+Intact prediction 4 /8 both-12401 {'v_mV': 0.0, 'g_mV': 7.105427357601002e-15, 'adapt_mV': 0.0}
+Intact prediction 5 /8 none-12402 {'v_mV': 0.0, 'g_mV': 8.881784197001252e-16, 'adapt_mV': 0.0}
+Intact prediction 6 /8 left-12402 {'v_mV': 0.0, 'g_mV': 3.552713678800501e-15, 'adapt_mV': 0.0}
+Intact prediction 7 /8 right-12402 {'v_mV': 0.0, 'g_mV': 8.881784197001252e-16, 'adapt_mV': 0.0}
+Intact prediction 8 /8 both-12402 {'v_mV': 0.0, 'g_mV': 3.552713678800501e-15, 'adapt_mV': 0.0}
+Two fixed-source edge removals none-12401
+Two fixed-source edge removals left-12401
+Two fixed-source edge removals right-12401
+Two fixed-source edge removals both-12401
+Two fixed-source edge removals none-12402
+Two fixed-source edge removals left-12402
+Two fixed-source edge removals right-12402
+Two fixed-source edge removals both-12402
+Recorded route/state analysis 1 /36 direct none-12401
+Recorded route/state analysis 2 /36 direct left-12401
+Recorded route/state analysis 3 /36 direct right-12401
+Recorded route/state analysis 4 /36 direct both-12401
+Recorded route/state analysis 5 /36 direct none-12402
+Recorded route/state analysis 6 /36 direct left-12402
+Recorded route/state analysis 7 /36 direct right-12402
+Recorded route/state analysis 8 /36 direct both-12402
+Recorded route/state analysis 9 /36 odor original-none-12301
+Recorded route/state analysis 10 /36 odor original-a_left-12301
+Recorded route/state analysis 11 /36 odor original-a_right-12301
+Recorded route/state analysis 12 /36 odor original-a_both-12301
+Recorded route/state analysis 13 /36 odor original-equal-12301
+Recorded route/state analysis 14 /36 odor original-g60-12301
+Recorded route/state analysis 15 /36 odor original-g40-12301
+Recorded route/state analysis 16 /36 odor original-none-12302
+Recorded route/state analysis 17 /36 odor original-a_left-12302
+Recorded route/state analysis 18 /36 odor original-a_right-12302
+Recorded route/state analysis 19 /36 odor original-a_both-12302
+Recorded route/state analysis 20 /36 odor original-equal-12302
+Recorded route/state analysis 21 /36 odor original-g60-12302
+Recorded route/state analysis 22 /36 odor original-g40-12302
+Recorded route/state analysis 23 /36 odor local_adaptive-none-12301
+Recorded route/state analysis 24 /36 odor local_adaptive-a_left-12301
+Recorded route/state analysis 25 /36 odor local_adaptive-a_right-12301
+Recorded route/state analysis 26 /36 odor local_adaptive-a_both-12301
+Recorded route/state analysis 27 /36 odor local_adaptive-equal-12301
+Recorded route/state analysis 28 /36 odor local_adaptive-g60-12301
+Recorded route/state analysis 29 /36 odor local_adaptive-g40-12301
+Recorded route/state analysis 30 /36 odor local_adaptive-none-12302
+Recorded route/state analysis 31 /36 odor local_adaptive-a_left-12302
+Recorded route/state analysis 32 /36 odor local_adaptive-a_right-12302
+Recorded route/state analysis 33 /36 odor local_adaptive-a_both-12302
+Recorded route/state analysis 34 /36 odor local_adaptive-equal-12302
+Recorded route/state analysis 35 /36 odor local_adaptive-g60-12302
+Recorded route/state analysis 36 /36 odor local_adaptive-g40-12302
+Saved-run audit complete: 56.75 s

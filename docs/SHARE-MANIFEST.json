@@ -441410,5 +441410,16 @@
     "adapted_domain_spikes": 0,
     "controller_promoted": false,
     "publication_scope": "Bounded source/protocol/results/independent audit/engagement/repair/receipts/plots/decision. Rawtrials,checkpoints and partial serialization artifact remain local and undeleted. Prior file inventory remains historical."
+  },
+  "recovered_route_state_audit_2026_10_07": {
+    "preregistration_commit": "e364196",
+    "report": "reports/brain-integration/recovery/recovered-route-state-audit-v1/RESULTS.md",
+    "saved_trials": 36,
+    "new_full_network_trials": 0,
+    "isolated_two_recipient_replays": 24,
+    "raw_chunks_audited": 8640,
+    "controller_promoted": false,
+    "acceptance_requirements_statuses_unchanged": 39,
+    "publication_scope": "Bounded source/protocol/anatomy/results/audit/plots/decision/design. Raw parent recordings and local input/profile/replay arrays remain excluded and undeleted. Previous file inventory remains historical."
   }
 }
