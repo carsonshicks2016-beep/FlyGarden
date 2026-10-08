@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "registered_unix": 1791429124.048676,
+  "registered_before_finalization": true,
+  "kind": "Implementation bug fix: output scalar serialization only",
+  "protocol_sha256": "4a5b32536950d0140c8db314884fd75376e285509e63574fe36548c69e2413e1",
+  "original_registration_commit": "ec4b977",
+  "failure": "All8 full-network trials and both fresh-process continuations finished. The final atomic_json call rejected a NumPy boolean in signed_DNa02_recovery_passed; results.json was not published.",
+  "fix": "Read completed immutable chunks with the original pinned evaluator, convert NumPy scalars to matching built-in scalar types, atomically save and invoke the original pinned audit/plot scripts.",
+  "unchanged": [
+    "Originalprotocol.json",
+    "All40 pinned sourcefiles",
+    "All1920 immutable chunks",
+    "Neural equations, graph, signs, scaling and adaptation",
+    "Stimulus timings and seeds",
+    "Every measurement value, flag meaning and numeric criterion",
+    "Production controller and originalPN Gate3/6 failures"
+  ],
+  "new_full_brain_runs": 0,
+  "new_source_hashes": {
+    "scripts/finalize_recovered_mbon_capability.py": "5852412423af553f9ae3fcbdcfd8b058bbec942ca30a0c70ca4867a26e2d5f64",
+    "tests/test_capability_serialization.py": "961fcfe2f19c5626d2f1a810ff24cfd08629c564a2ca89b71c5911be3ed24d31"
+  },
+  "failed_evidence_preserved": {
+    "execution_log_sha256": "4089891f8db7dccbbadf8780cefa2dc5f33e8bc3e3cefd29e70ffe760703fe08",
+    "progress_failure_sha256": "a756aa151eb521db66d3f852eea31f63fed0048000215fcc47394712d0904b8a",
+    "partial_result_files": {
+      "results.json.tmp-186a56704e864930aa1c6bec7e3b62b4": "c661c72cb41fcbf2fef91891e758a8a1cf0d1f4f912e53b610bcc1f225c33f1a"
+    }
+  },
+  "original_progress_failure": {
+    "status": "interrupted",
+    "error": "TypeError('Object of type bool is not JSON serializable')",
+    "promoted": false
+  },
+  "tests": {
+    "new_serialization": 2,
+    "focused_combined": 7,
+    "failures": 0
+  }
+}
