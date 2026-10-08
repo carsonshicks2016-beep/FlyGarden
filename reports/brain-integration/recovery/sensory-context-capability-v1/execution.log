@@ -1,0 +1,40 @@
+Historical no-context prefix parity passed,36 complete windows.
+DM1_equal_50_50-none-12501 complete 52.8 seconds
+no_odor-none-12501 complete 53.0 seconds
+DM1_equal_50_50-left-12501 complete 53.6 seconds
+Fresh-process continuation passed DM1_equal_50_50-left-12501 {'v': 0.0, 'g': 0.0, 'adapt': 0.0}
+no_odor-left-12501 complete 53.5 seconds
+Fresh-process continuation passed no_odor-left-12501 {'v': 0.0, 'g': 0.0, 'adapt': 0.0}
+DM1_equal_50_50-right-12501 complete 52.9 seconds
+Preserved controlled interruption prefix 60
+no_odor-right-12501 complete 53.8 seconds
+DM1_equal_50_50-both-12501 complete 53.7 seconds
+no_odor-both-12501 complete 55.1 seconds
+DM1_equal_50_50-none-12502 complete 54.5 seconds
+no_odor-none-12502 complete 53.8 seconds
+DM1_equal_50_50-left-12502 complete 54.3 seconds
+Fresh-process continuation passed DM1_equal_50_50-left-12502 {'v': 0.0, 'g': 0.0, 'adapt': 0.0}
+no_odor-left-12502 complete 53.2 seconds
+Fresh-process continuation passed no_odor-left-12502 {'v': 0.0, 'g': 0.0, 'adapt': 0.0}
+DM1_equal_50_50-right-12502 complete 53.4 seconds
+no_odor-right-12502 complete 55.9 seconds
+DM1_equal_50_50-both-12502 complete 57.4 seconds
+no_odor-both-12502 complete 57.2 seconds
+Independent context raw/RNG audit DM1_equal_50_50-none-12501
+Independent context raw/RNG audit no_odor-none-12501
+Independent context raw/RNG audit DM1_equal_50_50-left-12501
+Independent context raw/RNG audit no_odor-left-12501
+Independent context raw/RNG audit DM1_equal_50_50-right-12501
+Independent context raw/RNG audit no_odor-right-12501
+Independent context raw/RNG audit DM1_equal_50_50-both-12501
+Independent context raw/RNG audit no_odor-both-12501
+Independent context raw/RNG audit DM1_equal_50_50-none-12502
+Independent context raw/RNG audit no_odor-none-12502
+Independent context raw/RNG audit DM1_equal_50_50-left-12502
+Independent context raw/RNG audit no_odor-left-12502
+Independent context raw/RNG audit DM1_equal_50_50-right-12502
+Independent context raw/RNG audit no_odor-right-12502
+Independent context raw/RNG audit DM1_equal_50_50-both-12502
+Independent context raw/RNG audit no_odor-both-12502
+Independent audit passed 3840 chunks; 128 original capability metric rows.
+Sixteen context trials and independent audit complete; no promotion.

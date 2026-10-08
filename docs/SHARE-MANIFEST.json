@@ -441421,5 +441421,21 @@
     "controller_promoted": false,
     "acceptance_requirements_statuses_unchanged": 39,
     "publication_scope": "Bounded source/protocol/anatomy/results/audit/plots/decision/design. Raw parent recordings and local input/profile/replay arrays remain excluded and undeleted. Previous file inventory remains historical."
+  },
+  "sensory_context_capability_2026_10_07": {
+    "preregistration_commit": "7ca215e",
+    "report": "reports/brain-integration/recovery/sensory-context-capability-v1/RESULTS.md",
+    "full_network_trials": 16,
+    "contexts": 2,
+    "complete_direction_checks_passed_per_context": {
+      "no_odor": 0,
+      "DM1_equal_50_50": 0
+    },
+    "raw_chunks_audited": 3840,
+    "original_metric_rows_audited": 128,
+    "exact_checkpoint_continuations": 4,
+    "controller_promoted": false,
+    "requirement_statuses_unchanged": 39,
+    "publication_scope": "Bounded source/protocol/results/audit/parity/interruption/plots/decisions/proposal/status. New rawtrials and full checkpoints remain local, excluded and undeleted. Earlier file inventory is historical."
   }
 }

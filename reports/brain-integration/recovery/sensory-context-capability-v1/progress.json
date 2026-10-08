@@ -1,1 +1,1 @@
-{"status":"prepared","planned_trials":16,"completed":[],"workers":1,"promoted":false}
+{"status":"complete","completed":["DM1_equal_50_50-none-12501","no_odor-none-12501","DM1_equal_50_50-left-12501","no_odor-left-12501","DM1_equal_50_50-right-12501","no_odor-right-12501","DM1_equal_50_50-both-12501","no_odor-both-12501","DM1_equal_50_50-none-12502","no_odor-none-12502","DM1_equal_50_50-left-12502","no_odor-left-12502","DM1_equal_50_50-right-12502","no_odor-right-12502","DM1_equal_50_50-both-12502","no_odor-both-12502"],"planned_trials":16,"workers":1,"promoted":false}

@@ -14,4 +14,4 @@ With omitted upstream inputs and parent archives restored and all source hashes 
 
 The runner resumes by preserving and exactly reconstructing any existing trial prefix. The independent auditor recomputes raw-event/RNG/motor/capability criteria separately. Completed trial recordings and checkpoints remain local; public source and bounded evidence do not replace them. No videos or exports compete with this single simulation worker.
 
-If both contexts fail original direction, do not widen another stimulation/adaptation grid. Deliver the failure and specify an explicitly engineered neural readout as a separate architecture branch. Recruited activity, changed timing and a checkpoint are not steering or learning qualification.
+Both contexts now fail original full direction0/4; all16 trials and independent checks completed. See `RESULTS.md` and `../CONTEXT_CAPABILITY_DECISION.md`. Do not widen another stimulation/adaptation grid. The explicitly engineered neural readout remains a separate proposed architecture branch. Recruited activity, changed timing and a checkpoint are not steering or learning qualification.

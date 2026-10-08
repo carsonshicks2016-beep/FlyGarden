@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": 1791432154.238506,
+  "updated": 1791434341.191623,
   "scope": "All39 end-goal steps retained; each paragraph contains its detailed requirements. Evidence scope is explicit; pending native/browser/scientific work is not completed.",
   "requirements": [
     {
@@ -210,14 +210,24 @@
         "recovery/recovered-route-state-audit-v1/native-validation.json",
         "recovery/recovered-route-state-audit-v1/independent-audit.json",
         "recovery/ROUTE_STATE_DECISION.md",
-        "recovery/SENSORY_CONTEXT_COMPARISON_SPEC_V1.md"
+        "recovery/SENSORY_CONTEXT_COMPARISON_SPEC_V1.md",
+        "recovery/sensory-context-capability-v1/protocol.json",
+        "recovery/sensory-context-capability-v1/RESULTS.md",
+        "recovery/sensory-context-capability-v1/results.json",
+        "recovery/sensory-context-capability-v1/independent-audit.json",
+        "recovery/sensory-context-capability-v1/no-context-parity.json",
+        "recovery/sensory-context-capability-v1/interruption-test.json",
+        "recovery/CONTEXT_CAPABILITY_DECISION.md",
+        "recovery/ENGINEERED_NEURAL_READOUT_PROPOSAL_V1.md",
+        "recovery/END_GOAL_STATUS.md"
       ],
       "completion_proven": false,
       "focused_package_gate": "Frozen28 full-network trials on two fresh seeds: all24 response/recovery and24 burst checks pass with local-only adaptation; all4 original PN directional and4 gradient comparisons fail. Additional DNa02 directional alignment0/4, gradient1/4. All6,720 chunks and original-evaluator parity independently audited; four fresh-process whole-state continuations exact;60-chunk interruption reconstructed exactly. No controller promotion, behavior or learning qualification.",
       "sensory_steering_trace": "Offline attribution complete; raw directional/gradient failures retained; no new controller or qualification.",
       "receiver_counterfactual": "84 isolated native replays: all28 intact spikes and sampled v/g match; independent closed-form audit exact. Receptor-only PN direction0/4; paired AOTU removal DNa02 direction0/4 and gradient1/4 for recovered sources. No recurrent-network repair, criteria change or controller promotion.",
       "recovered_mbon_capability": "Eight full-network direct-MBON32 trials: response/recovery/support/burst checks pass, direction0/4. All1920 chunks,2 exact continuations and60-chunk reconstruction audited. Adapted395-cell domain silent in odor-free screen; active-adaptation effect untested. Output-only scalar repair; no controller/criterion change.",
-      "recovered_route_state_audit": "36 saved trials and24 isolated two-recipient replays independently audited; all8640 raw chunks rehash and all48 predicted units have exact spike/count parity. Unequal inhibitory direct links, right timing-only effect and descriptive sensory recruitment identified. No new full-brain runs, criteria change or controller promotion. One future matched context design specified but not executed."
+      "recovered_route_state_audit": "36 saved trials and24 isolated two-recipient replays independently audited; all8640 raw chunks rehash and all48 predicted units have exact spike/count parity. Unequal inhibitory direct links, right timing-only effect and descriptive sensory recruitment identified. No new full-brain runs, criteria change or controller promotion. One future matched context design specified but not executed.",
+      "sensory_context_capability": "16 full-network matched trials: all response/recovery/support/burst checks pass, full direction0/4 in each context. Odor right-rate subcriterion3/4, left0/4, bilateral1/4. All3840 chunks,128 original metric rows,4 exact whole-state continuations and60-chunk reconstruction independently audited. Registered stopping rule selects explicit engineered-readout proposal; none fitted or promoted."
     },
     {
       "step": 9,
