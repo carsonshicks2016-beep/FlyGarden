@@ -1,0 +1,16 @@
+{
+  "original_worker_pid": 60296,
+  "observed_processing_rss_KiB": 2425456,
+  "observed_processing_cpu_percent": 98.8,
+  "snapshot_process_elapsed": "31:15",
+  "measurement": "One process snapshot during processing; not a measured whole-run peak",
+  "first_worker_peak_not_recorded_on_failure": true,
+  "original_interruption_elapsed_seconds": 1759.7577761659995,
+  "raw_parse_to_integrity_seconds": 353.767386958003,
+  "files_bytes": {
+    "raw_archive": 12257440602,
+    "simplified_archive": 305250378
+  },
+  "guard": "2 GiB reserve plus 256 MiB processing headroom",
+  "simulations": 0
+}

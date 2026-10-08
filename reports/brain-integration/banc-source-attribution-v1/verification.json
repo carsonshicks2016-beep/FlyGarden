@@ -1,0 +1,15 @@
+{
+  "focused_tests": "..........................................                               [100%]\n42 passed in 1.85s",
+  "protected_paths_checked": 989,
+  "protected_changed": [],
+  "acceptance_requirements": 39,
+  "local_links_checked": 13,
+  "original_source_contract_failure_preserved": true,
+  "full_archived_pair_counts_match": true,
+  "independent_source_counts_match": true,
+  "protocols_and_amendment_chains_match": true,
+  "neural_simulations_launched": 0,
+  "physiology_raw_data_unavailable": true,
+  "model_ready": false,
+  "original_failed_source_snapshots_match_registered_hashes": true
+}

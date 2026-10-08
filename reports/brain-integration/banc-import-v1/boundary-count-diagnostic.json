@@ -1,0 +1,30 @@
+{
+  "raw_all": {
+    "pairs": 153209879,
+    "sites": 197100067
+  },
+  "raw_both_annotated": {
+    "pairs": 11752828,
+    "sites": 35733096
+  },
+  "raw_both_annotated_without_self": {
+    "pairs": 11596517,
+    "sites": 34310230
+  },
+  "simple_outside_annotations": {
+    "pairs": 0,
+    "sites": null
+  },
+  "raw_zero_equal": {
+    "pairs": 1,
+    "sites": 6
+  },
+  "raw_nonzero_equal": {
+    "pairs": 1121405,
+    "sites": 2510638
+  },
+  "simple_equal": {
+    "pairs": 156311,
+    "sites": 1422866
+  }
+}

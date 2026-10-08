@@ -1,0 +1,7 @@
+{
+  "at": "2026-10-08T16:24:35.085391+00:00",
+  "error": "ValueError: Invalid/duplicate simplified graph records",
+  "disk_blocked": false,
+  "elapsed_seconds": 1759.7571625000055,
+  "evidence_preserved": true
+}

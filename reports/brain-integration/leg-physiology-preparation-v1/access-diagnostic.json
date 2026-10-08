@@ -1,0 +1,26 @@
+{
+  "dataset": "doi:10.5061/dryad.k3j9kd55t",
+  "version": 94574,
+  "license": "CC0-1.0",
+  "catalog_access": "successful",
+  "raw_files_downloaded": false,
+  "attempts": [
+    {
+      "url": "https://datadryad.org/api/v2/files/504281/download",
+      "status": 401
+    },
+    {
+      "url": "https://datadryad.org/downloads/file_stream/504280",
+      "status": 403
+    }
+  ],
+  "handling": "No attempt to bypass access restrictions. No neural fit or experiment launched.",
+  "article_xml": {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7752136/fullTextXML",
+    "identity": {
+      "sha256": "31bd675ee857d4e0ea0103c6402e068cd865c666fe9905f53ede71f53008c5f6",
+      "md5": "ffbbcdc80b2a24f9b2191612c56b1c75",
+      "bytes": 300074
+    }
+  }
+}

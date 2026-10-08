@@ -1,0 +1,31 @@
+{
+  "package": "duckdb",
+  "version": "1.5.6",
+  "files": [
+    {
+      "comment_text": null,
+      "core-metadata": {
+        "sha256": "7ca8c6be6ceda35157b2087d4d577b4ca3a6b757e8b27463f0c827c2447d372b"
+      },
+      "digests": {
+        "blake2b_256": "9c6df9cfb1493bbdc2f095693a402e42dce1192077f9e11573f00baed6a748de",
+        "md5": "0cca1f699cf02f10ff62ab6e03c96a7a",
+        "sha256": "dcccce20965e6986cd083fdf192c461685ad0b93cd1ccd0b2a8207f1185f078b"
+      },
+      "downloads": -1,
+      "filename": "duckdb-1.5.6-cp312-cp312-macosx_11_0_arm64.whl",
+      "has_sig": false,
+      "md5_digest": "0cca1f699cf02f10ff62ab6e03c96a7a",
+      "packagetype": "bdist_wheel",
+      "python_version": "cp312",
+      "requires_python": ">=3.10.0",
+      "size": 15532943,
+      "upload_time": "2026-09-28T13:37:52",
+      "upload_time_iso_8601": "2026-09-28T13:37:52.927120Z",
+      "url": "https://files.pythonhosted.org/packages/9c/6d/f9cfb1493bbdc2f095693a402e42dce1192077f9e11573f00baed6a748de/duckdb-1.5.6-cp312-cp312-macosx_11_0_arm64.whl",
+      "yanked": false,
+      "yanked_reason": null
+    }
+  ],
+  "source": "https://pypi.org/pypi/duckdb/json"
+}

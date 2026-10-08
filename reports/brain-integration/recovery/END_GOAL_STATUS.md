@@ -8,6 +8,8 @@ The [read-only feasibility assessment](../banc-feasibility-v1/RESULTS.md) is now
 
 ## Established in the checked scope
 
+Subsequent implementation: [BANC import v1](../banc-import-v1/RESULTS.md) passed raw checks but failed a documentation-based no-self assumption. [Registered source attribution](../banc-source-attribution-v1/RESULTS.md) now reconciles the archive exactly and independently reproduces selected pairs. All segmentation endpoints are accounted separately from qualified neuron identities; original failed gates remain preserved. [Measured leg-response preparation](../leg-physiology-preparation-v1/RESULTS.md) has a tested clock/unit reader, but raw measurements and exact BANC 13B-alpha correspondence are not yet available. These are anatomical and ingestion steps, not repaired neural control or changed acceptance statuses.
+
 - The available full point-neuron graph runs:138,639 modeled neurons,15,091,983 aggregated connection records and54,492,922 represented anatomical sites.
 - Exact-ID sensory stimulation produces recorded neural responses. Selected input/output/state reconstructions, checkpoint continuations and interrupted-recording recovery pass numerical checks.
 - The395-cell local-adaptation candidate resolves the tested odor persistence problem:28 original/candidate trials retain successful candidate response, recovery and repeat response across the tested cues. This is an engineering cooldown, not a physiological fit to each root.

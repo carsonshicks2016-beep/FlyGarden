@@ -1,0 +1,32 @@
+{
+  "status": "Preparation only; raw measurements and exact BANC correspondence not qualified",
+  "format": {
+    "author_fields": [
+      "voltagedata",
+      "legangles",
+      "frame_on",
+      "SampleRate"
+    ],
+    "voltage_units": "mV, must verify per raw file",
+    "angle_units": "degree; extension increases, must verify per raw file",
+    "timing": "Acquired camera exposure indices on electrophysiology clock; MATLAB index starts at 1",
+    "sampling_reference_Hz": 20000,
+    "junction_reference_mV": -12,
+    "junction_status": "Must establish whether already corrected; never subtract twice"
+  },
+  "physiology_scope": {
+    "cell_class": "13B-alpha",
+    "evidence": "Published graded position response; hemilineage 13B alone does not identify alpha",
+    "exact_banc_roots": null,
+    "calcium": "GCaMP6f dF/F is an observation, not directly voltage or firing rate"
+  },
+  "before_registration": [
+    "Retrieve raw file and full archive checksum or independently authenticated file identity",
+    "Inventory actual shapes, clocks, units, specimen/driver/sex/recording conditions",
+    "Verify angle sign and junction correction state from source fields/analysis",
+    "Establish class-level versus exact-root correspondence explicitly",
+    "Freeze held-out animals, solver, response model, observation model and metrics before fitting"
+  ],
+  "parser": "cns_audit/physiology.py",
+  "tests": "tests/test_leg_measurements.py; synthetic fixtures only"
+}

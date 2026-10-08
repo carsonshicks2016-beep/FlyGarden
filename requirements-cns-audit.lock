@@ -1,0 +1,2 @@
+# Isolated import-audit dependency; do not install into the simulation environment.
+duckdb==1.5.6 --hash=sha256:dcccce20965e6986cd083fdf192c461685ad0b93cd1ccd0b2a8207f1185f078b

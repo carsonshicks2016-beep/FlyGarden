@@ -1,0 +1,31 @@
+{
+  "at": "2026-10-08T16:10:11.782191+00:00",
+  "python": "3.12.13 (main, Mar  3 2026, 12:39:30) [Clang 21.0.0 (clang-2100.0.123.102)]",
+  "executable": "/Users/carsonhicks/FlyGarden/.venv-next/bin/python",
+  "platform": "macOS-26.5.1-arm64-arm-64bit",
+  "architecture": "arm64",
+  "packages": {
+    "numpy": "2.5.3",
+    "pyarrow": "25.0.1",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "duckdb": "1.5.6"
+  },
+  "simulation_lock": {
+    "sha256": "f44941d66b6df5221a7ec4cd27086ead35a9999ddde6aafc49554f3ab45a16a4",
+    "md5": "e5db0002a6203c621658159a4d16d7f7",
+    "bytes": 1405
+  },
+  "audit_lock": {
+    "sha256": "5786f3db4aa9c616e17e52ec8122b814c73ac433cf99eeb00786e638750747c0",
+    "md5": "9bcd6944dec6cc03b6b626799e2a0c9d",
+    "bytes": 177
+  },
+  "duckdb_extension": {
+    "sha256": "094626f4dc9055f11be300b04d19f59f0ca9c533f8fdae9465236aa24a72074d",
+    "md5": "0a94709b88732993640420741190e57d",
+    "bytes": 45391776
+  },
+  "repository_head": "d1b783f20130c1c28de619c699af0ef7294a33b1",
+  "new_simulations": 0
+}

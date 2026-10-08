@@ -1,0 +1,16 @@
+{
+  "synapses_v2_human_readable.csv.gz": {
+    "sha256": "9ba02918b067ccfc11930c1bd1099494cae9197244830cae0d2e59c9625a408d",
+    "md5": "e3679e7b9cec032ed1745c7a9dfd42d8",
+    "bytes": 12257440602,
+    "cached": false,
+    "download_seconds": 1257.1487167090017
+  },
+  "banc_888_edgelist_simple_v2.feather": {
+    "sha256": "363fdef3813b72a5e45a42f17034cd5a544b654c838929cecf6e1ce5f60625cb",
+    "md5": "394406f8a9bdf093c895f95aff4f6c49",
+    "bytes": 305250378,
+    "cached": false,
+    "download_seconds": 23.93583266600035
+  }
+}

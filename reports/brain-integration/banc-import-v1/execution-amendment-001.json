@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-08T15:54:58.216453+00:00",
+  "protocol_sha256": "b9e8b0f9ed809c3a3e9c0da1d38957360e173652923ad76217ba0c281e7305f7",
+  "prior_code_sha256": {
+    "cns_audit/__init__.py": "af92d313d6de5f838d51ec06782249f00974753b848570bb384e8a66c3fdc18e",
+    "cns_audit/download.py": "2f1ad758d946173742eb7641dc80e75e05b9139a0b82269d456e67c0b2f34161",
+    "cns_audit/banc.py": "e2da62a31105ec17eb3a2346807942bd4467d5e8aa0cc5567366c00a29d9e1c6",
+    "scripts/import_banc.py": "1c2a02014f82136d7d381b7463242db06224ef8e21a32451b4f605b4e31cb740",
+    "requirements-cns-audit.lock": "5786f3db4aa9c616e17e52ec8122b814c73ac433cf99eeb00786e638750747c0"
+  },
+  "code_sha256": {
+    "cns_audit/__init__.py": "af92d313d6de5f838d51ec06782249f00974753b848570bb384e8a66c3fdc18e",
+    "cns_audit/download.py": "2f1ad758d946173742eb7641dc80e75e05b9139a0b82269d456e67c0b2f34161",
+    "cns_audit/banc.py": "a6bd3db982a20355e815ef901c4a8e41b8a45f17f316a5b6e9783219aea3ce22",
+    "scripts/import_banc.py": "1c2a02014f82136d7d381b7463242db06224ef8e21a32451b4f605b4e31cb740",
+    "requirements-cns-audit.lock": "5786f3db4aa9c616e17e52ec8122b814c73ac433cf99eeb00786e638750747c0"
+  },
+  "reason": "Fix registration confirmation printing: flush belongs to print, not json.dumps. Original protocol and identity had already been saved correctly.",
+  "scope": "Console output and explicit source-amendment validation only. No source/filter/ID/metric/resource/acceptance changes.",
+  "ongoing_run": "Uses original registered code loaded before this correction; original source snapshot retained. Amended code only affects subsequent register/resume commands."
+}

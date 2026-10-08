@@ -1,0 +1,9 @@
+{
+  "repository": "htem/bancpipeline",
+  "revision": "5c333c12f0b9e03873f88cf4e23cad34c0bb49c1",
+  "paths": [
+    "banc/metrics/banc-calculate-connectivity.R",
+    "banc/share/banc-data.R"
+  ],
+  "note": "Source inspection before import registration; no graph processing performed"
+}

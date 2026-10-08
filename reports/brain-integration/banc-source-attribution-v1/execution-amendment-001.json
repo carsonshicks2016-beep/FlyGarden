@@ -1,0 +1,27 @@
+{
+  "at": "2026-10-08T16:41:16.765930+00:00",
+  "protocol_sha256": "c497424f18c3a8494fd427be973333281c55dcada52b454b0a689a8ff1159b65",
+  "prior_code_sha256": {
+    "scripts/attribute_banc_sources.py": "5c6e4aee80a8dd0e8b4005c9f2e09532590872853e7f4de5b1c3d26e7656f1e0",
+    "cns_audit/banc.py": "57f2b87e983a2d22046d77c4d891ffcce3311e6bf3a7b081b869b038cbb8e1d4",
+    "cns_audit/download.py": "2f1ad758d946173742eb7641dc80e75e05b9139a0b82269d456e67c0b2f34161"
+  },
+  "code_sha256": {
+    "scripts/attribute_banc_sources.py": "a8ddc6c9239cdcb4178baea4bca98a9ea05366debf92ff9f0ce069199eccf65d",
+    "cns_audit/banc.py": "57f2b87e983a2d22046d77c4d891ffcce3311e6bf3a7b081b869b038cbb8e1d4",
+    "cns_audit/download.py": "2f1ad758d946173742eb7641dc80e75e05b9139a0b82269d456e67c0b2f34161"
+  },
+  "extra_origin_artifacts": {
+    "outside-endpoints": {
+      "identity": {
+        "sha256": "f33d4faf43b2425650b79bb9feae6de49b18d2a8b9c4794d3f73ed47e9ea019a",
+        "md5": "e92ab28afac92697edca218c0d28c6b7",
+        "bytes": 505421387
+      },
+      "protocol_sha256": "b9e8b0f9ed809c3a3e9c0da1d38957360e173652923ad76217ba0c281e7305f7"
+    }
+  },
+  "reason": "Original unrestricted DISTINCT/UNION over segmentation endpoints exceeded the 2GB engine limit. Count the already grouped outside index plus a UNION restricted to the annotation set before deduplication.",
+  "scope": "Equivalent exact counting algorithm and stricter roster provenance; no new scientific hypotheses, thresholds, membership decisions or acceptance criteria. Preserve the failed execution and original v1 source-assumption failure.",
+  "independent_progress": "Save completed independent route evidence before later counts."
+}

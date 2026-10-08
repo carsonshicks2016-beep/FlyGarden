@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "registered_at": "2026-10-08T15:51:57.588591+00:00",
+  "purpose": "Anatomical import audit only",
+  "dataset": {
+    "doi": "10.7910/DVN/7WTH1N",
+    "archive_version": "3.0",
+    "materialization": 888,
+    "synapse_version": 2,
+    "license": "CC BY 4.0"
+  },
+  "sources": [
+    {
+      "name": "synapses_v2_human_readable.csv.gz",
+      "file_id": 13916483,
+      "bytes": 12257440602,
+      "md5": "e3679e7b9cec032ed1745c7a9dfd42d8",
+      "url": "https://dataverse.harvard.edu/api/access/datafile/13916483"
+    },
+    {
+      "name": "banc_888_edgelist_simple_v2.feather",
+      "file_id": 13992792,
+      "bytes": 305250378,
+      "md5": "394406f8a9bdf093c895f95aff4f6c49",
+      "url": "https://dataverse.harvard.edu/api/access/datafile/13992792"
+    }
+  ],
+  "annotations": {
+    "path": "data/anatomy-feasibility-v1/banc_888_meta.feather",
+    "identity": {
+      "sha256": "819bbcff476e52702d6f8d8604ce1f12d1d7b11942281df2f49df2a73a6f15a5",
+      "md5": "6275eda42f98c49539d1ab513d979d09",
+      "bytes": 57550610
+    },
+    "metrics_path": "data/anatomy-feasibility-v1/banc_888_metrics.feather",
+    "metrics_identity": {
+      "sha256": "737a6c0f9b4d202da8d419fb5c539e2ddceaae2594f64952298fca29f678ce08",
+      "md5": "0e6a81d824abfba0b7bbd2352639922e",
+      "bytes": 9681618
+    },
+    "primary_key": "banc_888_id",
+    "ordering": "ascending exact unsigned integer ID"
+  },
+  "csv": {
+    "columns": [
+      "id",
+      "pre_x",
+      "pre_y",
+      "pre_z",
+      "post_x",
+      "post_y",
+      "post_z",
+      "ctr_x",
+      "ctr_y",
+      "ctr_z",
+      "size",
+      "pre_supervoxel_id",
+      "pre_root_id",
+      "post_supervoxel_id",
+      "post_root_id"
+    ],
+    "header": false,
+    "skip_rows": 0,
+    "compression": "gzip",
+    "strict": true,
+    "ids": "canonical nonnegative uint64 decimal strings; no floating conversions",
+    "coordinates": "finite double; retained in raw archive, not geometry-qualified",
+    "size": "finite nonnegative synapse footprint; units not synaptic conductance"
+  },
+  "eligibility": {
+    "site_size_minimum": 5,
+    "pair_count_minimum": null,
+    "raw": "Retain all records, including self connections, unknown/zero endpoints and size<5",
+    "pairs": "Count size>=5 records by ordered root pair; preserve all self/zero/unknown pairs",
+    "simple_comparison": "size>=5, non-self, both endpoints in archived banc_888_id set",
+    "duplicates": "Any duplicate synapse ID blocks qualification; no arbitrary first-row selection"
+  },
+  "membership": {
+    "annotated": "Known super_class excluding glia, trachea and not_a_neuron",
+    "unclassified": "Missing super_class, retained separately",
+    "excluded": "Explicit glia/trachea/not_a_neuron, retained separately",
+    "conflicts": "root_888 differs from release primary ID, quarantined separately",
+    "outside": "Endpoint not in archived annotation set; includes 0 as unassigned",
+    "proofread": "Quality field only, never used as a membership shortcut"
+  },
+  "independent_check": {
+    "reader": "PyArrow streaming CSV; all raw rows; exact selected root pairs",
+    "rosters": {
+      "selected-identities.json": "c2da2dd1e95abd2202bdabfc75aac0c41269fd3d02ce7f6e6aa8ff005575b6bd",
+      "front-leg-identities.json": "bc313877448422f8152ff2ed28acc7fe640f103b521d7a5bb8ed3e817dc36434"
+    },
+    "predicate": "size>=5, both endpoints in union of exact BANC rosters; include autapses"
+  },
+  "acceptance": [
+    "Source lengths and full MD5 match archive",
+    "All release IDs unique and metrics sets agree",
+    "Strict parse and exact identities; all retained sizes/coordinates finite",
+    "No duplicate synapse IDs",
+    "All eligible sites accounted in pair sums/partitions",
+    "Independent selected-route counts exactly equal imported counts",
+    "Simple-table reconciliation reported without changing filters to fit it"
+  ],
+  "stop_rules": [
+    "Malformed/corrupt input",
+    "Disk reserve crossing",
+    "Source/code/roster identity drift",
+    "Duplicate IDs or invalid values stop downstream graph qualification"
+  ],
+  "resources": {
+    "workers": 1,
+    "threads": 1,
+    "duckdb_memory_limit": "2GB",
+    "spill_limit": "64GB computational scratch; not archive retention cap",
+    "free_space_reserve_bytes": 2147483648,
+    "simulation_launched": false
+  },
+  "model_ready": false,
+  "code_sha256": {
+    "cns_audit/__init__.py": "af92d313d6de5f838d51ec06782249f00974753b848570bb384e8a66c3fdc18e",
+    "cns_audit/download.py": "2f1ad758d946173742eb7641dc80e75e05b9139a0b82269d456e67c0b2f34161",
+    "cns_audit/banc.py": "e2da62a31105ec17eb3a2346807942bd4467d5e8aa0cc5567366c00a29d9e1c6",
+    "scripts/import_banc.py": "1c2a02014f82136d7d381b7463242db06224ef8e21a32451b4f605b4e31cb740",
+    "requirements-cns-audit.lock": "5786f3db4aa9c616e17e52ec8122b814c73ac433cf99eeb00786e638750747c0"
+  },
+  "unchanged": "Existing FlyWire model, checkpoints and all 39 acceptance requirements/statuses"
+}

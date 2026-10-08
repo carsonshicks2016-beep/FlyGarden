@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "registered_at": "2026-10-08T16:32:48.760344+00:00",
+  "purpose": "Source-contract attribution, not neural simulation",
+  "revealed_before_registration": "Original simplified Feather independently contains 156311 equal-endpoint records. Original no-self expectation failed.",
+  "original_protocol_sha256": "b9e8b0f9ed809c3a3e9c0da1d38957360e173652923ad76217ba0c281e7305f7",
+  "original_failed_check_preserved": true,
+  "origin_artifacts": {
+    "membership": {
+      "identity": {
+        "sha256": "dd40fa880db59215cf0d5f4da4519ad94ec8cb350de5f9c3a37944f4b4286619",
+        "md5": "4d12c9eb9a20433ff5b2be3aed8b9f2e",
+        "bytes": 1009994
+      },
+      "protocol_sha256": "b9e8b0f9ed809c3a3e9c0da1d38957360e173652923ad76217ba0c281e7305f7"
+    },
+    "eligible-pairs": {
+      "identity": {
+        "sha256": "cd887deb4dc178ac1882f3c40130cac43bc56a72563bd58e4ef84d934180b182",
+        "md5": "d928ef24dfc307a330fcd8b24a6d0edf",
+        "bytes": 1344110682
+      },
+      "protocol_sha256": "b9e8b0f9ed809c3a3e9c0da1d38957360e173652923ad76217ba0c281e7305f7"
+    },
+    "simple-comparison": {
+      "identity": {
+        "sha256": "e0f724e35b6c08603c4d241a0b0a2e6cfe061037b5cab938e762a1c6daa84980",
+        "md5": "dc74177d8a37d2d81ce25b1d45bf0a1d",
+        "bytes": 59646157
+      },
+      "protocol_sha256": "b9e8b0f9ed809c3a3e9c0da1d38957360e173652923ad76217ba0c281e7305f7"
+    }
+  },
+  "sources": {
+    "synapses_v2_human_readable.csv.gz": {
+      "sha256": "9ba02918b067ccfc11930c1bd1099494cae9197244830cae0d2e59c9625a408d",
+      "md5": "e3679e7b9cec032ed1745c7a9dfd42d8",
+      "bytes": 12257440602,
+      "cached": false,
+      "download_seconds": 1257.1487167090017
+    },
+    "banc_888_edgelist_simple_v2.feather": {
+      "sha256": "363fdef3813b72a5e45a42f17034cd5a544b654c838929cecf6e1ce5f60625cb",
+      "md5": "394406f8a9bdf093c895f95aff4f6c49",
+      "bytes": 305250378,
+      "cached": false,
+      "download_seconds": 23.93583266600035
+    }
+  },
+  "comparisons": {
+    "A": "Original: size>=5 raw pairs; both release-key endpoints annotated; exclude self",
+    "B": "Actual archived contract candidate: identical size and membership, retain self"
+  },
+  "acceptance": {
+    "B": "All ordered pairs and counts exactly equal archive, including self; report failure otherwise",
+    "independent": "Second raw gzip CSV reader exactly reproduces all selected pairs and total raw row count",
+    "A": "Report differences unchanged; never relabel original no-self gate as passing"
+  },
+  "independent_check": {
+    "reader": "PyArrow streaming CSV; all raw rows; exact selected root pairs",
+    "rosters": {
+      "selected-identities.json": "c2da2dd1e95abd2202bdabfc75aac0c41269fd3d02ce7f6e6aa8ff005575b6bd",
+      "front-leg-identities.json": "bc313877448422f8152ff2ed28acc7fe640f103b521d7a5bb8ed3e817dc36434"
+    },
+    "predicate": "size>=5, both endpoints in union of exact BANC rosters; include autapses"
+  },
+  "stop_rules": [
+    "Hash/protocol/source drift",
+    "Invalid/duplicate pairs",
+    "Disk reserve",
+    "Independent-reader mismatch"
+  ],
+  "code_sha256": {
+    "scripts/attribute_banc_sources.py": "5c6e4aee80a8dd0e8b4005c9f2e09532590872853e7f4de5b1c3d26e7656f1e0",
+    "cns_audit/banc.py": "57f2b87e983a2d22046d77c4d891ffcce3311e6bf3a7b081b869b038cbb8e1d4",
+    "cns_audit/download.py": "2f1ad758d946173742eb7641dc80e75e05b9139a0b82269d456e67c0b2f34161"
+  },
+  "resources": {
+    "workers": 1,
+    "threads": 1,
+    "memory_limit": "2GB",
+    "reserve_bytes": 2147483648
+  },
+  "classification": "Explicit correction of a source assumption; not a neural bug fix or relaxed behavioral gate",
+  "weights_assigned": false,
+  "controller_promoted": false,
+  "acceptance_39_unchanged": true
+}

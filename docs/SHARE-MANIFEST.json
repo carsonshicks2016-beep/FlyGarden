@@ -441580,5 +441580,326 @@
     ],
     "excluded_local_cache": "data/anatomy-feasibility-v1; raw annotation tables and full discovery catalog remain local",
     "inventory_note": "Supplemental evidence overlay. Original files/excluded inventory and prior decision entries remain historical; this entry does not imply that complete graphs, raw physiology, skeletons or checkpoints are included."
+  },
+  "banc_import_and_source_attribution_2026_10_08": {
+    "status": "Raw import passed; original no-self assumption failed and retained; separate inclusive source attribution passed",
+    "reports": [
+      "reports/brain-integration/banc-import-v1/RESULTS.md",
+      "reports/brain-integration/banc-source-attribution-v1/RESULTS.md",
+      "reports/brain-integration/leg-physiology-preparation-v1/RESULTS.md"
+    ],
+    "shared_files": {
+      "README.md": {
+        "sha256": "65c47c56e31ac1878e19268c1a038ada49d36a40a76beea212c7376eb89b027f",
+        "md5": "bb3894d43fce6fef268f6af6822a2ecf",
+        "bytes": 12601
+      },
+      "cns_audit/__init__.py": {
+        "sha256": "af92d313d6de5f838d51ec06782249f00974753b848570bb384e8a66c3fdc18e",
+        "md5": "fc16e6300ba3dd61c7e7f29ecbfd5d03",
+        "bytes": 84
+      },
+      "cns_audit/banc.py": {
+        "sha256": "57f2b87e983a2d22046d77c4d891ffcce3311e6bf3a7b081b869b038cbb8e1d4",
+        "md5": "dffb4d0c5d1d847af6fb75e2446da5b0",
+        "bytes": 24567
+      },
+      "cns_audit/download.py": {
+        "sha256": "2f1ad758d946173742eb7641dc80e75e05b9139a0b82269d456e67c0b2f34161",
+        "md5": "9eb78a48c0f1748c374e3c003d8d4ef8",
+        "bytes": 7781
+      },
+      "cns_audit/physiology.py": {
+        "sha256": "196f14f88a9c03a86f05c2052af37b142dcfd37a2dfecc70aa828667b263df4c",
+        "md5": "54bd966e942356577bb6677dc79722e9",
+        "bytes": 3860
+      },
+      "docs/MUSE-REVIEW.md": {
+        "sha256": "057ea615aa0276a086eaf0b53be1b614cbc3939549059301bfae4476d5bb16e3",
+        "md5": "7cdbdfcaee3b71472ab86dab6c697f99",
+        "bytes": 22994
+      },
+      "reports/brain-integration/banc-import-v1/RESULTS.md": {
+        "sha256": "1cbd4dd0fcc71d9fab8f43c437b981de4c756077fa51502c19d86aa0d49ad3d4",
+        "md5": "e3fff54dbaa11cf30bb636e9035efe86",
+        "bytes": 1311
+      },
+      "reports/brain-integration/banc-import-v1/TUTORIAL.md": {
+        "sha256": "3248ae0a41943cf54305b5f5c7e2cd9bc34f7f75deaa0dc3f4fa47b6f0c76c80",
+        "md5": "7b06bb446c44ac64e8e13fd1a999d8c4",
+        "bytes": 3487
+      },
+      "reports/brain-integration/banc-import-v1/boundary-count-diagnostic.json": {
+        "sha256": "3ed09a868c00248720830011c799ad5c3785a256c307ae699ce821d04c85d7e3",
+        "md5": "d4d39e8e5494e2590e4904d07582faea",
+        "bytes": 506
+      },
+      "reports/brain-integration/banc-import-v1/dependency-source.json": {
+        "sha256": "84312e15b4be02e89c2a87e3b666f8df0d49f56491d2bf152bf31e1bb51757f3",
+        "md5": "22af3c3246f0bcb68e3b007a74e2d373",
+        "bytes": 1156
+      },
+      "reports/brain-integration/banc-import-v1/environment.json": {
+        "sha256": "0794043cef08003c382375a7553dc6442963ea857a87a6b1c82a5896fc1046b0",
+        "md5": "66d637704263d915c3a6c40e5f8baf27",
+        "bytes": 1030
+      },
+      "reports/brain-integration/banc-import-v1/execution-amendment-001.json": {
+        "sha256": "ae62c3d67cee04da8aa15d9a9a1f72b9838fbd47db18d65f0ffc50def5352ce9",
+        "md5": "294dafb07462af59dba15654ebb7320d",
+        "bytes": 1635
+      },
+      "reports/brain-integration/banc-import-v1/execution-amendment-002.json": {
+        "sha256": "15e80d9fd538b50efca2b3e530ead733a2e31947666f553a4ab5746de649fda5",
+        "md5": "87428c291fd325c0e5b600c1e06c4d5b",
+        "bytes": 1624
+      },
+      "reports/brain-integration/banc-import-v1/execution-amendment-003.json": {
+        "sha256": "c4f4cb413369d61a2939c144f798d78e23d570c0ea1d6c8edd5d4aa61995185d",
+        "md5": "37f92a73a27720cf09219fbf99e38713",
+        "bytes": 1556
+      },
+      "reports/brain-integration/banc-import-v1/interruption-1791476675085456000.json": {
+        "sha256": "12b4d5b4561880968c48ac1ee90456f869b4b3222d051d18226eaeaa1554c911",
+        "md5": "6ff193f105d31202fee44b2158d84bb7",
+        "bytes": 212
+      },
+      "reports/brain-integration/banc-import-v1/progress.json": {
+        "sha256": "450dc8931fb9bd0dd152987380422a8712a72422f7ec6e0ad8f5ab60e573b2f1",
+        "md5": "0f0f85a6d138082351ea6920df256f2e",
+        "bytes": 218
+      },
+      "reports/brain-integration/banc-import-v1/protocol-identity.json": {
+        "sha256": "23572c1d0a462198be3fc15b86658cffc682d4cca3c6d60b4547f0399b3a93a9",
+        "md5": "c23028c33a22496b6c4cc952ed964704",
+        "bytes": 145
+      },
+      "reports/brain-integration/banc-import-v1/protocol.json": {
+        "sha256": "b9e8b0f9ed809c3a3e9c0da1d38957360e173652923ad76217ba0c281e7305f7",
+        "md5": "7e968fbc26b3bd88f61fd9a89b7792c6",
+        "bytes": 4962
+      },
+      "reports/brain-integration/banc-import-v1/raw-integrity.json": {
+        "sha256": "c89061484564940c99638e8067ef8b49dbef76a97cb10ad5076c824fb0873f8f",
+        "md5": "eb7ed32c23b4f6c0ce2e46468c11fa40",
+        "bytes": 174
+      },
+      "reports/brain-integration/banc-import-v1/registered-source/cns_audit/__init__.py": {
+        "sha256": "af92d313d6de5f838d51ec06782249f00974753b848570bb384e8a66c3fdc18e",
+        "md5": "fc16e6300ba3dd61c7e7f29ecbfd5d03",
+        "bytes": 84
+      },
+      "reports/brain-integration/banc-import-v1/registered-source/cns_audit/banc.py": {
+        "sha256": "e2da62a31105ec17eb3a2346807942bd4467d5e8aa0cc5567366c00a29d9e1c6",
+        "md5": "c79e4fe46bb359bca396a9ab2fe26033",
+        "bytes": 23706
+      },
+      "reports/brain-integration/banc-import-v1/registered-source/cns_audit/download.py": {
+        "sha256": "2f1ad758d946173742eb7641dc80e75e05b9139a0b82269d456e67c0b2f34161",
+        "md5": "9eb78a48c0f1748c374e3c003d8d4ef8",
+        "bytes": 7781
+      },
+      "reports/brain-integration/banc-import-v1/registered-source/requirements-cns-audit.lock": {
+        "sha256": "5786f3db4aa9c616e17e52ec8122b814c73ac433cf99eeb00786e638750747c0",
+        "md5": "9bcd6944dec6cc03b6b626799e2a0c9d",
+        "bytes": 177
+      },
+      "reports/brain-integration/banc-import-v1/registered-source/scripts/import_banc.py": {
+        "sha256": "1c2a02014f82136d7d381b7463242db06224ef8e21a32451b4f605b4e31cb740",
+        "md5": "d224953e232876248d29e52990ee9666",
+        "bytes": 542
+      },
+      "reports/brain-integration/banc-import-v1/resource-observations.json": {
+        "sha256": "8381a2e127ad1d20ad7c70ab940f210e2558544f3e8b23245557e1dce950100d",
+        "md5": "a6df4818e23b9557f267d5939973606d",
+        "bytes": 592
+      },
+      "reports/brain-integration/banc-import-v1/simple-table-diagnostic.json": {
+        "sha256": "e5ce09a9d951bedb3e814e26c077355b68dede7418f613a2c6bbad4502165deb",
+        "md5": "0eddb1683896c0afbcacbc941c8c80e3",
+        "bytes": 1634
+      },
+      "reports/brain-integration/banc-import-v1/site-schema-probe.json": {
+        "sha256": "1e1c0a9bb43297cfc8dfff85a3919b360bd039e95ec5834b0bd981773fbb0390",
+        "md5": "980a43560f97dfeda58ea56d5a21412b",
+        "bytes": 1810
+      },
+      "reports/brain-integration/banc-import-v1/source-receipts.json": {
+        "sha256": "21eef5867dc887c27cba237048aa22d0bf8bf7fe9b6dc1ce7a70a572fcf8e037",
+        "md5": "abe171b4c36d3fbf56b59d820371265b",
+        "bytes": 532
+      },
+      "reports/brain-integration/banc-import-v1/upstream-processing.json": {
+        "sha256": "d93e2d4aaafc86e562e6b5801549d1018d9750324459ff6adf4dc094a081a685",
+        "md5": "4aa279cddbc51748bd01c677c205b188",
+        "bytes": 284
+      },
+      "reports/brain-integration/banc-import-v1/verification.json": {
+        "sha256": "4b5ba4daabba14ad38c42eec440b4006e073b6cef34fa4123aa19d0c88f63ad8",
+        "md5": "08f4133c245f7e4ba1c54948161aed43",
+        "bytes": 925
+      },
+      "reports/brain-integration/banc-source-attribution-v1/RESULTS.md": {
+        "sha256": "0eb60756563e922524129b6080815c4461bf1e67fb4d1975b3e15eb5887301b0",
+        "md5": "68fab37c019996f23efcb102a548fad3",
+        "bytes": 6061
+      },
+      "reports/brain-integration/banc-source-attribution-v1/execution-amendment-001.json": {
+        "sha256": "aed04abf361c74e937d67151438398a9cab8e9abf2fe90e9e9ede61fb36913c1",
+        "md5": "9f62ff28dd5c4f3908e9923ee06232c4",
+        "bytes": 1692
+      },
+      "reports/brain-integration/banc-source-attribution-v1/independent-routes.json": {
+        "sha256": "6c80552a6182edb5bdf91a3f6fde218642f6d1da19646ef14f9a346b092d3b52",
+        "md5": "50505e38d8c32fbc5dc1e85753363156",
+        "bytes": 231
+      },
+      "reports/brain-integration/banc-source-attribution-v1/interruption-1791477415582996000.json": {
+        "sha256": "d4cd55d662c6a17c6804342cb77ba090fcd14a5128c10b0164fb82aa4689664b",
+        "md5": "2fee4025708b0510791bc068ba8a43b8",
+        "bytes": 491
+      },
+      "reports/brain-integration/banc-source-attribution-v1/progress.json": {
+        "sha256": "6f70636b25499af67a2190b57ac4711ae540afc02af46f63b3abeebb3de8eb94",
+        "md5": "b8df040d16339e44972199eb8a3cb4f8",
+        "bytes": 207
+      },
+      "reports/brain-integration/banc-source-attribution-v1/protocol-identity.json": {
+        "sha256": "cf7e9a3304586f3f59dc1711fb5661b10d251197843b248eb4da0ed5463ad89b",
+        "md5": "31ebd05bb143e74340d08e0e5964c156",
+        "bytes": 145
+      },
+      "reports/brain-integration/banc-source-attribution-v1/protocol.json": {
+        "sha256": "c497424f18c3a8494fd427be973333281c55dcada52b454b0a689a8ff1159b65",
+        "md5": "d6ce310a30e4e18e9132d73ce45567a7",
+        "bytes": 3749
+      },
+      "reports/brain-integration/banc-source-attribution-v1/registered-source/cns_audit/banc.py": {
+        "sha256": "57f2b87e983a2d22046d77c4d891ffcce3311e6bf3a7b081b869b038cbb8e1d4",
+        "md5": "dffb4d0c5d1d847af6fb75e2446da5b0",
+        "bytes": 24567
+      },
+      "reports/brain-integration/banc-source-attribution-v1/registered-source/cns_audit/download.py": {
+        "sha256": "2f1ad758d946173742eb7641dc80e75e05b9139a0b82269d456e67c0b2f34161",
+        "md5": "9eb78a48c0f1748c374e3c003d8d4ef8",
+        "bytes": 7781
+      },
+      "reports/brain-integration/banc-source-attribution-v1/registered-source/scripts/attribute_banc_sources.py": {
+        "sha256": "5c6e4aee80a8dd0e8b4005c9f2e09532590872853e7f4de5b1c3d26e7656f1e0",
+        "md5": "effc64fa832c1120917bcb1a83e97f37",
+        "bytes": 8945
+      },
+      "reports/brain-integration/banc-source-attribution-v1/report-identity.json": {
+        "sha256": "d77e086f440606be60df582e10dc5b26a948c4d3ccfeabf8ac23c30ea4c1906e",
+        "md5": "88fb7e2d17180f7e8d282378a6d5814c",
+        "bytes": 268
+      },
+      "reports/brain-integration/banc-source-attribution-v1/results.json": {
+        "sha256": "95457446c0c4059c8dc4796fa17fa12676f8ba70beabe29fe62f92ce467cc18b",
+        "md5": "0ebf92070d899efe7e20c1f92d0c535c",
+        "bytes": 4333
+      },
+      "reports/brain-integration/banc-source-attribution-v1/selected-route-counts.json": {
+        "sha256": "92cfffefff4a59643ba29bf93fa22d733f2e29a73788909f9a9f4abc1fc3c867",
+        "md5": "f66b50e46a0c755eb1aa641578858dd0",
+        "bytes": 179616
+      },
+      "reports/brain-integration/banc-source-attribution-v1/verification.json": {
+        "sha256": "e5a881eb4a86593fa237015fbbc2eb1ccf0ff66044d1c07e44b567d84d1c51db",
+        "md5": "1f42012c3bb5b5018498161e089b1d01",
+        "bytes": 607
+      },
+      "reports/brain-integration/leg-physiology-preparation-v1/MEASUREMENT_REQUIREMENTS.json": {
+        "sha256": "4d3ce6cd491f8ad5bd3bac857bff29c6c89fd73df1d319211838055ec8e4fe9d",
+        "md5": "85f1aa849229d69090e88a57fb80e3ed",
+        "bytes": 1470
+      },
+      "reports/brain-integration/leg-physiology-preparation-v1/RESULTS.md": {
+        "sha256": "6c389bf56a8ff11f4d64d47647b9736d6b19f0f18e5a8d4c1be3e94fffd2670e",
+        "md5": "57244f6c8a3433ed9ee22e95e2ed950d",
+        "bytes": 2338
+      },
+      "reports/brain-integration/leg-physiology-preparation-v1/access-diagnostic.json": {
+        "sha256": "dc2bc3f587a1cd1ce173656f03b1b4d108799ce93bede890fd7f4a4ff4cdb45a",
+        "md5": "c2f525e305044fed451861b7190309b4",
+        "bytes": 764
+      },
+      "reports/brain-integration/leg-physiology-preparation-v1/analysis-code-catalog.json": {
+        "sha256": "1e79fd05627112c3a792907e493244ed7268e853dc9413c9f2768837324be65d",
+        "md5": "4adc38ee29f240235ece4dfc6a6ffe76",
+        "bytes": 32658
+      },
+      "reports/brain-integration/leg-physiology-preparation-v1/analysis-code-receipts.json": {
+        "sha256": "95be672aa26fc8b30936dbe3366fd64a60a85a6f19205dad7cc72177ca48ea9a",
+        "md5": "f76436a2de3e3647c406c410c1d5e9d4",
+        "bytes": 1892
+      },
+      "reports/brain-integration/leg-physiology-preparation-v1/files.json": {
+        "sha256": "7db2ad512a5f78d97a7f14829b749dc4f5e40de0cf48886add1d0b711365081f",
+        "md5": "d5f928cc0471f0743f209cd3b8253f8a",
+        "bytes": 3343
+      },
+      "reports/brain-integration/leg-physiology-preparation-v1/version.json": {
+        "sha256": "5294ceabb3e856a0f6fca3215cc50a50c10f90ffdd5c8f9dc760d4b35d86d79f",
+        "md5": "a03ad1bf95b6a3a0a58731cc140633dc",
+        "bytes": 7960
+      },
+      "reports/brain-integration/recovery/END_GOAL_STATUS.md": {
+        "sha256": "0dd0ec6dc81aadf39c448499c00fdef876daa237f0b0271c6fba3ba0b01e0a11",
+        "md5": "2ecffe04d2dd5338b1c9ed24567b492d",
+        "bytes": 6472
+      },
+      "requirements-cns-audit.lock": {
+        "sha256": "5786f3db4aa9c616e17e52ec8122b814c73ac433cf99eeb00786e638750747c0",
+        "md5": "9bcd6944dec6cc03b6b626799e2a0c9d",
+        "bytes": 177
+      },
+      "scripts/attribute_banc_sources.py": {
+        "sha256": "a8ddc6c9239cdcb4178baea4bca98a9ea05366debf92ff9f0ce069199eccf65d",
+        "md5": "73e52df5afc42028e90c7daad75a9cd9",
+        "bytes": 10662
+      },
+      "scripts/import_banc.py": {
+        "sha256": "1c2a02014f82136d7d381b7463242db06224ef8e21a32451b4f605b4e31cb740",
+        "md5": "d224953e232876248d29e52990ee9666",
+        "bytes": 542
+      },
+      "scripts/report_banc_import.py": {
+        "sha256": "5b12f6c17d04528ae7d8bfe58d979e3b1f748ae5acc3d072462411f004ce900d",
+        "md5": "2ec8a010d90210d8c1ed3e432fc2a021",
+        "bytes": 9502
+      },
+      "tests/test_banc_import.py": {
+        "sha256": "3ad7d422db652abebb929525d329bd7ed2309bb84de0b26a306bdf793ff8a40b",
+        "md5": "a15190c3ca6023492cc55056405f8603",
+        "bytes": 5816
+      },
+      "tests/test_banc_registration.py": {
+        "sha256": "97f3d466facc5eee7124953e4accf8edcfb3325e7c8a7fb7ac98975caf2330e2",
+        "md5": "beeb1e81b0fc7c764b5de27838fa1111",
+        "bytes": 1709
+      },
+      "tests/test_banc_source_attribution.py": {
+        "sha256": "0faca3975a06c1dc07f3962e733e03b3cbeb636d75ba0e9a8d9e87bb4407a385",
+        "md5": "0dc323a7735889b5b0777a385e4bc964",
+        "bytes": 2213
+      },
+      "tests/test_cns_download.py": {
+        "sha256": "3c303a816b8056aad7c8bd95f938cdce8e59cb09cb6107403cc508c8530cf39c",
+        "md5": "f9692134fe7df946dff42fd0e3b4b3b0",
+        "bytes": 5452
+      },
+      "tests/test_leg_measurements.py": {
+        "sha256": "4d645035f6d3c62e8b0167f6cec2ba83cd064d70efae99593bd08c49f7f8c94a",
+        "md5": "4deb56a159f0f331b67642b2a57d55cd",
+        "bytes": 2400
+      }
+    },
+    "total_shared_bytes": 462033,
+    "new_simulations": 0,
+    "controller_promoted": false,
+    "acceptance_39_unchanged": true,
+    "raw_archives_and_imported_graphs": "Local only; excluded from GitHub",
+    "physiology": "Raw source inaccessible by automated download; parser tested with synthetic fixtures only"
   }
 }

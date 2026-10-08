@@ -1,0 +1,7 @@
+{
+  "at": "2026-10-08T16:24:35.086058+00:00",
+  "stage": "interrupted",
+  "elapsed_seconds": 1759.7577761659995,
+  "free_disk_bytes": 187262275584,
+  "error": "ValueError: Invalid/duplicate simplified graph records"
+}

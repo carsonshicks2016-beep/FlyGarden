@@ -1,0 +1,187 @@
+{
+  "completed_at": "2026-10-08T17:19:32.515674+00:00",
+  "original_v1_no_self_gate": "FAILED, preserved",
+  "comparisons": {
+    "A": {
+      "different_pairs": 156311,
+      "raw_only": 0,
+      "simple_only": 156311,
+      "shared_count_mismatch": 0,
+      "exact_match": false
+    },
+    "B": {
+      "different_pairs": 0,
+      "raw_only": 0,
+      "simple_only": 0,
+      "shared_count_mismatch": 0,
+      "exact_match": true
+    }
+  },
+  "raw": {
+    "rows": 218460853,
+    "unique_synapse_ids": 218460853,
+    "invalid_rows": 0,
+    "eligible_sites": 197100067,
+    "eligible_self_sites": 2510644,
+    "all_self_sites": 4698456
+  },
+  "independent_routes": {
+    "reader": "Independent PyArrow raw gzip/CSV scan; all source rows",
+    "raw_rows": 218460853,
+    "selected_roots": 408,
+    "pairs": 1972,
+    "sites": 10398,
+    "mismatch_pairs": 0,
+    "mismatch_examples": [],
+    "exact_match": true
+  },
+  "membership_counts": {
+    "annotated_neuron_candidate": 146769,
+    "conflict": 2,
+    "excluded_non_neural": 13107,
+    "unclassified": 28630
+  },
+  "partitions": [
+    {
+      "pre": "annotated_neuron_candidate",
+      "post": "annotated_neuron_candidate",
+      "pairs": 10650723,
+      "sites": 33338533
+    },
+    {
+      "pre": "annotated_neuron_candidate",
+      "post": "excluded_non_neural",
+      "pairs": 45204,
+      "sites": 61035
+    },
+    {
+      "pre": "annotated_neuron_candidate",
+      "post": "outside_annotations",
+      "pairs": 92400388,
+      "sites": 106184281
+    },
+    {
+      "pre": "annotated_neuron_candidate",
+      "post": "unclassified",
+      "pairs": 457906,
+      "sites": 1003406
+    },
+    {
+      "pre": "conflict",
+      "post": "outside_annotations",
+      "pairs": 1,
+      "sites": 2
+    },
+    {
+      "pre": "excluded_non_neural",
+      "post": "annotated_neuron_candidate",
+      "pairs": 8961,
+      "sites": 13115
+    },
+    {
+      "pre": "excluded_non_neural",
+      "post": "excluded_non_neural",
+      "pairs": 4273,
+      "sites": 10815
+    },
+    {
+      "pre": "excluded_non_neural",
+      "post": "outside_annotations",
+      "pairs": 68446,
+      "sites": 74859
+    },
+    {
+      "pre": "excluded_non_neural",
+      "post": "unclassified",
+      "pairs": 427,
+      "sites": 687
+    },
+    {
+      "pre": "outside_annotations",
+      "post": "annotated_neuron_candidate",
+      "pairs": 7841234,
+      "sites": 10053610
+    },
+    {
+      "pre": "outside_annotations",
+      "post": "excluded_non_neural",
+      "pairs": 25066,
+      "sites": 28676
+    },
+    {
+      "pre": "outside_annotations",
+      "post": "outside_annotations",
+      "pairs": 37138487,
+      "sites": 40429844
+    },
+    {
+      "pre": "outside_annotations",
+      "post": "unclassified",
+      "pairs": 396969,
+      "sites": 516831
+    },
+    {
+      "pre": "unclassified",
+      "post": "annotated_neuron_candidate",
+      "pairs": 487683,
+      "sites": 1073881
+    },
+    {
+      "pre": "unclassified",
+      "post": "excluded_non_neural",
+      "pairs": 1152,
+      "sites": 1696
+    },
+    {
+      "pre": "unclassified",
+      "post": "outside_annotations",
+      "pairs": 3586460,
+      "sites": 4078868
+    },
+    {
+      "pre": "unclassified",
+      "post": "unclassified",
+      "pairs": 96499,
+      "sites": 229928
+    }
+  ],
+  "endpoint_counts": {
+    "raw_endpoint_ids": 100719923,
+    "zero_ids": 1,
+    "in_annotation_set": 176813,
+    "outside_annotation_ids": 100543110,
+    "counts_are": "Segmentation endpoint IDs, not biological neurons"
+  },
+  "equal_endpoint_records": [
+    {
+      "membership": "annotated_neuron_candidate",
+      "pairs": 134950,
+      "sites": 1342638
+    },
+    {
+      "membership": "excluded_non_neural",
+      "pairs": 3636,
+      "sites": 8881
+    },
+    {
+      "membership": "outside_annotations",
+      "pairs": 965095,
+      "sites": 1087778
+    },
+    {
+      "membership": "unclassified",
+      "pairs": 17725,
+      "sites": 71347
+    }
+  ],
+  "qualification": "Source consistency only; biological neuron membership/dynamics remain unresolved",
+  "source_consistency_passed": true,
+  "model_ready": false,
+  "resources": {
+    "monotonic_followup_seconds": 182.17140004198882,
+    "peak_process_rss_bytes": 1106411520
+  },
+  "dataset_license": "CC BY 4.0",
+  "new_neural_simulations": 0,
+  "acceptance_39_unchanged": true
+}

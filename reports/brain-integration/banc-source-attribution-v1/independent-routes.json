@@ -1,0 +1,10 @@
+{
+  "reader": "Independent PyArrow raw gzip/CSV scan; all source rows",
+  "raw_rows": 218460853,
+  "selected_roots": 408,
+  "pairs": 1972,
+  "sites": 10398,
+  "mismatch_pairs": 0,
+  "mismatch_examples": [],
+  "exact_match": true
+}

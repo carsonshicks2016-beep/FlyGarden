@@ -1,0 +1,247 @@
+{
+  "_links": {
+    "self": {
+      "href": "/api/v2/versions/94574"
+    },
+    "stash:dataset": {
+      "href": "/api/v2/datasets/doi%3A10.5061%2Fdryad.k3j9kd55t"
+    },
+    "stash:files": {
+      "href": "/api/v2/versions/94574/files"
+    },
+    "stash:download": {
+      "href": "/api/v2/versions/94574/download"
+    },
+    "curies": [
+      {
+        "name": "stash",
+        "href": "https://github.com/datadryad/dryad-app/blob/main/documentation/apis/link_relations.md#{rel}",
+        "templated": "true"
+      }
+    ]
+  },
+  "title": "Central processing of leg proprioception in Drosophila: Physiology and behavior data",
+  "authors": [
+    {
+      "firstName": "Sweta",
+      "lastName": "Agrawal",
+      "email": "sagrawal@uw.edu",
+      "affiliation": "University of Washington",
+      "affiliationROR": "https://ror.org/00cvxb145",
+      "affiliations": [
+        {
+          "organization": "University of Washington",
+          "identifier": "https://ror.org/00cvxb145"
+        }
+      ],
+      "orcid": "0000-0003-0547-4099",
+      "order": null,
+      "roles": []
+    },
+    {
+      "firstName": "John",
+      "lastName": "Tuthill",
+      "email": "tuthill@uw.edu",
+      "affiliation": "University of Washington",
+      "affiliationROR": "https://ror.org/00cvxb145",
+      "affiliations": [
+        {
+          "organization": "University of Washington",
+          "identifier": "https://ror.org/00cvxb145"
+        }
+      ],
+      "orcid": "0000-0002-5689-5806",
+      "order": null,
+      "roles": []
+    },
+    {
+      "firstName": "Evyn",
+      "lastName": "Dickinson",
+      "email": "",
+      "affiliation": "Yale University",
+      "affiliationROR": "https://ror.org/03v76x132",
+      "affiliations": [
+        {
+          "organization": "Yale University",
+          "identifier": "https://ror.org/03v76x132"
+        }
+      ],
+      "orcid": null,
+      "order": null,
+      "roles": []
+    },
+    {
+      "firstName": "Anne",
+      "lastName": "Sustar",
+      "email": "",
+      "affiliation": "University of Washington",
+      "affiliationROR": "https://ror.org/00cvxb145",
+      "affiliations": [
+        {
+          "organization": "University of Washington",
+          "identifier": "https://ror.org/00cvxb145"
+        }
+      ],
+      "orcid": null,
+      "order": null,
+      "roles": []
+    },
+    {
+      "firstName": "Pralaksha",
+      "lastName": "Gurung",
+      "email": "",
+      "affiliation": "University of Washington",
+      "affiliationROR": "https://ror.org/00cvxb145",
+      "affiliations": [
+        {
+          "organization": "University of Washington",
+          "identifier": "https://ror.org/00cvxb145"
+        }
+      ],
+      "orcid": null,
+      "order": null,
+      "roles": []
+    },
+    {
+      "firstName": "David",
+      "lastName": "Shepherd",
+      "email": "",
+      "affiliation": "Bangor University",
+      "affiliationROR": "https://ror.org/006jb1a24",
+      "affiliations": [
+        {
+          "organization": "Bangor University",
+          "identifier": "https://ror.org/006jb1a24"
+        }
+      ],
+      "orcid": null,
+      "order": null,
+      "roles": []
+    },
+    {
+      "firstName": "James",
+      "lastName": "Truman",
+      "email": "",
+      "affiliation": "University of Washington",
+      "affiliationROR": "https://ror.org/00cvxb145",
+      "affiliations": [
+        {
+          "organization": "University of Washington",
+          "identifier": "https://ror.org/00cvxb145"
+        }
+      ],
+      "orcid": null,
+      "order": null,
+      "roles": []
+    }
+  ],
+  "abstract": "<p>Proprioception, the sense of self-movement and position, is mediated by mechanosensory neurons that detect diverse features of body kinematics. Although proprioceptive feedback is crucial for accurate motor control, little is known about how downstream circuits transform limb sensory information to guide motor output. Here, we investigate neural circuits in <i>Drosophila </i>that process proprioceptive information from the fly leg. We identify three cell-types from distinct developmental lineages that are positioned to receive input from proprioceptor subtypes encoding tibia position, movement, and vibration. 13B\u03b1 neurons encode femur-tibia joint angle and mediate postural changes in tibia position. 9A\u03b1 neurons also drive changes in leg posture, but encode a combination of directional movement, high-frequency vibration, and joint angle. Activating 10B\u03b1 neurons, which encode tibia vibration at specific joint angles, elicits pausing in walking flies. Altogether, our results reveal that central circuits integrate information across proprioceptor subtypes to construct complex sensorimotor representations that mediate diverse behaviors, including reflexive control of limb posture and detection of leg vibration.</p>\r\n",
+  "funders": [
+    {
+      "organization": "National Institute of Neurological Disorders and Stroke",
+      "identifierType": "ror",
+      "identifier": "https://ror.org/01s5ya894",
+      "awardNumber": "R01NS102333",
+      "awardURI": null,
+      "awardDescription": null,
+      "awardTitle": null,
+      "order": null
+    },
+    {
+      "organization": "Howard Hughes Medical Institute",
+      "identifierType": "ror",
+      "identifier": "https://ror.org/006w34k90",
+      "awardNumber": null,
+      "awardURI": null,
+      "awardDescription": null,
+      "awardTitle": null,
+      "order": null
+    },
+    {
+      "organization": "Pew Charitable Trusts",
+      "identifierType": "ror",
+      "identifier": "https://ror.org/02xhk2825",
+      "awardNumber": "Scholar Award",
+      "awardURI": null,
+      "awardDescription": null,
+      "awardTitle": null,
+      "order": null
+    },
+    {
+      "organization": "Kinship Conservation Fellows",
+      "identifierType": "ror",
+      "identifier": "https://ror.org/05pt1d114",
+      "awardNumber": "Scholar Award",
+      "awardURI": null,
+      "awardDescription": null,
+      "awardTitle": null,
+      "order": null
+    },
+    {
+      "organization": "Alfred P. Sloan Foundation",
+      "identifierType": "ror",
+      "identifier": "https://ror.org/052csg198",
+      "awardNumber": "Scholar Award",
+      "awardURI": null,
+      "awardDescription": null,
+      "awardTitle": null,
+      "order": null
+    },
+    {
+      "organization": "McKnight Foundation",
+      "identifierType": "ror",
+      "identifier": "https://ror.org/003ghvj67",
+      "awardNumber": "Scholar Award",
+      "awardURI": null,
+      "awardDescription": null,
+      "awardTitle": null,
+      "order": null
+    },
+    {
+      "organization": "UW Royalty Research Fund",
+      "identifierType": null,
+      "identifier": "",
+      "awardNumber": "112375",
+      "awardURI": null,
+      "awardDescription": null,
+      "awardTitle": null,
+      "order": null
+    },
+    {
+      "organization": "Klingenstein Simon Fellowship Award",
+      "identifierType": null,
+      "identifier": "",
+      "awardNumber": null,
+      "awardURI": null,
+      "awardDescription": null,
+      "awardTitle": null,
+      "order": null
+    }
+  ],
+  "keywords": [
+    "Drosophila melanoagster",
+    "in vivo electrophysiology",
+    "walking behavior",
+    "in vivo calcium imaging"
+  ],
+  "fieldOfScience": "Biological sciences",
+  "methods": "<p>See manuscript (<a href=\"https://doi.org/10.7554/eLife.60299\" title=\"https://doi.org/10.7554/eLife.60299\">https://doi.org/10.7554/eLife.60299</a>)\u00a0for details.\u00a0</p>\r\n",
+  "relatedWorks": [
+    {
+      "relationship": "primary_article",
+      "identifierType": "DOI",
+      "identifier": "https://doi.org/10.7554/eLife.60299"
+    }
+  ],
+  "versionNumber": 3,
+  "versionStatus": "submitted",
+  "curationStatus": "Published",
+  "versionChanges": "metadata_changed",
+  "publicationDate": "2020-12-04",
+  "lastModificationDate": "2020-12-05",
+  "visibility": "public",
+  "sharingLink": "http://datadryad.org/dataset/doi:10.5061/dryad.k3j9kd55t",
+  "changedFields": [
+    "none"
+  ]
+}

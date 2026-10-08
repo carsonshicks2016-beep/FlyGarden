@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-08T16:12:33.773493+00:00",
+  "protocol_sha256": "b9e8b0f9ed809c3a3e9c0da1d38957360e173652923ad76217ba0c281e7305f7",
+  "prior_code_sha256": {
+    "cns_audit/__init__.py": "af92d313d6de5f838d51ec06782249f00974753b848570bb384e8a66c3fdc18e",
+    "cns_audit/download.py": "2f1ad758d946173742eb7641dc80e75e05b9139a0b82269d456e67c0b2f34161",
+    "cns_audit/banc.py": "a5cbb1628615df2273021f2bf2cece37e3f377a8d6404cdda6b1994e8a171b57",
+    "scripts/import_banc.py": "1c2a02014f82136d7d381b7463242db06224ef8e21a32451b4f605b4e31cb740",
+    "requirements-cns-audit.lock": "5786f3db4aa9c616e17e52ec8122b814c73ac433cf99eeb00786e638750747c0"
+  },
+  "code_sha256": {
+    "cns_audit/__init__.py": "af92d313d6de5f838d51ec06782249f00974753b848570bb384e8a66c3fdc18e",
+    "cns_audit/download.py": "2f1ad758d946173742eb7641dc80e75e05b9139a0b82269d456e67c0b2f34161",
+    "cns_audit/banc.py": "57f2b87e983a2d22046d77c4d891ffcce3311e6bf3a7b081b869b038cbb8e1d4",
+    "scripts/import_banc.py": "1c2a02014f82136d7d381b7463242db06224ef8e21a32451b4f605b4e31cb740",
+    "requirements-cns-audit.lock": "5786f3db4aa9c616e17e52ec8122b814c73ac433cf99eeb00786e638750747c0"
+  },
+  "reason": "Require completed-stage receipts to match the registered protocol as well as artifact bytes/hashes.",
+  "scope": "Stricter resume provenance validation only. No source/filter/ID/metric/resource/acceptance changes.",
+  "ongoing_run": "Fresh original-code run is unaffected; every stage it creates uses the correct registered identity. Correction applies to subsequent restarts."
+}

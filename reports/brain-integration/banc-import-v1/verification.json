@@ -1,0 +1,20 @@
+{
+  "focused_tests": ".........................................                                [100%]\n41 passed in 1.53s",
+  "protected_tracked_paths_checked": 989,
+  "protected_changed": [],
+  "goal_identity": {
+    "sha256": "d53b38816bf847af07cb228e2369eeb4195c91654d88f42c0e71339c0630d99f",
+    "md5": "892f9b42ca40c678c113951829cc42f6",
+    "bytes": 11896
+  },
+  "ledger_identity": {
+    "sha256": "bd63427352dd235477050a97940bdce50f483003a7fc25f6155f5b82d2f3f22b",
+    "md5": "14069f7c5ad4f16f7435236fb2f251a1",
+    "bytes": 37800
+  },
+  "original_registered_code_snapshot_matches": true,
+  "registered_amendment_chain_validated": true,
+  "graph_validation": "Raw checks passed; original no-self source-contract gate failed and remains preserved. Separate registered source attribution completed with exact archive and independent-route matches.",
+  "new_neural_simulations": 0,
+  "acceptance_requirement_count": 39
+}

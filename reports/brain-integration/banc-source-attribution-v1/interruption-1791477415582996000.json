@@ -1,0 +1,5 @@
+{
+  "at": "2026-10-08T16:36:55.583080+00:00",
+  "error": "OutOfMemoryException: Out of Memory Error: failed to allocate data of size 1.0 GiB (1.2 GiB/1.8 GiB used)\n\nPossible solutions:\n* Reducing the number of threads (SET threads=X)\n* Disabling insertion-order preservation (SET preserve_insertion_order=false)\n* Increasing the memory limit (SET memory_limit='...GB')\n\nSee also https://duckdb.org/docs/stable/guides/performance/how_to_tune_workloads",
+  "evidence_preserved": true
+}

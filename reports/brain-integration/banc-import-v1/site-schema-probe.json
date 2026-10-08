@@ -1,0 +1,11 @@
+{
+  "url": "https://dataverse.harvard.edu/api/access/datafile/13992863",
+  "bytes": 17146564854,
+  "etag": "\"e5851230041ad813e8c6aae46e149b91-16\"",
+  "footer_bytes": 6274009,
+  "footer_sha256": "160be02c41cfe8a57fed44477427101d4d42b1d0ab41c7a1708a529bbed41fcf",
+  "num_rows": 155247357,
+  "row_groups": 1553,
+  "schema": "<pyarrow._parquet.ParquetSchema object at 0x10bd3c400>\nrequired group field_id=-1 schema {\n  optional binary field_id=-1 id (String);\n  optional double field_id=-1 size;\n  optional binary field_id=-1 pre_root_id (String);\n  optional binary field_id=-1 post_root_id (String);\n  optional double field_id=-1 X;\n  optional double field_id=-1 Y;\n  optional double field_id=-1 Z;\n  optional double field_id=-1 pre_x;\n  optional double field_id=-1 pre_y;\n  optional double field_id=-1 pre_z;\n  optional double field_id=-1 post_x;\n  optional double field_id=-1 post_y;\n  optional double field_id=-1 post_z;\n  optional binary field_id=-1 pre_supervoxel_id (String);\n  optional binary field_id=-1 post_supervoxel_id (String);\n  optional binary field_id=-1 neuropil (String);\n  optional binary field_id=-1 region (String);\n  optional binary field_id=-1 side (String);\n  optional binary field_id=-1 neuropil_detailed (String);\n  optional double field_id=-1 acetylcholine;\n  optional double field_id=-1 dopamine;\n  optional double field_id=-1 gaba;\n  optional double field_id=-1 glutamate;\n  optional double field_id=-1 histamine;\n  optional double field_id=-1 octopamine;\n  optional double field_id=-1 serotonin;\n  optional double field_id=-1 tyramine;\n  optional binary field_id=-1 syn_top_nt (String);\n  optional double field_id=-1 syn_top_p;\n  optional int32 field_id=-1 label;\n}\n",
+  "scope": "Footer metadata only; graph and site content not yet downloaded"
+}

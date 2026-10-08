@@ -1,0 +1,115 @@
+{
+  "_links": {
+    "self": {
+      "href": "/api/v2/versions/94574/files"
+    },
+    "first": {
+      "href": "/api/v2/versions/94574/files"
+    },
+    "last": {
+      "href": "/api/v2/versions/94574/files?page=1"
+    }
+  },
+  "count": 3,
+  "total": 3,
+  "_embedded": {
+    "stash:files": [
+      {
+        "_links": {
+          "self": {
+            "href": "/api/v2/files/504281"
+          },
+          "stash:dataset": {
+            "href": "/api/v2/datasets/doi%3A10.5061%2Fdryad.k3j9kd55t"
+          },
+          "stash:version": {
+            "href": "/api/v2/versions/94574"
+          },
+          "stash:files": {
+            "href": "/api/v2/versions/94574/files"
+          },
+          "stash:download": {
+            "href": "/api/v2/files/504281/download"
+          },
+          "curies": [
+            {
+              "name": "stash",
+              "href": "https://github.com/datadryad/dryad-app/blob/main/documentation/apis/link_relations.md#{rel}",
+              "templated": "true"
+            }
+          ]
+        },
+        "path": "Behavior_data.zip",
+        "size": 8951863,
+        "mimeType": "application/x-zip-compressed",
+        "status": "copied",
+        "digest": "823c05628eacedf71cbfd991c586c3021fb3a44345affb9f61d817e348f76cc7",
+        "digestType": "sha-256"
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/api/v2/files/504282"
+          },
+          "stash:dataset": {
+            "href": "/api/v2/datasets/doi%3A10.5061%2Fdryad.k3j9kd55t"
+          },
+          "stash:version": {
+            "href": "/api/v2/versions/94574"
+          },
+          "stash:files": {
+            "href": "/api/v2/versions/94574/files"
+          },
+          "stash:download": {
+            "href": "/api/v2/files/504282/download"
+          },
+          "curies": [
+            {
+              "name": "stash",
+              "href": "https://github.com/datadryad/dryad-app/blob/main/documentation/apis/link_relations.md#{rel}",
+              "templated": "true"
+            }
+          ]
+        },
+        "path": "Ephys_data.zip",
+        "size": 7496404627,
+        "mimeType": "application/x-zip-compressed",
+        "status": "copied",
+        "digest": "da35baf951913526572a664ef7146ad3e367674d9283a82bcff0bce56e3a5fce",
+        "digestType": "sha-256"
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/api/v2/files/504280"
+          },
+          "stash:dataset": {
+            "href": "/api/v2/datasets/doi%3A10.5061%2Fdryad.k3j9kd55t"
+          },
+          "stash:version": {
+            "href": "/api/v2/versions/94574"
+          },
+          "stash:files": {
+            "href": "/api/v2/versions/94574/files"
+          },
+          "stash:download": {
+            "href": "/api/v2/files/504280/download"
+          },
+          "curies": [
+            {
+              "name": "stash",
+              "href": "https://github.com/datadryad/dryad-app/blob/main/documentation/apis/link_relations.md#{rel}",
+              "templated": "true"
+            }
+          ]
+        },
+        "path": "Imaging_data.zip",
+        "size": 804623,
+        "mimeType": "application/x-zip-compressed",
+        "status": "copied",
+        "digest": "c7b3787fdf3be70f0eccf3a7687b37f64161883074c17b0909cbac4ac69e1788",
+        "digestType": "sha-256"
+      }
+    ]
+  }
+}

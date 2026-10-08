@@ -1,0 +1,75 @@
+{
+  "duckdb": {
+    "rows": 11752828,
+    "unique_pairs": 11752828,
+    "sites": 35733096,
+    "nonpositive": 0,
+    "same_endpoint": 156311,
+    "zero_endpoint": 0,
+    "nulls": 0
+  },
+  "independent_original_feather": {
+    "rows": 11752828,
+    "same_endpoint": 156311,
+    "zero_endpoint": 0,
+    "nonpositive": 0
+  },
+  "source_identity": {
+    "sha256": "363fdef3813b72a5e45a42f17034cd5a544b654c838929cecf6e1ce5f60625cb",
+    "md5": "394406f8a9bdf093c895f95aff4f6c49",
+    "bytes": 305250378
+  },
+  "classification": "Preregistered simplified-table invariants failed; cause under investigation",
+  "examples": [
+    {
+      "pre": "720575940394168959",
+      "post": "720575940394168959",
+      "count": 1
+    },
+    {
+      "pre": "720575940600464400",
+      "post": "720575940600464400",
+      "count": 1
+    },
+    {
+      "pre": "720575940743152707",
+      "post": "720575940743152707",
+      "count": 1
+    },
+    {
+      "pre": "720575940910101132",
+      "post": "720575940910101132",
+      "count": 1
+    },
+    {
+      "pre": "720575941007034892",
+      "post": "720575941007034892",
+      "count": 1
+    },
+    {
+      "pre": "720575941309614192",
+      "post": "720575941309614192",
+      "count": 1
+    },
+    {
+      "pre": "720575941333466147",
+      "post": "720575941333466147",
+      "count": 4
+    },
+    {
+      "pre": "720575941344144583",
+      "post": "720575941344144583",
+      "count": 1
+    },
+    {
+      "pre": "720575941345056547",
+      "post": "720575941345056547",
+      "count": 3
+    },
+    {
+      "pre": "720575941350274352",
+      "post": "720575941350274352",
+      "count": 26
+    }
+  ]
+}
