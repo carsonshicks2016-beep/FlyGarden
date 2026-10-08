@@ -441378,5 +441378,14 @@
     "package": "reports/brain-integration/recovery/local-adaptation-direction-v1",
     "decision": "reports/brain-integration/recovery/DIRECTION_DECISION.md",
     "publication_scope": "Frozen sources/protocol, final results/figures/receipts and bounded execution log. Raw trial archives and checkpoints remain local."
+  },
+  "sensory_steering_trace_2026_10_07": {
+    "protocol_commit": "403581662ced89b5fbe445ee9d3c845398011886",
+    "package": "reports/brain-integration/recovery/sensory-steering-trace-v1",
+    "decision": "reports/brain-integration/recovery/STEERING_TRACE_DECISION.md",
+    "native_full_brain_runs": 0,
+    "saved_trials_analyzed": 28,
+    "outcome": "Receptor side/intensity differences persist; sampled PN/KC/MBON32 and DNa02 output remain biased. Independent delivery accounting passes; no promotion.",
+    "publication_scope": "Protocol, root mappings, phase/paired summaries, reconstruction checks, reports and figures. Underlying raw trials, checkpoints and derived NPZ profiles stay local; no deletion."
   }
 }

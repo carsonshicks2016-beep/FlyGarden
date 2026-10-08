@@ -37,7 +37,9 @@ Separate single-input measurements refine the directional diagnosis: each select
 
 Frozen follow-up validation is now complete: 28 trials on two further fresh seeds cover none, left, right, full bilateral, 50/50, 60/40 and 40/60. The candidate passes all 24 response/recovery and all 24 late-burst checks, plus support and exact continuation. It fails all four original PN direction and all four gradient comparisons. Both unilateral cues produce positive PN contrasts; DNa02 outputs also favor the same signed direction. Motor-gradient alignment passes only 1/4 comparisons. All 6,720 chunks pass independent raw-spike/motor/clock checks and exact parity with the frozen evaluator. A controlled 60-chunk interruption reconstructs exactly. No controller is promoted. Read local-adaptation-direction-v1/RESULTS.md and DIRECTION_DECISION.md; the next work analyzes saved sensory-to-steering activity rather than widening adaptation tuning.
 
-The committed progress files are snapshots, not live feeds. Raw recordings needed to independently reproduce these checks remain excluded from the GitHub snapshot.
+The next offline trace is complete and covers all 28 saved trials without new simulations. Exact DM1 receptor activity distinguishes both binary sides and unequal intensity. The sampled PN/KC/MBON32 pathway is nevertheless left-biased for either cue; switching to raw MBON32 subtraction would not solve the recorded gradient problem. Right DNa02 receives negative net accepted delivery in all 24 candidate odor-pulse observations, with one exact left AOTU019 supplying 45.6–56.0% of its inhibitory delivery. This is descriptive attribution, not proof that deleting that source repairs the recurrent brain. All 6,720 chunks rehash, independent last-spike event accounting checks 36,288 signed totals, and observed g/adaptation endpoints agree to numerical precision. Ten route targets lack independent state samples; two published relay labels have ambiguous compound annotations. No fitting, acceptance change or controller promotion occurs. Read sensory-steering-trace-v1/RESULTS.md and STEERING_TRACE_DECISION.md for the focused next checks.
+
+The committed progress files are snapshots, not live feeds. Raw recordings and derived profiles needed to independently reproduce these checks remain excluded from the GitHub snapshot.
 
 ## What is established and what is not
 
@@ -69,6 +71,9 @@ The committed progress files are snapshots, not live feeds. Raw recordings neede
 - `reports/brain-integration/recovery/LOCAL_RECOVERY_DECISION.md`: next validation gates; no controller promotion.
 - `reports/brain-integration/recovery/local-adaptation-direction-v1/RESULTS.md`, `protocol.json`, and `independent-audit.json`: completed frozen validation, successful recovery and retained directional/gradient failures.
 - `reports/brain-integration/recovery/DIRECTION_DECISION.md`: prioritized offline route analysis and architecture boundaries.
+- `reports/brain-integration/recovery/sensory-steering-trace-v1/RESULTS.md`, `paired-summary.json`, and `independent-audit.json`: completed retrospective representation/input attribution and its coverage limits.
+- `reports/brain-integration/recovery/STEERING_TRACE_DECISION.md`: small receiver diagnostics and a conditional intact-network capability comparison before architecture changes.
+- `scripts/trace_sensory_steering.py`, `scripts/audit_sensory_steering.py`, `flygarden/route_accounting.py`: frozen analysis and independent direct-event accounting.
 - `flygarden/directional_metrics.py`, `scripts/validate_local_adaptation_direction.py`, `scripts/audit_local_direction.py`: versioned validation and exact original-evaluator parity.
 - `flygarden/brain.py`, `adaptive_neurons.py`, `adaptive_brain.py`, `adaptive_candidate.py`: baseline and adaptation implementation.
 - `scripts/sweep_adaptive_lif.py`: frozen experiment runner and acceptance evaluation.

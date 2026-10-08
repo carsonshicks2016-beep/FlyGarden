@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": 1791423168.1141398,
+  "updated": 1791426176.8604789,
   "scope": "All39 end-goal steps retained; each paragraph contains its detailed requirements. Evidence scope is explicit; pending native/browser/scientific work is not completed.",
   "requirements": [
     {
@@ -186,10 +186,15 @@
         "recovery/local-adaptation-direction-v1/results.json",
         "recovery/local-adaptation-direction-v1/independent-audit.json",
         "recovery/local-adaptation-direction-v1/interruption-test.json",
-        "recovery/DIRECTION_DECISION.md"
+        "recovery/DIRECTION_DECISION.md",
+        "recovery/sensory-steering-trace-v1/RESULTS.md",
+        "recovery/sensory-steering-trace-v1/protocol.json",
+        "recovery/sensory-steering-trace-v1/independent-audit.json",
+        "recovery/STEERING_TRACE_DECISION.md"
       ],
       "completion_proven": false,
-      "focused_package_gate": "Frozen28 full-network trials on two fresh seeds: all24 response/recovery and24 burst checks pass with local-only adaptation; all4 original PN directional and4 gradient comparisons fail. Additional DNa02 directional alignment0/4, gradient1/4. All6,720 chunks and original-evaluator parity independently audited; four fresh-process whole-state continuations exact;60-chunk interruption reconstructed exactly. No controller promotion, behavior or learning qualification."
+      "focused_package_gate": "Frozen28 full-network trials on two fresh seeds: all24 response/recovery and24 burst checks pass with local-only adaptation; all4 original PN directional and4 gradient comparisons fail. Additional DNa02 directional alignment0/4, gradient1/4. All6,720 chunks and original-evaluator parity independently audited; four fresh-process whole-state continuations exact;60-chunk interruption reconstructed exactly. No controller promotion, behavior or learning qualification.",
+      "sensory_steering_trace": "Offline attribution complete; raw directional/gradient failures retained; no new controller or qualification."
     },
     {
       "step": 9,
