@@ -441387,5 +441387,17 @@
     "saved_trials_analyzed": 28,
     "outcome": "Receptor side/intensity differences persist; sampled PN/KC/MBON32 and DNa02 output remain biased. Independent delivery accounting passes; no promotion.",
     "publication_scope": "Protocol, root mappings, phase/paired summaries, reconstruction checks, reports and figures. Underlying raw trials, checkpoints and derived NPZ profiles stay local; no deletion."
+  },
+  "receiver_counterfactual_2026_10_07": {
+    "preregistration_commit": "b6734af",
+    "source_protocol": "reports/brain-integration/recovery/receiver-counterfactual-v1/protocol.json",
+    "report": "reports/brain-integration/recovery/receiver-counterfactual-v1/RESULTS.md",
+    "independent_audit": "reports/brain-integration/recovery/receiver-counterfactual-v1/independent-audit.json",
+    "isolated_native_replays": 84,
+    "new_full_brain_trials": 0,
+    "controller_promoted": false,
+    "outcome": "Native and independent closed-form reconstruction pass. Restricted PN input and paired AOTU input removal do not provide reliable opponent steering.",
+    "publication_scope": "Bounded source, protocol, result/validation/audit receipts, plots and decision. Raw inputs/replays and prior trial/checkpoint archives remain local and undeleted.",
+    "inventory_note": "Earlier files/total_bytes inventory remains historical; this appended receipt identifies the new evidence package."
   }
 }

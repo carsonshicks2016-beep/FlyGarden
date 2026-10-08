@@ -10,4 +10,6 @@ Use the original PN direction/gradient bounds and separately named descending bo
 
 Run locally with `.venv-next/bin/python scripts/diagnose_receiver_counterfactual.py run` after the protocol commit. The runner verifies frozen source hashes and refuses an existing completed/interrupted output directory. Raw input arrays and replays remain local and are excluded from the public evidence snapshot.
 
-Registration tests: 15 focused partition, event-accounting, recorded-drive and direction-metric tests passed. Results, independent checks and measured runtime will be added after execution.
+Registration tests: 15 focused partition, event-accounting, recorded-drive and direction-metric tests passed. Execution is complete: 84 native replays, 28/28 intact reconstructions and an independent closed-form audit pass. Both tested input changes leave reliable steering unresolved. Read RESULTS.md, independent-audit.json and ../RECEIVER_DIAGNOSTIC_DECISION.md for evidence and next steps. No new full-brain comparison has been launched.
+
+The native-validation receipt was written after all intact predictions passed and before altered-input replays launched; its `counterfactuals_launched` flag describes that validation-phase timestamp. The final results and progress describe all 84 completed replays.

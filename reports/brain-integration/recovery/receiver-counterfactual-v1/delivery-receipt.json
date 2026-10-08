@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "preregistration_commit": "b6734af",
+  "protocol_sha256": "45f3b439edea26c082d1437ed27a540c593dbd1091b2884cefc21a2e152d8a58",
+  "tests": {
+    "focused_passed": 15,
+    "failed": 0
+  },
+  "native_validation": "28/28 exact spikes/counts and v/g within 1e-10mV",
+  "independent_audit": "passed;6720 raw chunks;336 direct input arrays;336 closed-form units;96 direction/gradient and144 recovery checks",
+  "native_replay_count": 84,
+  "new_full_brain_runs": 0,
+  "production_controller_changed": false,
+  "controller_promoted": false,
+  "requirements_count": 39,
+  "requirement_text_sha256": "8db6aaf0b11c0c00ef688ef1e2c05aa7436a860b0504eda71b675ee07ca90a86",
+  "all_requirement_texts_unchanged": true,
+  "step8_status_unchanged": "local_recovery_validated_direction_and_gradient_failed",
+  "scientific_acceptance_criteria_changed": false,
+  "raw_inputs_bytes": 12055651,
+  "raw_replays_bytes": 1174010,
+  "free_space_bytes_at_delivery": 213473628160,
+  "free_space_reserve_bytes": 2147483648,
+  "prior_archive_deleted": false,
+  "raw_archive_published": false,
+  "figure_visually_inspected": true,
+  "next_full_network_comparison_launched": false,
+  "created_unix": 1791427468.707325
+}
