@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": 1791427468.469904,
+  "updated": 1791429707.461849,
   "scope": "All39 end-goal steps retained; each paragraph contains its detailed requirements. Evidence scope is explicit; pending native/browser/scientific work is not completed.",
   "requirements": [
     {
@@ -196,12 +196,20 @@
         "recovery/receiver-counterfactual-v1/results.json",
         "recovery/receiver-counterfactual-v1/native-validation.json",
         "recovery/receiver-counterfactual-v1/independent-audit.json",
-        "recovery/RECEIVER_DIAGNOSTIC_DECISION.md"
+        "recovery/RECEIVER_DIAGNOSTIC_DECISION.md",
+        "recovery/recovered-mbon32-capability-v1/RESULTS.md",
+        "recovery/recovered-mbon32-capability-v1/protocol.json",
+        "recovery/recovered-mbon32-capability-v1/results.json",
+        "recovery/recovered-mbon32-capability-v1/independent-audit.json",
+        "recovery/recovered-mbon32-capability-v1/activity-coverage.json",
+        "recovery/recovered-mbon32-capability-v1/serialization-amendment.json",
+        "recovery/RECOVERED_MBON_CAPABILITY_DECISION.md"
       ],
       "completion_proven": false,
       "focused_package_gate": "Frozen28 full-network trials on two fresh seeds: all24 response/recovery and24 burst checks pass with local-only adaptation; all4 original PN directional and4 gradient comparisons fail. Additional DNa02 directional alignment0/4, gradient1/4. All6,720 chunks and original-evaluator parity independently audited; four fresh-process whole-state continuations exact;60-chunk interruption reconstructed exactly. No controller promotion, behavior or learning qualification.",
       "sensory_steering_trace": "Offline attribution complete; raw directional/gradient failures retained; no new controller or qualification.",
-      "receiver_counterfactual": "84 isolated native replays: all28 intact spikes and sampled v/g match; independent closed-form audit exact. Receptor-only PN direction0/4; paired AOTU removal DNa02 direction0/4 and gradient1/4 for recovered sources. No recurrent-network repair, criteria change or controller promotion."
+      "receiver_counterfactual": "84 isolated native replays: all28 intact spikes and sampled v/g match; independent closed-form audit exact. Receptor-only PN direction0/4; paired AOTU removal DNa02 direction0/4 and gradient1/4 for recovered sources. No recurrent-network repair, criteria change or controller promotion.",
+      "recovered_mbon_capability": "Eight full-network direct-MBON32 trials: response/recovery/support/burst checks pass, direction0/4. All1920 chunks,2 exact continuations and60-chunk reconstruction audited. Adapted395-cell domain silent in odor-free screen; active-adaptation effect untested. Output-only scalar repair; no controller/criterion change."
     },
     {
       "step": 9,

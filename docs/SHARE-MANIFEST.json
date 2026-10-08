@@ -441399,5 +441399,16 @@
     "outcome": "Native and independent closed-form reconstruction pass. Restricted PN input and paired AOTU input removal do not provide reliable opponent steering.",
     "publication_scope": "Bounded source, protocol, result/validation/audit receipts, plots and decision. Raw inputs/replays and prior trial/checkpoint archives remain local and undeleted.",
     "inventory_note": "Earlier files/total_bytes inventory remains historical; this appended receipt identifies the new evidence package."
+  },
+  "recovered_mbon_capability_2026_10_07": {
+    "preregistration_commit": "ec4b977",
+    "output_only_repair_commit": "f99bece",
+    "report": "reports/brain-integration/recovery/recovered-mbon32-capability-v1/RESULTS.md",
+    "intact_network_trials": 8,
+    "direction_checks_passed": 0,
+    "direction_checks_total": 4,
+    "adapted_domain_spikes": 0,
+    "controller_promoted": false,
+    "publication_scope": "Bounded source/protocol/results/independent audit/engagement/repair/receipts/plots/decision. Rawtrials,checkpoints and partial serialization artifact remain local and undeleted. Prior file inventory remains historical."
   }
 }
