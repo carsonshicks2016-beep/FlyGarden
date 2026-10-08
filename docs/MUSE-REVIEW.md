@@ -23,7 +23,7 @@ Creating the application mostly involves writing adapters and infrastructure aro
 
 ## Current scientific problem
 
-An odor pulse starts activity in the modeled smell circuit that persists after the pulse ends. Persistent activity makes subsequent cues and left/right differences difficult to use. This is a simulation failure, not a diagnosis of epilepsy in a real fly.
+In the baseline model, an odor pulse starts activity in the modeled smell circuit that persists after the pulse ends. Persistent activity makes subsequent cues and left/right differences difficult to use. This is a simulation failure, not a diagnosis of epilepsy in a real fly.
 
 The previous fixed-point adaptive-LIF screen completed 21 full-network trials. All 5,040 chunks passed integrity checks; disabling adaptation exactly reproduced baseline events and voltage/conductance states. Adaptation lowered firing but failed recovery and directional contrast at the tested setting. No candidate was promoted.
 
@@ -35,13 +35,15 @@ A new single-setting comparison adapts only 395 annotated nonpatchy local cells,
 
 Separate single-input measurements refine the directional diagnosis: each selected PN favors its ipsilateral receptor population, but the left PN has a larger overall effective input scale for either receptor side. Side information therefore remains; raw PN subtraction can confound it with unequal gain. No fitted normalization or anatomical gain correction has been applied.
 
+Frozen follow-up validation is now complete: 28 trials on two further fresh seeds cover none, left, right, full bilateral, 50/50, 60/40 and 40/60. The candidate passes all 24 response/recovery and all 24 late-burst checks, plus support and exact continuation. It fails all four original PN direction and all four gradient comparisons. Both unilateral cues produce positive PN contrasts; DNa02 outputs also favor the same signed direction. Motor-gradient alignment passes only 1/4 comparisons. All 6,720 chunks pass independent raw-spike/motor/clock checks and exact parity with the frozen evaluator. A controlled 60-chunk interruption reconstructs exactly. No controller is promoted. Read local-adaptation-direction-v1/RESULTS.md and DIRECTION_DECISION.md; the next work analyzes saved sensory-to-steering activity rather than widening adaptation tuning.
+
 The committed progress files are snapshots, not live feeds. Raw recordings needed to independently reproduce these checks remain excluded from the GitHub snapshot.
 
 ## What is established and what is not
 
 - The full available modeled graph runs, with individual spike recordings and persistent state.
 - Separate diagnostics verify selected checkpoint continuation and recording integrity.
-- A local-only adaptation candidate passes the registered one-sided recovery screen; full directional/controller qualification remains pending.
+- A local-only adaptation candidate passes recovery across the tested odor conditions; frozen directional and gradient criteria fail, so controller qualification remains incomplete.
 - The application contains an arena, supplied locomotion, recording/replay and visualization machinery; the complete delivery workflow still has pending acceptance items.
 - Useful sensory-dependent directional choice remains unresolved.
 - Biological fidelity, successful embodied learning and a fully validated sensory-to-motor brain are not established.
@@ -65,6 +67,9 @@ The committed progress files are snapshots, not live feeds. Raw recordings neede
 - `reports/brain-integration/recovery/dm1-unitary-reference-v1/RESULTS.md`: ipsilateral information and unequal effective PN input scale.
 - `reports/brain-integration/recovery/local-adaptation-closed-loop-v1/RESULTS.md`, `protocol.json`, and `independent-audit.json`: completed positive recovery screen and its narrow scope.
 - `reports/brain-integration/recovery/LOCAL_RECOVERY_DECISION.md`: next validation gates; no controller promotion.
+- `reports/brain-integration/recovery/local-adaptation-direction-v1/RESULTS.md`, `protocol.json`, and `independent-audit.json`: completed frozen validation, successful recovery and retained directional/gradient failures.
+- `reports/brain-integration/recovery/DIRECTION_DECISION.md`: prioritized offline route analysis and architecture boundaries.
+- `flygarden/directional_metrics.py`, `scripts/validate_local_adaptation_direction.py`, `scripts/audit_local_direction.py`: versioned validation and exact original-evaluator parity.
 - `flygarden/brain.py`, `adaptive_neurons.py`, `adaptive_brain.py`, `adaptive_candidate.py`: baseline and adaptation implementation.
 - `scripts/sweep_adaptive_lif.py`: frozen experiment runner and acceptance evaluation.
 - `flygarden/continuous_candidate.py`, `candidate_inputs.py`, `descending.py`: sensory encoding and motor decoding.

@@ -441370,5 +441370,13 @@
       "reports/brain-integration/recovery/local-adaptation-closed-loop-v1"
     ],
     "sharing": "Sources, protocols, results, figures and receipts only. No new raw recordings/checkpoints/morphology/literature payloads included."
+  },
+  "directional_validation_2026_10_07": {
+    "protocol_commit": "bc0cebc",
+    "trials": 28,
+    "outcome": "Local-only recovery24/24 and bursts24/24 pass; original PN direction0/4 and gradient0/4 fail. Full qualification incomplete; no promotion.",
+    "package": "reports/brain-integration/recovery/local-adaptation-direction-v1",
+    "decision": "reports/brain-integration/recovery/DIRECTION_DECISION.md",
+    "publication_scope": "Frozen sources/protocol, final results/figures/receipts and bounded execution log. Raw trial archives and checkpoints remain local."
   }
 }

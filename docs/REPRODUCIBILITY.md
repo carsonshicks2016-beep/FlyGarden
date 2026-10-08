@@ -16,9 +16,11 @@ Restore the graph artifacts and annotation table at their original relative path
 
 Experiment protocols hash source files and input artifacts. Running a historical protocol against changed files is deliberately rejected. Do not remove those checks merely to get a run to start. Historical receipts attest to a particular local evidence package; omitted raw artifacts prevent independent verification of the entire package from Git alone.
 
-The 153-trial adaptation sweep is complete and failed full calibration. Subsequent diagnostics include a successful eight-trial local-only recovery screen, whose directional and behavioral qualification remains pending. Read `docs/MUSE-REVIEW.md` for the latest evidence pointers. Progress files on GitHub are historical snapshots, not live telemetry.
+The 153-trial adaptation sweep is complete and failed full calibration. An eight-trial local-only recovery screen succeeded, followed by28 frozen validation trials: recovery passes across all tested odor conditions, while direction and gradient criteria fail. Behavioral and learning qualification remain incomplete. Read `docs/MUSE-REVIEW.md` for the latest evidence pointers. Progress files on GitHub are historical snapshots, not live telemetry.
 
 The new reference and recovery scripts require omitted annotations, graph artifacts and earlier raw recordings. `scripts/audit_local_recovery_diagnostic.py` independently reconstructs the local-only screen metrics from raw spikes without importing the neural evaluator. `scripts/plot_local_recovery_diagnostic.py` creates the comparison plot without running a brain. Restore the pinned local evidence package to run either; summary JSON on GitHub alone cannot reproduce the raw-spike checks.
+
+For the directional package, `scripts/audit_local_direction.py` reconstructs raw-spike rates and motor commands, checks checkpoint/interruption receipts, and verifies exact primary-metric parity against the earlier evaluator in a separate globals dictionary. `scripts/plot_local_direction.py` renders completed results without simulation. Both require the omitted local trial archives. The pre-execution source/protocol commit is `bc0cebc`; subsequent result summaries do not retroactively change it.
 
 ## Licensing and attribution
 

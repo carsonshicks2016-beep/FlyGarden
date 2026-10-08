@@ -1,0 +1,83 @@
+{
+  "status": "complete",
+  "date": "2026-10-07",
+  "protocol_commit": "bc0cebc",
+  "sources_reverified": 25,
+  "artifacts": {
+    "protocol.json": {
+      "sha256": "6f702afc5546d92e36252b979acd8e071d33aff0cc115538030c43cf2db74887",
+      "bytes": 117341
+    },
+    "README.md": {
+      "sha256": "5203f443e40e218e65afc1687da7f788ad676b2e65c4761588cb3cd6b4d67220",
+      "bytes": 4007
+    },
+    "RESULTS.md": {
+      "sha256": "b98c5ff3d8fac9b1087af3ff55a23c718ed356eb5dc2dbacd2008cca84f8eb19",
+      "bytes": 7742
+    },
+    "results.json": {
+      "sha256": "9d53e3199e2dbc3b1167d5551a1bd26007455db9e8c92f7661b2f62eca8316c0",
+      "bytes": 30003
+    },
+    "independent-audit.json": {
+      "sha256": "c2bdf288d493849a46851af7c99f9c48536f66c6d9d9344ed1e1f541e8f38f36",
+      "bytes": 4868
+    },
+    "interruption-test.json": {
+      "sha256": "d5325cab6fa6deaaf305c2193884f0c4f364c3419603e0a3696646cddceb779a",
+      "bytes": 7745
+    },
+    "direction-and-gradient.png": {
+      "sha256": "9e44870d0f8df2e85887bf0d9623ba727e9bf3a7bbd0c0327b458b71add24788",
+      "bytes": 203064
+    },
+    "cue-response-timeline.png": {
+      "sha256": "57c2310d828d69cc77378405c64cf553efaad931c533ea83b5c53416b66e4d9e",
+      "bytes": 173132
+    },
+    "execution.log": {
+      "sha256": "69c84d04d366cabca5862a9c2775683b88fc9e44970b18cbfc6855228d426ea8",
+      "bytes": 1397
+    }
+  },
+  "decision": {
+    "file": "reports/brain-integration/recovery/DIRECTION_DECISION.md",
+    "sha256": "17609d7eebc539f1898dc55f7bbe20016bbb6af061ba339f670a949339c83a79"
+  },
+  "trials": 28,
+  "chunks_audited": 6720,
+  "response_recovery_passes_candidate": 24,
+  "post_pulse_burst_passes_candidate": 24,
+  "original_PN_direction_passes_candidate": 0,
+  "original_PN_gradient_passes_candidate": 0,
+  "primary_neural_gates_passed": {
+    "original": false,
+    "local_adaptive": false
+  },
+  "motor_alignment_passed": {
+    "original": false,
+    "local_adaptive": false
+  },
+  "wall_seconds": 1415.4493637079995,
+  "peak_worker_rss_bytes": 2703818752,
+  "local_package_bytes": 1191063962,
+  "free_disk_bytes_at_delivery": 216220639232,
+  "free_space_reserve_bytes": 2147483648,
+  "verification": {
+    "regression_tests_passed": 16,
+    "stimulus_boundary_checks": 70,
+    "raw_spike_metrics_exact": true,
+    "original_evaluator_parity_exact": true,
+    "motor_commands_reconstructed_exact": true,
+    "fresh_process_continuations": 4,
+    "whole_state_errors_mV": 0,
+    "controlled_interruption_prefix_windows": 60,
+    "complete_prefix_unchanged": true,
+    "figures_visually_inspected": true
+  },
+  "controller_promoted": false,
+  "production_controller_changed": false,
+  "raw_recordings_and_checkpoints_retained_locally": true,
+  "limits": "Two-seed engineering neural screen; exact-root physiology, body, navigation, long-duration robustness, odorB and learning unqualified."
+}
