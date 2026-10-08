@@ -441437,5 +441437,25 @@
     "controller_promoted": false,
     "requirement_statuses_unchanged": 39,
     "publication_scope": "Bounded source/protocol/results/audit/parity/interruption/plots/decisions/proposal/status. New rawtrials and full checkpoints remain local, excluded and undeleted. Earlier file inventory is historical."
+  },
+  "biological_fidelity_goals_2026_10_07": {
+    "decision_id": "biological-fidelity-goals-v1",
+    "decision_date": "2026-10-07",
+    "goal_document": "docs/GOALS.md",
+    "goal_document_sha256": "d53b38816bf847af07cb228e2369eeb4195c91654d88f42c0e71339c0630d99f",
+    "status": "User-approved project direction; proposed platforms pending feasibility assessment",
+    "primary_path": "Biologically grounded sensory-to-brain-and-nerve-cord-to-motor reconstruction",
+    "anatomical_first_choice": "BANC",
+    "anatomical_alternative": "MaleCNS",
+    "physical_flight_candidate": "FlyBody; walking validated first",
+    "shortcut_readout_role": "Labeled diagnostic comparison, not primary development path",
+    "destination": "Persistent garden with food acquisition, obstacles, threat avoidance, supported learning, recordings and playback",
+    "next_task": "Read-only anatomy-and-physiology feasibility assessment before executable migration/experiment design",
+    "new_simulations_launched": 0,
+    "migration_performed": false,
+    "controller_promoted": false,
+    "existing_acceptance_requirements_and_statuses_unchanged": true,
+    "inventory_note": "This entry records a subsequent goals decision; original files/excluded inventory remains historical.",
+    "recorded_date": "2026-10-08"
   }
 }

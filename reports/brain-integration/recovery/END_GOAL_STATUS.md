@@ -1,6 +1,8 @@
 # What remains to make Fly Garden work as intended
 
-Status snapshot2026-10-07. This file distinguishes a running modeled network, useful neural control and a completed learning application. It is not a percentage-complete estimate.
+Status snapshot2026-10-08. This file distinguishes a running modeled network, useful neural control and a completed learning application. It is not a percentage-complete estimate.
+
+Subsequent agreed direction: [the biological-fidelity goals](../../../docs/GOALS.md) now govern development priorities. BANC is the first-choice connected brain/nerve-cord anatomy to assess; walking precedes eventual flight, and food acquisition, threat avoidance, and learning remain the garden objectives. No migration or new scientific capability is established by this scope decision.
 
 ## Established in the checked scope
 
@@ -15,7 +17,7 @@ Status snapshot2026-10-07. This file distinguishes a running modeled network, us
 | Requirement | Current practical meaning |
 |---|---|
 | Reliable sensory-dependent direction | The tested raw PN and DNa02 readouts fail opposed direction and reliable unequal-gradient acceptance. The completed16-trial matched context comparison also fails full direction0/4 in both contexts, although odor makes the right input rate-sensitive. See `sensory-context-capability-v1/RESULTS.md`. |
-| Explicit action architecture | If the fixed native route fails, register an engineered neural readout openly. Keep the full graph advancing, use neural/local observations only and preserve the old failed criteria. Fit and held-out validation must remain separate. |
+| Explicit action architecture | Assess a biologically grounded sensory-to-brain/nerve-cord-to-motor architecture, beginning with BANC/MaleCNS data and physiology feasibility. The prior engineered neural readout is a labeled diagnostic comparison, not the primary controller target. Preserve the old failures, exact model identities, and separation of calibration from validation. |
 | Physical neural control | A qualified readout must turn the real simulated body in the correct direction, persist across neural windows and respond to actual local fields. Validate stopping, food contact, obstacles, stalls/falls and unfamiliar layouts. A neural-only pulse test cannot establish any of these. |
 | Vision and threat inputs | Earlier vision encoder failures remain unresolved in the acceptance ledger. Validate actual eye images, own-body masking, occlusion, looming features and annotated neural mappings before claiming scenery-dependent visual behavior. |
 | Controlled learning | Demonstrate that selected plastic connections actually affect the behavior/readout. Test acquisition, retention, reversal and generalization with learning-disabled/shuffled controls and the required independent states and bootstrap interval. No current candidate has this qualification. |
@@ -25,6 +27,6 @@ The immediate bottleneck is functional sensory-to-action conversion. Resolving i
 
 ## Useful stopping point for the current diagnosis
 
-The matched sensory context did not restore full original direction. Stop widening the MBON32/DNa02 stimulation/adaptation grid. The next branch is the explicitly proposed engineered readout in `ENGINEERED_NEURAL_READOUT_PROPOSAL_V1.md`, with separate calibration and prospective checks. That is a documented architecture change, not proof that the original biological route has been repaired.
+The matched sensory context did not restore full original direction. Stop widening the MBON32/DNa02 stimulation/adaptation grid. Its historical decision proposed an engineered readout in `ENGINEERED_NEURAL_READOUT_PROPOSAL_V1.md`. The subsequent user-approved goals decision makes biological reconstruction the primary path and retains that proposal as a diagnostic comparison. The next work is a read-only anatomy-and-physiology feasibility assessment before selecting an executable migration or experiment design. Neither decision repairs or qualifies the existing biological route.
 
 All39 requirement texts and qualification statuses in `../acceptance-ledger.json` remain authoritative. Bounded success establishes the named check, not the entire brain or project. A failed direction check does not prove the full graph has no useful information. A fitted adapter, weight change, attractive video or active brain overlay does not establish learning or biological fidelity.
